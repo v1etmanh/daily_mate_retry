@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 65637,
+    "recipe_id": "15666992",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65640,
+    "recipe_id": "15666992",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 65661,
+    "recipe_id": "15666498",
+    "standard_id": 357,
+    "raw_name": "Tôm càng xanh",
+    "standard_name": "tôm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65662,
+    "recipe_id": "15666498",
+    "standard_id": 9944,
+    "raw_name": "Vẹm xanh",
+    "standard_name": "vẹm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65663,
+    "recipe_id": "15666498",
+    "standard_id": 10815,
+    "raw_name": "Nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 65664,
+    "recipe_id": "15666498",
+    "standard_id": 1589,
+    "raw_name": "Riềng xả ớt khô lá chanh hành tím tỏi chanhdầu màu điều",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 65665,
+    "recipe_id": "15666498",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65669,
+    "recipe_id": "15664598",
+    "standard_id": 233,
+    "raw_name": "Củ cải",
+    "standard_name": "củ cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65670,
+    "recipe_id": "15664598",
+    "standard_id": 1330,
+    "raw_name": "Nấm hương khô",
+    "standard_name": "nấm hương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 65671,
+    "recipe_id": "15664598",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65673,
+    "recipe_id": "15664598",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65674,
+    "recipe_id": "15664598",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 65675,
+    "recipe_id": "15664598",
+    "standard_id": 8055,
+    "raw_name": "t tươi ớt bột Hàn Quốc tuỳ thích",
+    "standard_name": "bột ớt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 65690,
+    "recipe_id": "15664152",
+    "standard_id": 612,
+    "raw_name": "Gạo",
+    "standard_name": "gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65691,
+    "recipe_id": "15664152",
+    "standard_id": 4516,
+    "raw_name": "tôm sú",
+    "standard_name": "tôm sú",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65694,
+    "recipe_id": "15664152",
+    "standard_id": 10153,
+    "raw_name": "Nước chấm",
+    "standard_name": "sốt chấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65695,
+    "recipe_id": "15664152",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65696,
+    "recipe_id": "15664152",
+    "standard_id": 125,
+    "raw_name": "Wasabi",
+    "standard_name": "wasabi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65697,
+    "recipe_id": "15617324",
+    "standard_id": 859,
+    "raw_name": "Cá rô phi",
+    "standard_name": "cá rô phi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65698,
+    "recipe_id": "15617324",
+    "standard_id": 1100,
+    "raw_name": "Bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65699,
+    "recipe_id": "15617324",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65701,
+    "recipe_id": "15617324",
+    "standard_id": 31,
+    "raw_name": "Sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65702,
+    "recipe_id": "15596453",
+    "standard_id": 357,
+    "raw_name": "Tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65703,
+    "recipe_id": "15596453",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65705,
+    "recipe_id": "15596453",
+    "standard_id": 11828,
+    "raw_name": "Nước tương chibi cho bé",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 65706,
+    "recipe_id": "15596453",
+    "standard_id": 917,
+    "raw_name": "Rau mùi",
+    "standard_name": "rau mùi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65707,
+    "recipe_id": "15596453",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65729,
+    "recipe_id": "15661605",
+    "standard_id": 1920,
+    "raw_name": "Vỏ",
+    "standard_name": "vỏ bánh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 65730,
+    "recipe_id": "15661605",
+    "standard_id": 121,
+    "raw_name": "bột",
+    "standard_name": "bột",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65735,
+    "recipe_id": "15661605",
+    "standard_id": 1921,
+    "raw_name": "Nhân",
+    "standard_name": "nhân bánh",
+    "confidence": 0.8
+  }
+]

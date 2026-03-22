@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 13646,
+    "recipe_id": "24374680",
+    "standard_id": 9618,
+    "raw_name": "Taco dạng thuyền Old el Paso",
+    "standard_name": "bánh tortilla",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 13647,
+    "recipe_id": "24374680",
+    "standard_id": 1518,
+    "raw_name": "ức gà",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13648,
+    "recipe_id": "24374680",
+    "standard_id": 1129,
+    "raw_name": "phô mai Emmental bào",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13649,
+    "recipe_id": "24374680",
+    "standard_id": 3020,
+    "raw_name": "cải diếp xoăn endive",
+    "standard_name": "cải diếp",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13650,
+    "recipe_id": "24374680",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13651,
+    "recipe_id": "24374680",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13652,
+    "recipe_id": "24374680",
+    "standard_id": 166,
+    "raw_name": "hành Tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13653,
+    "recipe_id": "24374680",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13654,
+    "recipe_id": "24374680",
+    "standard_id": 102,
+    "raw_name": "ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13655,
+    "recipe_id": "24374680",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13658,
+    "recipe_id": "24374680",
+    "standard_id": 1610,
+    "raw_name": "bột hạt thì là cumin",
+    "standard_name": "bột cumin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13659,
+    "recipe_id": "24374680",
+    "standard_id": 8151,
+    "raw_name": "hạt chia",
+    "standard_name": "hạt",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 13660,
+    "recipe_id": "24374680",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp gà",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13664,
+    "recipe_id": "24374680",
+    "standard_id": 3024,
+    "raw_name": "bột hạt ngò",
+    "standard_name": "bột ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13675,
+    "recipe_id": "24371102",
+    "standard_id": 357,
+    "raw_name": "tôm to",
+    "standard_name": "tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 13677,
+    "recipe_id": "24371102",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13678,
+    "recipe_id": "24371102",
+    "standard_id": 166,
+    "raw_name": "củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13679,
+    "recipe_id": "24371102",
+    "standard_id": 1322,
+    "raw_name": "hành baro hoặc hành củ",
+    "standard_name": "ba rô",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13680,
+    "recipe_id": "24371102",
+    "standard_id": 457,
+    "raw_name": "ớt chuông dùng loại màu xanh cho đẹp",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13681,
+    "recipe_id": "24371102",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13682,
+    "recipe_id": "24371102",
+    "standard_id": 8055,
+    "raw_name": "ớt bột HQ",
+    "standard_name": "bột ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13684,
+    "recipe_id": "24371102",
+    "standard_id": 11828,
+    "raw_name": "nước tương HQ",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13686,
+    "recipe_id": "24371102",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13693,
+    "recipe_id": "24351480",
+    "standard_id": 142,
+    "raw_name": "thịt bò đùi bò mông bò phần sớ dài sẽ làm khô miếng lớn đẹp",
+    "standard_name": "bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 13694,
+    "recipe_id": "24351480",
+    "standard_id": 2798,
+    "raw_name": "Rim thịt",
+    "standard_name": "thịt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13695,
+    "recipe_id": "24351480",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13696,
+    "recipe_id": "24351480",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  }
+]

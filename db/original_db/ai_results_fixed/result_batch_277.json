@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 36224,
+    "recipe_id": "17023993",
+    "standard_id": 3925,
+    "raw_name": "Xốt mayonaise",
+    "standard_name": "mayonnaise",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36225,
+    "recipe_id": "17030517",
+    "standard_id": 1469,
+    "raw_name": "Lá rong biển Nori",
+    "standard_name": "lá nori",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36226,
+    "recipe_id": "17030517",
+    "standard_id": 612,
+    "raw_name": "gạo Nhật",
+    "standard_name": "gạo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36227,
+    "recipe_id": "17030517",
+    "standard_id": 225,
+    "raw_name": "Dấm sushi",
+    "standard_name": "dấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36228,
+    "recipe_id": "17030517",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36229,
+    "recipe_id": "17030517",
+    "standard_id": 6505,
+    "raw_name": "ớp gan cá",
+    "standard_name": "gan cá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36230,
+    "recipe_id": "17030517",
+    "standard_id": 4097,
+    "raw_name": "Gan cá mặt quỷ cá thầy tu Monkfish",
+    "standard_name": "cá mặt quỷ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36231,
+    "recipe_id": "17030517",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36237,
+    "recipe_id": "17030517",
+    "standard_id": null,
+    "raw_name": "Dùng kèm",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 36238,
+    "recipe_id": "17030517",
+    "standard_id": 11828,
+    "raw_name": "Nước tương Nhật",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36239,
+    "recipe_id": "17030517",
+    "standard_id": 125,
+    "raw_name": "Wasabi",
+    "standard_name": "wasabi paste",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36243,
+    "recipe_id": "17030675",
+    "standard_id": 6475,
+    "raw_name": "bò tơ hay bê thui xắt mỏng",
+    "standard_name": "bê",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36244,
+    "recipe_id": "17030675",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36245,
+    "recipe_id": "17030675",
+    "standard_id": 10156,
+    "raw_name": "đậu phộng rang vàng giã dập",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36246,
+    "recipe_id": "17030675",
+    "standard_id": 31,
+    "raw_name": "sả băm",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36247,
+    "recipe_id": "17030675",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36248,
+    "recipe_id": "17030675",
+    "standard_id": 2286,
+    "raw_name": "lá cách",
+    "standard_name": "lá cách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36249,
+    "recipe_id": "17030675",
+    "standard_id": 1589,
+    "raw_name": "ớp bò tơ",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 36250,
+    "recipe_id": "17030675",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36254,
+    "recipe_id": "17030675",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36283,
+    "recipe_id": "16759360",
+    "standard_id": 6517,
+    "raw_name": "má heo",
+    "standard_name": "má heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36284,
+    "recipe_id": "16759360",
+    "standard_id": 149,
+    "raw_name": "mõm heo",
+    "standard_name": "heo",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 36285,
+    "recipe_id": "16759360",
+    "standard_id": 183,
+    "raw_name": "Ngũ vị hương",
+    "standard_name": "ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36286,
+    "recipe_id": "16759360",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi xay",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36287,
+    "recipe_id": "16759360",
+    "standard_id": 285,
+    "raw_name": "Nước dừa",
+    "standard_name": "nước dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36290,
+    "recipe_id": "16759360",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  }
+]

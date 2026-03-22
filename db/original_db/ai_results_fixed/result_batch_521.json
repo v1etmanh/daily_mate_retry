@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 54282,
+    "recipe_id": "16196863",
+    "standard_id": 203,
+    "raw_name": "Xoài",
+    "standard_name": "xoài",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54283,
+    "recipe_id": "16196863",
+    "standard_id": 21,
+    "raw_name": "Rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54284,
+    "recipe_id": "16196863",
+    "standard_id": 10156,
+    "raw_name": "ậu phộng rang",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 54285,
+    "recipe_id": "16196863",
+    "standard_id": 29,
+    "raw_name": "Tỏi phi",
+    "standard_name": "tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 54286,
+    "recipe_id": "16196863",
+    "standard_id": 16,
+    "raw_name": "Mỡ hành",
+    "standard_name": "hành lá",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 54287,
+    "recipe_id": "16196863",
+    "standard_id": 683,
+    "raw_name": "cá viên",
+    "standard_name": "cá viên",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54288,
+    "recipe_id": "16196863",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 54289,
+    "recipe_id": "16196927",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng gạo",
+    "standard_name": "bánh tráng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 54290,
+    "recipe_id": "16196927",
+    "standard_id": 203,
+    "raw_name": "Xoài",
+    "standard_name": "xoài",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54291,
+    "recipe_id": "16196927",
+    "standard_id": 21,
+    "raw_name": "Rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54292,
+    "recipe_id": "16196927",
+    "standard_id": 5932,
+    "raw_name": "Trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54293,
+    "recipe_id": "16196927",
+    "standard_id": 10156,
+    "raw_name": "ậu phộng rang",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 54294,
+    "recipe_id": "16196927",
+    "standard_id": 29,
+    "raw_name": "Tỏi phi",
+    "standard_name": "tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 54295,
+    "recipe_id": "16196927",
+    "standard_id": 16,
+    "raw_name": "Mỡ hành",
+    "standard_name": "hành lá",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 54296,
+    "recipe_id": "16196927",
+    "standard_id": 492,
+    "raw_name": "Nước trộn bánh tráng",
+    "standard_name": "xốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 54297,
+    "recipe_id": "16196927",
+    "standard_id": 4729,
+    "raw_name": "thịt băm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54298,
+    "recipe_id": "16196927",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54359,
+    "recipe_id": "16194259",
+    "standard_id": 856,
+    "raw_name": "Nui dùng loại nào cũng được",
+    "standard_name": "nui",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 54360,
+    "recipe_id": "16194259",
+    "standard_id": 4729,
+    "raw_name": "thịt băm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54361,
+    "recipe_id": "16194259",
+    "standard_id": 2661,
+    "raw_name": "Cải ngọt",
+    "standard_name": "cải ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54362,
+    "recipe_id": "16194259",
+    "standard_id": 766,
+    "raw_name": "Bơ thực vật",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54363,
+    "recipe_id": "16194259",
+    "standard_id": 1589,
+    "raw_name": "Gia vị và định lượng ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54364,
+    "recipe_id": "16194259",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 54368,
+    "recipe_id": "16194259",
+    "standard_id": 10784,
+    "raw_name": "Nguyên liệu và định lượng làm sốt cây chua ngọt",
+    "standard_name": "sốt chua ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54369,
+    "recipe_id": "16194259",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 54371,
+    "recipe_id": "16194259",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54392,
+    "recipe_id": "16192936",
+    "standard_id": 9043,
+    "raw_name": "lá Kombu",
+    "standard_name": "lá kombu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54393,
+    "recipe_id": "16192936",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 54394,
+    "recipe_id": "16192936",
+    "standard_id": 215,
+    "raw_name": "khoai tây vàng tím bào vỏ cắt khối vừa ăn",
+    "standard_name": "khoai tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 54395,
+    "recipe_id": "16192936",
+    "standard_id": 1074,
+    "raw_name": "cải trắng bào vỏ chẻ dọc và cắt lát dầy cm",
+    "standard_name": "cải trắng",
+    "confidence": 0.95
+  }
+]

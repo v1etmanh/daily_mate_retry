@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 10355,
+    "recipe_id": "24657219",
+    "standard_id": 21,
+    "raw_name": "rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10356,
+    "recipe_id": "24657219",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10357,
+    "recipe_id": "24657219",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng trang trí",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10358,
+    "recipe_id": "24657219",
+    "standard_id": 1589,
+    "raw_name": "dầu tỏi phi vàng",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 10367,
+    "recipe_id": "24677908",
+    "standard_id": 67,
+    "raw_name": "chanh hoặc giấm",
+    "standard_name": "chanh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 10368,
+    "recipe_id": "24677908",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10370,
+    "recipe_id": "24677908",
+    "standard_id": 6173,
+    "raw_name": "rau tiến vua khô tương đương g rau tiến vua ướt",
+    "standard_name": "rau tạp",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 10371,
+    "recipe_id": "24677908",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10372,
+    "recipe_id": "24677908",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng bằm",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10398,
+    "recipe_id": "24027426",
+    "standard_id": 142,
+    "raw_name": "thịt bò c",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 10399,
+    "recipe_id": "24027426",
+    "standard_id": 457,
+    "raw_name": "ớt chuông xanh",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10401,
+    "recipe_id": "24027426",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10402,
+    "recipe_id": "24027426",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10403,
+    "recipe_id": "24027426",
+    "standard_id": 1148,
+    "raw_name": "Phần sốt",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 10404,
+    "recipe_id": "24027426",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10405,
+    "recipe_id": "24027426",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 10406,
+    "recipe_id": "24027426",
+    "standard_id": 6801,
+    "raw_name": "tương ớtcay",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10407,
+    "recipe_id": "24027426",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10426,
+    "recipe_id": "24676113",
+    "standard_id": 2638,
+    "raw_name": "thịt thăn bò",
+    "standard_name": "thăn bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10427,
+    "recipe_id": "24676113",
+    "standard_id": 457,
+    "raw_name": "ớt chuông xanh",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10430,
+    "recipe_id": "24676113",
+    "standard_id": 9,
+    "raw_name": "cà chua beef",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10431,
+    "recipe_id": "24676113",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10432,
+    "recipe_id": "24676113",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10433,
+    "recipe_id": "24676113",
+    "standard_id": 1148,
+    "raw_name": "Xốt Xào",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 10435,
+    "recipe_id": "24676113",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10436,
+    "recipe_id": "24676113",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10440,
+    "recipe_id": "24676113",
+    "standard_id": 1589,
+    "raw_name": "muffins tạt vàng tuỳ thích",
+    "standard_name": "gia vị",
+    "confidence": 0.6
+  }
+]

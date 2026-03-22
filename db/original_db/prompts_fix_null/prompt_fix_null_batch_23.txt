@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 23/365
+[
+  {
+    "id": 47268,
+    "dish_title": "Bánh cuốn nhân thịt",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47270,
+    "dish_title": "Bánh cuốn nhân thịt",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47267,
+    "dish_title": "Bánh cuốn nhân thịt",
+    "ingredient_name": "nấm đông cô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47266,
+    "dish_title": "Bánh cuốn nhân thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46008,
+    "dish_title": "Bánh da lợn",
+    "ingredient_name": "bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46009,
+    "dish_title": "Bánh da lợn",
+    "ingredient_name": "nước cốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46007,
+    "dish_title": "Bánh da lợn",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46010,
+    "dish_title": "Bánh da lợn",
+    "ingredient_name": "tinh chất vani",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46724,
+    "dish_title": "Bánh da lợn cốm xanh",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46725,
+    "dish_title": "Bánh da lợn cốm xanh",
+    "ingredient_name": "cốm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46721,
+    "dish_title": "Bánh da lợn cốm xanh",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46723,
+    "dish_title": "Bánh da lợn cốm xanh",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46722,
+    "dish_title": "Bánh da lợn cốm xanh",
+    "ingredient_name": "đậu xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51885,
+    "dish_title": "Bánh da lợn hoa đậu biếc",
+    "ingredient_name": "hoa đậu biếc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51884,
+    "dish_title": "Bánh da lợn hoa đậu biếc",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51883,
+    "dish_title": "Bánh da lợn hoa đậu biếc",
+    "ingredient_name": "vani",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51758,
+    "dish_title": "Bánh da lợn hoa đậu biếc 🌱",
+    "ingredient_name": "bột",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51759,
+    "dish_title": "Bánh da lợn hoa đậu biếc 🌱",
+    "ingredient_name": "hoa đậu biếc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51760,
+    "dish_title": "Bánh da lợn hoa đậu biếc 🌱",
+    "ingredient_name": "đậu xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52407,
+    "dish_title": "Bánh da lợn hoa đậu biết cực dễ làm",
+    "ingredient_name": "lá dứa hoặc hoa đậu biếc cho ra nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52409,
+    "dish_title": "Bánh da lợn hoa đậu biết cực dễ làm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52408,
+    "dish_title": "Bánh da lợn hoa đậu biết cực dễ làm",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48450,
+    "dish_title": "Bánh da lợn nước cốt dừa",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48449,
+    "dish_title": "Bánh da lợn nước cốt dừa",
+    "ingredient_name": "nước lá dứa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48448,
+    "dish_title": "Bánh da lợn nước cốt dừa",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42710,
+    "dish_title": "Bánh gạo cay ăn kèm ba chỉ bò áp chảo",
+    "ingredient_name": "ba rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42708,
+    "dish_title": "Bánh gạo cay ăn kèm ba chỉ bò áp chảo",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42711,
+    "dish_title": "Bánh gạo cay ăn kèm ba chỉ bò áp chảo",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42709,
+    "dish_title": "Bánh gạo cay ăn kèm ba chỉ bò áp chảo",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52629,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

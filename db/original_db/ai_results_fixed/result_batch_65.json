@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 7033,
+    "recipe_id": "24775015",
+    "standard_id": 177,
+    "raw_name": "Rau câu nền",
+    "standard_name": "bột rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7035,
+    "recipe_id": "24775015",
+    "standard_id": 2387,
+    "raw_name": "ường cát trắng",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7036,
+    "recipe_id": "24775015",
+    "standard_id": 6101,
+    "raw_name": "Nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7037,
+    "recipe_id": "24775015",
+    "standard_id": 10815,
+    "raw_name": "Vị Sữa dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7038,
+    "recipe_id": "24775015",
+    "standard_id": 2246,
+    "raw_name": "Sữa đặc",
+    "standard_name": "sữa",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 7040,
+    "recipe_id": "24775015",
+    "standard_id": 7300,
+    "raw_name": "Vị Cà phê",
+    "standard_name": "café",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7043,
+    "recipe_id": "24775015",
+    "standard_id": 1597,
+    "raw_name": "Vị Lá dứa",
+    "standard_name": "nước lá dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7217,
+    "recipe_id": "5745131",
+    "standard_id": 151,
+    "raw_name": "nấm chân dài nấm loa kèn nấm lọng sen",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7218,
+    "recipe_id": "5745131",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7219,
+    "recipe_id": "5745131",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7220,
+    "recipe_id": "5745131",
+    "standard_id": 1589,
+    "raw_name": "dầu thực vật",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 7250,
+    "recipe_id": "24888961",
+    "standard_id": 766,
+    "raw_name": "bơ lạt",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7251,
+    "recipe_id": "24888961",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7253,
+    "recipe_id": "24888961",
+    "standard_id": 395,
+    "raw_name": "dầu Olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7254,
+    "recipe_id": "24888961",
+    "standard_id": 2454,
+    "raw_name": "Chocolate",
+    "standard_name": "sô cô la",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7255,
+    "recipe_id": "24888961",
+    "standard_id": 225,
+    "raw_name": "giấm gạo",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7257,
+    "recipe_id": "24888961",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7282,
+    "recipe_id": "24884789",
+    "standard_id": 121,
+    "raw_name": "Bột",
+    "standard_name": "bột",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7283,
+    "recipe_id": "24884789",
+    "standard_id": 1100,
+    "raw_name": "bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7285,
+    "recipe_id": "24884789",
+    "standard_id": 6101,
+    "raw_name": "nước đang đun thật sôi",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7287,
+    "recipe_id": "24884789",
+    "standard_id": 6561,
+    "raw_name": "Nhân tôm thịt",
+    "standard_name": "nhân",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7288,
+    "recipe_id": "24884789",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7289,
+    "recipe_id": "24884789",
+    "standard_id": 357,
+    "raw_name": "tôm đã bóc vỏ nhỏ vừa",
+    "standard_name": "tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7290,
+    "recipe_id": "24884789",
+    "standard_id": 1330,
+    "raw_name": "nấm hương và mèo thái nhỏ",
+    "standard_name": "nấm hương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7291,
+    "recipe_id": "24884789",
+    "standard_id": 166,
+    "raw_name": "củ hành tây thái nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7292,
+    "recipe_id": "24884789",
+    "standard_id": 1851,
+    "raw_name": "bắp Mỹ luộc chín lấy hạt hoặc thay bằng củ sắn",
+    "standard_name": "bắp mỹ",
+    "confidence": 0.95
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52066,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "bột tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52069,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52068,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52065,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "sốt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52064,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "thịt",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52067,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "vỏ chanh",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49042,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "boa rô",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49044,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "bún tàu",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49046,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49045,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49039,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "hạt anh túc",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49043,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "lòng trắng trứng",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49047,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "lòng đỏ trứng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49040,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "nhân thịt",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49048,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "sữa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49041,
+    "dish_title": "Bánh Mặn Mini Nhân Thịt & Rau Củ",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45892,
+    "dish_title": "Bánh Nướng Nhân Nấm Rừng, Hành Tây, Olive Đen Và Cá Cơm Muối",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45890,
+    "dish_title": "Bánh Nướng Nhân Nấm Rừng, Hành Tây, Olive Đen Và Cá Cơm Muối",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45891,
+    "dish_title": "Bánh Nướng Nhân Nấm Rừng, Hành Tây, Olive Đen Và Cá Cơm Muối",
+    "ingredient_name": "olive",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45893,
+    "dish_title": "Bánh Nướng Nhân Nấm Rừng, Hành Tây, Olive Đen Và Cá Cơm Muối",
+    "ingredient_name": "đường",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45889,
+    "dish_title": "Bánh Nướng Nhân Nấm Rừng, Hành Tây, Olive Đen Và Cá Cơm Muối",
+    "ingredient_name": "đế bánh pizza",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45694,
+    "dish_title": "Bánh Phở Tráng Chảo Trộn Thịt Xào",
+    "ingredient_name": "bánh phở",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45696,
+    "dish_title": "Bánh Phở Tráng Chảo Trộn Thịt Xào",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45698,
+    "dish_title": "Bánh Phở Tráng Chảo Trộn Thịt Xào",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45697,
+    "dish_title": "Bánh Phở Tráng Chảo Trộn Thịt Xào",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45695,
+    "dish_title": "Bánh Phở Tráng Chảo Trộn Thịt Xào",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50218,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "hành lá",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50219,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50225,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "nước tương",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50224,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "satế",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

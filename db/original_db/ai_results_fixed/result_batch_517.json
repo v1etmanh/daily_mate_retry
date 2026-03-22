@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 53887,
+    "recipe_id": "16219034",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 53889,
+    "recipe_id": "16219034",
+    "standard_id": 10390,
+    "raw_name": "Thịt kho trứng",
+    "standard_name": "thịt kho",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53890,
+    "recipe_id": "16219034",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53891,
+    "recipe_id": "16219034",
+    "standard_id": 5932,
+    "raw_name": "trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53892,
+    "recipe_id": "16219034",
+    "standard_id": 146,
+    "raw_name": "trứng gà ta",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 53893,
+    "recipe_id": "16219034",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53894,
+    "recipe_id": "16219034",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 53895,
+    "recipe_id": "16219034",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53898,
+    "recipe_id": "16219034",
+    "standard_id": 24,
+    "raw_name": "ớt đỏ",
+    "standard_name": "ớt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 53899,
+    "recipe_id": "16219034",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53921,
+    "recipe_id": "16214213",
+    "standard_id": 299,
+    "raw_name": "cải bắp cabbage",
+    "standard_name": "cải bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53922,
+    "recipe_id": "16214213",
+    "standard_id": 25,
+    "raw_name": "bông cải xanh broccoli",
+    "standard_name": "bông cải",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 53923,
+    "recipe_id": "16214213",
+    "standard_id": 357,
+    "raw_name": "tôm shrimp",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53924,
+    "recipe_id": "16214213",
+    "standard_id": 1207,
+    "raw_name": "tổng cọng muỗng canh bột ngô total of tablespoon cornstarch",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 53925,
+    "recipe_id": "16214213",
+    "standard_id": 7720,
+    "raw_name": "nấu rượu tablespoon cooking wine",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 53927,
+    "recipe_id": "16214213",
+    "standard_id": 6801,
+    "raw_name": "tương ớt ngọt sweet chili sauce",
+    "standard_name": "tương ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 53928,
+    "recipe_id": "16214213",
+    "standard_id": 8860,
+    "raw_name": "Chuẩn bị rau bằng cách cắt nhỏ bắp cải bông cải xanh luộc mc mayo",
+    "standard_name": "rau hay cà chua tùy ý",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 53929,
+    "recipe_id": "16210439",
+    "standard_id": 71,
+    "raw_name": "ậu hũ hoặc mỳ căn càng ngon",
+    "standard_name": "đậu hũ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 53930,
+    "recipe_id": "16210439",
+    "standard_id": 11829,
+    "raw_name": "Tương ớt Quế Lâm của Lee Kum Kee",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53931,
+    "recipe_id": "16210439",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 53933,
+    "recipe_id": "16210439",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 53934,
+    "recipe_id": "16207622",
+    "standard_id": 948,
+    "raw_name": "cá ba sa",
+    "standard_name": "cá ba sa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53935,
+    "recipe_id": "16207622",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53937,
+    "recipe_id": "16207622",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 53939,
+    "recipe_id": "16207622",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53941,
+    "recipe_id": "16207622",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53973,
+    "recipe_id": "16212144",
+    "standard_id": 3680,
+    "raw_name": "Mì Quảng",
+    "standard_name": "mì quảng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 53974,
+    "recipe_id": "16212144",
+    "standard_id": 1187,
+    "raw_name": "Nước nhưn",
+    "standard_name": "nước dùng",
+    "confidence": 0.9
+  }
+]

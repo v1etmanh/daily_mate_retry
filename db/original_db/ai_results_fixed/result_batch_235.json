@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 30881,
+    "recipe_id": "16952896",
+    "standard_id": 312,
+    "raw_name": "Kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30882,
+    "recipe_id": "16952896",
+    "standard_id": 1589,
+    "raw_name": "Hành tỏi khô gia vị cơ bản bơ thực vật",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 30883,
+    "recipe_id": "16952896",
+    "standard_id": 146,
+    "raw_name": "Trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30884,
+    "recipe_id": "16952896",
+    "standard_id": 50,
+    "raw_name": "Lạp xưởng ngọt xúc xích tùy sở thích bỏ qua cũng được",
+    "standard_name": "lạp xưởng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30904,
+    "recipe_id": "17169115",
+    "standard_id": 998,
+    "raw_name": "Tôm nõn",
+    "standard_name": "nõn tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30905,
+    "recipe_id": "17169115",
+    "standard_id": 3382,
+    "raw_name": "tóc tiên to bằng quả trứng gà",
+    "standard_name": "rong tóc tiên",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 30906,
+    "recipe_id": "17169115",
+    "standard_id": 10,
+    "raw_name": "Xương bọng gà",
+    "standard_name": "xương gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30907,
+    "recipe_id": "17169115",
+    "standard_id": 1851,
+    "raw_name": "Bắp mỹ",
+    "standard_name": "bắp mỹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30908,
+    "recipe_id": "17169115",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30909,
+    "recipe_id": "17169115",
+    "standard_id": 146,
+    "raw_name": "Trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 30910,
+    "recipe_id": "17169115",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30911,
+    "recipe_id": "17169115",
+    "standard_id": 102,
+    "raw_name": "Rau ngò",
+    "standard_name": "rau ngò rí",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30912,
+    "recipe_id": "17169115",
+    "standard_id": 83,
+    "raw_name": "Hành phi",
+    "standard_name": "hành tím",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 30913,
+    "recipe_id": "17169115",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30915,
+    "recipe_id": "17169115",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30916,
+    "recipe_id": "17176035",
+    "standard_id": 5757,
+    "raw_name": "tôm tít tươi sống",
+    "standard_name": "tôm tít",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30917,
+    "recipe_id": "17176035",
+    "standard_id": 457,
+    "raw_name": "t chuông các màu",
+    "standard_name": "ớt chuông",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30918,
+    "recipe_id": "17176035",
+    "standard_id": 2661,
+    "raw_name": "Cải ngọt",
+    "standard_name": "cải ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30920,
+    "recipe_id": "17176035",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30943,
+    "recipe_id": "17175074",
+    "standard_id": 856,
+    "raw_name": "Nui sò loại lớn của",
+    "standard_name": "nui",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30944,
+    "recipe_id": "17175074",
+    "standard_id": 25,
+    "raw_name": "Bông cải xanh không bắt buộc",
+    "standard_name": "bông cải",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30945,
+    "recipe_id": "17175074",
+    "standard_id": 10299,
+    "raw_name": "Xốt cà chua",
+    "standard_name": "xốt cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30946,
+    "recipe_id": "17175074",
+    "standard_id": 1589,
+    "raw_name": "Xem nguyên liệu ở link kèm theo",
+    "standard_name": "gia vị",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 30947,
+    "recipe_id": "17175074",
+    "standard_id": 9,
+    "raw_name": "Lưu ý chọn cà chua loại có múi thật chín và nhiều bột cà chua beef là gợi ý tốt",
+    "standard_name": "cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30963,
+    "recipe_id": "17174255",
+    "standard_id": 121,
+    "raw_name": "Bột chiên AjiQuick loại chiên hải sản gói xanh dương",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 30964,
+    "recipe_id": "17174255",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30965,
+    "recipe_id": "17174255",
+    "standard_id": 865,
+    "raw_name": "nấm kim châm",
+    "standard_name": "nấm kim châm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30966,
+    "recipe_id": "17174255",
+    "standard_id": 1071,
+    "raw_name": "Rong biển",
+    "standard_name": "rong biển",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30967,
+    "recipe_id": "17174255",
+    "standard_id": 1129,
+    "raw_name": "Bột phô mai tuỳ khẩu vị mọi người chocho cũng đều ngon",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30971,
+    "recipe_id": "17173208",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  }
+]

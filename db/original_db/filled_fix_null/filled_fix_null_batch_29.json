@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50024,
+    "dish_title": "Bánh tráng trộn cá viên chiên",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50021,
+    "dish_title": "Bánh tráng trộn cá viên chiên",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50022,
+    "dish_title": "Bánh tráng trộn cá viên chiên",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50023,
+    "dish_title": "Bánh tráng trộn cá viên chiên",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50026,
+    "dish_title": "Bánh tráng trộn thịt băm",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50031,
+    "dish_title": "Bánh tráng trộn thịt băm",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50030,
+    "dish_title": "Bánh tráng trộn thịt băm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50027,
+    "dish_title": "Bánh tráng trộn thịt băm",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50029,
+    "dish_title": "Bánh tráng trộn thịt băm",
+    "ingredient_name": "xốt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50028,
+    "dish_title": "Bánh tráng trộn thịt băm",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43696,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43695,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43693,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43697,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43698,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "nước",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43692,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "nước dùng",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43694,
+    "dish_title": "Bánh trôi nước nhân thịt gà nấm và đậu xanh",
+    "ingredient_name": "ức gà",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52187,
+    "dish_title": "Bánh tôm khoai tây cho bé",
+    "ingredient_name": "bột mì",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52185,
+    "dish_title": "Bánh tôm khoai tây cho bé",
+    "ingredient_name": "nước tương",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52186,
+    "dish_title": "Bánh tôm khoai tây cho bé",
+    "ingredient_name": "rau mùi",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45018,
+    "dish_title": "Bánh xèo Nhật Bản Okonomiyaki (Tôm, cá ngừ)",
+    "ingredient_name": "bột mì",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45020,
+    "dish_title": "Bánh xèo Nhật Bản Okonomiyaki (Tôm, cá ngừ)",
+    "ingredient_name": "hộp cá ngừ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45019,
+    "dish_title": "Bánh xèo Nhật Bản Okonomiyaki (Tôm, cá ngừ)",
+    "ingredient_name": "nước",
+    "quantity_g": 250,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45021,
+    "dish_title": "Bánh xèo Nhật Bản Okonomiyaki (Tôm, cá ngừ)",
+    "ingredient_name": "sốt",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48751,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "bột gạo",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48754,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48758,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "cá kình",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48753,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48756,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48752,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "nước",
+    "quantity_g": 600,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

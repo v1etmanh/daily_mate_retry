@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 4067,
+    "recipe_id": "25043623",
+    "standard_id": 199,
+    "raw_name": "Nấm đông cô hoặc nấm mỡ",
+    "standard_name": "nấm đông cô",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 4068,
+    "recipe_id": "25043623",
+    "standard_id": 395,
+    "raw_name": "Dầu olive bơ",
+    "standard_name": "dầu ô liu",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 4069,
+    "recipe_id": "25043623",
+    "standard_id": 7720,
+    "raw_name": "Rượu vang trắng",
+    "standard_name": "rượu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 4071,
+    "recipe_id": "25043623",
+    "standard_id": 851,
+    "raw_name": "Miso paste",
+    "standard_name": "miso",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4077,
+    "recipe_id": "25126910",
+    "standard_id": 4491,
+    "raw_name": "cá chốt sông",
+    "standard_name": "cá chốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4078,
+    "recipe_id": "25126910",
+    "standard_id": 24,
+    "raw_name": "ớt tươi",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4079,
+    "recipe_id": "25126910",
+    "standard_id": 5715,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 4080,
+    "recipe_id": "25126910",
+    "standard_id": 6783,
+    "raw_name": "tóp mỡ",
+    "standard_name": "pork cracklings",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4107,
+    "recipe_id": "24987433",
+    "standard_id": 1089,
+    "raw_name": "Cá bạc má",
+    "standard_name": "mackerel",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4108,
+    "recipe_id": "24987433",
+    "standard_id": 1090,
+    "raw_name": "Mía",
+    "standard_name": "sugarcane",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4109,
+    "recipe_id": "24987433",
+    "standard_id": 1091,
+    "raw_name": "Riềng",
+    "standard_name": "galangal",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4110,
+    "recipe_id": "24987433",
+    "standard_id": 6176,
+    "raw_name": "Trà khô",
+    "standard_name": "lá chè",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 4112,
+    "recipe_id": "24987433",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "chili sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4113,
+    "recipe_id": "24987433",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4114,
+    "recipe_id": "24987433",
+    "standard_id": 1369,
+    "raw_name": "Mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 4115,
+    "recipe_id": "24987433",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "oyster sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4117,
+    "recipe_id": "24987433",
+    "standard_id": 24,
+    "raw_name": "t",
+    "standard_name": "ớt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 4118,
+    "recipe_id": "24987433",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "shallot",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4119,
+    "recipe_id": "24987433",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "garlic",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4120,
+    "recipe_id": "24987433",
+    "standard_id": 225,
+    "raw_name": "Dấm",
+    "standard_name": "vinegar",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4154,
+    "recipe_id": "24958615",
+    "standard_id": 1099,
+    "raw_name": "Cá kèo",
+    "standard_name": "goby fish",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4155,
+    "recipe_id": "24958615",
+    "standard_id": 5859,
+    "raw_name": "Sốt kho cá",
+    "standard_name": "braised fish",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 4156,
+    "recipe_id": "24958615",
+    "standard_id": 21,
+    "raw_name": "Rau răm",
+    "standard_name": "vietnamese coriander",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4158,
+    "recipe_id": "24958615",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "garlic",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4159,
+    "recipe_id": "24958615",
+    "standard_id": 24,
+    "raw_name": "t",
+    "standard_name": "ớt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 4160,
+    "recipe_id": "24958615",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 4161,
+    "recipe_id": "24958615",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "water",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 4162,
+    "recipe_id": "25123693",
+    "standard_id": 1100,
+    "raw_name": "bột tàn mì",
+    "standard_name": "wheat flour",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 4163,
+    "recipe_id": "25123693",
+    "standard_id": 215,
+    "raw_name": "tinh bột khoai tây",
+    "standard_name": "potato",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 4164,
+    "recipe_id": "25123693",
+    "standard_id": 6101,
+    "raw_name": "nước sôi",
+    "standard_name": "water",
+    "confidence": 1.0
+  }
+]

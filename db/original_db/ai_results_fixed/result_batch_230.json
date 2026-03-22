@@ -1,0 +1,194 @@
+[
+  {
+    "raw_id": 30225,
+    "recipe_id": "17198182",
+    "standard_id": 273,
+    "raw_name": "Gio heo",
+    "standard_name": "giò heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30226,
+    "recipe_id": "17198182",
+    "standard_id": 6160,
+    "raw_name": "Nguyên Liêu Thuôc Băc",
+    "standard_name": "thảo mộc",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 30227,
+    "recipe_id": "17198182",
+    "standard_id": 3045,
+    "raw_name": "ăng sâm",
+    "standard_name": "sâm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30229,
+    "recipe_id": "17198182",
+    "standard_id": 1426,
+    "raw_name": "Băc ky",
+    "standard_name": "hoàng kì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 30233,
+    "recipe_id": "17198182",
+    "standard_id": 1545,
+    "raw_name": "Nhan duc",
+    "standard_name": "nhãn",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30234,
+    "recipe_id": "17198182",
+    "standard_id": 1150,
+    "raw_name": "Tao đo tao đen",
+    "standard_name": "táo tàu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 30236,
+    "recipe_id": "17198182",
+    "standard_id": 1458,
+    "raw_name": "Ky tư",
+    "standard_name": "kỷ tử",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30237,
+    "recipe_id": "17198182",
+    "standard_id": 1589,
+    "raw_name": "Gia vi",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30239,
+    "recipe_id": "17198182",
+    "standard_id": 2832,
+    "raw_name": "Bôt ngot",
+    "standard_name": "mỳ chính",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30240,
+    "recipe_id": "17198182",
+    "standard_id": 4707,
+    "raw_name": "Bôt thit ga",
+    "standard_name": "bột gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30241,
+    "recipe_id": "17198182",
+    "standard_id": 2387,
+    "raw_name": "ương phen",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30242,
+    "recipe_id": "17198182",
+    "standard_id": 7720,
+    "raw_name": "Rươu trăng",
+    "standard_name": "rượu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 30249,
+    "recipe_id": "17196720",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30250,
+    "recipe_id": "17196720",
+    "standard_id": 2400,
+    "raw_name": "bánh hỏi",
+    "standard_name": "bánh hỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30251,
+    "recipe_id": "17196720",
+    "standard_id": 2210,
+    "raw_name": "Xà lách rau thơm cà rốt dưa leo",
+    "standard_name": "rau sống",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 30252,
+    "recipe_id": "17196720",
+    "standard_id": 31,
+    "raw_name": "Sả xay",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30253,
+    "recipe_id": "17196720",
+    "standard_id": 29,
+    "raw_name": "Tỏi xay",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30254,
+    "recipe_id": "17196720",
+    "standard_id": 183,
+    "raw_name": "Ngũ vị hương",
+    "standard_name": "ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30271,
+    "recipe_id": "17164379",
+    "standard_id": 998,
+    "raw_name": "tôm nõn",
+    "standard_name": "nõn tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30272,
+    "recipe_id": "17164379",
+    "standard_id": 5625,
+    "raw_name": "sen",
+    "standard_name": "sen",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30273,
+    "recipe_id": "17164379",
+    "standard_id": 1018,
+    "raw_name": "lòng trắng trứng gà",
+    "standard_name": "lòng trắng trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30274,
+    "recipe_id": "17164379",
+    "standard_id": 4978,
+    "raw_name": "baking soda",
+    "standard_name": "baking soda",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30275,
+    "recipe_id": "17164379",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30276,
+    "recipe_id": "17164379",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  }
+]

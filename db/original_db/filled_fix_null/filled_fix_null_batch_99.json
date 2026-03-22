@@ -1,0 +1,242 @@
+[
+  {
+    "id": 43557,
+    "dish_title": "Cháo ếch",
+    "ingredient_name": "lá dứa",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43561,
+    "dish_title": "Cháo ếch",
+    "ingredient_name": "mắm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43560,
+    "dish_title": "Cháo ếch",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43556,
+    "dish_title": "Cháo ếch",
+    "ingredient_name": "ếch",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47220,
+    "dish_title": "Cháo ếch bí đao",
+    "ingredient_name": "bí xanh",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47224,
+    "dish_title": "Cháo ếch bí đao",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47221,
+    "dish_title": "Cháo ếch bí đao",
+    "ingredient_name": "gạo",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47223,
+    "dish_title": "Cháo ếch bí đao",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47222,
+    "dish_title": "Cháo ếch bí đao",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50871,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50870,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50869,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50866,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "gừng",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50867,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "hành lá",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50868,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "hành tây",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50872,
+    "dish_title": "Cháo ếch singapore em bé",
+    "ingredient_name": "nước",
+    "quantity_g": 600,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53009,
+    "dish_title": "Cháo ếch singrpore cho bé",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53011,
+    "dish_title": "Cháo ếch singrpore cho bé",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53013,
+    "dish_title": "Cháo ếch singrpore cho bé",
+    "ingredient_name": "gạo",
+    "quantity_g": 80,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53012,
+    "dish_title": "Cháo ếch singrpore cho bé",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53010,
+    "dish_title": "Cháo ếch singrpore cho bé",
+    "ingredient_name": "nước tương",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42658,
+    "dish_title": "Cháo ếch 🐸",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42657,
+    "dish_title": "Cháo ếch 🐸",
+    "ingredient_name": "nước màu",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42659,
+    "dish_title": "Cháo ếch 🐸",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45244,
+    "dish_title": "Chân Nấm Đông Cô Kho Gừng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45245,
+    "dish_title": "Chân Nấm Đông Cô Kho Gừng",
+    "ingredient_name": "nước",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45243,
+    "dish_title": "Chân Nấm Đông Cô Kho Gừng",
+    "ingredient_name": "nước tương",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43452,
+    "dish_title": "Chè xoài bột báng thạch rau câu",
+    "ingredient_name": "hạt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43454,
+    "dish_title": "Chè xoài bột báng thạch rau câu",
+    "ingredient_name": "sữa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43451,
+    "dish_title": "Chè xoài bột báng thạch rau câu",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

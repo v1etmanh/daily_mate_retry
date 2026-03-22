@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 45254,
+    "recipe_id": "16604402",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 45257,
+    "recipe_id": "16604402",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45259,
+    "recipe_id": "16604402",
+    "standard_id": 24,
+    "raw_name": "ớt bỏ hạt",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45260,
+    "recipe_id": "16604402",
+    "standard_id": 16,
+    "raw_name": "Hành lá chỉ lấy phần lá xanh thái nhỏ",
+    "standard_name": "hành lá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45261,
+    "recipe_id": "16604402",
+    "standard_id": 6101,
+    "raw_name": "nước lọc ấm",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45263,
+    "recipe_id": "16599024",
+    "standard_id": 499,
+    "raw_name": "cam",
+    "standard_name": "cam",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45264,
+    "recipe_id": "16599024",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nước sốt",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 45265,
+    "recipe_id": "16599024",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45266,
+    "recipe_id": "16599024",
+    "standard_id": 395,
+    "raw_name": "Dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45268,
+    "recipe_id": "16599024",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45270,
+    "recipe_id": "16599024",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45282,
+    "recipe_id": "16601530",
+    "standard_id": 1410,
+    "raw_name": "thịt heo ba chỉ hoặc thịt chân giò",
+    "standard_name": "thịt ba rọi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45283,
+    "recipe_id": "16601530",
+    "standard_id": 146,
+    "raw_name": "trứng gà vịt chim cút",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45284,
+    "recipe_id": "16601530",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45285,
+    "recipe_id": "16601530",
+    "standard_id": 83,
+    "raw_name": "hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45286,
+    "recipe_id": "16601530",
+    "standard_id": 24,
+    "raw_name": "t tươi",
+    "standard_name": "ớt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 45287,
+    "recipe_id": "16601530",
+    "standard_id": 285,
+    "raw_name": "nước dừa tươi nếu có",
+    "standard_name": "nước dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45288,
+    "recipe_id": "16601530",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45293,
+    "recipe_id": "16601530",
+    "standard_id": 11833,
+    "raw_name": "nước màu",
+    "standard_name": "nước màu",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 45294,
+    "recipe_id": "16601530",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 45298,
+    "recipe_id": "16602162",
+    "standard_id": 71,
+    "raw_name": "ậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45299,
+    "recipe_id": "16602162",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45300,
+    "recipe_id": "16602162",
+    "standard_id": 26,
+    "raw_name": "Nấm mèo đã ngâm mềm",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45301,
+    "recipe_id": "16602162",
+    "standard_id": 865,
+    "raw_name": "Nấm tươi trong hình mình dùng tạm nấm kim châm nhưng nấm mỡ nấm rơm sẽ ngon hơn",
+    "standard_name": "nấm kim châm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45302,
+    "recipe_id": "16602162",
+    "standard_id": 1452,
+    "raw_name": "Chả lụa chay không bắt buộc",
+    "standard_name": "chả chay",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45303,
+    "recipe_id": "16602162",
+    "standard_id": 52,
+    "raw_name": "ậu cove trong hình không có nhưng cho thêm đậu cove hoặc đậu Hà Lan sẽ thêm dinh dưỡng và đẹp hơn",
+    "standard_name": "đậu que",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45304,
+    "recipe_id": "16602162",
+    "standard_id": 1517,
+    "raw_name": "Rau mùi ngò gai boa rô không bắt buộc",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 45306,
+    "recipe_id": "16601432",
+    "standard_id": 630,
+    "raw_name": "cá trê",
+    "standard_name": "cá trê",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45307,
+    "recipe_id": "16601432",
+    "standard_id": 1117,
+    "raw_name": "chuối già sống",
+    "standard_name": "chuối",
+    "confidence": 0.9
+  }
+]

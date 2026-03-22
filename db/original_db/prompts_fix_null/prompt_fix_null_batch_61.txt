@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 61/365
+[
+  {
+    "id": 48562,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48560,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48563,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48564,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48520,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "bột canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48513,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "cá rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48515,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "dầu điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48517,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48519,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "hành tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48516,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48514,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "nước hầm xương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48518,
+    "dish_title": "Bún cá trộn Thái Bình",
+    "ingredient_name": "thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48116,
+    "dish_title": "Bún gạo lức xào bò tôm mực (CHAY)",
+    "ingredient_name": "chay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48117,
+    "dish_title": "Bún gạo lức xào bò tôm mực (CHAY)",
+    "ingredient_name": "gạo lứt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48119,
+    "dish_title": "Bún gạo lức xào bò tôm mực (CHAY)",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48118,
+    "dish_title": "Bún gạo lức xào bò tôm mực (CHAY)",
+    "ingredient_name": "đậu que",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44603,
+    "dish_title": "Bún gạo lứt, sốt cà chua thịt bằm",
+    "ingredient_name": "bún gạo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44601,
+    "dish_title": "Bún gạo lứt, sốt cà chua thịt bằm",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44602,
+    "dish_title": "Bún gạo lứt, sốt cà chua thịt bằm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45973,
+    "dish_title": "Bún hải sản dọn tủ",
+    "ingredient_name": "bún",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45971,
+    "dish_title": "Bún hải sản dọn tủ",
+    "ingredient_name": "dọc mùng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45972,
+    "dish_title": "Bún hải sản dọn tủ",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45970,
+    "dish_title": "Bún hải sản dọn tủ",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47772,
+    "dish_title": "Bún khế chả cá",
+    "ingredient_name": "chanh ớt rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47770,
+    "dish_title": "Bún khế chả cá",
+    "ingredient_name": "cải bẹ xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47773,
+    "dish_title": "Bún khế chả cá",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47771,
+    "dish_title": "Bún khế chả cá",
+    "ingredient_name": "thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50146,
+    "dish_title": "Bún mắm nêm thịt heo quay",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50145,
+    "dish_title": "Bún mắm nêm thịt heo quay",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50143,
+    "dish_title": "Bún mắm nêm thịt heo quay",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

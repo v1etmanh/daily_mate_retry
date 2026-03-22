@@ -1,0 +1,170 @@
+[
+  {
+    "raw_id": 70076,
+    "recipe_id": "15509898",
+    "standard_id": 177,
+    "raw_name": "b rau câu mình sử dụng rau câu con cá",
+    "standard_name": "bột rau câu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 70077,
+    "recipe_id": "15509898",
+    "standard_id": 2571,
+    "raw_name": "Khoai lang tím",
+    "standard_name": "khoai lang",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70078,
+    "recipe_id": "15509898",
+    "standard_id": 2246,
+    "raw_name": "Sữa tươi",
+    "standard_name": "sữa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70080,
+    "recipe_id": "15509898",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70081,
+    "recipe_id": "15509898",
+    "standard_id": 2387,
+    "raw_name": "ường tuỳ khẩu vị",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 70102,
+    "recipe_id": "15508412",
+    "standard_id": 1100,
+    "raw_name": "bột mì nguyên cám",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 70104,
+    "recipe_id": "15508412",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70105,
+    "recipe_id": "15508412",
+    "standard_id": 3044,
+    "raw_name": "Gà ướp",
+    "standard_name": "gà",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 70106,
+    "recipe_id": "15508412",
+    "standard_id": 11831,
+    "raw_name": "Bột canh tiêuđường",
+    "standard_name": "bột canh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 70108,
+    "recipe_id": "15508412",
+    "standard_id": 1207,
+    "raw_name": "Bột ngô",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70109,
+    "recipe_id": "15508412",
+    "standard_id": 2210,
+    "raw_name": "Rau",
+    "standard_name": "rau sống",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 70110,
+    "recipe_id": "15508412",
+    "standard_id": 81,
+    "raw_name": "Cà rốt thái nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70111,
+    "recipe_id": "15508412",
+    "standard_id": 1330,
+    "raw_name": "Nấm hương thái nhỏ",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70125,
+    "recipe_id": "15508027",
+    "standard_id": 1467,
+    "raw_name": "Rau mầm",
+    "standard_name": "rau mầm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70126,
+    "recipe_id": "15508027",
+    "standard_id": 822,
+    "raw_name": "Xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70127,
+    "recipe_id": "15508027",
+    "standard_id": 5896,
+    "raw_name": "Rong nho",
+    "standard_name": "rong nho",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70128,
+    "recipe_id": "15508027",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70129,
+    "recipe_id": "15508027",
+    "standard_id": 245,
+    "raw_name": "Dưa chuột",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70130,
+    "recipe_id": "15508027",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70131,
+    "recipe_id": "15508027",
+    "standard_id": 1148,
+    "raw_name": "Sốt",
+    "standard_name": "sốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 70133,
+    "recipe_id": "15508027",
+    "standard_id": 1535,
+    "raw_name": "sữa chua",
+    "standard_name": "sữa chua",
+    "confidence": 1.0
+  }
+]

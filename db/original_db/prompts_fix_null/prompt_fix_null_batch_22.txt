@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 22/365
+[
+  {
+    "id": 43589,
+    "dish_title": "Bánh canh nấm, đậu và rong biển",
+    "ingredient_name": "đậu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43206,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43208,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43207,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43202,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43205,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43204,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43203,
+    "dish_title": "Bánh canh nấu nấm và mọc tôm",
+    "ingredient_name": "viên tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50972,
+    "dish_title": "Bánh canh tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50975,
+    "dish_title": "Bánh canh tôm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50973,
+    "dish_title": "Bánh canh tôm",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50974,
+    "dish_title": "Bánh canh tôm",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49202,
+    "dish_title": "Bánh canh tôm thịt",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49201,
+    "dish_title": "Bánh canh tôm thịt",
+    "ingredient_name": "bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49203,
+    "dish_title": "Bánh canh tôm thịt",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49204,
+    "dish_title": "Bánh canh tôm thịt",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49205,
+    "dish_title": "Bánh canh tôm thịt",
+    "ingredient_name": "rau răm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51147,
+    "dish_title": "Bánh canh xương sụn chả cá",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51149,
+    "dish_title": "Bánh canh xương sụn chả cá",
+    "ingredient_name": "chanh ớt rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51151,
+    "dish_title": "Bánh canh xương sụn chả cá",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51150,
+    "dish_title": "Bánh canh xương sụn chả cá",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51148,
+    "dish_title": "Bánh canh xương sụn chả cá",
+    "ingredient_name": "rau nhúng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51146,
+    "dish_title": "Bánh canh xương sụn chả cá",
+    "ingredient_name": "sụn heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51801,
+    "dish_title": "Bánh chuối Yến mạch không đường, không sữa bò",
+    "ingredient_name": "chuối",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51803,
+    "dish_title": "Bánh chuối Yến mạch không đường, không sữa bò",
+    "ingredient_name": "hạnh nhân",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51804,
+    "dish_title": "Bánh chuối Yến mạch không đường, không sữa bò",
+    "ingredient_name": "mè",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51802,
+    "dish_title": "Bánh chuối Yến mạch không đường, không sữa bò",
+    "ingredient_name": "mật",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51800,
+    "dish_title": "Bánh chuối Yến mạch không đường, không sữa bò",
+    "ingredient_name": "sữa hạt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47269,
+    "dish_title": "Bánh cuốn nhân thịt",
+    "ingredient_name": "dưa leo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47271,
+    "dish_title": "Bánh cuốn nhân thịt",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "raw_id": 66672,
+    "recipe_id": "15619280",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 66674,
+    "recipe_id": "15619280",
+    "standard_id": 6053,
+    "raw_name": "topping ớt chuông nấm dứa hành tây",
+    "standard_name": "topping",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66688,
+    "recipe_id": "15545124",
+    "standard_id": 357,
+    "raw_name": "Tôm Cay",
+    "standard_name": "tôm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66690,
+    "recipe_id": "15545124",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn xắt nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66691,
+    "recipe_id": "15545124",
+    "standard_id": 24,
+    "raw_name": "ớt nhỏ bỏ hạt xắt nhỏ",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66692,
+    "recipe_id": "15545124",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66694,
+    "recipe_id": "15545124",
+    "standard_id": 10244,
+    "raw_name": "Mì với Tỏi Dầu Olive Aglio e Olio Pasta",
+    "standard_name": "pasta",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 66700,
+    "recipe_id": "15545124",
+    "standard_id": 83,
+    "raw_name": "hành khô phi giòn",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66701,
+    "recipe_id": "15545124",
+    "standard_id": 4870,
+    "raw_name": "ngò tây parsley hoặc hành lá",
+    "standard_name": "mùi tây",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66707,
+    "recipe_id": "15617290",
+    "standard_id": 9232,
+    "raw_name": "thịt dê",
+    "standard_name": "thịt dê",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66708,
+    "recipe_id": "15617290",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66709,
+    "recipe_id": "15617290",
+    "standard_id": 879,
+    "raw_name": "mùi tàu",
+    "standard_name": "mùi tàu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66710,
+    "recipe_id": "15617290",
+    "standard_id": 1747,
+    "raw_name": "vừng trắng",
+    "standard_name": "mè",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66711,
+    "recipe_id": "15617290",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66775,
+    "recipe_id": "15613139",
+    "standard_id": 1679,
+    "raw_name": "ruột ốc",
+    "standard_name": "ốc",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66776,
+    "recipe_id": "15613139",
+    "standard_id": 62,
+    "raw_name": "sườn heo",
+    "standard_name": "sườn heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66777,
+    "recipe_id": "15613139",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66778,
+    "recipe_id": "15613139",
+    "standard_id": 199,
+    "raw_name": "nấm đông cô",
+    "standard_name": "nấm đông cô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66779,
+    "recipe_id": "15613139",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66780,
+    "recipe_id": "15613139",
+    "standard_id": 83,
+    "raw_name": "Hành khô",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66784,
+    "recipe_id": "15613139",
+    "standard_id": 225,
+    "raw_name": "giấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66785,
+    "recipe_id": "15613139",
+    "standard_id": 371,
+    "raw_name": "Rau giá ăn kèm",
+    "standard_name": "giá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66786,
+    "recipe_id": "15613210",
+    "standard_id": 8646,
+    "raw_name": "hạt kê",
+    "standard_name": "hạt kê",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66788,
+    "recipe_id": "15613210",
+    "standard_id": 16,
+    "raw_name": "Hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66789,
+    "recipe_id": "15613210",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  }
+]

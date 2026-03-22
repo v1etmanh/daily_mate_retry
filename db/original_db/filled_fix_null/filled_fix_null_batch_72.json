@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51898,
+    "dish_title": "Bắp xào tôm",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45872,
+    "dish_title": "Bẹ sữa heo nướng BBQ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45871,
+    "dish_title": "Bẹ sữa heo nướng BBQ",
+    "ingredient_name": "xốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49422,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "bí xanh",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49416,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49415,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "dầu màu điều",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49418,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49423,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49419,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49424,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49414,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49420,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49421,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49417,
+    "dish_title": "Canh Bí & thịt gà ăn trưa #1",
+    "ingredient_name": "ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47547,
+    "dish_title": "Canh Bí Đao Nấu Tôm",
+    "ingredient_name": "bí xanh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47549,
+    "dish_title": "Canh Bí Đao Nấu Tôm",
+    "ingredient_name": "bột gà",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47551,
+    "dish_title": "Canh Bí Đao Nấu Tôm",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47550,
+    "dish_title": "Canh Bí Đao Nấu Tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47548,
+    "dish_title": "Canh Bí Đao Nấu Tôm",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47055,
+    "dish_title": "Canh Bò Nấu Dưa Cải Chua",
+    "ingredient_name": "bò",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47056,
+    "dish_title": "Canh Bò Nấu Dưa Cải Chua",
+    "ingredient_name": "cải chua",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47058,
+    "dish_title": "Canh Bò Nấu Dưa Cải Chua",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47057,
+    "dish_title": "Canh Bò Nấu Dưa Cải Chua",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43350,
+    "dish_title": "Canh Bầu Chua Nấu Tôm Thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43352,
+    "dish_title": "Canh Bầu Chua Nấu Tôm Thịt",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43351,
+    "dish_title": "Canh Bầu Chua Nấu Tôm Thịt",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53380,
+    "dish_title": "Canh Chua Chả Cá",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53365,
+    "dish_title": "Canh Chua Chả Cá",
+    "ingredient_name": "mắm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53364,
+    "dish_title": "Canh Chua Chả Cá",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53379,
+    "dish_title": "Canh Chua Chả Cá",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

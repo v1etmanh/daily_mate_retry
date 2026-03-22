@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 46109,
+    "recipe_id": "16542319",
+    "standard_id": 39,
+    "raw_name": "gừng đập dập",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46110,
+    "recipe_id": "16542319",
+    "standard_id": 31,
+    "raw_name": "sả đập dập",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46111,
+    "recipe_id": "16542319",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46112,
+    "recipe_id": "16542319",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46114,
+    "recipe_id": "16542319",
+    "standard_id": 11829,
+    "raw_name": "thanh quế",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 46115,
+    "recipe_id": "16542319",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46116,
+    "recipe_id": "16542319",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nấu nước luộc lòng",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46120,
+    "recipe_id": "16542319",
+    "standard_id": 7720,
+    "raw_name": "rượu nấu ăn",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46121,
+    "recipe_id": "16542319",
+    "standard_id": 9170,
+    "raw_name": "vỏ trái quýt",
+    "standard_name": "quýt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46122,
+    "recipe_id": "16542319",
+    "standard_id": 7938,
+    "raw_name": "Gia vị ướp phá lấu",
+    "standard_name": "phá lấu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46125,
+    "recipe_id": "16542319",
+    "standard_id": 7233,
+    "raw_name": "bột cà ri",
+    "standard_name": "curry powder",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46126,
+    "recipe_id": "16542319",
+    "standard_id": 1613,
+    "raw_name": "bột ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46130,
+    "recipe_id": "16542319",
+    "standard_id": 7314,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu điều",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46132,
+    "recipe_id": "16542319",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46136,
+    "recipe_id": "16542319",
+    "standard_id": 938,
+    "raw_name": "nước tắc",
+    "standard_name": "kumquat juice",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46138,
+    "recipe_id": "16542319",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46140,
+    "recipe_id": "16542319",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm",
+    "standard_name": "bird chili",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46141,
+    "recipe_id": "16559999",
+    "standard_id": 238,
+    "raw_name": "Chả cá chiên lượng tuỳ thích mua sẵn hoặc tự làm",
+    "standard_name": "chả cá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46142,
+    "recipe_id": "16559999",
+    "standard_id": 777,
+    "raw_name": "rau cải tuỳ ý kết hợp",
+    "standard_name": "mustard greens",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46143,
+    "recipe_id": "16559999",
+    "standard_id": 9,
+    "raw_name": "cà chua nhỏ",
+    "standard_name": "tomato",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46144,
+    "recipe_id": "16559999",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "coriander leaves",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46145,
+    "recipe_id": "16559999",
+    "standard_id": 24,
+    "raw_name": "t tươi",
+    "standard_name": "chili pepper",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 46146,
+    "recipe_id": "16559999",
+    "standard_id": 2992,
+    "raw_name": "mì ăn liền vị lẩu Thái",
+    "standard_name": "instant noodles",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46147,
+    "recipe_id": "16388301",
+    "standard_id": 1611,
+    "raw_name": "cá tuyết",
+    "standard_name": "cod",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46148,
+    "recipe_id": "16388301",
+    "standard_id": 5473,
+    "raw_name": "cá chẽm",
+    "standard_name": "sea bass",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46149,
+    "recipe_id": "16388301",
+    "standard_id": 1148,
+    "raw_name": "Sốt teriyaki",
+    "standard_name": "sauce",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46150,
+    "recipe_id": "16388301",
+    "standard_id": 395,
+    "raw_name": "dầu ô liu",
+    "standard_name": "olive oil",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46151,
+    "recipe_id": "16388301",
+    "standard_id": 83,
+    "raw_name": "hành tím bằm",
+    "standard_name": "shallot",
+    "confidence": 1.0
+  }
+]

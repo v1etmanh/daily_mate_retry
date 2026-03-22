@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 60632,
+    "recipe_id": "15926040",
+    "standard_id": 11827,
+    "raw_name": "Dâu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60633,
+    "recipe_id": "15926040",
+    "standard_id": 1589,
+    "raw_name": "muôi",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60634,
+    "recipe_id": "15926040",
+    "standard_id": 2832,
+    "raw_name": "bôt ngot",
+    "standard_name": "mỳ chính",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60635,
+    "recipe_id": "15926040",
+    "standard_id": 5850,
+    "raw_name": "hat nêm",
+    "standard_name": "hạt niêm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60636,
+    "recipe_id": "15926040",
+    "standard_id": 465,
+    "raw_name": "nươc măm",
+    "standard_name": "nước mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60637,
+    "recipe_id": "15926040",
+    "standard_id": 11833,
+    "raw_name": "nươc mau",
+    "standard_name": "nước màu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60638,
+    "recipe_id": "15926085",
+    "standard_id": 5575,
+    "raw_name": "goi rau câu deo Jelly gr",
+    "standard_name": "rau câu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60639,
+    "recipe_id": "15926085",
+    "standard_id": 1851,
+    "raw_name": "trai băp my",
+    "standard_name": "bắp mỹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60640,
+    "recipe_id": "15926085",
+    "standard_id": 285,
+    "raw_name": "nươc dưa tươi hoăc nươc loc",
+    "standard_name": "nước dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60641,
+    "recipe_id": "15926085",
+    "standard_id": 2387,
+    "raw_name": "đương gia gia m tuy theo khâu vi",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60642,
+    "recipe_id": "15926085",
+    "standard_id": 2246,
+    "raw_name": "sưa đăc ng Tho",
+    "standard_name": "sữa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60643,
+    "recipe_id": "15926085",
+    "standard_id": 10815,
+    "raw_name": "nươc côt dưa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60644,
+    "recipe_id": "15926085",
+    "standard_id": 1589,
+    "raw_name": "muôi",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60645,
+    "recipe_id": "15925802",
+    "standard_id": 121,
+    "raw_name": "bột bánh khọt pha sẵn",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60646,
+    "recipe_id": "15925802",
+    "standard_id": 587,
+    "raw_name": "bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60647,
+    "recipe_id": "15925802",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa mình dùng nước cốt dừa hộp",
+    "standard_name": "sữa dừa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60648,
+    "recipe_id": "15925802",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60650,
+    "recipe_id": "15925802",
+    "standard_id": 16,
+    "raw_name": "hành lá cắt nhỏ",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60651,
+    "recipe_id": "15925802",
+    "standard_id": 357,
+    "raw_name": "Tôm làm nhân tuỳ bạn thích lớn nhỏ lượng bột mình đổ tầm bánh",
+    "standard_name": "tôm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60652,
+    "recipe_id": "15925802",
+    "standard_id": 822,
+    "raw_name": "Xà lách rau xanh ăn kèm",
+    "standard_name": "rau xà lách",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60656,
+    "recipe_id": "15925802",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60657,
+    "recipe_id": "15925802",
+    "standard_id": 2363,
+    "raw_name": "tỏi trái ớt đâm nhuyễn",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60658,
+    "recipe_id": "15925802",
+    "standard_id": 8527,
+    "raw_name": "cà rốt và củ cải nhỏ làm đồ chua",
+    "standard_name": "đồ chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60699,
+    "recipe_id": "15922187",
+    "standard_id": 357,
+    "raw_name": "tôm lớn",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60700,
+    "recipe_id": "15922187",
+    "standard_id": 1071,
+    "raw_name": "wakame khô",
+    "standard_name": "rong biển",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60701,
+    "recipe_id": "15922187",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ to",
+    "standard_name": "nấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60702,
+    "recipe_id": "15922187",
+    "standard_id": 4977,
+    "raw_name": "súp gà",
+    "standard_name": "súp gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60704,
+    "recipe_id": "15922187",
+    "standard_id": 39,
+    "raw_name": "gừng non",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60705,
+    "recipe_id": "15922187",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60706,
+    "recipe_id": "15922187",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè thơm",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 53117,
+    "dish_title": "Bún Đuôi Heo",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43587,
+    "dish_title": "Bún Đậu Mắm Tôm",
+    "ingredient_name": "mắm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43588,
+    "dish_title": "Bún Đậu Mắm Tôm",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43586,
+    "dish_title": "Bún Đậu Mắm Tôm",
+    "ingredient_name": "riềng",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43585,
+    "dish_title": "Bún Đậu Mắm Tôm",
+    "ingredient_name": "tôm sú",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 51752,
+    "dish_title": "Bún Đậu Mắm Tôm (Bún Lá Mắm Tôm Bắc)",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51755,
+    "dish_title": "Bún Đậu Mắm Tôm (Bún Lá Mắm Tôm Bắc)",
+    "ingredient_name": "kinh giới",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51756,
+    "dish_title": "Bún Đậu Mắm Tôm (Bún Lá Mắm Tôm Bắc)",
+    "ingredient_name": "mắm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51754,
+    "dish_title": "Bún Đậu Mắm Tôm (Bún Lá Mắm Tôm Bắc)",
+    "ingredient_name": "tía tô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51757,
+    "dish_title": "Bún Đậu Mắm Tôm (Bún Lá Mắm Tôm Bắc)",
+    "ingredient_name": "đường",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51753,
+    "dish_title": "Bún Đậu Mắm Tôm (Bún Lá Mắm Tôm Bắc)",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51692,
+    "dish_title": "Bún Đậu Mắm Tôm Combo Cơ Bản",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51695,
+    "dish_title": "Bún Đậu Mắm Tôm Combo Cơ Bản",
+    "ingredient_name": "chanh",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51696,
+    "dish_title": "Bún Đậu Mắm Tôm Combo Cơ Bản",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51694,
+    "dish_title": "Bún Đậu Mắm Tôm Combo Cơ Bản",
+    "ingredient_name": "mắm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51693,
+    "dish_title": "Bún Đậu Mắm Tôm Combo Cơ Bản",
+    "ingredient_name": "quế",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 51697,
+    "dish_title": "Bún Đậu Mắm Tôm Combo Cơ Bản",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44475,
+    "dish_title": "Bún Đậu Mắm Tôm Lòng Heo Luộc",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44472,
+    "dish_title": "Bún Đậu Mắm Tôm Lòng Heo Luộc",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44473,
+    "dish_title": "Bún Đậu Mắm Tôm Lòng Heo Luộc",
+    "ingredient_name": "mắm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44471,
+    "dish_title": "Bún Đậu Mắm Tôm Lòng Heo Luộc",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44474,
+    "dish_title": "Bún Đậu Mắm Tôm Lòng Heo Luộc",
+    "ingredient_name": "đường",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53362,
+    "dish_title": "Bún Đậu Mắm Tôm Nhà Làm Siêu Dễ",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53361,
+    "dish_title": "Bún Đậu Mắm Tôm Nhà Làm Siêu Dễ",
+    "ingredient_name": "cốm",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 53363,
+    "dish_title": "Bún Đậu Mắm Tôm Nhà Làm Siêu Dễ",
+    "ingredient_name": "mắm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53360,
+    "dish_title": "Bún Đậu Mắm Tôm Nhà Làm Siêu Dễ",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53359,
+    "dish_title": "Bún Đậu Mắm Tôm Nhà Làm Siêu Dễ",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53358,
+    "dish_title": "Bún Đậu Mắm Tôm Nhà Làm Siêu Dễ",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43643,
+    "dish_title": "Bún Đậu Thịt Luộc Mắm Tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43642,
+    "dish_title": "Bún Đậu Thịt Luộc Mắm Tôm",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

@@ -1,0 +1,1122 @@
+ID     NAME                                     NAME_EN
+--------------------------------------------------------------------------------
+7      măng                                     bamboo shoots
+9      cà chua                                  tomato
+10     xương gà                                 chicken bones
+16     hành lá                                  green onion
+21     rau răm                                  vietnamese coriander
+24     ớt                                       chili pepper
+25     bông cải                                 broccoli
+26     nấm mèo                                  wood ear mushroom
+28     dứa                                      pineapple
+29     tỏi                                      garlic
+31     sả                                       lemongrass
+39     gừng                                     ginger
+41     cua                                      crab
+50     lạp xưởng                                chinese sausage
+52     đậu que                                  green beans
+62     sườn heo                                 pork ribs
+63     đậu đen                                  black beans
+65     rau má                                   pennywort
+67     chanh                                    lime
+71     đậu hũ                                   tofu
+73     khoai muống                              water spinach stem
+78     bắp ngọt                                 sweet corn
+80     tai heo                                  pork ear
+81     cà rốt                                   carrot
+82     cóc                                      ambarella fruit
+83     hành tím                                 shallot
+98     bò viên                                  beef balls
+102    rau ngò rí                               coriander leaves
+105    rau ngổ                                  rice paddy herb
+109    táo                                      apple
+110    hạt óc chó                               walnut
+116    da heo                                   pork skin
+120    bột tỏi                                  garlic powder
+121    bột                                      flour
+125    wasabi                                   wasabi paste
+133    nạm bò                                   beef brisket
+136    cải thìa                                 bok choy
+139    bạc hà                                   mint
+140    lá giang                                 giang leaves
+142    bò                                       beef
+146    trứng                                    egg
+149    heo                                      pork
+150    lá lốt                                   betel leaves
+151    nấm                                      mushroom
+164    cải bó xôi                               spinach
+166    hành tây                                 onion
+170    mirin                                    mirin
+177    bột rau câu                              agar powder
+183    ngũ vị hương                             five spice powder
+191    su su                                    chayote
+195    bầu                                      bottle gourd
+199    nấm đông cô                              shiitake mushroom
+202    hoa chuối                                banana blossom
+203    xoài                                     mango
+206    đậu phộng                                peanut
+215    khoai tây                                potato
+216    hộp đậu trắng                            canned white beans
+220    kèo nèo                                  water lily stem
+224    cá hú                                    pangasius fish
+225    dấm                                      vinegar
+232    đuôi heo                                 pork tail
+233    củ cải                                   radish
+238    chả cá                                   fish cake
+243    cá hường                                 snapper
+245    dưa leo                                  cucumber
+248    cá đuối                                  stingray
+262    nấm đùi gà                               king oyster mushroom
+268    xương heo                                pork bones
+273    giò heo                                  pork hock
+279    đậu                                      beans
+281    nọng heo                                 pork jowl
+285    nước dừa                                 coconut water
+286    củ hũ dừa                                coconut core
+289    rau muống                                water spinach
+291    chả lụa                                  vietnamese ham
+299    cải bắp                                  cabbage
+309    bí đỏ                                    pumpkin
+312    kim chi                                  kimchi
+315    sườn bò                                  beef ribs
+324    su hào                                   kohlrabi
+327    hạt mùi                                  coriander seeds
+350    thì là                                   dill
+351    đậu hà lan                               peas
+353    cần tây                                  celery
+354    nấm rơm                                  straw mushroom
+355    hạt điều                                 cashew
+357    tôm                                      shrimp
+360    đậu xanh                                 mung beans
+362    thịt vai                                 pork shoulder
+366    mướp                                     luffa
+371    giá                                      bean sprouts
+377    dưa chua                                 pickled mustard
+383    nghêu                                    clam
+384    cá bông lau                              pangasius fish
+387    cải xoăn                                 kale
+389    bún                                      rice vermicelli
+395    dầu ô liu                                olive oil
+397    bacon                                    bacon
+398    kem                                      cream
+411    bí                                       squash
+416    cá khoai                                 silver whiting
+421    mơ                                       apricot
+422    ớt hiểm                                  bird chili
+429    dầu màu điều                             annatto oil
+457    ớt chuông                                bell pepper
+458    cánh gà                                  chicken wings
+465    nước mắm                                 fish sauce
+492    xốt                                      sauce
+499    cam                                      orange
+513    trứng cá                                 fish roe
+520    tàu xì                                   fermented black beans
+521    chả thác lác                             fish cake
+531    dừa                                      coconut
+535    cá tầm                                   sturgeon
+554    tép                                      small shrimp
+561    cần                                      celery
+564    đùi gà                                   chicken drumstick
+569    bánh trôi                                glutinous rice balls
+572    kì trứng                                 egg yolk
+573    cá thu                                   mackerel
+575    cá trứng                                 capelin
+580    nạc heo                                  lean pork
+583    lưỡi heo                                 pork tongue
+587    bột nghệ                                 turmeric powder
+590    cá thác lác                              featherback fish
+591    bông bí                                  pumpkin flower
+596    ếch                                      frog
+600    củ cải đỏ                                red radish
+601    củ dền                                   beetroot
+611    cá lóc                                   snakehead fish
+612    gạo                                      rice
+620    măng chua                                pickled bamboo shoots
+624    cá chim                                  pomfret
+627    nếp                                      glutinous rice
+630    cá trê                                   catfish
+631    cá hố                                    hairtail fish
+640    lá me                                    tamarind leaves
+641    hàu                                      oyster
+651    cải cúc                                  garland chrysanthemum
+653    cá cờ                                    marlin
+656    cá ồ                                     anchovy
+663    lá chuối                                 banana leaves
+668    ba chỉ bò                                beef belly
+671    cá thác lá                               featherback fish
+683    cá viên                                  fish balls
+691    húng láng                                spearmint
+692    kinh giới                                vietnamese balm
+703    lá chanh                                 kaffir lime leaves
+713    củ nén                                   shallot
+717    lạc                                      peanut
+720    trứng bắc thảo                           century egg
+730    cơm                                      cooked rice
+731    hộp cá ngừ                               canned tuna
+749    gochujang                                gochujang
+766    bơ                                       butter
+774    dạ dày                                   pork stomach
+777    rau cải                                  mustard greens
+780    nghệ                                     turmeric
+783    củ sen                                   lotus root
+791    cá cơm                                   anchovy
+799    đậu rồng                                 winged beans
+816    chân nấm                                 mushroom stem
+820    rau mè                                   perilla leaves
+822    rau xà lách                              lettuce
+824    rosémary                                 rosemary
+837    bánh tráng                               rice paper
+840    trứng vịt                                duck egg
+843    mồng tơi                                 malabar spinach
+851    miso                                     miso
+852    cá nâu                                   spotted scat
+856    nui                                      pasta
+859    cá rô phi                                tilapia
+865    nấm kim châm                             enoki mushroom
+878    bạch tuộc                                octopus
+879    mùi tàu                                  culantro
+880    sụn heo                                  pork cartilage
+887    tía tô                                   perilla leaves
+888    cá nục                                   mackerel
+905    chả bì                                   shredded pork roll
+908    súp chay                                 vegetarian soup
+910    bí xanh                                  winter melon
+917    rau mùi                                  coriander leaves
+927    quẩy                                     fried dough
+934    cá đối                                   mullet
+938    nước tắc                                 kumquat juice
+948    cá ba sa                                 pangasius fish
+956    đậu bắp                                  okra
+958    tinh chất cà chua                        tomato paste
+975    mít non                                  young jackfruit
+985    nấm sò                                   oyster mushroom
+996    cá chạch                                 loach
+998    nõn tôm                                  shrimp
+1006   mật mía                                  molasses
+1018   lòng trắng trứng                         egg white
+1020   cá diêu hồng                             tilapia
+1027   cá linh                                  anchovy
+1036   thịt xông khói                           smoked bacon
+1037   sắn                                      cassava
+1038   cải đỏ                                   red mustard greens
+1041   cá ngừ                                   tuna
+1050   me                                       tamarind
+1051   cơm dừa                                  coconut flesh
+1062   cá bống                                  goby fish
+1069   cá hồng                                  snapper
+1071   rong biển                                seaweed
+1074   cải trắng                                napa cabbage
+1089   cá bạc má                                mackerel
+1090   mía                                      sugarcane
+1091   riềng                                    galangal
+1098   bánh mì                                  bread
+1099   cá kèo                                   goby fish
+1100   bột mì                                   wheat flour
+1105   cá                                       fish
+1107   cá duội                                  hairtail fish
+1110   củ                                       root vegetable
+1112   gạo tẻ                                   white rice
+1117   chuối                                    banana
+1129   phô mai                                  cheese
+1136   rau tần ô                                chrysanthemum greens
+1143   bít tết bò                               beef steak
+1145   bột xù                                   breadcrumbs
+1148   sốt                                      sauce
+1150   táo tàu                                  jujube
+1153   nước hầm gà                              chicken broth
+1157   bông điên điển                           sesbania flower
+1159   bông súng                                water lily stem
+1162   lòng heo                                 pork offal
+1183   dưa gang                                 oriental melon
+1184   gạo nếp                                  glutinous rice
+1186   tempeh                                   tempeh
+1187   nước dùng                                broth
+1192   gân bò                                   beef tendon
+1206   sa kê                                    breadfruit
+1207   bột ngô                                  cornstarch
+1211   miến                                     glass noodles
+1225   chả trứng                                egg loaf
+1228   cá rô                                    perch
+1263   rau đay                                  jute leaves
+1303   dầu vừng                                 sesame oil
+1306   nem lụi                                  grilled pork skewers
+1314   mùng tơi                                 malabar spinach
+1322   ba rô                                    leek
+1325   lá gừng                                  ginger leaves
+1330   nấm hương                                shiitake mushroom
+1334   dưa hấu                                  watermelon
+1361   sò                                       clam
+1369   mật                                      honey
+1382   ngó sen                                  lotus stem
+1402   nấm ngư trắng                            oyster mushroom
+1405   sườn chay                                vegetarian ribs
+1406   bột gạo                                  rice flour
+1408   bì heo                                   pork skin
+1410   thịt ba rọi                              pork belly
+1411   tắc                                      kumquat
+1419   cải bẹ xanh                              mustard greens
+1425   lê                                       pear
+1426   hoàng kì                                 astragalus root
+1427   tuyết nhĩ                                snow fungus
+1430   cá mòi                                   sardine
+1438   củ khoai                                 potato
+1452   chả chay                                 vegetarian sausage
+1458   kỷ tử                                    goji berries
+1464   cá trắm                                  grass carp
+1467   rau mầm                                  microgreens
+1469   lá nori                                  nori
+1470   đậu đỏ                                   red beans
+1471   nấm linh chi                             lingzhi mushroom
+1473   nấm hầu thủ                              lion's mane mushroom
+1481   cá nheo                                  catfish
+1482   óc heo                                   pork brain
+1498   chân gà                                  chicken feet
+1499   huyết heo                                pork blood
+1501   măng tây                                 asparagus
+1502   nấm tuyết                                snow fungus
+1517   rau thơm                                 herbs
+1518   ức gà                                    chicken breast
+1520   hành ngò                                 scallion cilantro
+1526   cá lăng                                  catfish
+1533   thịt nạc                                 lean pork
+1535   sữa chua                                 yogurt
+1536   bột khai                                 ammonium bicarbonate
+1545   nhãn                                     longan
+1547   nước cốt                                 extract
+1548   vani                                     vanilla
+1550   nước chao                                fermented tofu sauce
+1556   đậu trắng                                white beans
+1563   khế                                      starfruit
+1566   ngồng cải                                flowering greens
+1577   hoa thiên lý                             tonkin jasmine flower
+1585   bột nếp                                  glutinous rice flour
+1589   gia vị                                   seasoning
+1593   tinh chất vani                           vanilla extract
+1594   agar                                     agar
+1596   nước cẩm                                 magenta plant extract
+1597   nước lá dứa                              pandan extract
+1604   ngải cứu                                 mugwort
+1610   bột cumin                                cumin powder
+1611   cá tuyết                                 cod
+1613   bột ngũ vị hương                         five spice powder
+1620   thịt cốt lết                             pork chop
+1624   thịt ngan                                duck meat
+1631   tim gà                                   chicken heart
+1632   nấm ngọc châm                            shimeji mushroom
+1639   rau dền                                  amaranth greens
+1642   cải thảo                                 napa cabbage
+1648   cháo bí đỏ                               pumpkin porridge
+1650   chè vải                                  lychee dessert
+1653   nấm ngư xám                              oyster mushroom
+1656   sữa đậu nành                             soy milk
+1659   lá dứa                                   pandan leaves
+1679   ốc                                       snail
+1707   trân châu                                tapioca pearls
+1719   siro                                     syrup
+1720   khoai                                    potato
+1735   trám                                     canarium fruit
+1737   lát                                      galangal
+1739   cacao                                    cocoa
+1747   mè                                       sesame seeds
+1755   xá xíu                                   char siu
+1766   súp                                      soup
+1772   bánh rong biển                           seaweed snack
+1777   xơ mít                                   jackfruit fiber
+1780   chanh dây                                passion fruit
+1782   mạch nha                                 malt syrup
+1786   đậu non                                  silken tofu
+1789   chả cua                                  crab cake
+1791   ghẹ                                      blue crab
+1795   mì                                       noodles
+1809   cải chíp                                 bok choy
+1812   củ sắn                                   jicama
+1817   cải rổ                                   leaf mustard
+1827   đùi ếch                                  frog legs
+1828   chôm chôm                                rambutan
+1833   lườn cá                                  fish fillet
+1843   lá mơ                                    perilla leaves
+1851   bắp mỹ                                   sweet corn
+1864   chà bông                                 pork floss
+1866   tôm lột size trung                       shrimp
+1867   lá sung                                  fig leaves
+1875   bí tròn                                  squash
+1881   bánh phở                                 pho noodles
+1882   xương bò                                 beef bones
+1884   thịt nạm                                 beef flank
+1888   rau om                                   rice paddy herb
+1889   bánh phồng tôm                           shrimp crackers
+1890   mè ớt                                    chili sesame
+1900   rau bún                                  herbs
+1907   mận                                      plum
+1920   vỏ bánh                                  dough wrapper
+1921   nhân bánh                                filling
+1924   bao tử cá                                fish maw
+1925   đọt bầu                                  bottle gourd shoots
+1931   cá chuồn                                 flying fish
+1944   đậu trứng                                egg tofu
+1965   ruốc heo                                 pork floss
+1968   hành tăm                                 shallot
+1979   guanciale                                guanciale
+1990   nấm nhung hươu                           enoki mushroom
+1994   sò điệp                                  scallop
+2005   cá dìa                                   rabbitfish
+2013   lòng đỏ trứng                            egg yolk
+2014   mì udon                                  udon noodles
+2018   bắp chuối                                banana blossom
+2020   gầu bò                                   beef brisket
+2028   dưa cải                                  pickled mustard greens
+2039   củ kiệu                                  pickled shallots
+2043   dạ dày bò                                beef tripe
+2048   tiết heo                                 pork blood
+2051   đồ cuốn ăn kèm                           assorted vegetables
+2054   bánh đa nem                              rice paper
+2057   vỏ hoành thánh                           wonton wrappers
+2061   vỏ bánh pateso                           puff pastry
+2062   pate                                     pate
+2065   chả rong biển                            seaweed roll
+2066   bánh đa mì gạo phở                       rice noodles
+2074   cà đắng                                  bitter eggplant
+2089   cà pháo                                  thai eggplant
+2102   cùi dừa                                  coconut meat
+2107   vó bò                                    beef omasum
+2112   mùng                                     taro stem
+2116   tầm bóp                                  ground cherry
+2121   chay                                     vegetarian
+2135   thịt vai bò                              beef shoulder
+2137   thịt cá lăng                             catfish fillet
+2148   thịt ếch                                 frog meat
+2164   cá ngần                                  glass fish
+2165   chanh trà                                tea lemon
+2186   cổ cánh vịt                              duck neck wing
+2189   phù trúc                                 tofu skin
+2194   viên chả                                 meatballs
+2210   rau sống                                 fresh herbs
+2211   rau càng cua                             pea shoots
+2212   cá hộp                                   canned fish
+2213   men                                      yeast
+2246   sữa                                      milk
+2255   hủ tiếu                                  hu tieu noodles
+2256   hành hẹ                                  chives
+2264   rau xoong                                watercress
+2265   noodle                                   noodles
+2275   bánh                                     cake
+2285   thăn heo                                 pork tenderloin
+2286   lá cách                                  melientha leaves
+2287   đậu khuôn                                tofu
+2304   đậu đũa                                  yardlong beans
+2316   gạo lứt                                  brown rice
+2339   olive                                    olive
+2349   màu điều                                 annatto oil
+2354   cá tra                                   pangasius
+2358   jambon                                   ham
+2363   hành tỏi ớt                              garlic chili mix
+2381   thịt cua                                 crab meat
+2387   đường                                    sugar
+2390   chân sứa                                 jellyfish
+2391   dưa                                      pickles
+2393   tré                                      fermented pork
+2400   bánh hỏi                                 rice vermicelli sheet
+2407   ổi                                       guava
+2416   xôi                                      sticky rice
+2438   dọc mùng                                 taro stem
+2440   sách bò                                  beef tripe
+2451   mứt                                      fruit preserve
+2452   hương thảo                               rosemary
+2454   sô cô la                                 chocolate
+2472   yến mạch                                 oats
+2487   cà tím                                   eggplant
+2489   nước mẻ                                  fermented rice sauce
+2501   ngồng                                    flowering greens
+2513   satế                                     chili satay
+2558   bí hồ lô                                 bottle gourd
+2569   tỏi gừng                                 garlic ginger
+2571   khoai lang                               sweet potato
+2578   củ su su                                 chayote
+2580   thịt nạc vai                             pork shoulder
+2586   cật heo                                  pork kidney
+2595   chả cá basa                              fish cake
+2601   sữa hạt                                  nut milk
+2608   mọc viên                                 pork balls
+2611   mì somen                                 somen noodles
+2627   bột rau củ                               vegetable powder
+2631   nấm ngư nâu                              oyster mushroom
+2638   thăn bò                                  beef tenderloin
+2652   tôm viên                                 shrimp balls
+2656   tảo biển                                 seaweed
+2661   cải ngọt                                 choy sum
+2663   thân rau muống                           water spinach stem
+2666   củ canh                                  root vegetable
+2682   rau lang                                 sweet potato leaves
+2690   nước ép dứa                              pineapple juice
+2699   lá                                       leaves
+2706   chim cút                                 quail
+2724   ngưu bàng                                burdock root
+2754   cá he                                    carp
+2768   cải brussels                             brussels sprouts
+2775   chả nấm                                  mushroom sausage
+2776   nem bưởi                                 grapefruit roll
+2797   cốm                                      young rice
+2798   thịt                                     meat
+2805   thịt ngựa                                horse meat
+2812   đọt lá chùm ruột                         star gooseberry leaves
+2817   gấc                                      gac fruit
+2831   tảo xoắn                                 spirulina
+2832   mỳ chính                                 MSG
+2844   cá chay                                  chub fish
+2854   cá da trơn                               catfish
+2856   thịt thăn                                pork tenderloin
+2862   mướp đắng                                bitter melon
+2890   lòng gà                                  chicken offal
+2902   bánh gạo                                 rice cake
+2917   đế pizza                                 pizza crust
+2933   tần ô                                    chrysanthemum greens
+2978   rong sụn                                 seaweed
+2985   ngò gai                                  culantro
+2992   mì gói                                   instant noodles
+3005   dầu giấm                                 vinaigrette
+3020   cải diếp                                 lettuce
+3024   bột ngò                                  coriander powder
+3044   gà                                       chicken
+3045   sâm                                      ginseng
+3059   kiệu                                     pickled shallots
+3074   lá kim                                   needle leaves
+3077   hạnh nhân                                almond
+3093   ớt sừng                                  red chili
+3096   cá đù                                    drum fish
+3104   cá hói                                   tilapia
+3105   cá riềng                                 galangal fish
+3111   ớt xanh                                  green chili
+3149   đuôi bò                                  oxtail
+3157   nạm                                      beef flank
+3177   rau đắng                                 bitter herb
+3203   cốt bún                                  rice vermicelli
+3223   vú heo                                   pork udder
+3228   bò nạm                                   beef flank
+3232   bột nấu lagu                             curry powder
+3256   tỏi tây                                  leek
+3265   hẹ                                       chives
+3278   giò                                      pork sausage
+3283   chả cá lóc                               fish cake
+3288   tim heo                                  pork heart
+3294   ngư                                      fish
+3305   ngao                                     clam
+3328   chả                                      sausage
+3382   rong tóc tiên                            seaweed
+3392   lá bắp sú                                cabbage leaves
+3408   lườn gà                                  chicken breast
+3417   mắm                                      fish sauce
+3421   cải xoong                                watercress
+3450   chả giò                                  spring rolls
+3452   bún gạo                                  rice vermicelli
+3469   salad                                    salad
+3475   gói cá trích                             herring packet
+3481   dền đỏ                                   red amaranth
+3488   dền                                      amaranth greens
+3495   hoa đậu biếc                             butterfly pea flower
+3523   nụ hoa mướp                              luffa flower
+3528   lứt                                      brown rice
+3532   bắp nếp                                  glutinous corn
+3546   chả ốc                                   snail sausage
+3547   xíu mại                                  siu mai
+3552   đậu gà                                   chickpeas
+3578   cải cầu vồng                             rainbow chard
+3604   giò chay                                 vegetarian sausage
+3608   đu đủ                                    papaya
+3611   nấm bạch tuyết                           white mushroom
+3613   lá sả                                    lemongrass leaves
+3635   bí ngòi                                  zucchini
+3638   rau nêm                                  seasoning herbs
+3649   ruột nghêu                               clam meat
+3657   cá măng                                  barracuda
+3658   lá rau khoai lang                        sweet potato leaves
+3662   nước chanh                               lemon juice
+3672   cá diếc                                  crucian carp
+3680   mì quảng                                 quang noodles
+3689   phồng tôm                                shrimp crackers
+3694   hến                                      clam
+3725   nấm ngư                                  oyster mushroom
+3735   bánh mì sandwich                         sandwich bread
+3736   nhỏ bằng nắm đấm bắp cải                 cabbage
+3738   ketchup                                  ketchup
+3752   cá sặc                                   snakehead fish
+3755   chà là                                   date fruit
+3773   bánh pizza                               pizza
+3779   lá ngải tía                              perilla leaves
+3789   cải dún                                  leaf mustard
+3807   mọc bò                                   beef balls
+3810   nấm tràm                                 melaleuca mushroom
+3826   sừng                                     horn
+3835   cá song                                  grouper
+3839   cá nhòng                                 anchovy
+3878   vịt                                      duck
+3888   thanh long                               dragon fruit
+3897   rau bồng                                 sea vegetable
+3902   cà                                       eggplant
+3925   mayonnaise                               mayonnaise
+3940   bột báng                                 tapioca starch
+3942   thạch rau câu                            agar jelly
+3962   hạt đậu                                  beans
+3969   soup                                     soup
+3983   bột gừng                                 ginger powder
+3993   dầu hạt cải                              canola oil
+4002   couscous                                 couscous
+4009   cranberry                                cranberry
+4012   môn                                      taro
+4020   riêu cua                                 crab paste
+4039   chùm ngây                                moringa leaves
+4044   bạch hoa                                 white flower
+4057   khoai sọ                                 taro
+4068   chả bò                                   beef sausage
+4069   bún bò                                   beef noodles
+4097   cá mặt quỷ                               stonefish
+4106   sò huyết                                 blood cockle
+4117   cá đao                                   hairtail fish
+4138   mộc                                      wood ear
+4156   bống                                     goby fish
+4160   điều                                     cashew
+4186   bánh xèo                                 pancake
+4198   cá nhám đốm                              shark
+4206   vải thiều                                lychee
+4212   dưa hồng                                 cantaloupe
+4223   đùi vịt                                  duck leg
+4230   rong                                     seaweed
+4263   huyết bò                                 beef blood
+4293   vảy cá                                   fish scales
+4313   đậu que vàng                             yellow beans
+4315   dầu hạt nho                              grapeseed oil
+4317   xà lách tím                              red lettuce
+4325   lá nếp                                   pandan leaves
+4351   cánh cá                                  fish wing
+4362   thăn bê                                  veal tenderloin
+4370   lá bắp cải                               cabbage leaves
+4399   mực ống                                  squid
+4417   thịt nguội                               ham
+4444   cá hokke                                 hokke fish
+4446   nhân bánh tôm                            shrimp filling
+4452   thịt trâu                                water buffalo
+4457   cải muỗng                                bok choy
+4485   mực                                      squid
+4491   cá chốt                                  catfish
+4506   coca-cola                                coca cola
+4511   cá ngạnh                                 catfish
+4516   tôm sú                                   shrimp
+4535   cơm gà                                   chicken rice
+4548   bồ công anh                              dandelion
+4570   rau má baby                              pennywort
+4589   mỡ heo                                   lard
+4597   bánh cống                                fried cake
+4608   cầu gai                                  sea urchin
+4615   bột gia vị                               seasoning powder
+4619   dâu tây                                  strawberry
+4620   fettucine                                fettuccine
+4621   tomyum paste                             tom yum paste
+4680   bắp bò mỏng                              beef shank
+4690   cá chép                                  carp
+4707   bột gà                                   chicken powder
+4726   đầu gà                                   chicken head
+4729   thịt bằm                                 ground pork
+4769   cải chip                                 bok choy
+4781   váng đậu                                 tofu skin
+4823   cá dứa                                   pangasius
+4831   nem chua                                 fermented pork
+4833   cá nhụ                                   threadfin
+4870   mùi tây                                  parsley
+4874   thạch                                    jelly
+4875   bánh oreo                                oreo cookies
+4876   bít tết                                  beef steak
+4888   tàu hũ ky                                tofu skin
+4917   su                                       cabbage
+4936   cá cam                                   amberjack
+4945   cá trôi                                  carp
+4948   đuôi cá thu                              mackerel tail
+4952   cá p                                     fish
+4958   ớt tứ xuyên                              sichuan pepper
+4961   cá đổng                                  threadfin bream
+4977   súp gà                                   chicken soup
+4978   baking soda                              baking soda
+4986   lòng cá                                  fish offal
+4999   vả                                       fig
+5006   cá bò                                    triggerfish
+5027   sụn lưỡi heo                             pork cartilage
+5032   bánh đa mè                               sesame rice cracker
+5034   bề bề                                    mantis shrimp
+5037   vỏ bò bía                                popiah wrapper
+5049   rau dớn                                  fern shoots
+5071   huyết                                    blood
+5072   bánh chả                                 meat pastry
+5093   đỗ                                       beans
+5111   nước ép                                  juice
+5146   cải                                      mustard greens
+5179   bộ lòng vịt                              duck offal
+5191   trà xanh                                 green tea
+5195   chanh ớt rau thơm                        lime chili herbs
+5220   hộp nấm                                  canned mushrooms
+5239   thanh cua                                crab stick
+5247   thịt lườn                                chicken breast
+5260   phi lê cá lóc                            snakehead fillet
+5288   thịt hến                                 clam meat
+5292   bánh quẩy                                youtiao
+5296   hạt màu điều                             annatto seeds
+5297   mứt ớt                                   chili jam
+5307   lá hương thảo                            rosemary
+5325   nén                                      leek
+5344   trái cây                                 fruit
+5363   bột gấc                                  gac powder
+5397   mã thầy                                  water chestnut
+5413   rạm                                      crab
+5419   cải roquette                             arugula
+5425   rau đậu hòa lan                          snow pea shoots
+5436   lá vừng                                  perilla leaves
+5438   nấm hoàng kim                            golden mushroom
+5447   thịt nai                                 venison
+5468   cọ                                       palm fruit
+5473   cá chẽm                                  sea bass
+5478   sụn xương                                cartilage
+5492   đậu ngự                                  lima beans
+5518   cá sơn                                   reef fish
+5525   lá mì                                    cassava leaves
+5537   gan gà                                   chicken liver
+5539   mỡ gà                                    chicken fat
+5575   rau câu                                  agar
+5577   hạt granola                              granola
+5583   cá lù đù                                 croaker fish
+5585   cháo                                     porridge
+5586   hải sản                                  seafood
+5591   cổ vịt                                   duck neck
+5625   sen                                      lotus
+5642   la hán                                   luo han guo
+5643   nha đam                                  aloe vera
+5650   chả mực                                  squid cake
+5698   mentsuyu                                 mentsuyu
+5715   mỡ                                       lard
+5752   lá bò bía                                popiah wrapper
+5757   tôm tít                                  mantis shrimp
+5786   cá hiếu                                  fish
+5802   đại táo                                  jujube
+5805   cá bè                                    fish
+5809   cải non                                  baby mustard greens
+5816   lá tỏi                                   garlic leaves
+5837   oyster                                   oyster
+5842   củ nghệ                                  turmeric root
+5843   lá nghệ                                  turmeric leaves
+5850   hạt niêm                                 seasoning granules
+5859   kho cá                                   braised fish
+5867   bánh khoai tây                           potato cake
+5878   bì                                       pork skin
+5896   rong nho                                 sea grapes
+5932   trứng cút                                quail eggs
+5965   đọt                                      shoots
+5984   nước cam                                 orange juice
+6001   bao tử heo                               pork stomach
+6013   cá liệt                                  fish
+6027   thịt chay                                plant-based meat
+6051   rau bí                                   pumpkin leaves
+6053   topping                                  topping
+6084   cá lạc                                   fish
+6101   nước                                     water
+6102   đọt su su                                chayote shoots
+6103   tàu lá chuối                             banana leaves
+6131   hạt dưa                                  watermelon seeds
+6135   lòng bò                                  beef offal
+6142   cá ngân                                  fish
+6160   thảo mộc                                 herbs
+6164   gan                                      liver
+6165   lòng non                                 pork intestine
+6173   rau tạp                                  mixed greens
+6175   thốt nốt                                 palm sugar
+6176   lá chè                                   tea leaves
+6195   hoa gừng                                 ginger flower
+6199   mầm tỏi                                  garlic sprouts
+6202   mầm cải                                  mustard sprouts
+6210   lá sen                                   lotus leaves
+6211   gan lợn                                  pork liver
+6248   tim                                      heart
+6266   củ ngải                                  galangal
+6270   dấp cá                                   fish mint
+6271   gốc                                      root
+6320   lá sách                                  tripe leaf
+6353   cá chình                                 eel
+6367   cơm lứt                                  brown rice
+6376   ngồng tỏi                                garlic scapes
+6382   tuỷ bò                                   beef marrow
+6436   gỏi                                      salad
+6439   bã đậu                                   soy pulp
+6446   bí nụ                                    pumpkin buds
+6463   chả huế                                  hue sausage
+6470   bẹ sữa heo                               pork udder
+6475   bê                                       veal
+6479   tủy heo                                  pork marrow
+6480   trứng mực                                squid eggs
+6494   đế bánh pizza                            pizza crust
+6501   xốt salad                                salad dressing
+6505   gan cá                                   fish liver
+6512   ngó khoai                                taro stems
+6516   mắc khén                                 mak khen pepper
+6517   má heo                                   pork jowl
+6524   kicap                                    sweet soy sauce
+6548   ngao hoa                                 clams
+6561   nhân                                     filling
+6566   lòng vịt                                 duck intestine
+6575   cáy còng                                 crab
+6635   rau mầm tuỳ chọn                         microgreens
+6643   thịt lợn thịt bò                         mixed meat
+6646   lá lốt hoặc ăn kèm rau kinh giới cũng được betel leaves
+6650   cà bát xanh                              eggplant
+6671   cồi sò điệp                              scallop meat
+6678   bột bánh canh                            tapioca flour
+6763   mì căn                                   seitan
+6766   cải beet                                 beet greens
+6777   bún tàu                                  glass noodles
+6783   tóp mỡ                                   pork cracklings
+6787   nếp cẩm                                  black glutinous rice
+6788   nui tóc tiên                             angel hair pasta
+6801   tương ớt                                 chili sauce
+6807   cá bã trầu                               fish
+6810   rau lợn                                  herb
+6829   nước thịt kho                            braising sauce
+6847   đậu khuôn trắng lớn hoặc bìa đậu nhỏ     tofu
+6848   xôi vò                                   sticky rice
+6890   phổ tai                                  seaweed
+6914   cá dây                                   fish
+6949   cá lòng tong                             fish
+6954   rau rocket                               arugula
+6958   đậu hũ trứng                             egg tofu
+6977   ốc bưu                                   apple snail
+6980   bông nấm                                 mushroom
+7014   sambal                                   sambal
+7050   mắm ruốc                                 shrimp paste
+7069   chanh vắt nước cốt                       lime juice
+7093   rau vón                                  herb
+7102   lá đu đủ                                 papaya leaves
+7115   tai mèo                                  wood ear mushroom
+7147   dầu nấm                                  mushroom oil
+7149   bột panko                                panko breadcrumbs
+7150   bột cajun                                cajun seasoning
+7178   bột yến mạch                             oat flour
+7186   bông cải trắng                           cauliflower
+7194   thịt gân                                 beef tendon
+7202   đậu nưa                                  konjac
+7204   cá nhạc                                  fish
+7222   vụn rong biển                            seaweed flakes
+7230   cá saba                                  mackerel
+7233   cà ri                                    curry powder
+7280   bánh chả cá thu                          fish cake
+7283   khoai từ                                 yam
+7288   cá halibut                               halibut
+7300   café                                     coffee
+7314   dầu điều                                 annatto oil
+7322   xúp mì                                   noodle soup
+7332   ngan                                     muscovy duck
+7338   bột agar                                 agar powder
+7395   gan vịt                                  duck liver
+7421   đào                                      peach
+7453   lá tàu hủ                                tofu skin
+7479   đậu mix                                  mixed beans
+7498   mỳ trứng                                 egg noodles
+7499   vụn bề bề                                mantis shrimp
+7505   bông chuối                               banana blossom
+7515   bột asafoetida                           asafoetida powder
+7516   nụ bí                                    pumpkin buds
+7531   patê                                     pate
+7544   salmon                                   salmon
+7551   tahini                                   tahini
+7565   kem whipping                             whipping cream
+7566   rau basil                                basil
+7577   bột bánh bò                              rice flour
+7581   thịt bê                                  veal
+7582   cá kình                                  fish
+7595   hành tỏi                                 garlic and onion
+7608   dưa kiệu                                 pickled leeks
+7647   bột làm bánh mì                          bread flour
+7669   hành hành lá rau mùi ngò thơm            mixed herbs
+7671   nhân thịt                                meat filling
+7682   rau cải ngồng                            choy sum
+7702   rau húng chó                             mint
+7720   rượu                                     cooking wine
+7722   bắp bò                                   beef shank
+7726   nước nắm                                 fish sauce
+7742   ruột heo                                 pork intestine
+7753   khoai môn                                taro
+7755   thịt tôm                                 shrimp meat
+7766   thịt chà bông                            pork floss
+7833   cỏ linh lăng                             alfalfa
+7835   đậu lupin                                lupin beans
+7836   tôm hùm                                  lobster
+7858   trái cherry                              cherry
+7893   vỏ bánh mandu                            dumpling wrapper
+7908   thịt viên                                meatballs
+7913   nhân mandu                               dumpling filling
+7924   súp bún bò                               beef noodle soup
+7929   chà chua                                 pickled vegetables
+7938   phá lấu                                  braised offal
+7953   sứa                                      jellyfish
+7988   rau tàu bay                              herb
+7991   samphire                                 samphire
+7994   riêu                                     crab paste
+7997   ram                                      fried spring rolls
+7998   tàu hủ ky                                tofu skin
+8055   bột ớt                                   chili powder
+8069   lá bạc hà                                mint leaves
+8103   rau thơm cho vào lúc sau                 herbs
+8147   chao                                     fermented tofu
+8151   hạt                                      seeds
+8161   dầu hào                                  oyster sauce
+8162   nhân đậu xanh                            mung bean filling
+8180   đậu nành                                 soybeans
+8212   lẩu bò                                   beef hot pot
+8213   hạt phở                                  rice noodles
+8236   nạc thăn                                 pork tenderloin
+8242   cream                                    cream
+8251   quả việt quất                            blueberry
+8256   cốt lẩu                                  hot pot base
+8271   gói lẩu                                  hot pot mix
+8309   vĩ cá                                    fish maw
+8351   bột sắn dây                              kudzu starch
+8390   nhân cá                                  fish filling
+8408   lon bia                                  beer
+8411   xốt thịt xá xíu                          char siu sauce
+8420   gạch cua                                 crab roe
+8422   viên riêu cua                            crab balls
+8440   cật lợn                                  pork kidney
+8485   khoai mỡ                                 purple yam
+8527   đồ chua                                  pickled vegetables
+8529   da lợn                                   pork skin
+8537   chân giò lấy khúc đùi phía trên          pork hock
+8550   bột lẩu                                  hot pot powder
+8551   rau nhúng                                mixed greens
+8571   cà rừng                                  eggplant
+8581   giá hẹ                                   bean sprouts
+8582   trái vải                                 lychee
+8594   lá cà rốt                                carrot leaves
+8610   ham chay                                 vegetarian ham
+8613   tai nấm                                  mushroom ear
+8615   lá tảo biển                              seaweed
+8619   dầu ớt                                   chili oil
+8624   chua bi                                  plum
+8646   hạt kê                                   millet
+8655   nước nghệ                                turmeric juice
+8660   mắm nêm                                  fermented shrimp paste
+8686   magi                                     seasoning sauce
+8761   lặc lày                                  luffa
+8765   lá cỏ tàu bay                            herb
+8790   cá mú                                    grouper
+8819   nước cốt khoai lang                      sweet potato juice
+8860   rau hay cà chua tùy ý                    mixed vegetables
+8868   củ đậu                                   jicama
+8876   sả ớt tỏi hành tím                       aromatics mix
+8879   lườn ức gà                               chicken breast
+8892   trái vả                                  fig
+8916   cải kana                                 choy sum
+8920   vỏ cam                                   orange peel
+8961   phi lê cá minh một loại cá thịt trắng    white fish fillet
+8976   bột dừa                                  coconut powder
+8988   hạt hạnh nhân                            almonds
+9043   lá kombu                                 kombu
+9054   hoa cúc                                  chrysanthemum
+9065   sầu riêng                                durian
+9067   bưởi                                     pomelo
+9089   hành tía tô                              perilla
+9112   diếp cừu                                 lamb's lettuce
+9137   bột điều                                 annatto powder
+9170   quýt                                     mandarin
+9206   xoài xanh                                green mango
+9227   xiên tre                                 bamboo skewers
+9232   thịt dê                                  goat meat
+9242   rau bướm                                 herb
+9249   ngổ hương                                ngo om herb
+9250   hành răm                                 vietnamese coriander
+9260   lá cẩm                                   magenta leaves
+9264   bánh ướt                                 rice sheets
+9283   tầm ma                                   nettle
+9309   trái táo                                 apple
+9317   thịt cuốn lá lốt                         betel beef rolls
+9342   trái mây                                 salak
+9351   rau cải thìa                             bok choy
+9410   mì spaghetti                             spaghetti
+9445   lá cà ri                                 curry leaves
+9465   cá đồng                                  fish
+9469   cá đuôi                                  fish
+9473   lá bắp                                   corn leaves
+9476   bóng heo                                 pork skin puff
+9618   bánh tortilla                            tortilla
+9646   cải chua                                 pickled mustard greens
+9667   lưỡi                                     beef tongue
+9695   hoa                                      flower
+9718   sách                                     beef tripe
+9733   boa rô                                   leek
+9745   quinoa                                   quinoa
+9758   bột cá                                   fish powder
+9765   nhục đậu khấu                            nutmeg
+9782   nước hầm xương                           broth
+9784   thịt đùi                                 chicken thigh
+9789   dầu ngư                                  fish oil
+9795   cá trích                                 herring
+9798   gan bò                                   beef liver
+9809   sữa bột                                  milk powder
+9815   đế bánh                                  pie crust
+9825   thịt ức gà                               chicken breast
+9837   bánh huyết                               blood cake
+9846   sirô lá dứa                              pandan syrup
+9854   vụn bánh mì                              breadcrumbs
+9859   lươn                                     eel
+9880   lá sủi cảo                               dumpling wrapper
+9882   bồ câu                                   pigeon
+9909   viên tôm                                 shrimp balls
+9943   mì nongshim                              instant noodles
+9944   vẹm                                      mussels
+9949   dầu sate                                 chili oil
+9957   cá vược                                  sea bass
+9967   bún riêu                                 crab noodle soup
+9968   rau chuối                                banana blossom
+9974   cá mối                                   fish
+9975   bã củ cà rốt                             carrot pulp
+9984   bột béo                                  non dairy creamer
+9990   lát ham                                  ham slices
+9993   mít                                      jackfruit
+10012  nem                                      spring rolls
+10029  thịt chim                                poultry meat
+10051  quả hột vịt                              duck egg
+10052  quả dừa                                  coconut
+10065  lá cải                                   mustard greens
+10153  sốt chấm                                 dipping sauce
+10154  tắc hoặc m nước cốt chanh                lime juice
+10155  tỏi hoặc m đầu hành boaro                garlic or leek
+10156  đậu phộng rang thơm                      roasted peanuts
+10187  rau cải đắng                             bitter greens
+10192  lá estragon                              tarragon
+10209  cốt lết                                  pork chop
+10244  pasta                                    pasta
+10245  thai chilli paste                        chili paste
+10258  nầm bò                                   beef udder
+10299  xốt cà chua                              tomato sauce
+10303  dashi                                    dashi
+10348  tartare                                  tartare sauce
+10349  lá bưởi                                  pomelo leaves
+10368  chả tôm                                  shrimp cake
+10380  kiwi                                     kiwi
+10390  thịt kho                                 braised pork
+10408  hạt anh túc                              poppy seeds
+10457  bánh cá                                  fish cake
+10482  rau dăm                                  vietnamese coriander
+10517  sữa hạnh nhân                            almond milk
+10525  nấm shimeji                              shimeji mushroom
+10533  rau bầu                                  bottle gourd leaves
+10552  tiềm bò                                  braised beef
+10565  vai bò                                   beef shoulder
+10620  lườn ngỗng                               goose breast
+10633  gelatin                                  gelatin
+10668  vỏ                                       peel
+10677  bún gói bún                              rice vermicelli
+10683  cá dẹp                                   fish
+10685  heo quay                                 roast pork
+10690  bún hoành thánh                          wonton noodles
+10692  xathan gum                               xanthan gum
+10703  nước cốt hủ tíu                          broth
+10717  lá theme                                 thyme
+10758  ravioli                                  ravioli
+10769  bột thì là                               cumin powder
+10772  vỏ bánh mì                               bread crust
+10775  hoa hẹ                                   garlic chives
+10784  sốt chua ngọt                            sweet sour sauce
+10789  syrup thốt nốt                           palm syrup
+10804  dầu hẹ                                   chive oil
+10810  bột baking soda                          baking soda
+10811  hạt đậu đen                              black beans
+10815  sữa dừa                                  coconut milk
+10818  chả đậu gà                               chickpea patty
+10825  vỏ chanh                                 lemon peel
+10843  lá tắc                                   kaffir lime leaves
+10882  lá hoành thánh                           wonton wrapper
+10888  mỳ hải sản                               instant noodles
+10909  ốc bulot                                 sea snail
+10952  vây cá                                   fish fin
+10963  sung                                     fig
+10968  hạt hướng dương                          sunflower seeds
+11002  lá ổi                                    guava leaves
+11014  miến dong                                glass noodles
+11023  hũ yến                                   bird nest
+11027  thịt hộp                                 canned meat
+11039  chả đậu hũ                               tofu cake
+11044  sourdough starter                        sourdough starter
+11045  sauce                                    sauce
+11048  g bò                                     beef
+11055  bột morinaga                             cake mix
+11061  nạc bò                                   beef
+11063  thịt nạc dăm                             pork shoulder
+11074  lá ngải                                  mugwort
+11083  tiềm gà                                  braised chicken
+11087  mỳ nui                                   pasta
+11095  trái lựu                                 pomegranate
+11105  chuối sáp                                banana
+11106  salad cá ngừ                             tuna salad
+11115  thịt nạc thăn                            pork tenderloin
+11118  thịt vẹm                                 mussel meat
+11120  tim bò                                   beef heart
+11140  ruốc nấm                                 mushroom floss
+11168  nhân pizza                               pizza filling
+11211  nhân heo                                 pork filling
+11233  dưa leo cà chua                          cucumber tomato
+11240  đế bánh mỏng                             pizza crust
+11241  pecorino mozzarella                      mozzarella
+11245  mandu                                    dumplings
+11247  thịt bằm lòng gà xào sẵn                 chicken offal mix
+11249  lá dứa hoặc hoa đậu biếc cho ra nước     pandan leaves
+11250  cá trao tráo                             fish
+11251  mắt cá ngừ đại dương                     tuna eye
+11253  tôm thẻ loại to                          shrimp
+11258  râu bắp ngô                              corn silk
+11259  mía cây                                  sugarcane
+11260  lít nước                                 water
+11261  chân giò bắp giò                         pork hock
+11262  nấm hương hành                           shiitake mushrooms
+11263  cá mồng gà                               fish
+11264  lá mướp                                  luffa leaves
+11271  sợi bún bò huế                           rice vermicelli
+11275  ngũ vị hương bột ớt hq                   five spice
+11276  cá mackerel                              mackerel
+11280  ếch khoảng g                             frog
+11281  thanh sả cây khúc gừng non               lemongrass ginger
+11283  bún gr xà lách cái                       rice vermicelli
+11286  hành lá nhánh hành tỏi củ                aromatics mix
+11289  g ba chỉ đùi heo                         pork belly
+11291  ml cốt dừa lon                           coconut milk
+11293  rau thơm giá dưa leo ít đồ chua          mixed herbs
+11294  nui mình dùng nui nơ nguyên cám          whole wheat pasta
+11298  nước cốt cải bó xôi gia giảm tuỳ loại bột spinach juice
+11301  nước súp                                 broth
+11305  kem chua không bắt buộc                  sour cream
+11306  cái nụ bạch hoa capers                   capers
+11307  nhanh thì là                             dill
+11309  rau và cà chua                           mixed vegetables
+11310  hạt lanh                                 flaxseed
+11311  cơm đủ ăn                                cooked rice
+11313  vỏ bánh gối hoặc cái vỏ bánh há cảo      dumpling wrapper
+11314  muỗng cf mè trắng rang                   white sesame
+11316  cá thu cá cam hoặc cá hồng thay thế      fish
+11318  sauce gừng và hành                       ginger scallion sauce
+11326  giò heo tuỳ theo khẩu phần               pork hock
+11327  hành ngò xà lách giá hành tím            mixed herbs
+11336  hẹxà láchgiá                             mixed vegetables
+11338  mỡ phèomỡ mâm xôi                        pork fat
+11359  vỏ bánh bao                              bao wrapper
+11361  sriracha                                 sriracha
+11384  lee kum kee                              sauce
+11459  lá nho                                   grape leaves
+11467  mầm đậu                                  bean sprouts
+11473  quả cam                                  orange
+11483  cùi dưa hấu                              watermelon rind
+11497  chân cua                                 crab legs
+11543  sandwich                                 sandwich
+11550  kem chua                                 sour cream
+11609  xúc xích                                 sausage
+11617  kiri                                     cream cheese
+11627  vỏ tortillas                             tortilla
+11630  salsa                                    salsa
+11668  bột bánh                                 flour
+11737  mayo                                     mayonnaise
+11767  sườn chay mềm xé sợi                     vegetarian ribs
+11773  vỏ bánh gyoza                            gyoza wrapper
+11774  nhân gyoza                               gyoza filling
+11781  baking powder                            baking powder
+11805  ram tôm                                  shrimp rolls
+11826  bột phomai                               cheese powder

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 46852,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "satế",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46848,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "sợi bún bò huế",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46854,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46851,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52649,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "bột",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52643,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "cà rốt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52648,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52646,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "dọc mùng",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52644,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "dứa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52647,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52645,
+    "dish_title": "Bún cá rô chả cá",
+    "ingredient_name": "nước hầm xương",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48765,
+    "dish_title": "Bún cá- chả cá - sứa Nha Trang",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48763,
+    "dish_title": "Bún cá- chả cá - sứa Nha Trang",
+    "ingredient_name": "dứa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48766,
+    "dish_title": "Bún cá- chả cá - sứa Nha Trang",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48767,
+    "dish_title": "Bún cá- chả cá - sứa Nha Trang",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48764,
+    "dish_title": "Bún cá- chả cá - sứa Nha Trang",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48768,
+    "dish_title": "Bún cá- chả cá - sứa Nha Trang",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51263,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51264,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51259,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51260,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "mật",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51258,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51262,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51257,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51261,
+    "dish_title": "Bún thịt nướng xiên que",
+    "ingredient_name": "sữa",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46957,
+    "dish_title": "Bún đậu hủ nước tương",
+    "ingredient_name": "nước tương",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46955,
+    "dish_title": "Bún đậu hủ nước tương",
+    "ingredient_name": "rau sống",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46956,
+    "dish_title": "Bún đậu hủ nước tương",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46958,
+    "dish_title": "Bún đậu hủ nước tương",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46954,
+    "dish_title": "Bún đậu hủ nước tương",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 34829,
+    "recipe_id": "17065923",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34830,
+    "recipe_id": "17065923",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34831,
+    "recipe_id": "17065923",
+    "standard_id": 865,
+    "raw_name": "nấm kim châm",
+    "standard_name": "nấm kim châm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34832,
+    "recipe_id": "17065923",
+    "standard_id": 1211,
+    "raw_name": "miếng",
+    "standard_name": "miến",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 34833,
+    "recipe_id": "17065923",
+    "standard_id": 749,
+    "raw_name": "tương hàn quốc",
+    "standard_name": "gochujang",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34837,
+    "recipe_id": "17065923",
+    "standard_id": 7720,
+    "raw_name": "rượu",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34844,
+    "recipe_id": "17066102",
+    "standard_id": 41,
+    "raw_name": "cua",
+    "standard_name": "cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34845,
+    "recipe_id": "17066102",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34846,
+    "recipe_id": "17066102",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34847,
+    "recipe_id": "17066102",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34848,
+    "recipe_id": "17066102",
+    "standard_id": 1050,
+    "raw_name": "me",
+    "standard_name": "me",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34849,
+    "recipe_id": "17065851",
+    "standard_id": 1105,
+    "raw_name": "cá phèn",
+    "standard_name": "cá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 34850,
+    "recipe_id": "17065851",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn hoặc mỡ",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 34851,
+    "recipe_id": "17065851",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34853,
+    "recipe_id": "17065851",
+    "standard_id": 11833,
+    "raw_name": "nước màu hàng",
+    "standard_name": "nước màu",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 34854,
+    "recipe_id": "17065851",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34855,
+    "recipe_id": "17065851",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34858,
+    "recipe_id": "17065851",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34859,
+    "recipe_id": "17065851",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34860,
+    "recipe_id": "17065851",
+    "standard_id": 1520,
+    "raw_name": "hành ngò",
+    "standard_name": "hành ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34890,
+    "recipe_id": "17065789",
+    "standard_id": 3657,
+    "raw_name": "cá măng",
+    "standard_name": "cá măng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34891,
+    "recipe_id": "17065789",
+    "standard_id": 11829,
+    "raw_name": "lá húng quế trắng lá é trắng",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 34892,
+    "recipe_id": "17065789",
+    "standard_id": 3111,
+    "raw_name": "ớt xiêm xanh",
+    "standard_name": "ớt xanh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34894,
+    "recipe_id": "17065789",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34895,
+    "recipe_id": "17065789",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 34896,
+    "recipe_id": "17065789",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34899,
+    "recipe_id": "17065789",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng để trang trí",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34900,
+    "recipe_id": "17065758",
+    "standard_id": 1105,
+    "raw_name": "cá chỉ vàng",
+    "standard_name": "cá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 34901,
+    "recipe_id": "17065758",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  }
+]

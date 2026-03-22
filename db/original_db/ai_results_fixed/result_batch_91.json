@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 10443,
+    "recipe_id": "24676113",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10444,
+    "recipe_id": "24676113",
+    "standard_id": 102,
+    "raw_name": "ngò rí trang trí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10445,
+    "recipe_id": "24676113",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng trang trí",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10455,
+    "recipe_id": "24675390",
+    "standard_id": 998,
+    "raw_name": "Tôm em dùng tôm nõn đông lạnh loại để trong khay xốp bán ở Wm",
+    "standard_name": "nõn tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 10456,
+    "recipe_id": "24675390",
+    "standard_id": 28,
+    "raw_name": "dứa ưu tiên dứa chua dứa ngọt cũng được",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 10457,
+    "recipe_id": "24675390",
+    "standard_id": 9,
+    "raw_name": "cà chua cà chua to và chua quá thì giảm xuống",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 10458,
+    "recipe_id": "24675390",
+    "standard_id": 262,
+    "raw_name": "Nấm đùi gà baby nấm to cũng ok thích nhiêu cho nhiêu",
+    "standard_name": "nấm đùi gà",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 10459,
+    "recipe_id": "24675390",
+    "standard_id": 1517,
+    "raw_name": "rau thanh hao không có cũng không sao",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 10460,
+    "recipe_id": "24675390",
+    "standard_id": 1589,
+    "raw_name": "Gia vị thông thường",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10481,
+    "recipe_id": "24663921",
+    "standard_id": 1041,
+    "raw_name": "cá ngừ",
+    "standard_name": "cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10482,
+    "recipe_id": "24663921",
+    "standard_id": 28,
+    "raw_name": "dứa",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10483,
+    "recipe_id": "24663921",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10484,
+    "recipe_id": "24663921",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10485,
+    "recipe_id": "24663921",
+    "standard_id": 16,
+    "raw_name": "hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 10486,
+    "recipe_id": "24663921",
+    "standard_id": 11833,
+    "raw_name": "nước hàng",
+    "standard_name": "nước màu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 10487,
+    "recipe_id": "24663921",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10488,
+    "recipe_id": "24663921",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10489,
+    "recipe_id": "24663921",
+    "standard_id": 24,
+    "raw_name": "ớt cay",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10490,
+    "recipe_id": "24663921",
+    "standard_id": 531,
+    "raw_name": "dừa",
+    "standard_name": "dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10491,
+    "recipe_id": "24663921",
+    "standard_id": 5715,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10492,
+    "recipe_id": "24663921",
+    "standard_id": 1589,
+    "raw_name": "gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10497,
+    "recipe_id": "24669850",
+    "standard_id": 41,
+    "raw_name": "cua đồng xay sẵn",
+    "standard_name": "cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10498,
+    "recipe_id": "24669850",
+    "standard_id": 8420,
+    "raw_name": "gạch cua đồng",
+    "standard_name": "gạch cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10499,
+    "recipe_id": "24669850",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10500,
+    "recipe_id": "24669850",
+    "standard_id": 71,
+    "raw_name": "ậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 10501,
+    "recipe_id": "24669850",
+    "standard_id": 7722,
+    "raw_name": "Bắp bò",
+    "standard_name": "bắp bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10502,
+    "recipe_id": "24669850",
+    "standard_id": 83,
+    "raw_name": "Hành phi",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 10504,
+    "recipe_id": "24669850",
+    "standard_id": 289,
+    "raw_name": "Rau muống bào",
+    "standard_name": "rau muống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 10505,
+    "recipe_id": "24669850",
+    "standard_id": 202,
+    "raw_name": "Hoa chuối bắp chuối bào",
+    "standard_name": "hoa chuối",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 64491,
+    "recipe_id": "15719795",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64492,
+    "recipe_id": "15719795",
+    "standard_id": 1517,
+    "raw_name": "Rau thơm xà lách",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 64493,
+    "recipe_id": "15719795",
+    "standard_id": 10156,
+    "raw_name": "ậu phộng rang",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64494,
+    "recipe_id": "15719795",
+    "standard_id": 16,
+    "raw_name": "Hành lá làm dầu hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64498,
+    "recipe_id": "15719795",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64499,
+    "recipe_id": "15719795",
+    "standard_id": 2363,
+    "raw_name": "Tỏi ớt băm nhuyễn",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64512,
+    "recipe_id": "15725269",
+    "standard_id": 1410,
+    "raw_name": "thịt ba chỉ",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64513,
+    "recipe_id": "15725269",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc Huế",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64514,
+    "recipe_id": "15725269",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64515,
+    "recipe_id": "15725269",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64516,
+    "recipe_id": "15725269",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64517,
+    "recipe_id": "15725269",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm",
+    "standard_name": "ớt hiểm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64519,
+    "recipe_id": "15725269",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 64520,
+    "recipe_id": "15725269",
+    "standard_id": 6101,
+    "raw_name": "nước nóng",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64532,
+    "recipe_id": "15724689",
+    "standard_id": 2638,
+    "raw_name": "thịt bò mình chọn loại thăn mỡ",
+    "standard_name": "thăn bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64533,
+    "recipe_id": "15724689",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64534,
+    "recipe_id": "15724689",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64535,
+    "recipe_id": "15724689",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64536,
+    "recipe_id": "15724689",
+    "standard_id": null,
+    "raw_name": "hạt dẻ đang mùa dẻ to nên mình cho vào ninh cùng cho bé ăn",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 64537,
+    "recipe_id": "15724689",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64538,
+    "recipe_id": "15724689",
+    "standard_id": 10299,
+    "raw_name": "Sốt cà chua",
+    "standard_name": "xốt cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64539,
+    "recipe_id": "15724689",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nấu sốt vang Thành Lộc",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 64540,
+    "recipe_id": "15724689",
+    "standard_id": 11831,
+    "raw_name": "Tỏi xả gừng mắm bột canh nước cốt dừa",
+    "standard_name": "bột canh",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 64542,
+    "recipe_id": "15724689",
+    "standard_id": 1098,
+    "raw_name": "Bánh mỳ ăn kèm",
+    "standard_name": "bánh mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64543,
+    "recipe_id": "15724689",
+    "standard_id": 1520,
+    "raw_name": "Hành lá mùi ta",
+    "standard_name": "hành ngò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64599,
+    "recipe_id": "15721964",
+    "standard_id": 177,
+    "raw_name": "rau câu con cá dẻo mình thích ăn cứng nên gói",
+    "standard_name": "bột rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64600,
+    "recipe_id": "15721964",
+    "standard_id": 2387,
+    "raw_name": "ường mình nấu khoảng gr",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64601,
+    "recipe_id": "15721964",
+    "standard_id": 3495,
+    "raw_name": "nhỏ hoa đậu biếc khô",
+    "standard_name": "hoa đậu biếc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64602,
+    "recipe_id": "15721964",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64603,
+    "recipe_id": "15721964",
+    "standard_id": 10815,
+    "raw_name": "Nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  }
+]

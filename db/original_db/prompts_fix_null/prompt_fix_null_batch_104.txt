@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 104/365
+[
+  {
+    "id": 44640,
+    "dish_title": "Chả huế/chả chiên/giò bò",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44639,
+    "dish_title": "Chả huế/chả chiên/giò bò",
+    "ingredient_name": "thịt lợn thịt bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51390,
+    "dish_title": "Chả ram tôm",
+    "ingredient_name": "ram",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51389,
+    "dish_title": "Chả ram tôm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51388,
+    "dish_title": "Chả ram tôm",
+    "ingredient_name": "tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44218,
+    "dish_title": "Chả thịt gà",
+    "ingredient_name": "baking powder",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44220,
+    "dish_title": "Chả thịt gà",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44219,
+    "dish_title": "Chả thịt gà",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52420,
+    "dish_title": "Chả tôm rong biển",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52421,
+    "dish_title": "Chả tôm rong biển",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52419,
+    "dish_title": "Chả tôm rong biển",
+    "ingredient_name": "rau tạp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46912,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "bắp nếp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46913,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "bột",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46915,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "bột canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46914,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46918,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46917,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46916,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46910,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46911,
+    "dish_title": "Chả tôm thịt rong biển",
+    "ingredient_name": "thịt nạc vai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49610,
+    "dish_title": "Chả Đậu Phụ Rong Biển",
+    "ingredient_name": "dầu màu điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49608,
+    "dish_title": "Chả Đậu Phụ Rong Biển",
+    "ingredient_name": "rong biển",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49609,
+    "dish_title": "Chả Đậu Phụ Rong Biển",
+    "ingredient_name": "thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45947,
+    "dish_title": "Chả đậu tôm thịt",
+    "ingredient_name": "bột canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45946,
+    "dish_title": "Chả đậu tôm thịt",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45945,
+    "dish_title": "Chả đậu tôm thịt",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45944,
+    "dish_title": "Chả đậu tôm thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46992,
+    "dish_title": "Chổi Phù Thủy Halloween (Nấm Kim Châm Chiên Giòn)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46989,
+    "dish_title": "Chổi Phù Thủy Halloween (Nấm Kim Châm Chiên Giòn)",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46991,
+    "dish_title": "Chổi Phù Thủy Halloween (Nấm Kim Châm Chiên Giòn)",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

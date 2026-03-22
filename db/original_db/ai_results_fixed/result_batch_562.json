@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 58765,
+    "recipe_id": "16024020",
+    "standard_id": 1747,
+    "raw_name": "Mè rang xay nhuyễn",
+    "standard_name": "mè",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58766,
+    "recipe_id": "16034500",
+    "standard_id": 564,
+    "raw_name": "đùi gà",
+    "standard_name": "đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58767,
+    "recipe_id": "16034500",
+    "standard_id": 1330,
+    "raw_name": "nấm hương",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58768,
+    "recipe_id": "16034500",
+    "standard_id": 166,
+    "raw_name": "hành tây băm nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58769,
+    "recipe_id": "16034500",
+    "standard_id": 780,
+    "raw_name": "Nghệ băm nhỏ nên dùng găng tay khi đụng vô nghệ",
+    "standard_name": "nghệ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58770,
+    "recipe_id": "16034500",
+    "standard_id": 39,
+    "raw_name": "Gừng băm nhỏ",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58771,
+    "recipe_id": "16034500",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58772,
+    "recipe_id": "16034500",
+    "standard_id": 25,
+    "raw_name": "Rau cải bông xanh cải bông trắng",
+    "standard_name": "bông cải",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 58779,
+    "recipe_id": "16034528",
+    "standard_id": 1518,
+    "raw_name": "ức gà thái nhỏ",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58780,
+    "recipe_id": "16034528",
+    "standard_id": 730,
+    "raw_name": "nguội từ tủ lạnh là tốt nhất",
+    "standard_name": "cơm",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 58781,
+    "recipe_id": "16034528",
+    "standard_id": 312,
+    "raw_name": "kim chi thái nhỏ",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58782,
+    "recipe_id": "16034528",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58783,
+    "recipe_id": "16034528",
+    "standard_id": 245,
+    "raw_name": "dưa chuột",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58784,
+    "recipe_id": "16034528",
+    "standard_id": 81,
+    "raw_name": "Cà rốt thái nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58785,
+    "recipe_id": "16034528",
+    "standard_id": 262,
+    "raw_name": "Nấm đùi gà thái nhỏ",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58786,
+    "recipe_id": "16034528",
+    "standard_id": 25,
+    "raw_name": "Cải bông xanh thái nhỏ",
+    "standard_name": "bông cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58787,
+    "recipe_id": "16034528",
+    "standard_id": 351,
+    "raw_name": "Ngô đậu hà lan nếu muốn",
+    "standard_name": "đậu hà lan",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 58788,
+    "recipe_id": "16034528",
+    "standard_id": 7595,
+    "raw_name": "Tỏi băm hành tím băm nhúm nghệ",
+    "standard_name": "hành tỏi",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 58790,
+    "recipe_id": "16034351",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58791,
+    "recipe_id": "16034351",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58793,
+    "recipe_id": "16034351",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58795,
+    "recipe_id": "16034351",
+    "standard_id": 309,
+    "raw_name": "bí đỏ",
+    "standard_name": "bí đỏ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58798,
+    "recipe_id": "16034351",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58817,
+    "recipe_id": "15916366",
+    "standard_id": 1105,
+    "raw_name": "Cá chiên",
+    "standard_name": "cá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 58818,
+    "recipe_id": "15916366",
+    "standard_id": 4097,
+    "raw_name": "cá thầy tu cá mặt quỷ nhỏ",
+    "standard_name": "cá mặt quỷ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58819,
+    "recipe_id": "15916366",
+    "standard_id": 1207,
+    "raw_name": "tinh bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58821,
+    "recipe_id": "15916366",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58822,
+    "recipe_id": "15916366",
+    "standard_id": 6777,
+    "raw_name": "Bún tàu xào tương hột",
+    "standard_name": "bún tàu",
+    "confidence": 0.9
+  }
+]

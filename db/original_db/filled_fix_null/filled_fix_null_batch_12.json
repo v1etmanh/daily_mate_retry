@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52081,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52085,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52087,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49101,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm Thịt",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49105,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm Thịt",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49106,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm Thịt",
+    "ingredient_name": "rau răm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49102,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm Thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49103,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm Thịt",
+    "ingredient_name": "thịt tôm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49104,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm Thịt",
+    "ingredient_name": "vỏ bánh",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46648,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46645,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "chân giò bắp giò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46649,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "dầu màu điều",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46652,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46654,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46655,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46653,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "ngò gai",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46647,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "quẩy",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46651,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "rau muống",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46650,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "rau sống",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46646,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46644,
+    "dish_title": "Bánh Canh Cua",
+    "ingredient_name": "tôm sú",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47305,
+    "dish_title": "Bánh Canh Cá Nục Chả Cá",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47307,
+    "dish_title": "Bánh Canh Cá Nục Chả Cá",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47306,
+    "dish_title": "Bánh Canh Cá Nục Chả Cá",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47303,
+    "dish_title": "Bánh Canh Cá Nục Chả Cá",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47308,
+    "dish_title": "Bánh Canh Cá Nục Chả Cá",
+    "ingredient_name": "mắm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47304,
+    "dish_title": "Bánh Canh Cá Nục Chả Cá",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51033,
+    "dish_title": "Bánh Canh Giò Heo",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51030,
+    "dish_title": "Bánh Canh Giò Heo",
+    "ingredient_name": "chân giò lấy khúc đùi phía trên",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51032,
+    "dish_title": "Bánh Canh Giò Heo",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

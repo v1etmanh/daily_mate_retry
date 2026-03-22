@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 324/365
+[
+  {
+    "id": 45464,
+    "dish_title": "Thịt xào trứng",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45461,
+    "dish_title": "Thịt xào trứng",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45460,
+    "dish_title": "Thịt xào trứng",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45462,
+    "dish_title": "Thịt xào trứng",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45463,
+    "dish_title": "Thịt xào trứng",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52497,
+    "dish_title": "Thịt xào trứng với cà chua",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52495,
+    "dish_title": "Thịt xào trứng với cà chua",
+    "ingredient_name": "heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52496,
+    "dish_title": "Thịt xào trứng với cà chua",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51371,
+    "dish_title": "Thịt xá xíu (công thức đơn giản)",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51375,
+    "dish_title": "Thịt xá xíu (công thức đơn giản)",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51372,
+    "dish_title": "Thịt xá xíu (công thức đơn giản)",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51373,
+    "dish_title": "Thịt xá xíu (công thức đơn giản)",
+    "ingredient_name": "xốt thịt xá xíu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51374,
+    "dish_title": "Thịt xá xíu (công thức đơn giản)",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52208,
+    "dish_title": "Thịt đông siêu đơn giản",
+    "ingredient_name": "bì heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52211,
+    "dish_title": "Thịt đông siêu đơn giản",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52210,
+    "dish_title": "Thịt đông siêu đơn giản",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52209,
+    "dish_title": "Thịt đông siêu đơn giản",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45735,
+    "dish_title": "Tim Heo Luộc Chấm Mắm Nêm",
+    "ingredient_name": "dưa leo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45733,
+    "dish_title": "Tim Heo Luộc Chấm Mắm Nêm",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45736,
+    "dish_title": "Tim Heo Luộc Chấm Mắm Nêm",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45734,
+    "dish_title": "Tim Heo Luộc Chấm Mắm Nêm",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50830,
+    "dish_title": "Tim heo hầm hạt sen",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50829,
+    "dish_title": "Tim heo hầm hạt sen",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50828,
+    "dish_title": "Tim heo hầm hạt sen",
+    "ingredient_name": "sen",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51028,
+    "dish_title": "Tokbokki cá viên",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51027,
+    "dish_title": "Tokbokki cá viên",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51029,
+    "dish_title": "Tokbokki cá viên",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51026,
+    "dish_title": "Tokbokki cá viên",
+    "ingredient_name": "trứng cút",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52171,
+    "dish_title": "Tom Yum",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52172,
+    "dish_title": "Tom Yum",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

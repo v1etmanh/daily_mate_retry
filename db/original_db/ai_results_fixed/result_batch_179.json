@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 23646,
+    "recipe_id": "17031947",
+    "standard_id": 78,
+    "raw_name": "bắp non",
+    "standard_name": "bắp ngọt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 23647,
+    "recipe_id": "17031947",
+    "standard_id": 81,
+    "raw_name": "củ cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23648,
+    "recipe_id": "17031947",
+    "standard_id": 25,
+    "raw_name": "bông cải xanh",
+    "standard_name": "bông cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23649,
+    "recipe_id": "17031947",
+    "standard_id": 7186,
+    "raw_name": "bông cải trắng",
+    "standard_name": "bông cải trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23650,
+    "recipe_id": "17031947",
+    "standard_id": 1795,
+    "raw_name": "mì rau củ",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 23652,
+    "recipe_id": "17031947",
+    "standard_id": 29,
+    "raw_name": "tỏi băm nhuyễn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23653,
+    "recipe_id": "17031947",
+    "standard_id": 395,
+    "raw_name": "dầu ô liu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23654,
+    "recipe_id": "17031947",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23658,
+    "recipe_id": "22610919",
+    "standard_id": 4615,
+    "raw_name": "bột gia vị bún riêu của ajj",
+    "standard_name": "bột gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 23659,
+    "recipe_id": "22610919",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23660,
+    "recipe_id": "22610919",
+    "standard_id": 5586,
+    "raw_name": "Hải sản tuỳ ý",
+    "standard_name": "hải sản",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23661,
+    "recipe_id": "22610919",
+    "standard_id": 2210,
+    "raw_name": "Rau ngò hành khô chanh giá đỗ cà chua",
+    "standard_name": "rau sống",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 23662,
+    "recipe_id": "22610919",
+    "standard_id": 1589,
+    "raw_name": "Gia vị cơ bản nêm mắm mắm tép mẻ mắm tôm",
+    "standard_name": "gia vị",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 23663,
+    "recipe_id": "22610919",
+    "standard_id": 71,
+    "raw_name": "ậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 23664,
+    "recipe_id": "22610654",
+    "standard_id": 357,
+    "raw_name": "tôm tươi loại tôm to xíu",
+    "standard_name": "tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 23665,
+    "recipe_id": "22610654",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23666,
+    "recipe_id": "22610654",
+    "standard_id": 4619,
+    "raw_name": "dâu tây",
+    "standard_name": "dâu tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23668,
+    "recipe_id": "22610654",
+    "standard_id": 146,
+    "raw_name": "trứng gà ta",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 23671,
+    "recipe_id": "22610654",
+    "standard_id": 3925,
+    "raw_name": "sốt majonnaise",
+    "standard_name": "mayonnaise",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23672,
+    "recipe_id": "22610654",
+    "standard_id": 2246,
+    "raw_name": "sữa đặc",
+    "standard_name": "sữa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 23673,
+    "recipe_id": "22610654",
+    "standard_id": 3662,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23674,
+    "recipe_id": "22610654",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 23693,
+    "recipe_id": "22609236",
+    "standard_id": 948,
+    "raw_name": "cá basa phi lê vì không tìm đc cá lăng nên mình dùng cá basa nhưng cũng khá ổn nha",
+    "standard_name": "cá ba sa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 23694,
+    "recipe_id": "22609236",
+    "standard_id": 1091,
+    "raw_name": "Bột giềng",
+    "standard_name": "riềng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 23695,
+    "recipe_id": "22609236",
+    "standard_id": 587,
+    "raw_name": "Bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23696,
+    "recipe_id": "22609236",
+    "standard_id": 83,
+    "raw_name": "Hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23697,
+    "recipe_id": "22609236",
+    "standard_id": 2489,
+    "raw_name": "Mẻ chua",
+    "standard_name": "nước mẻ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23698,
+    "recipe_id": "22609236",
+    "standard_id": 7050,
+    "raw_name": "mắm tôm",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 23699,
+    "recipe_id": "22609236",
+    "standard_id": 10156,
+    "raw_name": "ậu phộng rang",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 23700,
+    "recipe_id": "22609236",
+    "standard_id": 389,
+    "raw_name": "Bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  }
+]

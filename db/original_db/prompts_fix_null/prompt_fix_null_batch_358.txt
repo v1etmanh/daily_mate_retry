@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 358/365
+[
+  {
+    "id": 43246,
+    "dish_title": "제육볶음 Thịt xào cay kiểu Hàn",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43244,
+    "dish_title": "제육볶음 Thịt xào cay kiểu Hàn",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43247,
+    "dish_title": "제육볶음 Thịt xào cay kiểu Hàn",
+    "ingredient_name": "rượu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43245,
+    "dish_title": "제육볶음 Thịt xào cay kiểu Hàn",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44823,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44827,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "cải diếp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44828,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "diếp cừu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44846,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44847,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44822,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44824,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "quýt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44826,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44825,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44845,
+    "dish_title": "🌱 Bento Salad Bơ & Nấm Mỡ Sốt Quýt",
+    "ingredient_name": "xốt salad",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48573,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48577,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "cải thảo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48575,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48579,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48576,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "nhân mandu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48574,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48580,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48572,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "vỏ bánh mandu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48578,
+    "dish_title": "🌱 Bánh Xếp Mandu Chay Nhân Nấm Đậu Hủ Chiên Nước",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48683,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48677,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48685,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "giá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48680,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48675,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48676,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "nấm ngư",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48679,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "rau răm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

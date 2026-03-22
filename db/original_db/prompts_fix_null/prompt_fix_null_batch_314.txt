@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 314/365
+[
+  {
+    "id": 44296,
+    "dish_title": "Thịt kho trứng",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44295,
+    "dish_title": "Thịt kho trứng",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44206,
+    "dish_title": "Thịt kho trứng",
+    "ingredient_name": "thịt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44294,
+    "dish_title": "Thịt kho trứng",
+    "ingredient_name": "thịt ba rọi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44208,
+    "dish_title": "Thịt kho trứng",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42741,
+    "dish_title": "Thịt kho trứng cút + củ cải",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42740,
+    "dish_title": "Thịt kho trứng cút + củ cải",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42743,
+    "dish_title": "Thịt kho trứng cút + củ cải",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42739,
+    "dish_title": "Thịt kho trứng cút + củ cải",
+    "ingredient_name": "trứng cút",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42742,
+    "dish_title": "Thịt kho trứng cút + củ cải",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43391,
+    "dish_title": "Thịt kho trứng gà",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43388,
+    "dish_title": "Thịt kho trứng gà",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43390,
+    "dish_title": "Thịt kho trứng gà",
+    "ingredient_name": "nước dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43389,
+    "dish_title": "Thịt kho trứng gà",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43222,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49002,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49001,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43221,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43223,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43224,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49003,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43220,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "thịt ba rọi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48999,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "thịt ba rọi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49000,
+    "dish_title": "Thịt kho tàu",
+    "ingredient_name": "trứng vịt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44599,
+    "dish_title": "Thịt kho tàu trứng cút",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44600,
+    "dish_title": "Thịt kho tàu trứng cút",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44597,
+    "dish_title": "Thịt kho tàu trứng cút",
+    "ingredient_name": "trứng cút",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44598,
+    "dish_title": "Thịt kho tàu trứng cút",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48364,
+    "dish_title": "Thịt kho tàu 🥩",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48362,
+    "dish_title": "Thịt kho tàu 🥩",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

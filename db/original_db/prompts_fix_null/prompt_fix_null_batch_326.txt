@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 326/365
+[
+  {
+    "id": 49757,
+    "dish_title": "Trứng cuộn rau củ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49756,
+    "dish_title": "Trứng cuộn rau củ",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43511,
+    "dish_title": "Trứng hấp sốt thịt băm",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43512,
+    "dish_title": "Trứng hấp sốt thịt băm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43513,
+    "dish_title": "Trứng hấp sốt thịt băm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43510,
+    "dish_title": "Trứng hấp sốt thịt băm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43509,
+    "dish_title": "Trứng hấp sốt thịt băm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45817,
+    "dish_title": "Tuỷ Bò Chiên Giòn",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45818,
+    "dish_title": "Tuỷ Bò Chiên Giòn",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45816,
+    "dish_title": "Tuỷ Bò Chiên Giòn",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51546,
+    "dish_title": "TÔM sốt dứa-mayonnaise",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51547,
+    "dish_title": "TÔM sốt dứa-mayonnaise",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51548,
+    "dish_title": "TÔM sốt dứa-mayonnaise",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51545,
+    "dish_title": "TÔM sốt dứa-mayonnaise",
+    "ingredient_name": "tôm sú",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51549,
+    "dish_title": "TÔM sốt dứa-mayonnaise",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49548,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49552,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49549,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49554,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49550,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49547,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "nấm rơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49553,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49551,
+    "dish_title": "Tàu Hũ Ky Cuộn Kho Thơm Nấm (Món chay)",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49912,
+    "dish_title": "Tàu hủ non sauce nấm",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49913,
+    "dish_title": "Tàu hủ non sauce nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49911,
+    "dish_title": "Tàu hủ non sauce nấm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49910,
+    "dish_title": "Tàu hủ non sauce nấm",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50910,
+    "dish_title": "Tô Cơm Trộn Cá Ngừ (Tuna Rice Bowl)",
+    "ingredient_name": "cá ngừ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50913,
+    "dish_title": "Tô Cơm Trộn Cá Ngừ (Tuna Rice Bowl)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50912,
+    "dish_title": "Tô Cơm Trộn Cá Ngừ (Tuna Rice Bowl)",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 16464,
+    "recipe_id": "24179787",
+    "standard_id": 5239,
+    "raw_name": "thanh cua có thể lược bỏ hoặc thay bằng xúc xích ít mặn",
+    "standard_name": "thanh cua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16465,
+    "recipe_id": "24179787",
+    "standard_id": 1322,
+    "raw_name": "hành baro",
+    "standard_name": "ba rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16466,
+    "recipe_id": "24179787",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16467,
+    "recipe_id": "24179787",
+    "standard_id": 166,
+    "raw_name": "hành tây tầm ngón tay",
+    "standard_name": "hành tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16468,
+    "recipe_id": "24179787",
+    "standard_id": 24,
+    "raw_name": "ớt ai không ăn được cay thì bỏ qua",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16469,
+    "recipe_id": "24179787",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nấu",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16471,
+    "recipe_id": "24179787",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16472,
+    "recipe_id": "24179787",
+    "standard_id": 11828,
+    "raw_name": "nước tương HQ",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 16473,
+    "recipe_id": "24179787",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16489,
+    "recipe_id": "24177310",
+    "standard_id": 357,
+    "raw_name": "tôm to tươi",
+    "standard_name": "tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16490,
+    "recipe_id": "24177310",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16491,
+    "recipe_id": "24177310",
+    "standard_id": 3111,
+    "raw_name": "ớt xanh hoặc dùng ớt đỏ cũng được",
+    "standard_name": "ớt xanh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16492,
+    "recipe_id": "24177310",
+    "standard_id": 29,
+    "raw_name": "to tỏi",
+    "standard_name": "tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16493,
+    "recipe_id": "24177310",
+    "standard_id": 1148,
+    "raw_name": "Công thức nước ngâm",
+    "standard_name": "sốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 16494,
+    "recipe_id": "24177310",
+    "standard_id": 11828,
+    "raw_name": "nước tương HQ",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 16495,
+    "recipe_id": "24177310",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16496,
+    "recipe_id": "24177310",
+    "standard_id": 7720,
+    "raw_name": "rượu nấu ăn hoặc soju",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16498,
+    "recipe_id": "24177310",
+    "standard_id": 39,
+    "raw_name": "gừng tầm bằng ngón tay út",
+    "standard_name": "gừng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16499,
+    "recipe_id": "24177310",
+    "standard_id": 24,
+    "raw_name": "ớt khô có thể lược bỏ",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16501,
+    "recipe_id": "24177310",
+    "standard_id": 67,
+    "raw_name": "chanh vàng Mỹ mình dùng chanh xanh bị đắng hoặc thay bằng dấm",
+    "standard_name": "chanh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16569,
+    "recipe_id": "11693377",
+    "standard_id": 62,
+    "raw_name": "sườn heo",
+    "standard_name": "sườn heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16570,
+    "recipe_id": "11693377",
+    "standard_id": 1050,
+    "raw_name": "me chín",
+    "standard_name": "me",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16571,
+    "recipe_id": "11693377",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16572,
+    "recipe_id": "11693377",
+    "standard_id": 3417,
+    "raw_name": "Mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16574,
+    "recipe_id": "11693377",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16575,
+    "recipe_id": "11693377",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 16587,
+    "recipe_id": "16806284",
+    "standard_id": 149,
+    "raw_name": "thit heo luôc khoang gr",
+    "standard_name": "heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16588,
+    "recipe_id": "16806284",
+    "standard_id": 3725,
+    "raw_name": "nâm bào ngư",
+    "standard_name": "nấm ngư",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16589,
+    "recipe_id": "16806284",
+    "standard_id": 3523,
+    "raw_name": "nụ hoa mươp",
+    "standard_name": "nụ hoa mướp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16590,
+    "recipe_id": "16806284",
+    "standard_id": 16,
+    "raw_name": "hanh lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  }
+]

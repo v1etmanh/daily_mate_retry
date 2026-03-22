@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 128/365
+[
+  {
+    "id": 48990,
+    "dish_title": "Cá chép om dưa",
+    "ingredient_name": "dưa chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48994,
+    "dish_title": "Cá chép om dưa",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48992,
+    "dish_title": "Cá chép om dưa",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48993,
+    "dish_title": "Cá chép om dưa",
+    "ingredient_name": "thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46225,
+    "dish_title": "Cá chìa vôi nướng muối ớt",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46228,
+    "dish_title": "Cá chìa vôi nướng muối ớt",
+    "ingredient_name": "dầu hạt cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46227,
+    "dish_title": "Cá chìa vôi nướng muối ớt",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46226,
+    "dish_title": "Cá chìa vôi nướng muối ớt",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46224,
+    "dish_title": "Cá chìa vôi nướng muối ớt",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46068,
+    "dish_title": "Cá chạch chiên giòn chấm mắm me",
+    "ingredient_name": "cá chạch",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46069,
+    "dish_title": "Cá chạch chiên giòn chấm mắm me",
+    "ingredient_name": "me",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46073,
+    "dish_title": "Cá chạch chiên giòn chấm mắm me",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46070,
+    "dish_title": "Cá chạch chiên giòn chấm mắm me",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46071,
+    "dish_title": "Cá chạch chiên giòn chấm mắm me",
+    "ingredient_name": "xoài xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46072,
+    "dish_title": "Cá chạch chiên giòn chấm mắm me",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46096,
+    "dish_title": "Cá chạch chiên nước mắm",
+    "ingredient_name": "cá chạch",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46099,
+    "dish_title": "Cá chạch chiên nước mắm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46098,
+    "dish_title": "Cá chạch chiên nước mắm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46097,
+    "dish_title": "Cá chạch chiên nước mắm",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47256,
+    "dish_title": "Cá chẽm sốt bơ cà",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47255,
+    "dish_title": "Cá chẽm sốt bơ cà",
+    "ingredient_name": "cá chẽm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47257,
+    "dish_title": "Cá chẽm sốt bơ cà",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47258,
+    "dish_title": "Cá chẽm sốt bơ cà",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45739,
+    "dish_title": "Cá chỉ vàng sốt me",
+    "ingredient_name": "dầu sate",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45737,
+    "dish_title": "Cá chỉ vàng sốt me",
+    "ingredient_name": "me",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45740,
+    "dish_title": "Cá chỉ vàng sốt me",
+    "ingredient_name": "sả ớt tỏi hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45738,
+    "dish_title": "Cá chỉ vàng sốt me",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47976,
+    "dish_title": "Cá cơm chay (cá ruội chay) rim mặn ngọt",
+    "ingredient_name": "bột canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47973,
+    "dish_title": "Cá cơm chay (cá ruội chay) rim mặn ngọt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47970,
+    "dish_title": "Cá cơm chay (cá ruội chay) rim mặn ngọt",
+    "ingredient_name": "hoa chuối",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

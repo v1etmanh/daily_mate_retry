@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50950,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50952,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "giá",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50954,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50956,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 35,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50957,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50953,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "quế",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50955,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51912,
+    "dish_title": "Bún Tàu Xào Mực & Rau Cha Om (ชะอม)",
+    "ingredient_name": "bún tàu",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51915,
+    "dish_title": "Bún Tàu Xào Mực & Rau Cha Om (ชะอม)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51911,
+    "dish_title": "Bún Tàu Xào Mực & Rau Cha Om (ชะอม)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51913,
+    "dish_title": "Bún Tàu Xào Mực & Rau Cha Om (ชะอม)",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51914,
+    "dish_title": "Bún Tàu Xào Mực & Rau Cha Om (ชะอม)",
+    "ingredient_name": "ớt xanh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46289,
+    "dish_title": "Bún Tàu Xào Tôm Khô & Rau Củ",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46293,
+    "dish_title": "Bún Tàu Xào Tôm Khô & Rau Củ",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46291,
+    "dish_title": "Bún Tàu Xào Tôm Khô & Rau Củ",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46290,
+    "dish_title": "Bún Tàu Xào Tôm Khô & Rau Củ",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46292,
+    "dish_title": "Bún Tàu Xào Tôm Khô & Rau Củ",
+    "ingredient_name": "mirin",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47262,
+    "dish_title": "Bún Xào Trứng Nấm Cùng Sốt Sambal Cho Team Yêu Cay 🌶️",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47259,
+    "dish_title": "Bún Xào Trứng Nấm Cùng Sốt Sambal Cho Team Yêu Cay 🌶️",
+    "ingredient_name": "hộp nấm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47261,
+    "dish_title": "Bún Xào Trứng Nấm Cùng Sốt Sambal Cho Team Yêu Cay 🌶️",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47260,
+    "dish_title": "Bún Xào Trứng Nấm Cùng Sốt Sambal Cho Team Yêu Cay 🌶️",
+    "ingredient_name": "sambal",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44529,
+    "dish_title": "Bún bì chay (có thêm heo quay chay)",
+    "ingredient_name": "bún tàu",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44531,
+    "dish_title": "Bún bì chay (có thêm heo quay chay)",
+    "ingredient_name": "heo quay",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44533,
+    "dish_title": "Bún bì chay (có thêm heo quay chay)",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44530,
+    "dish_title": "Bún bì chay (có thêm heo quay chay)",
+    "ingredient_name": "mắm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44532,
+    "dish_title": "Bún bì chay (có thêm heo quay chay)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48078,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45364,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "bắp bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52440,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "bột canh",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53516,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "bột điều",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

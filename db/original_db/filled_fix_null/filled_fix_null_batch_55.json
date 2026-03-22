@@ -1,0 +1,242 @@
+[
+  {
+    "id": 44672,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "gừng",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44667,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47116,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44663,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "nạm bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47114,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44668,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "súp bún bò",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47112,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "sợi bún bò huế",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44671,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48784,
+    "dish_title": "Bún bò nhà làm",
+    "ingredient_name": "bún bò",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48788,
+    "dish_title": "Bún bò nhà làm",
+    "ingredient_name": "bắp chuối",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48785,
+    "dish_title": "Bún bò nhà làm",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48786,
+    "dish_title": "Bún bò nhà làm",
+    "ingredient_name": "ngò gai",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48783,
+    "dish_title": "Bún bò nhà làm",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48787,
+    "dish_title": "Bún bò nhà làm",
+    "ingredient_name": "rau muống",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50703,
+    "dish_title": "Bún bò trộn",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50705,
+    "dish_title": "Bún bò trộn",
+    "ingredient_name": "nước",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50702,
+    "dish_title": "Bún bò trộn",
+    "ingredient_name": "rau sống",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50704,
+    "dish_title": "Bún bò trộn",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50706,
+    "dish_title": "Bún bò trộn",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47154,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47153,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47149,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47148,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47150,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47151,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47152,
+    "dish_title": "Bún bò tái giò heo",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51871,
+    "dish_title": "Bún bò xào (EATCLEAN)",
+    "ingredient_name": "cải ngọt",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51873,
+    "dish_title": "Bún bò xào (EATCLEAN)",
+    "ingredient_name": "nước",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51870,
+    "dish_title": "Bún bò xào (EATCLEAN)",
+    "ingredient_name": "nụ hoa mướp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51872,
+    "dish_title": "Bún bò xào (EATCLEAN)",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

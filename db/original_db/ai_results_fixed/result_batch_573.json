@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 59621,
+    "recipe_id": "15991770",
+    "standard_id": 29,
+    "raw_name": "T tỏi xay",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59622,
+    "recipe_id": "15991770",
+    "standard_id": 11828,
+    "raw_name": "T nước tương Hàn",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59623,
+    "recipe_id": "15991770",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59624,
+    "recipe_id": "15881851",
+    "standard_id": 9859,
+    "raw_name": "lươn",
+    "standard_name": "lươn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59625,
+    "recipe_id": "15881851",
+    "standard_id": 195,
+    "raw_name": "bầu",
+    "standard_name": "bầu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59626,
+    "recipe_id": "15881851",
+    "standard_id": 1471,
+    "raw_name": "nấm linh chi",
+    "standard_name": "nấm linh chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59627,
+    "recipe_id": "15881851",
+    "standard_id": 83,
+    "raw_name": "Hành tím bằm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59628,
+    "recipe_id": "15881851",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59630,
+    "recipe_id": "15881851",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59635,
+    "recipe_id": "15881851",
+    "standard_id": 11828,
+    "raw_name": "sốt terriyaki màu dừa nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59636,
+    "recipe_id": "15881851",
+    "standard_id": 780,
+    "raw_name": "nghệ",
+    "standard_name": "nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59650,
+    "recipe_id": "15988884",
+    "standard_id": 166,
+    "raw_name": "hành tây trắng white onion",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59651,
+    "recipe_id": "15988884",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59652,
+    "recipe_id": "15988884",
+    "standard_id": 29,
+    "raw_name": "tỏi garlic",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59653,
+    "recipe_id": "15988884",
+    "standard_id": 39,
+    "raw_name": "gừng slice of ginger",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59654,
+    "recipe_id": "15988884",
+    "standard_id": 183,
+    "raw_name": "ngũ vị hương teaspoon of five spice powder",
+    "standard_name": "ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59655,
+    "recipe_id": "15988884",
+    "standard_id": 149,
+    "raw_name": "thịt lợn pork",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59657,
+    "recipe_id": "15988884",
+    "standard_id": 7720,
+    "raw_name": "Rượu nấu ăn Nhật Bản Japanese cooking wine",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59658,
+    "recipe_id": "15988884",
+    "standard_id": 8161,
+    "raw_name": "sốt hàu oyster sauce",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59659,
+    "recipe_id": "15988884",
+    "standard_id": 4506,
+    "raw_name": "Côca Côla",
+    "standard_name": "coca-cola",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59723,
+    "recipe_id": "15986144",
+    "standard_id": 1105,
+    "raw_name": "phi lê cá bơn Limande",
+    "standard_name": "cá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59724,
+    "recipe_id": "15986144",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59725,
+    "recipe_id": "15986144",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59726,
+    "recipe_id": "15986144",
+    "standard_id": 2210,
+    "raw_name": "Rau sống giá xà lách rau húng các loại",
+    "standard_name": "rau sống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59727,
+    "recipe_id": "15986144",
+    "standard_id": 2400,
+    "raw_name": "Bánh hỏi hoặc bún tươi",
+    "standard_name": "bánh hỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59728,
+    "recipe_id": "15986144",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng gạo",
+    "standard_name": "bánh tráng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59730,
+    "recipe_id": "15986144",
+    "standard_id": 2363,
+    "raw_name": "Tỏi ớt băm nhuyễn",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59733,
+    "recipe_id": "15986144",
+    "standard_id": 3662,
+    "raw_name": "cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59734,
+    "recipe_id": "15986144",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  }
+]

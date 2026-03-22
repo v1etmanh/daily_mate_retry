@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51325,
+    "dish_title": "Bún Gà Nấm Nấu Gừng",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44897,
+    "dish_title": "Bún Gạo Xào Tim Heo",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44896,
+    "dish_title": "Bún Gạo Xào Tim Heo",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44898,
+    "dish_title": "Bún Gạo Xào Tim Heo",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46503,
+    "dish_title": "Bún Gạo Xào Tôm",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46504,
+    "dish_title": "Bún Gạo Xào Tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46505,
+    "dish_title": "Bún Gạo Xào Tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46502,
+    "dish_title": "Bún Gạo Xào Tôm",
+    "ingredient_name": "lá bắp cải",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46501,
+    "dish_title": "Bún Gạo Xào Tôm",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46500,
+    "dish_title": "Bún Gạo Xào Tôm",
+    "ingredient_name": "tôm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46888,
+    "dish_title": "Bún Mực Cà Chua",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46889,
+    "dish_title": "Bún Mực Cà Chua",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46890,
+    "dish_title": "Bún Mực Cà Chua",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46886,
+    "dish_title": "Bún Mực Cà Chua",
+    "ingredient_name": "mực",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46887,
+    "dish_title": "Bún Mực Cà Chua",
+    "ingredient_name": "thì là",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48848,
+    "dish_title": "Bún Mực Nang Baby",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48846,
+    "dish_title": "Bún Mực Nang Baby",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48844,
+    "dish_title": "Bún Mực Nang Baby",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48845,
+    "dish_title": "Bún Mực Nang Baby",
+    "ingredient_name": "thì là",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48847,
+    "dish_title": "Bún Mực Nang Baby",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45148,
+    "dish_title": "Bún Nưa Nấu Tôm & Rong Biển",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45147,
+    "dish_title": "Bún Nưa Nấu Tôm & Rong Biển",
+    "ingredient_name": "súp",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45146,
+    "dish_title": "Bún Nưa Nấu Tôm & Rong Biển",
+    "ingredient_name": "đậu nưa",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45149,
+    "dish_title": "Bún Nưa Nấu Tôm & Rong Biển",
+    "ingredient_name": "ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49059,
+    "dish_title": "Bún Nấm Rơm Nấu Chao Chay",
+    "ingredient_name": "chao",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49061,
+    "dish_title": "Bún Nấm Rơm Nấu Chao Chay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49060,
+    "dish_title": "Bún Nấm Rơm Nấu Chao Chay",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49062,
+    "dish_title": "Bún Nấm Rơm Nấu Chao Chay",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49063,
+    "dish_title": "Bún Nấm Rơm Nấu Chao Chay",
+    "ingredient_name": "đường",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53357,
+    "dish_title": "Bún Riêu Cua",
+    "ingredient_name": "gạch cua",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

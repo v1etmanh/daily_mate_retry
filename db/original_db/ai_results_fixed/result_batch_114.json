@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 14172,
+    "recipe_id": "24238958",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14173,
+    "recipe_id": "24238958",
+    "standard_id": 2246,
+    "raw_name": "sữa đặc",
+    "standard_name": "sữa",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 14174,
+    "recipe_id": "24238958",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14186,
+    "recipe_id": "24340381",
+    "standard_id": 1041,
+    "raw_name": "cá ngừ gr",
+    "standard_name": "cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14187,
+    "recipe_id": "24340381",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 14188,
+    "recipe_id": "24340381",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14189,
+    "recipe_id": "24340381",
+    "standard_id": 620,
+    "raw_name": "măng chua",
+    "standard_name": "măng chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14190,
+    "recipe_id": "24340381",
+    "standard_id": 3111,
+    "raw_name": "ớt xanh lớn",
+    "standard_name": "ớt xanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14191,
+    "recipe_id": "24340381",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14193,
+    "recipe_id": "24340381",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14194,
+    "recipe_id": "24340381",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc Huế",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14195,
+    "recipe_id": "24340381",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 14196,
+    "recipe_id": "24340381",
+    "standard_id": 429,
+    "raw_name": "màu dầu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14198,
+    "recipe_id": "24340381",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14199,
+    "recipe_id": "24340381",
+    "standard_id": 1517,
+    "raw_name": "Rau ăn kèm rau cải con các loại rau thơm",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 14200,
+    "recipe_id": "24302268",
+    "standard_id": 1518,
+    "raw_name": "ức gà nạc",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14201,
+    "recipe_id": "24302268",
+    "standard_id": 41,
+    "raw_name": "cua",
+    "standard_name": "cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14202,
+    "recipe_id": "24302268",
+    "standard_id": 199,
+    "raw_name": "Nấm ông Cô tuỳ theo ăn nhiều hay ít",
+    "standard_name": "nấm đông cô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 14203,
+    "recipe_id": "24302268",
+    "standard_id": 865,
+    "raw_name": "Nấm Kim Châm tuỳ theo ăn nhiều hay ít",
+    "standard_name": "nấm kim châm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14204,
+    "recipe_id": "24302268",
+    "standard_id": 1502,
+    "raw_name": "Nấm Tuyết tuỳ theo ăn nhiều hay ít",
+    "standard_name": "nấm tuyết",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14205,
+    "recipe_id": "24302268",
+    "standard_id": 78,
+    "raw_name": "bắp có tách hạt sẵn càng tốt còn nếu nguyên trái thì tận dụng lõi bên trong để ninh nước cho ngọt",
+    "standard_name": "bắp ngọt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14206,
+    "recipe_id": "24302268",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14207,
+    "recipe_id": "24302268",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14208,
+    "recipe_id": "24302268",
+    "standard_id": 146,
+    "raw_name": "Trứng tách lòng trắng lòng đỏ ra để làm cho sợi đẹp hơn",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 14214,
+    "recipe_id": "24302268",
+    "standard_id": 11828,
+    "raw_name": "Nước tương để ăn kèm",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14215,
+    "recipe_id": "24337318",
+    "standard_id": 2440,
+    "raw_name": "hơn sách bò",
+    "standard_name": "sách bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14216,
+    "recipe_id": "24337318",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14217,
+    "recipe_id": "24337318",
+    "standard_id": 7233,
+    "raw_name": "cà ri Nị",
+    "standard_name": "cà ri",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14221,
+    "recipe_id": "24337318",
+    "standard_id": 31,
+    "raw_name": "sả bằm",
+    "standard_name": "sả",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 264/365
+[
+  {
+    "id": 45809,
+    "dish_title": "SP.0763 - Cải Cầu Vồng Xào Thịt Heo",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45806,
+    "dish_title": "SP.0763 - Cải Cầu Vồng Xào Thịt Heo",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45684,
+    "dish_title": "SP.0765 - Canh Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45681,
+    "dish_title": "SP.0765 - Canh Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45682,
+    "dish_title": "SP.0765 - Canh Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45683,
+    "dish_title": "SP.0765 - Canh Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "nước hầm xương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45545,
+    "dish_title": "SP.0767 - Gan Heo Xào Củ Hành",
+    "ingredient_name": "gan lợn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45548,
+    "dish_title": "SP.0767 - Gan Heo Xào Củ Hành",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45547,
+    "dish_title": "SP.0767 - Gan Heo Xào Củ Hành",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45546,
+    "dish_title": "SP.0767 - Gan Heo Xào Củ Hành",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45530,
+    "dish_title": "SP.0769 - Chả Cá Thác Lác Chiên Giòn Sốt Mắm Tỏi",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45528,
+    "dish_title": "SP.0769 - Chả Cá Thác Lác Chiên Giòn Sốt Mắm Tỏi",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45527,
+    "dish_title": "SP.0769 - Chả Cá Thác Lác Chiên Giòn Sốt Mắm Tỏi",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45529,
+    "dish_title": "SP.0769 - Chả Cá Thác Lác Chiên Giòn Sốt Mắm Tỏi",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45531,
+    "dish_title": "SP.0769 - Chả Cá Thác Lác Chiên Giòn Sốt Mắm Tỏi",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45453,
+    "dish_title": "SP.0776 - Cơm Trộn Tôm Cay",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45452,
+    "dish_title": "SP.0776 - Cơm Trộn Tôm Cay",
+    "ingredient_name": "tôm thẻ loại to",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45451,
+    "dish_title": "SP.0776 - Cơm Trộn Tôm Cay",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45362,
+    "dish_title": "SP.0782 - Tôm Sốt Phô Mai",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45360,
+    "dish_title": "SP.0782 - Tôm Sốt Phô Mai",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45359,
+    "dish_title": "SP.0782 - Tôm Sốt Phô Mai",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45358,
+    "dish_title": "SP.0782 - Tôm Sốt Phô Mai",
+    "ingredient_name": "tôm thẻ loại to",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45361,
+    "dish_title": "SP.0782 - Tôm Sốt Phô Mai",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45208,
+    "dish_title": "SP.0793 - Bì Cuốn Thịt Khìa",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45209,
+    "dish_title": "SP.0793 - Bì Cuốn Thịt Khìa",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45206,
+    "dish_title": "SP.0793 - Bì Cuốn Thịt Khìa",
+    "ingredient_name": "gạo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45207,
+    "dish_title": "SP.0793 - Bì Cuốn Thịt Khìa",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45108,
+    "dish_title": "SP.0796 - Súp Tóc Tiên Thịt Viên",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45109,
+    "dish_title": "SP.0796 - Súp Tóc Tiên Thịt Viên",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45110,
+    "dish_title": "SP.0796 - Súp Tóc Tiên Thịt Viên",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

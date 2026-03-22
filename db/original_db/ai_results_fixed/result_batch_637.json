@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 66143,
+    "recipe_id": "15638816",
+    "standard_id": 6165,
+    "raw_name": "lòng non",
+    "standard_name": "lòng non",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66144,
+    "recipe_id": "15638816",
+    "standard_id": 583,
+    "raw_name": "lưỡi heo",
+    "standard_name": "lưỡi heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66146,
+    "recipe_id": "15638816",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66147,
+    "recipe_id": "15638816",
+    "standard_id": 11039,
+    "raw_name": "Chả đậu hũ lá lốt",
+    "standard_name": "chả đậu hũ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66148,
+    "recipe_id": "15638816",
+    "standard_id": 71,
+    "raw_name": "đậu hũ nhỏ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66149,
+    "recipe_id": "15638816",
+    "standard_id": 150,
+    "raw_name": "lá lốt",
+    "standard_name": "lá lốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66150,
+    "recipe_id": "15638816",
+    "standard_id": 692,
+    "raw_name": "kinh giới",
+    "standard_name": "kinh giới",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66151,
+    "recipe_id": "15638816",
+    "standard_id": 887,
+    "raw_name": "tía tô",
+    "standard_name": "tía tô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66152,
+    "recipe_id": "15638816",
+    "standard_id": 166,
+    "raw_name": "hành tây à Lạt",
+    "standard_name": "hành tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66153,
+    "recipe_id": "15638816",
+    "standard_id": 395,
+    "raw_name": "dầu ô liu pomace",
+    "standard_name": "dầu ô liu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66155,
+    "recipe_id": "15638816",
+    "standard_id": 146,
+    "raw_name": "trứng tuỳ ý",
+    "standard_name": "trứng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66156,
+    "recipe_id": "15638816",
+    "standard_id": 10153,
+    "raw_name": "Nước chấm mắm tôm",
+    "standard_name": "sốt chấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66158,
+    "recipe_id": "15638816",
+    "standard_id": 7050,
+    "raw_name": "mắm tôm",
+    "standard_name": "mắm ruốc",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66159,
+    "recipe_id": "15638816",
+    "standard_id": 67,
+    "raw_name": "chanh mọng nước",
+    "standard_name": "chanh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66160,
+    "recipe_id": "15638816",
+    "standard_id": 29,
+    "raw_name": "khóm tỏi",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66169,
+    "recipe_id": "15639423",
+    "standard_id": 9815,
+    "raw_name": "đế bánh",
+    "standard_name": "đế bánh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66170,
+    "recipe_id": "15639423",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66172,
+    "recipe_id": "15639423",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66173,
+    "recipe_id": "15639423",
+    "standard_id": 11044,
+    "raw_name": "sourdough starter",
+    "standard_name": "sourdough starter",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66174,
+    "recipe_id": "15639423",
+    "standard_id": 11045,
+    "raw_name": "sauce",
+    "standard_name": "sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66175,
+    "recipe_id": "15639423",
+    "standard_id": 766,
+    "raw_name": "Bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66177,
+    "recipe_id": "15639423",
+    "standard_id": 2246,
+    "raw_name": "Sữa tươi",
+    "standard_name": "sữa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66180,
+    "recipe_id": "15639423",
+    "standard_id": 6561,
+    "raw_name": "nhân",
+    "standard_name": "nhân",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66181,
+    "recipe_id": "15639423",
+    "standard_id": 5586,
+    "raw_name": "Tôm cá ngừ mực nghêu tuỳ ý",
+    "standard_name": "hải sản",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66182,
+    "recipe_id": "15639423",
+    "standard_id": 824,
+    "raw_name": "Rosemarry",
+    "standard_name": "rosémary",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66183,
+    "recipe_id": "15639423",
+    "standard_id": 11241,
+    "raw_name": "Phomai mozzarella",
+    "standard_name": "mozzarella",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66200,
+    "recipe_id": "15637534",
+    "standard_id": 10244,
+    "raw_name": "pasta",
+    "standard_name": "pasta",
+    "confidence": 1.0
+  }
+]

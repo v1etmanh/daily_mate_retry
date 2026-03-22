@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 59735,
+    "recipe_id": "15986680",
+    "standard_id": 4729,
+    "raw_name": "Thịt heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59736,
+    "recipe_id": "15986680",
+    "standard_id": 1330,
+    "raw_name": "Nấm hương rừng",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59737,
+    "recipe_id": "15986680",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59738,
+    "recipe_id": "15986680",
+    "standard_id": 83,
+    "raw_name": "Hành khô",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59739,
+    "recipe_id": "15986680",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59740,
+    "recipe_id": "15986680",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59742,
+    "recipe_id": "15986680",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59743,
+    "recipe_id": "15986680",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59744,
+    "recipe_id": "15986680",
+    "standard_id": 1613,
+    "raw_name": "Ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59748,
+    "recipe_id": "15986680",
+    "standard_id": 10299,
+    "raw_name": "Sốt cà chua",
+    "standard_name": "xốt cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59862,
+    "recipe_id": "15974930",
+    "standard_id": 4399,
+    "raw_name": "mực ống tươi",
+    "standard_name": "mực ống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59863,
+    "recipe_id": "15974930",
+    "standard_id": 6561,
+    "raw_name": "Phần Nhân",
+    "standard_name": "nhân",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59864,
+    "recipe_id": "15974930",
+    "standard_id": 1211,
+    "raw_name": "miến",
+    "standard_name": "miến",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59865,
+    "recipe_id": "15974930",
+    "standard_id": 26,
+    "raw_name": "mộc nhĩ nấm hương nấm mèo",
+    "standard_name": "nấm mèo",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 59866,
+    "recipe_id": "15974930",
+    "standard_id": 362,
+    "raw_name": "thịt vai băm",
+    "standard_name": "thịt vai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59867,
+    "recipe_id": "15974930",
+    "standard_id": 1148,
+    "raw_name": "Phần Sốt",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59868,
+    "recipe_id": "15974930",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59869,
+    "recipe_id": "15974930",
+    "standard_id": 24,
+    "raw_name": "ớt băm",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59872,
+    "recipe_id": "15974930",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59873,
+    "recipe_id": "15974930",
+    "standard_id": 2513,
+    "raw_name": "sate nếu dùng tương ớt cay nhà làm thì có thể thôi sate",
+    "standard_name": "satế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59874,
+    "recipe_id": "15974930",
+    "standard_id": 3662,
+    "raw_name": "nước tắc nước cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59905,
+    "recipe_id": "15976517",
+    "standard_id": 766,
+    "raw_name": "bơ nhạt",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59907,
+    "recipe_id": "15976517",
+    "standard_id": 1100,
+    "raw_name": "bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59908,
+    "recipe_id": "15976517",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59909,
+    "recipe_id": "15976517",
+    "standard_id": 9809,
+    "raw_name": "sữa bột",
+    "standard_name": "sữa bột",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59910,
+    "recipe_id": "15976517",
+    "standard_id": 1739,
+    "raw_name": "bột cacao làm mắt heo",
+    "standard_name": "cacao",
+    "confidence": 0.9
+  }
+]

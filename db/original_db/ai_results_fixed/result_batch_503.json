@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 52794,
+    "recipe_id": "14311992",
+    "standard_id": 11063,
+    "raw_name": "thit dăm",
+    "standard_name": "thịt nạc dăm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52796,
+    "recipe_id": "14311992",
+    "standard_id": 81,
+    "raw_name": "cu ca rôt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52797,
+    "recipe_id": "14311992",
+    "standard_id": 1074,
+    "raw_name": "cai trăng got vo",
+    "standard_name": "cải trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52798,
+    "recipe_id": "14311992",
+    "standard_id": null,
+    "raw_name": "rưa sach",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 52800,
+    "recipe_id": "14311992",
+    "standard_id": 5850,
+    "raw_name": "Hat nêm",
+    "standard_name": "hat niêm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52801,
+    "recipe_id": "14311992",
+    "standard_id": 2832,
+    "raw_name": "bôt ngot",
+    "standard_name": "mỳ chính",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52803,
+    "recipe_id": "14311992",
+    "standard_id": 465,
+    "raw_name": "nươc măm",
+    "standard_name": "nước mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52804,
+    "recipe_id": "14311992",
+    "standard_id": 3265,
+    "raw_name": "hẹ",
+    "standard_name": "hẹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52814,
+    "recipe_id": "16261814",
+    "standard_id": 142,
+    "raw_name": "thit bo",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52815,
+    "recipe_id": "16261814",
+    "standard_id": 4589,
+    "raw_name": "mơ heo",
+    "standard_name": "mỡ heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52816,
+    "recipe_id": "16261814",
+    "standard_id": 166,
+    "raw_name": "Hanh to",
+    "standard_name": "hành tây",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 52817,
+    "recipe_id": "16261814",
+    "standard_id": null,
+    "raw_name": "băm nho",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 52818,
+    "recipe_id": "16261814",
+    "standard_id": 5850,
+    "raw_name": "hat nêm",
+    "standard_name": "hat niêm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52820,
+    "recipe_id": "16261814",
+    "standard_id": 8161,
+    "raw_name": "dâu hao",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52821,
+    "recipe_id": "16261814",
+    "standard_id": 1207,
+    "raw_name": "bôt băp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52822,
+    "recipe_id": "16261814",
+    "standard_id": 11827,
+    "raw_name": "dâu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 52823,
+    "recipe_id": "16261814",
+    "standard_id": 730,
+    "raw_name": "chen cơm trăng",
+    "standard_name": "cơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 52824,
+    "recipe_id": "16261814",
+    "standard_id": 1747,
+    "raw_name": "mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52825,
+    "recipe_id": "16261814",
+    "standard_id": 822,
+    "raw_name": "Xà lach",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52826,
+    "recipe_id": "16261814",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52827,
+    "recipe_id": "16261814",
+    "standard_id": 312,
+    "raw_name": "kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52829,
+    "recipe_id": "16261814",
+    "standard_id": 6801,
+    "raw_name": "tương ơt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52830,
+    "recipe_id": "16260987",
+    "standard_id": 2638,
+    "raw_name": "thịt thăn bò",
+    "standard_name": "thăn bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52831,
+    "recipe_id": "16260987",
+    "standard_id": 387,
+    "raw_name": "cải kale",
+    "standard_name": "cải xoăn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52832,
+    "recipe_id": "16260987",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52833,
+    "recipe_id": "16260987",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52834,
+    "recipe_id": "16260987",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 52846,
+    "recipe_id": "16258676",
+    "standard_id": 149,
+    "raw_name": "thịt heo xắt mỏng",
+    "standard_name": "heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 52847,
+    "recipe_id": "16258676",
+    "standard_id": 4729,
+    "raw_name": "thịt heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  }
+]

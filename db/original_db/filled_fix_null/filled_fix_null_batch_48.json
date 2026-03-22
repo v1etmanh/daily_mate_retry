@@ -1,0 +1,242 @@
+[
+  {
+    "id": 49983,
+    "dish_title": "Bò né đậu bắp",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50000,
+    "dish_title": "Bò né đậu bắp",
+    "ingredient_name": "chao",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50003,
+    "dish_title": "Bò né đậu bắp",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50001,
+    "dish_title": "Bò né đậu bắp",
+    "ingredient_name": "satế",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50002,
+    "dish_title": "Bò né đậu bắp",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49982,
+    "dish_title": "Bò né đậu bắp",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47838,
+    "dish_title": "Bò phô mai 2 món",
+    "ingredient_name": "ba chỉ bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47839,
+    "dish_title": "Bò phô mai 2 món",
+    "ingredient_name": "phô mai",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47840,
+    "dish_title": "Bò phô mai 2 món",
+    "ingredient_name": "xốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44015,
+    "dish_title": "Bò pía đơn giản tại nhà",
+    "ingredient_name": "củ sắn",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44016,
+    "dish_title": "Bò pía đơn giản tại nhà",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44019,
+    "dish_title": "Bò pía đơn giản tại nhà",
+    "ingredient_name": "rau sống",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44017,
+    "dish_title": "Bò pía đơn giản tại nhà",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44018,
+    "dish_title": "Bò pía đơn giản tại nhà",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46349,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "bánh mì",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46344,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46346,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46348,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "hành tây",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46351,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "me",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46350,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "nấm kim châm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46345,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46347,
+    "dish_title": "Bò sốt phô mai",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51445,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "cà ri",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51443,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "khoai tây",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51447,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "ngũ vị hương",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51444,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51448,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "rượu",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51442,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "sườn bò",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51446,
+    "dish_title": "Bò sốt vang",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52437,
+    "dish_title": "Bò viên nướng Hàn Quốc",
+    "ingredient_name": "bột canh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

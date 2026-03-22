@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 39918,
+    "recipe_id": "15144924",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn dầu hào dầu mè",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39919,
+    "recipe_id": "15144924",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39920,
+    "recipe_id": "15144924",
+    "standard_id": 11829,
+    "raw_name": "Húng thơm húng quế húng lủi",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39933,
+    "recipe_id": "16891406",
+    "standard_id": 1100,
+    "raw_name": "bột mì số thay bằng bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39934,
+    "recipe_id": "16891406",
+    "standard_id": 6101,
+    "raw_name": "gg nước lọc oC tuỳ loại bột",
+    "standard_name": "nước",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39938,
+    "recipe_id": "16891406",
+    "standard_id": 6053,
+    "raw_name": "topping tuỳ chọn theo khẩu vị",
+    "standard_name": "topping",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39939,
+    "recipe_id": "16891406",
+    "standard_id": 1129,
+    "raw_name": "gg phomai Mozzarella nạo sợi",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 39940,
+    "recipe_id": "16891406",
+    "standard_id": 10299,
+    "raw_name": "Nước sốt cà chua tự làm hoặc bạn có thể dùng sốt Bolognese",
+    "standard_name": "xốt cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39941,
+    "recipe_id": "16891406",
+    "standard_id": 395,
+    "raw_name": "dầu oliu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39942,
+    "recipe_id": "16891406",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39943,
+    "recipe_id": "16891406",
+    "standard_id": 354,
+    "raw_name": "nấm rơm",
+    "standard_name": "nấm rơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39944,
+    "recipe_id": "16891406",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39945,
+    "recipe_id": "16891406",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39947,
+    "recipe_id": "16891406",
+    "standard_id": 1589,
+    "raw_name": "Gia vị pizza hương thảo lá xô thơm húng tây khô",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 39948,
+    "recipe_id": "16891406",
+    "standard_id": 1517,
+    "raw_name": "Rau húng cà chua bi ăn kèm",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39963,
+    "recipe_id": "16890671",
+    "standard_id": 998,
+    "raw_name": "Tôm nõn băm nhuyễn",
+    "standard_name": "nõn tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 39964,
+    "recipe_id": "16890671",
+    "standard_id": 2580,
+    "raw_name": "nạc vai xay",
+    "standard_name": "thịt nạc vai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39965,
+    "recipe_id": "16890671",
+    "standard_id": 81,
+    "raw_name": "cà rốt xay nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 39966,
+    "recipe_id": "16890671",
+    "standard_id": 3532,
+    "raw_name": "bắp Ngô nếp tách hạt giã dập",
+    "standard_name": "bắp nếp",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 39967,
+    "recipe_id": "16890671",
+    "standard_id": 1071,
+    "raw_name": "Rong biển khô ngâm nước cắt nhỏ",
+    "standard_name": "rong biển",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39968,
+    "recipe_id": "16890671",
+    "standard_id": 121,
+    "raw_name": "Bột khoai Tây",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39969,
+    "recipe_id": "16890671",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39971,
+    "recipe_id": "16890671",
+    "standard_id": 11831,
+    "raw_name": "bột canh",
+    "standard_name": "bột canh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39972,
+    "recipe_id": "16890671",
+    "standard_id": 7595,
+    "raw_name": "Hành khô tỏi khô tép băm nhỏ",
+    "standard_name": "hành tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 39974,
+    "recipe_id": "16890671",
+    "standard_id": 1589,
+    "raw_name": "đình",
+    "standard_name": "gia vị",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 39975,
+    "recipe_id": "16890671",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn để chiên",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 40057,
+    "recipe_id": "16885409",
+    "standard_id": 1228,
+    "raw_name": "cá rô gr",
+    "standard_name": "cá rô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 40058,
+    "recipe_id": "16885409",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40059,
+    "recipe_id": "16885409",
+    "standard_id": 24,
+    "raw_name": "ớt hiểm hoặc trái ớt sừng không cay",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 40061,
+    "recipe_id": "16885409",
+    "standard_id": 4589,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ heo",
+    "confidence": 0.9
+  }
+]

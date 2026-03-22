@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 67574,
+    "recipe_id": "15586155",
+    "standard_id": 2798,
+    "raw_name": "Thịt nướng",
+    "standard_name": "thịt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67575,
+    "recipe_id": "15586155",
+    "standard_id": 299,
+    "raw_name": "Bắp cải",
+    "standard_name": "cải bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67579,
+    "recipe_id": "15586179",
+    "standard_id": 149,
+    "raw_name": "Thịt Heo",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67580,
+    "recipe_id": "15586179",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67582,
+    "recipe_id": "15586179",
+    "standard_id": 29,
+    "raw_name": "tỏi khô",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67583,
+    "recipe_id": "15586179",
+    "standard_id": 16,
+    "raw_name": "hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67584,
+    "recipe_id": "15586179",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 67593,
+    "recipe_id": "15584511",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào chay",
+    "standard_name": "dầu hào",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67594,
+    "recipe_id": "15584511",
+    "standard_id": 1452,
+    "raw_name": "Chả cá chay đông lạnh",
+    "standard_name": "chả chay",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67595,
+    "recipe_id": "15584511",
+    "standard_id": 9,
+    "raw_name": "cà chua cắt nhỏ",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67596,
+    "recipe_id": "15584511",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67597,
+    "recipe_id": "15584511",
+    "standard_id": 16,
+    "raw_name": "Hành lá cắt nhuyễn",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67606,
+    "recipe_id": "15397636",
+    "standard_id": 1162,
+    "raw_name": "pheohoăc long già",
+    "standard_name": "lòng heo",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 67607,
+    "recipe_id": "15397636",
+    "standard_id": 11338,
+    "raw_name": "mơ pheomơ mâm xôi",
+    "standard_name": "mỡ phèomỡ mâm xôi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67608,
+    "recipe_id": "15397636",
+    "standard_id": 583,
+    "raw_name": "lươi heo",
+    "standard_name": "lưỡi heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67609,
+    "recipe_id": "15397636",
+    "standard_id": 11829,
+    "raw_name": "Rau ômhanh lángo gai rau răm rau thơm quê",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67610,
+    "recipe_id": "15397636",
+    "standard_id": 2048,
+    "raw_name": "chen tiêt heo",
+    "standard_name": "tiết heo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67611,
+    "recipe_id": "15397636",
+    "standard_id": 6101,
+    "raw_name": "chen nươc loc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67612,
+    "recipe_id": "15397636",
+    "standard_id": 1589,
+    "raw_name": "Muôibôt ngottiêunươc măm ơt sa",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67670,
+    "recipe_id": "15583703",
+    "standard_id": 5239,
+    "raw_name": "thanh cua rã đông cắt xéo",
+    "standard_name": "thanh cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67671,
+    "recipe_id": "15583703",
+    "standard_id": 5932,
+    "raw_name": "trứng cút luộc chín cắt đôi",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67672,
+    "recipe_id": "15583703",
+    "standard_id": 822,
+    "raw_name": "xà lách mỹ rửa sạch cắt nhỏ",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67673,
+    "recipe_id": "15583703",
+    "standard_id": 78,
+    "raw_name": "bắp ngọt luộc chín",
+    "standard_name": "bắp ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67674,
+    "recipe_id": "15583703",
+    "standard_id": 9,
+    "raw_name": "cà chua bi hỗn hợp đỏ cam vàng cắt đôi",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67675,
+    "recipe_id": "15583703",
+    "standard_id": 1467,
+    "raw_name": "rau cải mầm",
+    "standard_name": "rau mầm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67676,
+    "recipe_id": "15583703",
+    "standard_id": 245,
+    "raw_name": "dưa leo baby bào lát",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67677,
+    "recipe_id": "15583703",
+    "standard_id": 3005,
+    "raw_name": "Sốt dầu dấm",
+    "standard_name": "dầu giấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67678,
+    "recipe_id": "15583703",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67680,
+    "recipe_id": "15583703",
+    "standard_id": 225,
+    "raw_name": "dấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67683,
+    "recipe_id": "15583703",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  }
+]

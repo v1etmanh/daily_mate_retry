@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 37244,
+    "recipe_id": "17002812",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37245,
+    "recipe_id": "17002812",
+    "standard_id": 8660,
+    "raw_name": "mắm nêm",
+    "standard_name": "mắm nêm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37246,
+    "recipe_id": "17002812",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37250,
+    "recipe_id": "17002812",
+    "standard_id": 3993,
+    "raw_name": "dầu",
+    "standard_name": "dầu hạt cải",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 37278,
+    "recipe_id": "17001600",
+    "standard_id": 142,
+    "raw_name": "thịt bò loại bò vụn có gân để nấu bò kho hoặc bò thăn mềm đều được",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 37279,
+    "recipe_id": "17001600",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37282,
+    "recipe_id": "17001600",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37283,
+    "recipe_id": "17001600",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37284,
+    "recipe_id": "17001600",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37287,
+    "recipe_id": "17001600",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 37290,
+    "recipe_id": "17001600",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 37314,
+    "recipe_id": "17000908",
+    "standard_id": 611,
+    "raw_name": "cá lóc khoảng kg mình mua cá còn sống nhờ người bán ngoài chợ lọc xương phi lê luôn tiện lắm",
+    "standard_name": "cá lóc",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 37315,
+    "recipe_id": "17000908",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37316,
+    "recipe_id": "17000908",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37317,
+    "recipe_id": "17000908",
+    "standard_id": 350,
+    "raw_name": "thì là",
+    "standard_name": "thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37318,
+    "recipe_id": "17000908",
+    "standard_id": 151,
+    "raw_name": "Nấm tùy ý",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 37319,
+    "recipe_id": "17000908",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37320,
+    "recipe_id": "17000908",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37321,
+    "recipe_id": "17000908",
+    "standard_id": 780,
+    "raw_name": "nghệ",
+    "standard_name": "nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37322,
+    "recipe_id": "17000908",
+    "standard_id": 389,
+    "raw_name": "Bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37323,
+    "recipe_id": "17000908",
+    "standard_id": 1517,
+    "raw_name": "rau thơm",
+    "standard_name": "rau thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37324,
+    "recipe_id": "17000908",
+    "standard_id": 1100,
+    "raw_name": "Bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37325,
+    "recipe_id": "17000908",
+    "standard_id": 1207,
+    "raw_name": "bột bắp để lăn bột cá phi lê",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 37336,
+    "recipe_id": "17000667",
+    "standard_id": 1041,
+    "raw_name": "khứa cá ngừ",
+    "standard_name": "cá ngừ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 37337,
+    "recipe_id": "17000667",
+    "standard_id": 28,
+    "raw_name": "Thơm cắt",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 37338,
+    "recipe_id": "17000667",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37339,
+    "recipe_id": "17000667",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37340,
+    "recipe_id": "17000667",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37344,
+    "recipe_id": "17000667",
+    "standard_id": 8055,
+    "raw_name": "ớt bột",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 37345,
+    "recipe_id": "17000667",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  }
+]

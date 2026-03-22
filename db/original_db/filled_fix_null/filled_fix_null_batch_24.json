@@ -1,0 +1,243 @@
+
+[
+  {
+    "id": 52631,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "miến",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52632,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "nấm hương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52633,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "nấm mèo",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52630,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52634,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52635,
+    "dish_title": "Bánh gối nhân thịt, trứng cút, lạp sườn",
+    "ingredient_name": "đường",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43717,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "cháo",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 43719,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "chả",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43721,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "cật lợn",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43722,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "gan",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43718,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "hẹ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43724,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "lòng heo",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43725,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43723,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "thịt",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43720,
+    "dish_title": "Bánh hỏi lòng heo - món ngon xứ Nẫu (Bình Định - Phú Yên)",
+    "ingredient_name": "tim",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45045,
+    "dish_title": "Bánh hỏi thịt nướng",
+    "ingredient_name": "ngũ vị hương",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45042,
+    "dish_title": "Bánh hỏi thịt nướng",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45043,
+    "dish_title": "Bánh hỏi thịt nướng",
+    "ingredient_name": "sả",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45044,
+    "dish_title": "Bánh hỏi thịt nướng",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52399,
+    "dish_title": "Bánh khoai tây cá hồi",
+    "ingredient_name": "bột mì",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52400,
+    "dish_title": "Bánh khoai tây cá hồi",
+    "ingredient_name": "bột xù",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52401,
+    "dish_title": "Bánh khoai tây cá hồi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50275,
+    "dish_title": "Bánh mì bơ sữa hình cua, sừng trâu",
+    "ingredient_name": "bơ",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50276,
+    "dish_title": "Bánh mì bơ sữa hình cua, sừng trâu",
+    "ingredient_name": "bột hành",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50273,
+    "dish_title": "Bánh mì bơ sữa hình cua, sừng trâu",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50274,
+    "dish_title": "Bánh mì bơ sữa hình cua, sừng trâu",
+    "ingredient_name": "sữa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51504,
+    "dish_title": "Bánh mì ciabatta kẹp tôm",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51507,
+    "dish_title": "Bánh mì ciabatta kẹp tôm",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51505,
+    "dish_title": "Bánh mì ciabatta kẹp tôm",
+    "ingredient_name": "lá cà ri",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51503,
+    "dish_title": "Bánh mì ciabatta kẹp tôm",
+    "ingredient_name": "nước",
+    "quantity_g": 220,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

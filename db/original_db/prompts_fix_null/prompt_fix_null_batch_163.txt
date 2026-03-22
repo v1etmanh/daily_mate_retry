@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 163/365
+[
+  {
+    "id": 46169,
+    "dish_title": "Gỏi vịt rau muống bào và bắp cải",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46174,
+    "dish_title": "Gỏi vịt rau muống bào và bắp cải",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49754,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "bánh phồng tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49748,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49751,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49746,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49749,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "rau răm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49753,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49745,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "đu đủ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49747,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49750,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49752,
+    "dish_title": "Gỏi đu đủ khô cá chỉ vàng món ăn Việt Nam",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51461,
+    "dish_title": "Gỏi đu đủ tôm thịt",
+    "ingredient_name": "bánh phồng tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51459,
+    "dish_title": "Gỏi đu đủ tôm thịt",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51460,
+    "dish_title": "Gỏi đu đủ tôm thịt",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51612,
+    "dish_title": "Grilled chopped fish with Fish Sauce",
+    "ingredient_name": "chả cá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51616,
+    "dish_title": "Grilled chopped fish with Fish Sauce",
+    "ingredient_name": "dưa leo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51617,
+    "dish_title": "Grilled chopped fish with Fish Sauce",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51613,
+    "dish_title": "Grilled chopped fish with Fish Sauce",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51615,
+    "dish_title": "Grilled chopped fish with Fish Sauce",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51614,
+    "dish_title": "Grilled chopped fish with Fish Sauce",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42770,
+    "dish_title": "Gyudon Cơm bò kiểu Nhật",
+    "ingredient_name": "ba chỉ bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42773,
+    "dish_title": "Gyudon Cơm bò kiểu Nhật",
+    "ingredient_name": "dashi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42771,
+    "dish_title": "Gyudon Cơm bò kiểu Nhật",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42775,
+    "dish_title": "Gyudon Cơm bò kiểu Nhật",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42774,
+    "dish_title": "Gyudon Cơm bò kiểu Nhật",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42772,
+    "dish_title": "Gyudon Cơm bò kiểu Nhật",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48141,
+    "dish_title": "Gà Nướng Rau Củ",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48142,
+    "dish_title": "Gà Nướng Rau Củ",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48143,
+    "dish_title": "Gà Nướng Rau Củ",
+    "ingredient_name": "mật",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

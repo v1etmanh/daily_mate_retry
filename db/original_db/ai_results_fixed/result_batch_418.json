@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 46409,
+    "recipe_id": "16549748",
+    "standard_id": 6101,
+    "raw_name": "ml ml nươc sôi",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46410,
+    "recipe_id": "16549748",
+    "standard_id": 357,
+    "raw_name": "tôm tươi",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46411,
+    "recipe_id": "16549748",
+    "standard_id": 4729,
+    "raw_name": "thit xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46412,
+    "recipe_id": "16549748",
+    "standard_id": 1330,
+    "raw_name": "nâm hương ngâm nơ",
+    "standard_name": "nấm hương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46413,
+    "recipe_id": "16549748",
+    "standard_id": 81,
+    "raw_name": "cà rôt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46414,
+    "recipe_id": "16549748",
+    "standard_id": 11828,
+    "raw_name": "Hanh lahanh timnươc tươngđươngdâu haohat nêmtiêu",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 46415,
+    "recipe_id": "16549748",
+    "standard_id": 312,
+    "raw_name": "Kim chi ăn kem",
+    "standard_name": "kim chi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46416,
+    "recipe_id": "16549748",
+    "standard_id": 10153,
+    "raw_name": "Nươc châm",
+    "standard_name": "sốt chấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46418,
+    "recipe_id": "16549748",
+    "standard_id": 2387,
+    "raw_name": "muông canh đương",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46420,
+    "recipe_id": "16549748",
+    "standard_id": 7069,
+    "raw_name": "muông cafe nươc côt chanh",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46421,
+    "recipe_id": "16549748",
+    "standard_id": 2363,
+    "raw_name": "Tỏi ơt",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46422,
+    "recipe_id": "16549260",
+    "standard_id": 612,
+    "raw_name": "Gạo có thể thêm gạo nếp cho ngon hơn",
+    "standard_name": "gạo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46423,
+    "recipe_id": "16549260",
+    "standard_id": 62,
+    "raw_name": "Sườn non",
+    "standard_name": "sườn heo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46424,
+    "recipe_id": "16549260",
+    "standard_id": 4729,
+    "raw_name": "Thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46425,
+    "recipe_id": "16549260",
+    "standard_id": 354,
+    "raw_name": "Nấm rơm",
+    "standard_name": "nấm rơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46426,
+    "recipe_id": "16549260",
+    "standard_id": 5625,
+    "raw_name": "Hạt sen",
+    "standard_name": "sen",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46427,
+    "recipe_id": "16549260",
+    "standard_id": 1589,
+    "raw_name": "Hành phi",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 46428,
+    "recipe_id": "16549260",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46430,
+    "recipe_id": "16549260",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46432,
+    "recipe_id": "16549260",
+    "standard_id": 1520,
+    "raw_name": "hành ngò",
+    "standard_name": "hành ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46433,
+    "recipe_id": "16549260",
+    "standard_id": 720,
+    "raw_name": "Trứng bắc thảo",
+    "standard_name": "trứng bắc thảo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46434,
+    "recipe_id": "16549260",
+    "standard_id": 5932,
+    "raw_name": "trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46443,
+    "recipe_id": "16329420",
+    "standard_id": 4485,
+    "raw_name": "mực nang nhỏ hoặc mực ống mực lá nhỏ đều được",
+    "standard_name": "mực",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 46444,
+    "recipe_id": "16329420",
+    "standard_id": 9,
+    "raw_name": "cà chua lớn",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46445,
+    "recipe_id": "16329420",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46446,
+    "recipe_id": "16329420",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46447,
+    "recipe_id": "16329420",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46448,
+    "recipe_id": "16329420",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 26697,
+    "recipe_id": "17045991",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 26813,
+    "recipe_id": "17304095",
+    "standard_id": 2211,
+    "raw_name": "rau càng cua",
+    "standard_name": "rau càng cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26814,
+    "recipe_id": "17304095",
+    "standard_id": 142,
+    "raw_name": "phile bò",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 26815,
+    "recipe_id": "17304095",
+    "standard_id": 146,
+    "raw_name": "trứng gà luộc",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 26816,
+    "recipe_id": "17304095",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26817,
+    "recipe_id": "17304095",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26818,
+    "recipe_id": "17304095",
+    "standard_id": 83,
+    "raw_name": "hành phi",
+    "standard_name": "hành tím",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 26819,
+    "recipe_id": "17304095",
+    "standard_id": 3005,
+    "raw_name": "sổt dầu giấm",
+    "standard_name": "dầu giấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 26820,
+    "recipe_id": "17304095",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 26821,
+    "recipe_id": "17304095",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 26822,
+    "recipe_id": "17304095",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 26909,
+    "recipe_id": "17304497",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 26910,
+    "recipe_id": "17304497",
+    "standard_id": 6777,
+    "raw_name": "bún tàu các bạn có thể mua bịch mà sẵn lọn bún tàu nha mình mua loại mỗi túi một lọn thôi à hiệu Song Long hay sao á",
+    "standard_name": "bún tàu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 26911,
+    "recipe_id": "17304497",
+    "standard_id": 3417,
+    "raw_name": "mắm chay pha sẵnpha sẵn tuỳ các bạn",
+    "standard_name": "mắm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 26912,
+    "recipe_id": "17304497",
+    "standard_id": 10685,
+    "raw_name": "Heo quay chay ở sạp đậu hủ nếu ko có thì các bạn có thể tìm tiệm nào bán thực phẩm chay để mua có hãng Phương Loan và La Hán á mua về tự chiên còn ở sạp đậu hủ thì họ chiên sẵn luôn rồi",
+    "standard_name": "heo quay",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 26913,
+    "recipe_id": "17304497",
+    "standard_id": 1517,
+    "raw_name": "Giá và rau thơm mình mua sẵn ở siêu thị á về đỡ phải rửa giá cả dĩ nhiên đắt hơn xíu mà vừa ăn rồi",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 26914,
+    "recipe_id": "17304497",
+    "standard_id": 2363,
+    "raw_name": "tỏi xay và đ ớt xay mình mua nhiêu đó thôi mà còn bị dư ra á nên nếu các bạn mua ít được thì mua nha mua ít quá mình ngại á nên mua đại mỗi thứ đ",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 26920,
+    "recipe_id": "17303974",
+    "standard_id": 1410,
+    "raw_name": "Thịt ba chỉ",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26921,
+    "recipe_id": "17303974",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 26922,
+    "recipe_id": "17303974",
+    "standard_id": 3417,
+    "raw_name": "Mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26924,
+    "recipe_id": "17303974",
+    "standard_id": 8161,
+    "raw_name": "t hành băm dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 26926,
+    "recipe_id": "17303974",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26969,
+    "recipe_id": "17302497",
+    "standard_id": 71,
+    "raw_name": "đậu hủ bi chiên hoặc miếng đậu hủ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 26970,
+    "recipe_id": "17302497",
+    "standard_id": 285,
+    "raw_name": "dừa nhỏ có thể thay bằng nước",
+    "standard_name": "nước dừa",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 26972,
+    "recipe_id": "17302497",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 26974,
+    "recipe_id": "17302497",
+    "standard_id": 6801,
+    "raw_name": "tương ớt ớt trái và gốc hành",
+    "standard_name": "tương ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 26991,
+    "recipe_id": "17297710",
+    "standard_id": 2211,
+    "raw_name": "rau Càng Cua",
+    "standard_name": "rau càng cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26992,
+    "recipe_id": "17297710",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 26993,
+    "recipe_id": "17297710",
+    "standard_id": 9,
+    "raw_name": "cà chua bi",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 26994,
+    "recipe_id": "17297710",
+    "standard_id": 146,
+    "raw_name": "trứng luộc chín",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  }
+]

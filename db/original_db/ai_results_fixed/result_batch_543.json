@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 56909,
+    "recipe_id": "16091487",
+    "standard_id": 1100,
+    "raw_name": "bột tẩm khô chiên giòn AjiQuick",
+    "standard_name": "bột mì",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 56912,
+    "recipe_id": "16091487",
+    "standard_id": 2210,
+    "raw_name": "Hành lá cà chua dưa leo rau xà lách",
+    "standard_name": "rau sống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56913,
+    "recipe_id": "16091487",
+    "standard_id": 1148,
+    "raw_name": "Tương ớt sốt majonnaise",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56914,
+    "recipe_id": "16091487",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 56939,
+    "recipe_id": "16090192",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56940,
+    "recipe_id": "16090192",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56941,
+    "recipe_id": "16090192",
+    "standard_id": 4399,
+    "raw_name": "mực ống",
+    "standard_name": "mực ống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56942,
+    "recipe_id": "16090192",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56943,
+    "recipe_id": "16090192",
+    "standard_id": 11829,
+    "raw_name": "Rau củ ớt chuông đậu que bắp",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56945,
+    "recipe_id": "16090192",
+    "standard_id": 1100,
+    "raw_name": "bột mì hữu cơ",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56946,
+    "recipe_id": "16090192",
+    "standard_id": 1207,
+    "raw_name": "tinh bột bắp hữu cơ",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56981,
+    "recipe_id": "16086307",
+    "standard_id": 1786,
+    "raw_name": "ậu phụ non",
+    "standard_name": "đậu non",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56982,
+    "recipe_id": "16086307",
+    "standard_id": 3604,
+    "raw_name": "Giò chay chả lụa chay hoặc ham chay nhưng không nhất thiết phải có",
+    "standard_name": "giò chay",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56983,
+    "recipe_id": "16086307",
+    "standard_id": 1458,
+    "raw_name": "Kỷ tử",
+    "standard_name": "kỷ tử",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56984,
+    "recipe_id": "16086307",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56985,
+    "recipe_id": "16086307",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57021,
+    "recipe_id": "16693890",
+    "standard_id": null,
+    "raw_name": "Chuẩn bị NCKD",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 57022,
+    "recipe_id": "16693890",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 57034,
+    "recipe_id": "16087390",
+    "standard_id": 11829,
+    "raw_name": "quenelle vegetarian",
+    "standard_name": "quế",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 57035,
+    "recipe_id": "16087390",
+    "standard_id": 10299,
+    "raw_name": "hộp cà chua xay",
+    "standard_name": "xốt cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 57036,
+    "recipe_id": "16087390",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ to",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 57037,
+    "recipe_id": "16087390",
+    "standard_id": 166,
+    "raw_name": "củ hành tây to",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57038,
+    "recipe_id": "16087390",
+    "standard_id": 7233,
+    "raw_name": "Sốt cà ri đặc kiểu hủ cà ri dầu hiệu ng Chà Và ở VN",
+    "standard_name": "cà ri",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 57039,
+    "recipe_id": "16087390",
+    "standard_id": 395,
+    "raw_name": "Dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57053,
+    "recipe_id": "16087030",
+    "standard_id": 1105,
+    "raw_name": "cá đục",
+    "standard_name": "cá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 57054,
+    "recipe_id": "16087030",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 57055,
+    "recipe_id": "16087030",
+    "standard_id": 465,
+    "raw_name": "Mắm tỏi ớt",
+    "standard_name": "nước mắm",
+    "confidence": 0.8
+  }
+]

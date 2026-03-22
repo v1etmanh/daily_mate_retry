@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52616,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53511,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53505,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "chân giò bắp giò",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52608,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "chả",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52615,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "dầu màu điều",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53514,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51538,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53513,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45367,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52614,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53515,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45365,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "giò heo",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45368,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48076,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49923,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52439,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52610,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53509,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45363,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "nước",
+    "quantity_g": 2000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51535,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "nước",
+    "quantity_g": 2000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53506,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "nước",
+    "quantity_g": 2000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45371,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48077,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52612,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52613,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "rau nêm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45370,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49922,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52443,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51536,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52441,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

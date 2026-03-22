@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 69336,
+    "recipe_id": "15530009",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 69337,
+    "recipe_id": "15530009",
+    "standard_id": 11668,
+    "raw_name": "bột bánh dẻo",
+    "standard_name": "bột bánh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69338,
+    "recipe_id": "15530009",
+    "standard_id": 11829,
+    "raw_name": "Quét mặt bánh",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69339,
+    "recipe_id": "15530009",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69340,
+    "recipe_id": "15530009",
+    "standard_id": 429,
+    "raw_name": "màu dầu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69341,
+    "recipe_id": "15530009",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69351,
+    "recipe_id": "15363027",
+    "standard_id": 5575,
+    "raw_name": "rau câu dừa",
+    "standard_name": "rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69352,
+    "recipe_id": "15363027",
+    "standard_id": 285,
+    "raw_name": "nước dừa lon sữa bò có thể dùng nước lọc",
+    "standard_name": "nước dừa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69354,
+    "recipe_id": "15363027",
+    "standard_id": 3495,
+    "raw_name": "Màu đậu biếttùy sở thích của mỗi người nha",
+    "standard_name": "hoa đậu biếc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69355,
+    "recipe_id": "15363027",
+    "standard_id": 531,
+    "raw_name": "dừa có hoặc ko",
+    "standard_name": "dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69356,
+    "recipe_id": "15363027",
+    "standard_id": null,
+    "raw_name": "Khuôn rau râu",
+    "standard_name": null,
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69357,
+    "recipe_id": "15474305",
+    "standard_id": 151,
+    "raw_name": "nấm",
+    "standard_name": "nấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69358,
+    "recipe_id": "15474305",
+    "standard_id": 7314,
+    "raw_name": "Dầu điều",
+    "standard_name": "dầu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69359,
+    "recipe_id": "15474305",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69363,
+    "recipe_id": "15474305",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69364,
+    "recipe_id": "15474305",
+    "standard_id": 8055,
+    "raw_name": "Bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69366,
+    "recipe_id": "15474305",
+    "standard_id": null,
+    "raw_name": "Trang trí",
+    "standard_name": null,
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69367,
+    "recipe_id": "15474305",
+    "standard_id": 7669,
+    "raw_name": "Mè rang ớt ngò",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69378,
+    "recipe_id": "15529670",
+    "standard_id": 1921,
+    "raw_name": "Phân nhân banh mi",
+    "standard_name": "nhân bánh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69379,
+    "recipe_id": "15529670",
+    "standard_id": 3044,
+    "raw_name": "thit ga",
+    "standard_name": "gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69380,
+    "recipe_id": "15529670",
+    "standard_id": 199,
+    "raw_name": "nâm đông cô",
+    "standard_name": "nấm đông cô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69381,
+    "recipe_id": "15529670",
+    "standard_id": 11827,
+    "raw_name": "Dâu haodâu ănnươc tươngđươngtiêu xay",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 69382,
+    "recipe_id": "15529670",
+    "standard_id": 1589,
+    "raw_name": "Bôt nănghat nêmbôt điêutỏi",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 69383,
+    "recipe_id": "15529670",
+    "standard_id": 6101,
+    "raw_name": "ml nươc loc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69384,
+    "recipe_id": "15529670",
+    "standard_id": 1920,
+    "raw_name": "Phân vo banh mi",
+    "standard_name": "vỏ bánh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69385,
+    "recipe_id": "15529670",
+    "standard_id": 1100,
+    "raw_name": "bôt mi",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69386,
+    "recipe_id": "15529670",
+    "standard_id": 2246,
+    "raw_name": "ml sưa tươi lanh",
+    "standard_name": "sữa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69387,
+    "recipe_id": "15529670",
+    "standard_id": 146,
+    "raw_name": "cai trưng ga",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69388,
+    "recipe_id": "15529670",
+    "standard_id": 2387,
+    "raw_name": "đương",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69389,
+    "recipe_id": "15529670",
+    "standard_id": 2213,
+    "raw_name": "men nơ",
+    "standard_name": "men",
+    "confidence": 0.95
+  }
+]

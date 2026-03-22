@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 2857,
+    "recipe_id": "25204944",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 2858,
+    "recipe_id": "25204944",
+    "standard_id": 1747,
+    "raw_name": "Mè rang",
+    "standard_name": "mè",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 2859,
+    "recipe_id": "25204944",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2860,
+    "recipe_id": "25204944",
+    "standard_id": 749,
+    "raw_name": "Tương ớt Hàn Quốc không ăn cay thì bỏ qua",
+    "standard_name": "gochujang",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 2861,
+    "recipe_id": "25204944",
+    "standard_id": 1187,
+    "raw_name": "nước luộc thịt",
+    "standard_name": "nước dùng",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 2862,
+    "recipe_id": "25204944",
+    "standard_id": 2051,
+    "raw_name": "Nguyên liệu ăn kèm",
+    "standard_name": "đồ cuốn ăn kèm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 2863,
+    "recipe_id": "25204944",
+    "standard_id": 820,
+    "raw_name": "Rau mè",
+    "standard_name": "rau mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2864,
+    "recipe_id": "25204944",
+    "standard_id": 312,
+    "raw_name": "Kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2865,
+    "recipe_id": "25204944",
+    "standard_id": 29,
+    "raw_name": "Tỏi thái lát",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 2866,
+    "recipe_id": "25204944",
+    "standard_id": 245,
+    "raw_name": "Dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2867,
+    "recipe_id": "25204944",
+    "standard_id": 822,
+    "raw_name": "Rau xà lách",
+    "standard_name": "lettuce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2868,
+    "recipe_id": "25204944",
+    "standard_id": 1589,
+    "raw_name": "Nguyên liệu nấu nước luộc",
+    "standard_name": "gia vị",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 2869,
+    "recipe_id": "25204944",
+    "standard_id": 1410,
+    "raw_name": "Thịt ba chỉ",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2870,
+    "recipe_id": "25204944",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 2871,
+    "recipe_id": "25204944",
+    "standard_id": 7720,
+    "raw_name": "Rượu nấu ăn",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2872,
+    "recipe_id": "25204944",
+    "standard_id": 851,
+    "raw_name": "Tương đậu",
+    "standard_name": "miso",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 2873,
+    "recipe_id": "25204944",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2874,
+    "recipe_id": "25204944",
+    "standard_id": 824,
+    "raw_name": "Rosémary lá hương thảo tuỳ ý",
+    "standard_name": "rosémary",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 2875,
+    "recipe_id": "25204944",
+    "standard_id": 7300,
+    "raw_name": "Cà phê hoà tan",
+    "standard_name": "café",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 2877,
+    "recipe_id": "25204944",
+    "standard_id": 6101,
+    "raw_name": "Nước vượt qua mặt thịt",
+    "standard_name": "nước",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 2879,
+    "recipe_id": "25204944",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3006,
+    "recipe_id": "25196006",
+    "standard_id": 1589,
+    "raw_name": "Nguyên liệu chính",
+    "standard_name": "gia vị",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 3008,
+    "recipe_id": "25196006",
+    "standard_id": 1074,
+    "raw_name": "Bắp cải trắng",
+    "standard_name": "cải trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3009,
+    "recipe_id": "25196006",
+    "standard_id": 166,
+    "raw_name": "thái lát Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3010,
+    "recipe_id": "25196006",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3011,
+    "recipe_id": "25196006",
+    "standard_id": 766,
+    "raw_name": "Bơ",
+    "standard_name": "butter",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3012,
+    "recipe_id": "25196006",
+    "standard_id": 1148,
+    "raw_name": "Nguyên liệu làm sốt",
+    "standard_name": "sauce",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 3013,
+    "recipe_id": "25196006",
+    "standard_id": 851,
+    "raw_name": "Miso trắng hoặc đỏ",
+    "standard_name": "miso",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3014,
+    "recipe_id": "25196006",
+    "standard_id": 170,
+    "raw_name": "Mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  }
+]

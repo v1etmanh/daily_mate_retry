@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 54/365
+[
+  {
+    "id": 53510,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52609,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "sả ớt tỏi hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53512,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "sả ớt tỏi hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52442,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "sợi bún bò huế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52611,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "sợi bún bò huế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48075,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53507,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45366,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "xương bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45369,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53508,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51537,
+    "dish_title": "Bún bò Huế",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43739,
+    "dish_title": "Bún bò Huế đơn giản nấu nhanh",
+    "ingredient_name": "bắp bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43742,
+    "dish_title": "Bún bò Huế đơn giản nấu nhanh",
+    "ingredient_name": "dầu điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43740,
+    "dish_title": "Bún bò Huế đơn giản nấu nhanh",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43738,
+    "dish_title": "Bún bò Huế đơn giản nấu nhanh",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43741,
+    "dish_title": "Bún bò Huế đơn giản nấu nhanh",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51105,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51101,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51103,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51104,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "mirin",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51107,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51106,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51102,
+    "dish_title": "Bún bò chua cay",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44670,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "bột",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44664,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "chân giò lấy khúc đùi phía trên",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44666,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "chả huế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47113,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "chả huế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44669,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "dầu điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47115,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44665,
+    "dish_title": "Bún bò huế",
+    "ingredient_name": "gân bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

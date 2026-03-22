@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 36609,
+    "recipe_id": "17021371",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36611,
+    "recipe_id": "17021371",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36612,
+    "recipe_id": "17021371",
+    "standard_id": 1548,
+    "raw_name": "vani",
+    "standard_name": "vani",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36614,
+    "recipe_id": "17021371",
+    "standard_id": 2275,
+    "raw_name": "Phần bánh còn lại tuỳ nguyên liệu",
+    "standard_name": "bánh",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 36618,
+    "recipe_id": "17021371",
+    "standard_id": 1547,
+    "raw_name": "nước cốt gì đó hoa đậu biếc lá dứa",
+    "standard_name": "nước cốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36621,
+    "recipe_id": "17021371",
+    "standard_id": 1593,
+    "raw_name": "tinh dầu gì đó vani lá dứa",
+    "standard_name": "tinh chất vani",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36622,
+    "recipe_id": "17020692",
+    "standard_id": 996,
+    "raw_name": "cá chach",
+    "standard_name": "cá chạch",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36623,
+    "recipe_id": "17020692",
+    "standard_id": 121,
+    "raw_name": "bich bôt chiên gion AijQuick",
+    "standard_name": "bột",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 36624,
+    "recipe_id": "17020692",
+    "standard_id": 1747,
+    "raw_name": "muông canh mè trăng",
+    "standard_name": "mè",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36625,
+    "recipe_id": "17020692",
+    "standard_id": 11827,
+    "raw_name": "Dâu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36626,
+    "recipe_id": "17020692",
+    "standard_id": 3925,
+    "raw_name": "Tương ơt sôt mayonnais",
+    "standard_name": "mayonnaise",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36627,
+    "recipe_id": "17020692",
+    "standard_id": 1517,
+    "raw_name": "Xà lach Rau thơm",
+    "standard_name": "rau thơm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36629,
+    "recipe_id": "17020172",
+    "standard_id": 612,
+    "raw_name": "Gạo Nhật",
+    "standard_name": "gạo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36630,
+    "recipe_id": "17020172",
+    "standard_id": 1747,
+    "raw_name": "Mè vàng rang thơm",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36631,
+    "recipe_id": "17020172",
+    "standard_id": 1469,
+    "raw_name": "Lá rong biển cuộn sushi",
+    "standard_name": "lá nori",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36633,
+    "recipe_id": "17020172",
+    "standard_id": 6561,
+    "raw_name": "Nhân cuộn",
+    "standard_name": "nhân",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36634,
+    "recipe_id": "17020172",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36635,
+    "recipe_id": "17020172",
+    "standard_id": 11829,
+    "raw_name": "đậu que",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36636,
+    "recipe_id": "17020172",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36637,
+    "recipe_id": "17020172",
+    "standard_id": 5239,
+    "raw_name": "Thanh cua",
+    "standard_name": "thanh cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36638,
+    "recipe_id": "17020172",
+    "standard_id": 2051,
+    "raw_name": "Dùng kèm",
+    "standard_name": "đồ cuốn ăn kèm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 36639,
+    "recipe_id": "17020172",
+    "standard_id": 887,
+    "raw_name": "Lá tía tô hoặc lá mè Nhật",
+    "standard_name": "tía tô",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36640,
+    "recipe_id": "17020172",
+    "standard_id": 312,
+    "raw_name": "Kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36641,
+    "recipe_id": "17020172",
+    "standard_id": 39,
+    "raw_name": "Gừng hồng ngâm chua ngọt",
+    "standard_name": "gừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36642,
+    "recipe_id": "17020172",
+    "standard_id": 125,
+    "raw_name": "Wasabi",
+    "standard_name": "wasabi paste",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36643,
+    "recipe_id": "17020172",
+    "standard_id": 11828,
+    "raw_name": "Nước tương Nhật",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36657,
+    "recipe_id": "17019537",
+    "standard_id": 730,
+    "raw_name": "chén cơm",
+    "standard_name": "cơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36658,
+    "recipe_id": "17019537",
+    "standard_id": 10303,
+    "raw_name": "nước dashi hoặc nước lọc",
+    "standard_name": "dashi",
+    "confidence": 0.95
+  }
+]

@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 89/365
+[
+  {
+    "id": 47241,
+    "dish_title": "Canh khổ qua nấu chả cá thác lác",
+    "ingredient_name": "chả thác lác",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47245,
+    "dish_title": "Canh khổ qua nấu chả cá thác lác",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47243,
+    "dish_title": "Canh khổ qua nấu chả cá thác lác",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47242,
+    "dish_title": "Canh khổ qua nấu chả cá thác lác",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47244,
+    "dish_title": "Canh khổ qua nấu chả cá thác lác",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44192,
+    "dish_title": "Canh miso rong biển, nấm mỡ",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44191,
+    "dish_title": "Canh miso rong biển, nấm mỡ",
+    "ingredient_name": "miso",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44190,
+    "dish_title": "Canh miso rong biển, nấm mỡ",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45989,
+    "dish_title": "Canh mùng tơi rau đay nấu cáy còng đỏ (ba khía)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45987,
+    "dish_title": "Canh mùng tơi rau đay nấu cáy còng đỏ (ba khía)",
+    "ingredient_name": "mùng tơi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45988,
+    "dish_title": "Canh mùng tơi rau đay nấu cáy còng đỏ (ba khía)",
+    "ingredient_name": "rau đay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48216,
+    "dish_title": "Canh măng mực",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48212,
+    "dish_title": "Canh măng mực",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48213,
+    "dish_title": "Canh măng mực",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48215,
+    "dish_title": "Canh măng mực",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48214,
+    "dish_title": "Canh măng mực",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48211,
+    "dish_title": "Canh măng mực",
+    "ingredient_name": "mực",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52751,
+    "dish_title": "Canh mướp rau dền nấu tôm khô",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52749,
+    "dish_title": "Canh mướp rau dền nấu tôm khô",
+    "ingredient_name": "rau dền",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52750,
+    "dish_title": "Canh mướp rau dền nấu tôm khô",
+    "ingredient_name": "tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44810,
+    "dish_title": "Canh mọc rau củ",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44809,
+    "dish_title": "Canh mọc rau củ",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44808,
+    "dish_title": "Canh mọc rau củ",
+    "ingredient_name": "mọc viên",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48952,
+    "dish_title": "Canh mọc sườn non rau củ",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48953,
+    "dish_title": "Canh mọc sườn non rau củ",
+    "ingredient_name": "cà rốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48954,
+    "dish_title": "Canh mọc sườn non rau củ",
+    "ingredient_name": "hành tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48950,
+    "dish_title": "Canh mọc sườn non rau củ",
+    "ingredient_name": "mọc viên",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48951,
+    "dish_title": "Canh mọc sườn non rau củ",
+    "ingredient_name": "sườn heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48275,
+    "dish_title": "Canh ngô ngọt thịt băm",
+    "ingredient_name": "bột canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48277,
+    "dish_title": "Canh ngô ngọt thịt băm",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

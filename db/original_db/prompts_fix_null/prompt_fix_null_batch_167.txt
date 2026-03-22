@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 167/365
+[
+  {
+    "id": 49591,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49593,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49592,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48427,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49590,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49589,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48426,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "đồ chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49595,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49594,
+    "dish_title": "Gỏi Thịt Bò Hoa Chuối",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52230,
+    "dish_title": "Gỏi Xoài Tai Heo & Bánh Phồng Tôm",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52229,
+    "dish_title": "Gỏi Xoài Tai Heo & Bánh Phồng Tôm",
+    "ingredient_name": "hạt điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52228,
+    "dish_title": "Gỏi Xoài Tai Heo & Bánh Phồng Tôm",
+    "ingredient_name": "xoài xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52231,
+    "dish_title": "Gỏi Xoài Tai Heo & Bánh Phồng Tôm",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50253,
+    "dish_title": "Gỏi bò",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50252,
+    "dish_title": "Gỏi bò",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50254,
+    "dish_title": "Gỏi bò",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49071,
+    "dish_title": "Gỏi bóng cá chay trộn gỏi dưa leo siêu dễ làm",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49070,
+    "dish_title": "Gỏi bóng cá chay trộn gỏi dưa leo siêu dễ làm",
+    "ingredient_name": "cá chay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49072,
+    "dish_title": "Gỏi bóng cá chay trộn gỏi dưa leo siêu dễ làm",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49073,
+    "dish_title": "Gỏi bóng cá chay trộn gỏi dưa leo siêu dễ làm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47449,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "bánh phồng tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47455,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47456,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47452,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47451,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47448,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "húng láng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47453,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47450,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47454,
+    "dish_title": "Gỏi bưởi tai heo",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50065,
+    "dish_title": "Gỏi bưởi tôm thịt",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

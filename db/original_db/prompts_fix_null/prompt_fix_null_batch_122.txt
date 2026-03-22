@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 122/365
+[
+  {
+    "id": 43765,
+    "dish_title": "Cá Trèn Kho Tiêu",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43763,
+    "dish_title": "Cá Trèn Kho Tiêu",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43650,
+    "dish_title": "Cá Trê Kho Gừng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43651,
+    "dish_title": "Cá Trê Kho Gừng",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43649,
+    "dish_title": "Cá Trê Kho Gừng",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48370,
+    "dish_title": "Cá Trê Om Chuối Đậu",
+    "ingredient_name": "củ nghệ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48375,
+    "dish_title": "Cá Trê Om Chuối Đậu",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48373,
+    "dish_title": "Cá Trê Om Chuối Đậu",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48374,
+    "dish_title": "Cá Trê Om Chuối Đậu",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48372,
+    "dish_title": "Cá Trê Om Chuối Đậu",
+    "ingredient_name": "tía tô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48371,
+    "dish_title": "Cá Trê Om Chuối Đậu",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46046,
+    "dish_title": "Cá Trạch Chiên Giòn Cuốn Bánh Tráng Chấm Mắm Nêm",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46045,
+    "dish_title": "Cá Trạch Chiên Giòn Cuốn Bánh Tráng Chấm Mắm Nêm",
+    "ingredient_name": "cá chạch",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46048,
+    "dish_title": "Cá Trạch Chiên Giòn Cuốn Bánh Tráng Chấm Mắm Nêm",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46047,
+    "dish_title": "Cá Trạch Chiên Giòn Cuốn Bánh Tráng Chấm Mắm Nêm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44675,
+    "dish_title": "Cá Tuyết Nướng Nấm Mỡ Nâu & Lá Thơm Provence",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44673,
+    "dish_title": "Cá Tuyết Nướng Nấm Mỡ Nâu & Lá Thơm Provence",
+    "ingredient_name": "nấm ngư nâu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44674,
+    "dish_title": "Cá Tuyết Nướng Nấm Mỡ Nâu & Lá Thơm Provence",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49949,
+    "dish_title": "Cá ba sa kho tộ",
+    "ingredient_name": "cá ba sa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49951,
+    "dish_title": "Cá ba sa kho tộ",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49950,
+    "dish_title": "Cá ba sa kho tộ",
+    "ingredient_name": "mật",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49952,
+    "dish_title": "Cá ba sa kho tộ",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44117,
+    "dish_title": "Cá ba sa om dưa cải chua",
+    "ingredient_name": "cá ba sa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44118,
+    "dish_title": "Cá ba sa om dưa cải chua",
+    "ingredient_name": "dưa cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44119,
+    "dish_title": "Cá ba sa om dưa cải chua",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44120,
+    "dish_title": "Cá ba sa om dưa cải chua",
+    "ingredient_name": "rau ngổ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43370,
+    "dish_title": "Cá basa hấp xì dầu",
+    "ingredient_name": "cá ba sa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43372,
+    "dish_title": "Cá basa hấp xì dầu",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43373,
+    "dish_title": "Cá basa hấp xì dầu",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43374,
+    "dish_title": "Cá basa hấp xì dầu",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

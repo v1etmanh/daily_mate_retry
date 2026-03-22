@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 41871,
+    "recipe_id": "16817389",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 41872,
+    "recipe_id": "16817389",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 41873,
+    "recipe_id": "16817389",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 41874,
+    "recipe_id": "16817389",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 41875,
+    "recipe_id": "16817389",
+    "standard_id": 225,
+    "raw_name": "giấm",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 41876,
+    "recipe_id": "16817389",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 41877,
+    "recipe_id": "16817389",
+    "standard_id": null,
+    "raw_name": "t",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 41878,
+    "recipe_id": "16817274",
+    "standard_id": 3044,
+    "raw_name": "Thịt gà lóc xương",
+    "standard_name": "gà",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 41879,
+    "recipe_id": "16817274",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 41880,
+    "recipe_id": "16817274",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41881,
+    "recipe_id": "16817274",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 41884,
+    "recipe_id": "16817274",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41894,
+    "recipe_id": "16806259",
+    "standard_id": 4399,
+    "raw_name": "mưc ông",
+    "standard_name": "mực ống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 41895,
+    "recipe_id": "16806259",
+    "standard_id": 366,
+    "raw_name": "mươp",
+    "standard_name": "mướp",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 41896,
+    "recipe_id": "16806259",
+    "standard_id": 985,
+    "raw_name": "nâm bào ngư",
+    "standard_name": "nấm sò",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 41897,
+    "recipe_id": "16806259",
+    "standard_id": 11827,
+    "raw_name": "Dâu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 41898,
+    "recipe_id": "16806259",
+    "standard_id": 8161,
+    "raw_name": "dâu hào",
+    "standard_name": "dầu hào",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 41899,
+    "recipe_id": "16806259",
+    "standard_id": 5850,
+    "raw_name": "hat nêm",
+    "standard_name": "hạt niêm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 41900,
+    "recipe_id": "16806259",
+    "standard_id": 83,
+    "raw_name": "hanh tim",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 41901,
+    "recipe_id": "16806259",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41930,
+    "recipe_id": "16812326",
+    "standard_id": 1795,
+    "raw_name": "Mì ramen thẳng xoăn khô tươi đều ok",
+    "standard_name": "mì",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 41931,
+    "recipe_id": "16812326",
+    "standard_id": 1410,
+    "raw_name": "thịt ba chỉ dùng thịt nạc nếu kiêng mỡ",
+    "standard_name": "thịt ba rọi",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 41932,
+    "recipe_id": "16812326",
+    "standard_id": 26,
+    "raw_name": "tai nấm mèo ngâm nở",
+    "standard_name": "nấm mèo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 41933,
+    "recipe_id": "16812326",
+    "standard_id": 4370,
+    "raw_name": "lá bắp cải",
+    "standard_name": "lá bắp cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41934,
+    "recipe_id": "16812326",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41935,
+    "recipe_id": "16812326",
+    "standard_id": 371,
+    "raw_name": "giá",
+    "standard_name": "giá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41936,
+    "recipe_id": "16812326",
+    "standard_id": 3265,
+    "raw_name": "hẹ tôi không có nên không dùng nhưng có thì giống phim hơn",
+    "standard_name": "hẹ",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 41938,
+    "recipe_id": "16812326",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41939,
+    "recipe_id": "16812326",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 41940,
+    "recipe_id": "16812326",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.0
+  }
+]

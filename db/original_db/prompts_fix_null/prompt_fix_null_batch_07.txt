@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 7/365
+[
+  {
+    "id": 52152,
+    "dish_title": "Blini (Bánh Xèo Nga) Với Cá Hồi Xông Khói",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52155,
+    "dish_title": "Blini (Bánh Xèo Nga) Với Cá Hồi Xông Khói",
+    "ingredient_name": "cái nụ bạch hoa capers",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52153,
+    "dish_title": "Blini (Bánh Xèo Nga) Với Cá Hồi Xông Khói",
+    "ingredient_name": "kiri",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52154,
+    "dish_title": "Blini (Bánh Xèo Nga) Với Cá Hồi Xông Khói",
+    "ingredient_name": "xốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51478,
+    "dish_title": "Blinis Topping Cá Ngừ Mayonaise Bắp Ngọt",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51475,
+    "dish_title": "Blinis Topping Cá Ngừ Mayonaise Bắp Ngọt",
+    "ingredient_name": "bắp ngọt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51474,
+    "dish_title": "Blinis Topping Cá Ngừ Mayonaise Bắp Ngọt",
+    "ingredient_name": "hộp cá ngừ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51476,
+    "dish_title": "Blinis Topping Cá Ngừ Mayonaise Bắp Ngọt",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51477,
+    "dish_title": "Blinis Topping Cá Ngừ Mayonaise Bắp Ngọt",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51473,
+    "dish_title": "Blinis Topping Cá Ngừ Phô Mai Tươi & Olive Xanh",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51470,
+    "dish_title": "Blinis Topping Cá Ngừ Phô Mai Tươi & Olive Xanh",
+    "ingredient_name": "hộp cá ngừ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51472,
+    "dish_title": "Blinis Topping Cá Ngừ Phô Mai Tươi & Olive Xanh",
+    "ingredient_name": "olive",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51471,
+    "dish_title": "Blinis Topping Cá Ngừ Phô Mai Tươi & Olive Xanh",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49477,
+    "dish_title": "Bóng cá chay chiên giòn mè rang",
+    "ingredient_name": "cá chay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49495,
+    "dish_title": "Bóng cá chay chiên giòn mè rang",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49478,
+    "dish_title": "Bóng cá chay chiên giòn mè rang",
+    "ingredient_name": "me",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49498,
+    "dish_title": "Bóng cá chay chiên giòn mè rang",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49497,
+    "dish_title": "Bóng cá chay chiên giòn mè rang",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49496,
+    "dish_title": "Bóng cá chay chiên giòn mè rang",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46365,
+    "dish_title": "Burger bò",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46366,
+    "dish_title": "Burger bò",
+    "ingredient_name": "salad",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46367,
+    "dish_title": "Burger bò",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49650,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49653,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49652,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49649,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49655,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49656,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49654,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49651,
+    "dish_title": "Burger cơm rong biển thịt gà rau củ",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

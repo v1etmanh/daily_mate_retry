@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50091,
+    "dish_title": "Bún riêu cua, ốc",
+    "ingredient_name": "trứng vịt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50095,
+    "dish_title": "Bún riêu cua, ốc",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46605,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "cần",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44039,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46600,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46602,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "gừng",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46606,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44037,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "hải sản",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44038,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46601,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "riềng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46603,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "xốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46604,
+    "dish_title": "Bún riêu hải sản",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52581,
+    "dish_title": "Bún riêu tôm",
+    "ingredient_name": "chả lụa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52580,
+    "dish_title": "Bún riêu tôm",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52579,
+    "dish_title": "Bún riêu tôm",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52577,
+    "dish_title": "Bún riêu tôm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52578,
+    "dish_title": "Bún riêu tôm",
+    "ingredient_name": "trứng vịt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45094,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46884,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46882,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45092,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45091,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46885,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46883,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45090,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46881,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45093,
+    "dish_title": "Bún riêu tôm khô",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44804,
+    "dish_title": "Bún riêu tôm thịt",
+    "ingredient_name": "chanh ớt rau thơm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44802,
+    "dish_title": "Bún riêu tôm thịt",
+    "ingredient_name": "lòng đỏ trứng",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44801,
+    "dish_title": "Bún riêu tôm thịt",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

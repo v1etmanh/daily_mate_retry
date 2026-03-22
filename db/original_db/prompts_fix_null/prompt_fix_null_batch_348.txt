@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 348/365
+[
+  {
+    "id": 50008,
+    "dish_title": "Đậu hũ nhồi thịt sốt cà chua",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50004,
+    "dish_title": "Đậu hũ nhồi thịt sốt cà chua",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46506,
+    "dish_title": "Đậu hũ nhồi thịt sốt cà chua",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46507,
+    "dish_title": "Đậu hũ nhồi thịt sốt cà chua",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47300,
+    "dish_title": "Đậu hũ non chiên chà bông",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47302,
+    "dish_title": "Đậu hũ non chiên chà bông",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47301,
+    "dish_title": "Đậu hũ non chiên chà bông",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47299,
+    "dish_title": "Đậu hũ non chiên chà bông",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49237,
+    "dish_title": "Đậu hũ non hấp kim chi",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49235,
+    "dish_title": "Đậu hũ non hấp kim chi",
+    "ingredient_name": "kim chi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49236,
+    "dish_title": "Đậu hũ non hấp kim chi",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49238,
+    "dish_title": "Đậu hũ non hấp kim chi",
+    "ingredient_name": "rong biển",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49234,
+    "dish_title": "Đậu hũ non hấp kim chi",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50453,
+    "dish_title": "Đậu hũ non hấp kỷ tử",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50451,
+    "dish_title": "Đậu hũ non hấp kỷ tử",
+    "ingredient_name": "giò chay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50452,
+    "dish_title": "Đậu hũ non hấp kỷ tử",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53481,
+    "dish_title": "Đậu hũ non hấp trứng sốt thịt băm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53480,
+    "dish_title": "Đậu hũ non hấp trứng sốt thịt băm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53479,
+    "dish_title": "Đậu hũ non hấp trứng sốt thịt băm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53478,
+    "dish_title": "Đậu hũ non hấp trứng sốt thịt băm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53477,
+    "dish_title": "Đậu hũ non hấp trứng sốt thịt băm",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44692,
+    "dish_title": "Đậu hũ non sốt nấm kim châm (món chay)",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44693,
+    "dish_title": "Đậu hũ non sốt nấm kim châm (món chay)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44695,
+    "dish_title": "Đậu hũ non sốt nấm kim châm (món chay)",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44691,
+    "dish_title": "Đậu hũ non sốt nấm kim châm (món chay)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44694,
+    "dish_title": "Đậu hũ non sốt nấm kim châm (món chay)",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44690,
+    "dish_title": "Đậu hũ non sốt nấm kim châm (món chay)",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47334,
+    "dish_title": "Đậu hũ nướng giấy bạc chay",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47335,
+    "dish_title": "Đậu hũ nướng giấy bạc chay",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43211,
+    "dish_title": "Đậu hũ rim Hàn Quốc - Mapo tofu",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

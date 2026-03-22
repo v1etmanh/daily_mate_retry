@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50414,
+    "dish_title": "Cá điêu hồng chiên",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50415,
+    "dish_title": "Cá điêu hồng chiên",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50417,
+    "dish_title": "Cá điêu hồng chiên",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50416,
+    "dish_title": "Cá điêu hồng chiên",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51220,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "bột xù",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51222,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 400,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51221,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51223,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51218,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "lá bò bía",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51225,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51224,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "sữa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51219,
+    "dish_title": "Chả giò hải sản",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49470,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49471,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "bột",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49475,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49472,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49474,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49469,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "nấm sò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49476,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "salad",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49473,
+    "dish_title": "Chả nấm chay",
+    "ingredient_name": "đường",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51728,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "bột",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51739,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "cơm dừa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51732,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51729,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "khoai lang",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51736,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "lít nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51738,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "muỗng cf mè trắng rang",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51730,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "nhân",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51734,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51735,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "thốt nốt",
+    "quantity_g": 250,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51737,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "topping",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

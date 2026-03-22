@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48276,
+    "dish_title": "Canh ngô ngọt thịt băm",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48278,
+    "dish_title": "Canh ngô ngọt thịt băm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51849,
+    "dish_title": "Canh rau cải nấu với gừng :)) siêu dễ",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51850,
+    "dish_title": "Canh rau cải nấu với gừng :)) siêu dễ",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51848,
+    "dish_title": "Canh rau cải nấu với gừng :)) siêu dễ",
+    "ingredient_name": "rau cải",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51417,
+    "dish_title": "Canh rau cần khoai tây thịt bằm",
+    "ingredient_name": "cần",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51418,
+    "dish_title": "Canh rau cần khoai tây thịt bằm",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51419,
+    "dish_title": "Canh rau cần khoai tây thịt bằm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46165,
+    "dish_title": "Canh rau muống nấu tôm tươi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46167,
+    "dish_title": "Canh rau muống nấu tôm tươi",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46166,
+    "dish_title": "Canh rau muống nấu tôm tươi",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46164,
+    "dish_title": "Canh rau muống nấu tôm tươi",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48407,
+    "dish_title": "Canh rau muống nấu ghẹ",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48405,
+    "dish_title": "Canh rau muống nấu ghẹ",
+    "ingredient_name": "rau muống",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48406,
+    "dish_title": "Canh rau muống nấu ghẹ",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50501,
+    "dish_title": "Canh rau tần ô nấu tôm tươi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50503,
+    "dish_title": "Canh rau tần ô nấu tôm tươi",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50500,
+    "dish_title": "Canh rau tần ô nấu tôm tươi",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50499,
+    "dish_title": "Canh rau tần ô nấu tôm tươi",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50502,
+    "dish_title": "Canh rau tần ô nấu tôm tươi",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50498,
+    "dish_title": "Canh rau tần ô nấu tôm tươi",
+    "ingredient_name": "rau tần ô",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43456,
+    "dish_title": "Canh rong biển khô nấu nấm kim châm và thịt bằm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43457,
+    "dish_title": "Canh rong biển khô nấu nấm kim châm và thịt bằm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43458,
+    "dish_title": "Canh rong biển khô nấu nấm kim châm và thịt bằm",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43455,
+    "dish_title": "Canh rong biển khô nấu nấm kim châm và thịt bằm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49930,
+    "dish_title": "Canh rong biển nấu thịt bò (công thức chuẩn Hàn Quốc)",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49929,
+    "dish_title": "Canh rong biển nấu thịt bò (công thức chuẩn Hàn Quốc)",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49931,
+    "dish_title": "Canh rong biển nấu thịt bò (công thức chuẩn Hàn Quốc)",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46682,
+    "dish_title": "Canh rong biển tôm tươi, đậu hủ non",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46683,
+    "dish_title": "Canh rong biển tôm tươi, đậu hủ non",
+    "ingredient_name": "nước tương",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

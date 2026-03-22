@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 59430,
+    "recipe_id": "16003772",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59431,
+    "recipe_id": "16003772",
+    "standard_id": 4417,
+    "raw_name": "thịt nguội ham",
+    "standard_name": "thịt nguội",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59432,
+    "recipe_id": "16003772",
+    "standard_id": 1129,
+    "raw_name": "phô mai",
+    "standard_name": "phô mai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59433,
+    "recipe_id": "16003772",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59434,
+    "recipe_id": "16003772",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 59435,
+    "recipe_id": "16003772",
+    "standard_id": 8055,
+    "raw_name": "bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59487,
+    "recipe_id": "15999270",
+    "standard_id": 1795,
+    "raw_name": "Mì sợi dài",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59488,
+    "recipe_id": "15999270",
+    "standard_id": 1518,
+    "raw_name": "thịt ức gà đã lọc xương da rửa sạch thái miếng vừa ăn",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59489,
+    "recipe_id": "15999270",
+    "standard_id": 199,
+    "raw_name": "nấm đông cô lọc bỏ chân nấm và bào nhẹ phần vỏ đen bên ngoài",
+    "standard_name": "nấm đông cô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59490,
+    "recipe_id": "15999270",
+    "standard_id": 166,
+    "raw_name": "hành tây thái nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59491,
+    "recipe_id": "15999270",
+    "standard_id": 29,
+    "raw_name": "tỏi đập giập băm nhuyễn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59494,
+    "recipe_id": "15999270",
+    "standard_id": 11827,
+    "raw_name": "Dầu olive hoặc dầu ăn thông thường",
+    "standard_name": "dầu ăn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59495,
+    "recipe_id": "15999270",
+    "standard_id": 1129,
+    "raw_name": "phô mai parmesan",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59499,
+    "recipe_id": "15999270",
+    "standard_id": 11309,
+    "raw_name": "Dưa chuột cà rốt bào mỏng để trang trí tuỳ thích",
+    "standard_name": "rau và cà chua",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59500,
+    "recipe_id": "15999270",
+    "standard_id": 1517,
+    "raw_name": "Rau trang trí tuỳ thích",
+    "standard_name": "rau thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59501,
+    "recipe_id": "15999260",
+    "standard_id": 2902,
+    "raw_name": "bánh gạo Hàn Quốc",
+    "standard_name": "bánh gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59502,
+    "recipe_id": "15999260",
+    "standard_id": 683,
+    "raw_name": "cá viên",
+    "standard_name": "cá viên",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59503,
+    "recipe_id": "15999260",
+    "standard_id": 312,
+    "raw_name": "kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59504,
+    "recipe_id": "15999260",
+    "standard_id": 5932,
+    "raw_name": "trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59505,
+    "recipe_id": "15999260",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59507,
+    "recipe_id": "15999260",
+    "standard_id": 749,
+    "raw_name": "tương ớt Hàn Quốc",
+    "standard_name": "gochujang",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59509,
+    "recipe_id": "15999260",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 59510,
+    "recipe_id": "15999260",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59520,
+    "recipe_id": "15998168",
+    "standard_id": 8537,
+    "raw_name": "chân giò cắt khoanh",
+    "standard_name": "chân giò lấy khúc đùi phía trên",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59521,
+    "recipe_id": "15998168",
+    "standard_id": 98,
+    "raw_name": "bò viên",
+    "standard_name": "bò viên",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59522,
+    "recipe_id": "15998168",
+    "standard_id": 116,
+    "raw_name": "da heo",
+    "standard_name": "da heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59523,
+    "recipe_id": "15998168",
+    "standard_id": 9837,
+    "raw_name": "bánh huyết vịt",
+    "standard_name": "bánh huyết",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59524,
+    "recipe_id": "15998168",
+    "standard_id": 5932,
+    "raw_name": "trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59525,
+    "recipe_id": "15998168",
+    "standard_id": 4589,
+    "raw_name": "mỡ heo",
+    "standard_name": "mỡ heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59526,
+    "recipe_id": "15998168",
+    "standard_id": 6678,
+    "raw_name": "bánh canh",
+    "standard_name": "bột bánh canh",
+    "confidence": 0.9
+  }
+]

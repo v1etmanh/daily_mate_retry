@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 69390,
+    "recipe_id": "15529670",
+    "standard_id": 766,
+    "raw_name": "bơ lat mêm",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69391,
+    "recipe_id": "15529670",
+    "standard_id": 1589,
+    "raw_name": "muôi",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69392,
+    "recipe_id": "15529670",
+    "standard_id": 11829,
+    "raw_name": "Phân quet măt banh mi",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69393,
+    "recipe_id": "15529670",
+    "standard_id": 2013,
+    "raw_name": "long đo trưng",
+    "standard_name": "lòng đỏ trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69394,
+    "recipe_id": "15529670",
+    "standard_id": 2246,
+    "raw_name": "muông ca phê sưa tươi",
+    "standard_name": "sữa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69395,
+    "recipe_id": "15529670",
+    "standard_id": 1747,
+    "raw_name": "Me trăng răc lên banh",
+    "standard_name": "mè",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69412,
+    "recipe_id": "15528026",
+    "standard_id": 11627,
+    "raw_name": "Phần tortilla",
+    "standard_name": "vỏ tortillas",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69413,
+    "recipe_id": "15528026",
+    "standard_id": null,
+    "raw_name": "Nguyên liệu và cách làm em đã có bài viết chia sẻ riêng bà con tham khảo nhé",
+    "standard_name": null,
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69414,
+    "recipe_id": "15528026",
+    "standard_id": 1921,
+    "raw_name": "Phần nhân",
+    "standard_name": "nhân bánh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69415,
+    "recipe_id": "15528026",
+    "standard_id": 1518,
+    "raw_name": "ức gà",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69416,
+    "recipe_id": "15528026",
+    "standard_id": 142,
+    "raw_name": "thịt bò ở đây em dùng loại triming beef loại wagyu của c",
+    "standard_name": "bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69417,
+    "recipe_id": "15528026",
+    "standard_id": 63,
+    "raw_name": "ậu đen ninh nhừ",
+    "standard_name": "đậu đen",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69418,
+    "recipe_id": "15528026",
+    "standard_id": 1851,
+    "raw_name": "bắp mĩ",
+    "standard_name": "bắp mỹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69419,
+    "recipe_id": "15528026",
+    "standard_id": 457,
+    "raw_name": "ớt chuông đỏ",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69420,
+    "recipe_id": "15528026",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69421,
+    "recipe_id": "15528026",
+    "standard_id": 11241,
+    "raw_name": "phô mai mozarrella",
+    "standard_name": "mozzarella",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69422,
+    "recipe_id": "15528026",
+    "standard_id": 10299,
+    "raw_name": "hũ tomato sauce",
+    "standard_name": "xốt cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69425,
+    "recipe_id": "15528026",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69426,
+    "recipe_id": "15528026",
+    "standard_id": 1535,
+    "raw_name": "hũ sữa chua",
+    "standard_name": "sữa chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69428,
+    "recipe_id": "15528026",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69433,
+    "recipe_id": "15528650",
+    "standard_id": null,
+    "raw_name": "Phần nước nhân",
+    "standard_name": null,
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69434,
+    "recipe_id": "15528650",
+    "standard_id": 362,
+    "raw_name": "thịt vai heo",
+    "standard_name": "thịt vai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69435,
+    "recipe_id": "15528650",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69436,
+    "recipe_id": "15528650",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69437,
+    "recipe_id": "15528650",
+    "standard_id": 6101,
+    "raw_name": "nước nên đun sôi sẵn",
+    "standard_name": "nước",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69438,
+    "recipe_id": "15528650",
+    "standard_id": 2363,
+    "raw_name": "Hành khô ớt bột gia vị",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 69440,
+    "recipe_id": "15528650",
+    "standard_id": 3680,
+    "raw_name": "mì quảng sợi",
+    "standard_name": "mì quảng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69441,
+    "recipe_id": "15528650",
+    "standard_id": 206,
+    "raw_name": "đậu phộng",
+    "standard_name": "đậu phộng",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52047,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52048,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "vani",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52044,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "đường",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48917,
+    "dish_title": "Bánh gối nhân thịt gà",
+    "ingredient_name": "baking powder",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48916,
+    "dish_title": "Bánh gối nhân thịt gà",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48921,
+    "dish_title": "Bánh gối nhân thịt gà",
+    "ingredient_name": "củ sắn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48920,
+    "dish_title": "Bánh gối nhân thịt gà",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48918,
+    "dish_title": "Bánh gối nhân thịt gà",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48919,
+    "dish_title": "Bánh gối nhân thịt gà",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51038,
+    "dish_title": "Bánh rau câu sinh nhật",
+    "ingredient_name": "gia vị",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51039,
+    "dish_title": "Bánh rau câu sinh nhật",
+    "ingredient_name": "khoai lang",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51035,
+    "dish_title": "Bánh rau câu sinh nhật",
+    "ingredient_name": "nước dừa",
+    "quantity_g": 1000,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51037,
+    "dish_title": "Bánh rau câu sinh nhật",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51036,
+    "dish_title": "Bánh rau câu sinh nhật",
+    "ingredient_name": "đường",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50800,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50797,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "chanh",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50794,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50799,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "hành lá",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50793,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50798,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "nước màu",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50795,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50796,
+    "dish_title": "Bánh tráng kẹp bánh ít nhân tôm thịt",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43459,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "bột gạo",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43460,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "bột xù",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43467,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43466,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43471,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43468,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43463,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "lon bia",
+    "quantity_g": 330,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43461,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "nước",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

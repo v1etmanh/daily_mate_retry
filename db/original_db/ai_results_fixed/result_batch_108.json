@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 13571,
+    "recipe_id": "24369152",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13572,
+    "recipe_id": "24369152",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 13573,
+    "recipe_id": "24369152",
+    "standard_id": 285,
+    "raw_name": "nước dừa",
+    "standard_name": "nước dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13574,
+    "recipe_id": "24369152",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13576,
+    "recipe_id": "24369152",
+    "standard_id": 1051,
+    "raw_name": "Cơm dừa",
+    "standard_name": "cơm dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13577,
+    "recipe_id": "24344002",
+    "standard_id": 142,
+    "raw_name": "beef rump mông bò",
+    "standard_name": "bò",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13578,
+    "recipe_id": "24344002",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13579,
+    "recipe_id": "24344002",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13583,
+    "recipe_id": "24344002",
+    "standard_id": 7720,
+    "raw_name": "rượu trắng hay rượu nấu ăn",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13585,
+    "recipe_id": "24344002",
+    "standard_id": 587,
+    "raw_name": "bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13586,
+    "recipe_id": "24344002",
+    "standard_id": 1613,
+    "raw_name": "ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13587,
+    "recipe_id": "24344002",
+    "standard_id": 9137,
+    "raw_name": "bột màu đỏ hay màu điều",
+    "standard_name": "bột điều",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13588,
+    "recipe_id": "24344002",
+    "standard_id": 8055,
+    "raw_name": "ớt bột màu",
+    "standard_name": "bột ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13589,
+    "recipe_id": "24344002",
+    "standard_id": 31,
+    "raw_name": "xả bằm",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13590,
+    "recipe_id": "24344002",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13591,
+    "recipe_id": "24344002",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13592,
+    "recipe_id": "24344002",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13627,
+    "recipe_id": "24381814",
+    "standard_id": 177,
+    "raw_name": "bột rau câu giòn",
+    "standard_name": "bột rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13629,
+    "recipe_id": "24381814",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13630,
+    "recipe_id": "24381814",
+    "standard_id": 1548,
+    "raw_name": "vani",
+    "standard_name": "vani",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13631,
+    "recipe_id": "24381814",
+    "standard_id": 1719,
+    "raw_name": "Tạo hương vị các loại syrup hoa quả đủ vị đủ mùi đủ màu",
+    "standard_name": "siro",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13632,
+    "recipe_id": "24381814",
+    "standard_id": 1589,
+    "raw_name": "Dụng cụ rây khuôn silicon cở cmcm khuôn hình chữ nhật hình vuông túi đựng kẹo bánh chuyên dụng máy hàn miệng túi máy sấy thực phẩm",
+    "standard_name": "gia vị",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 13633,
+    "recipe_id": "17279455",
+    "standard_id": 1589,
+    "raw_name": "rau tiến vua khô",
+    "standard_name": "gia vị",
+    "confidence": 0.4
+  },
+  {
+    "raw_id": 13634,
+    "recipe_id": "17279455",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13635,
+    "recipe_id": "17279455",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13636,
+    "recipe_id": "17279455",
+    "standard_id": 83,
+    "raw_name": "củ hành",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13637,
+    "recipe_id": "17279455",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13639,
+    "recipe_id": "17279455",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13641,
+    "recipe_id": "17279455",
+    "standard_id": 225,
+    "raw_name": "giấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13642,
+    "recipe_id": "17279455",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  }
+]

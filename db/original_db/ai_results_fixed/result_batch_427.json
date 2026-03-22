@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 47190,
+    "recipe_id": "16501891",
+    "standard_id": 16,
+    "raw_name": "hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47191,
+    "recipe_id": "16501891",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47196,
+    "recipe_id": "16501891",
+    "standard_id": 11833,
+    "raw_name": "nước hàng",
+    "standard_name": "nước màu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47212,
+    "recipe_id": "16500679",
+    "standard_id": 1786,
+    "raw_name": "ậu phụ non",
+    "standard_name": "đậu non",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47213,
+    "recipe_id": "16500679",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47214,
+    "recipe_id": "16500679",
+    "standard_id": 4729,
+    "raw_name": "thịt băm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47215,
+    "recipe_id": "16500679",
+    "standard_id": 1148,
+    "raw_name": "sốt đậu phụ Tứ Xuyên",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47230,
+    "recipe_id": "16499238",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ cây",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47231,
+    "recipe_id": "16499238",
+    "standard_id": 166,
+    "raw_name": "hành tây củ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47232,
+    "recipe_id": "16499238",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn củ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47233,
+    "recipe_id": "16499238",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47234,
+    "recipe_id": "16499238",
+    "standard_id": 395,
+    "raw_name": "dầu Olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47235,
+    "recipe_id": "16499238",
+    "standard_id": 766,
+    "raw_name": "bơ lạt",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47243,
+    "recipe_id": "16496646",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47244,
+    "recipe_id": "16496646",
+    "standard_id": 142,
+    "raw_name": "Fillet bò sr mình tự cảm nhận nên không biết tả",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47245,
+    "recipe_id": "16496646",
+    "standard_id": 766,
+    "raw_name": "bơ lạt",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47249,
+    "recipe_id": "16496646",
+    "standard_id": 4870,
+    "raw_name": "mùi tây sấy khô",
+    "standard_name": "mùi tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47250,
+    "recipe_id": "16496646",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47251,
+    "recipe_id": "16496646",
+    "standard_id": 2452,
+    "raw_name": "hương thảo",
+    "standard_name": "hương thảo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47252,
+    "recipe_id": "16496646",
+    "standard_id": 7720,
+    "raw_name": "rượu vang",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47253,
+    "recipe_id": "16148731",
+    "standard_id": 357,
+    "raw_name": "tôm bóc vỏ",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47254,
+    "recipe_id": "16148731",
+    "standard_id": 4399,
+    "raw_name": "mực ống cắt khoanh",
+    "standard_name": "mực ống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47255,
+    "recipe_id": "16148731",
+    "standard_id": 641,
+    "raw_name": "thịt hàu",
+    "standard_name": "hàu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47256,
+    "recipe_id": "16148731",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47257,
+    "recipe_id": "16148731",
+    "standard_id": 1145,
+    "raw_name": "Bột chiên xù",
+    "standard_name": "bột xù",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47259,
+    "recipe_id": "16148731",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47262,
+    "recipe_id": "16148731",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47263,
+    "recipe_id": "16148731",
+    "standard_id": 11832,
+    "raw_name": "bột hành",
+    "standard_name": "bột hành",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47275,
+    "recipe_id": "16487027",
+    "standard_id": 1533,
+    "raw_name": "Thịt heo nạc rang cháy cạnh",
+    "standard_name": "thịt nạc",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47276,
+    "recipe_id": "16487027",
+    "standard_id": 887,
+    "raw_name": "lá tía tô vừa đủ cuốn chấm",
+    "standard_name": "tía tô",
+    "confidence": 1.0
+  }
+]

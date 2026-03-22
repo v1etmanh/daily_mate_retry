@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 210/365
+[
+  {
+    "id": 47274,
+    "dish_title": "Món chay dễ làm | Hủ tiếu nấm",
+    "ingredient_name": "cần tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47278,
+    "dish_title": "Món chay dễ làm | Hủ tiếu nấm",
+    "ingredient_name": "củ sắn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47277,
+    "dish_title": "Món chay dễ làm | Hủ tiếu nấm",
+    "ingredient_name": "hủ tiếu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47272,
+    "dish_title": "Món chay dễ làm | Hủ tiếu nấm",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47273,
+    "dish_title": "Món chay dễ làm | Hủ tiếu nấm",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47275,
+    "dish_title": "Món chay dễ làm | Hủ tiếu nấm",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49627,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49623,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49628,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49625,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "mật",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49626,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49622,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49624,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49621,
+    "dish_title": "Món chay: Đậu hủ trứng cuộn rong biển xốt nước tương",
+    "ingredient_name": "đậu trứng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52260,
+    "dish_title": "Món cho bé : Thạch rau câu flan",
+    "ingredient_name": "bột rau câu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52262,
+    "dish_title": "Món cho bé : Thạch rau câu flan",
+    "ingredient_name": "lòng đỏ trứng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52261,
+    "dish_title": "Món cho bé : Thạch rau câu flan",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52263,
+    "dish_title": "Món cho bé : Thạch rau câu flan",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52264,
+    "dish_title": "Món cho bé : Thạch rau câu flan",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49141,
+    "dish_title": "Món healthy: Bún ngải cứu sốt thịt bằm cà chua",
+    "ingredient_name": "ngải cứu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49142,
+    "dish_title": "Món healthy: Bún ngải cứu sốt thịt bằm cà chua",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49143,
+    "dish_title": "Món healthy: Bún ngải cứu sốt thịt bằm cà chua",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49145,
+    "dish_title": "Món healthy: Bún ngải cứu sốt thịt bằm cà chua",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49144,
+    "dish_title": "Món healthy: Bún ngải cứu sốt thịt bằm cà chua",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51214,
+    "dish_title": "Móng giò rau tiến vua ngâm mắm",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51217,
+    "dish_title": "Móng giò rau tiến vua ngâm mắm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51215,
+    "dish_title": "Móng giò rau tiến vua ngâm mắm",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51216,
+    "dish_title": "Móng giò rau tiến vua ngâm mắm",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51213,
+    "dish_title": "Móng giò rau tiến vua ngâm mắm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45328,
+    "dish_title": "Mõm heo khìa nước dừa",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

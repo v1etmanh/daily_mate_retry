@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 61806,
+    "recipe_id": "15861850",
+    "standard_id": 16,
+    "raw_name": "Hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61807,
+    "recipe_id": "15861850",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61808,
+    "recipe_id": "15861850",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61812,
+    "recipe_id": "15861850",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61841,
+    "recipe_id": "15858035",
+    "standard_id": 731,
+    "raw_name": "cá ngừ hộp",
+    "standard_name": "hộp cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61842,
+    "recipe_id": "15858035",
+    "standard_id": 1129,
+    "raw_name": "phô mai tươi đánh bông mình dùng hiệu Madame Lok có thể thay bằng các loại khác như ricotta feta hoặc mayonaise cũng ngon",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61843,
+    "recipe_id": "15858035",
+    "standard_id": 2339,
+    "raw_name": "Olive xanh ngâm dầu",
+    "standard_name": "olive",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61844,
+    "recipe_id": "15858035",
+    "standard_id": 1098,
+    "raw_name": "Blinis",
+    "standard_name": "bánh mì",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 61845,
+    "recipe_id": "15858055",
+    "standard_id": 731,
+    "raw_name": "cá ngừ ngâm dầu",
+    "standard_name": "hộp cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61846,
+    "recipe_id": "15858055",
+    "standard_id": 78,
+    "raw_name": "Bắp ngọt",
+    "standard_name": "bắp ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61847,
+    "recipe_id": "15858055",
+    "standard_id": 3925,
+    "raw_name": "Sốt mayonaise",
+    "standard_name": "mayonnaise",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61848,
+    "recipe_id": "15858055",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61849,
+    "recipe_id": "15858055",
+    "standard_id": 102,
+    "raw_name": "Lá ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61850,
+    "recipe_id": "15858055",
+    "standard_id": 1098,
+    "raw_name": "Blinis",
+    "standard_name": "bánh mì",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 61851,
+    "recipe_id": "15860476",
+    "standard_id": 6958,
+    "raw_name": "đậu hũ trứng hoặc đậu hũ non",
+    "standard_name": "đậu hũ trứng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61852,
+    "recipe_id": "15860476",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61853,
+    "recipe_id": "15860476",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61854,
+    "recipe_id": "15860476",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61855,
+    "recipe_id": "15860476",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61857,
+    "recipe_id": "15860476",
+    "standard_id": 865,
+    "raw_name": "Nấm kim châm",
+    "standard_name": "nấm kim châm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61858,
+    "recipe_id": "15860476",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61878,
+    "recipe_id": "15846838",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn để chiên cá",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 61879,
+    "recipe_id": "15846838",
+    "standard_id": 1050,
+    "raw_name": "Mắm me",
+    "standard_name": "me",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 61883,
+    "recipe_id": "15846838",
+    "standard_id": 2363,
+    "raw_name": "Tỏi ớt đâm nhuyễn",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61884,
+    "recipe_id": "15857931",
+    "standard_id": 948,
+    "raw_name": "Cá basa phi lê cắt",
+    "standard_name": "cá ba sa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61885,
+    "recipe_id": "15857931",
+    "standard_id": 1091,
+    "raw_name": "Giềng",
+    "standard_name": "riềng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61886,
+    "recipe_id": "15857931",
+    "standard_id": 350,
+    "raw_name": "Thì là",
+    "standard_name": "thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61887,
+    "recipe_id": "15857931",
+    "standard_id": 166,
+    "raw_name": "Hành lá hành tây",
+    "standard_name": "hành tây",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 61888,
+    "recipe_id": "15857931",
+    "standard_id": 3417,
+    "raw_name": "Mắm tôm",
+    "standard_name": "mắm",
+    "confidence": 0.8
+  }
+]

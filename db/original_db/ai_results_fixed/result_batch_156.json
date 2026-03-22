@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 20690,
+    "recipe_id": "23943178",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20691,
+    "recipe_id": "23943178",
+    "standard_id": 11829,
+    "raw_name": "rau thơm các loại Tía tô Kinh giới Húng quế Húng cây Diếp cá",
+    "standard_name": "quế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20703,
+    "recipe_id": "23932198",
+    "standard_id": 6013,
+    "raw_name": "cá liệt nạng",
+    "standard_name": "cá liệt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20704,
+    "recipe_id": "23932198",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20705,
+    "recipe_id": "23932198",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20706,
+    "recipe_id": "23932198",
+    "standard_id": 3111,
+    "raw_name": "ớt sim xanh",
+    "standard_name": "ớt xanh",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 20708,
+    "recipe_id": "23932198",
+    "standard_id": 11833,
+    "raw_name": "nước màu nước hàng",
+    "standard_name": "nước màu",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 20710,
+    "recipe_id": "23932198",
+    "standard_id": 6783,
+    "raw_name": "tóp mỡ",
+    "standard_name": "tóp mỡ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20711,
+    "recipe_id": "23932198",
+    "standard_id": 5715,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20732,
+    "recipe_id": "23942977",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20733,
+    "recipe_id": "23942977",
+    "standard_id": 166,
+    "raw_name": "hành Tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20734,
+    "recipe_id": "23942977",
+    "standard_id": 398,
+    "raw_name": "kem tươi",
+    "standard_name": "kem",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20737,
+    "recipe_id": "23942977",
+    "standard_id": 766,
+    "raw_name": "bơ mặn",
+    "standard_name": "bơ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20738,
+    "recipe_id": "23942977",
+    "standard_id": 1129,
+    "raw_name": "phô mai parmesan",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20743,
+    "recipe_id": "23942960",
+    "standard_id": 2917,
+    "raw_name": "đế pizza mua hoặc tự làm bột",
+    "standard_name": "đế pizza",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20744,
+    "recipe_id": "23942960",
+    "standard_id": 10299,
+    "raw_name": "sốt cà chua cô đặc",
+    "standard_name": "xốt cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20745,
+    "recipe_id": "23942960",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ nấm nút",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20746,
+    "recipe_id": "23942960",
+    "standard_id": 1036,
+    "raw_name": "lardon cắt hạt lựu",
+    "standard_name": "thịt xông khói",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 20748,
+    "recipe_id": "23942960",
+    "standard_id": 1129,
+    "raw_name": "phô mai mozzarella bào",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20753,
+    "recipe_id": "23942929",
+    "standard_id": 389,
+    "raw_name": "bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20754,
+    "recipe_id": "23942929",
+    "standard_id": 71,
+    "raw_name": "đậu hũ mơ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20755,
+    "recipe_id": "23942929",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20756,
+    "recipe_id": "23942929",
+    "standard_id": 7050,
+    "raw_name": "mắm tôm",
+    "standard_name": "mắm ruốc",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 20758,
+    "recipe_id": "23942929",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20759,
+    "recipe_id": "23942929",
+    "standard_id": 1411,
+    "raw_name": "tắc",
+    "standard_name": "tắc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20760,
+    "recipe_id": "23942929",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 20761,
+    "recipe_id": "23942929",
+    "standard_id": 11829,
+    "raw_name": "rau thơm các loại Tía tô Kinh giới Húng lủi Húng quế Ngò gai",
+    "standard_name": "quế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20762,
+    "recipe_id": "23942929",
+    "standard_id": 83,
+    "raw_name": "củ hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  }
+]

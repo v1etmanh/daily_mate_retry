@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51733,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "vani",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51731,
+    "dish_title": "Chè trôi nước 4 màu tự nhiên từ rau củ quả",
+    "ingredient_name": "đường",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53008,
+    "dish_title": "Chinese : Đùi gà nấm hấp xì dầu (Nhanh gọn lẹ cho những ngày lười)",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53006,
+    "dish_title": "Chinese : Đùi gà nấm hấp xì dầu (Nhanh gọn lẹ cho những ngày lười)",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53007,
+    "dish_title": "Chinese : Đùi gà nấm hấp xì dầu (Nhanh gọn lẹ cho những ngày lười)",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53004,
+    "dish_title": "Chinese : Đùi gà nấm hấp xì dầu (Nhanh gọn lẹ cho những ngày lười)",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53005,
+    "dish_title": "Chinese : Đùi gà nấm hấp xì dầu (Nhanh gọn lẹ cho những ngày lười)",
+    "ingredient_name": "rượu",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49522,
+    "dish_title": "Chuối Cau Xanh Kho Thịt Cá Nục",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49525,
+    "dish_title": "Chuối Cau Xanh Kho Thịt Cá Nục",
+    "ingredient_name": "mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49524,
+    "dish_title": "Chuối Cau Xanh Kho Thịt Cá Nục",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49523,
+    "dish_title": "Chuối Cau Xanh Kho Thịt Cá Nục",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45492,
+    "dish_title": "Chuối xanh om đậu nấm mỡ",
+    "ingredient_name": "củ nghệ",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45494,
+    "dish_title": "Chuối xanh om đậu nấm mỡ",
+    "ingredient_name": "nước mẻ",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45491,
+    "dish_title": "Chuối xanh om đậu nấm mỡ",
+    "ingredient_name": "nấm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45493,
+    "dish_title": "Chuối xanh om đậu nấm mỡ",
+    "ingredient_name": "tía tô",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45634,
+    "dish_title": "Chà bông HEO",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45633,
+    "dish_title": "Chà bông HEO",
+    "ingredient_name": "nước",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45635,
+    "dish_title": "Chà bông HEO",
+    "ingredient_name": "nước tương",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45632,
+    "dish_title": "Chà bông HEO",
+    "ingredient_name": "thịt nạc thăn",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53033,
+    "dish_title": "Chà bông heo Đài Loan 🇹🇼",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53029,
+    "dish_title": "Chà bông heo Đài Loan 🇹🇼",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53032,
+    "dish_title": "Chà bông heo Đài Loan 🇹🇼",
+    "ingredient_name": "nước tương",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53031,
+    "dish_title": "Chà bông heo Đài Loan 🇹🇼",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53030,
+    "dish_title": "Chà bông heo Đài Loan 🇹🇼",
+    "ingredient_name": "rượu",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53028,
+    "dish_title": "Chà bông heo Đài Loan 🇹🇼",
+    "ingredient_name": "thịt thăn",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50633,
+    "dish_title": "Cháo Gạo Rang Bò Bằm",
+    "ingredient_name": "boa rô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50632,
+    "dish_title": "Cháo Gạo Rang Bò Bằm",
+    "ingredient_name": "bò",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50634,
+    "dish_title": "Cháo Gạo Rang Bò Bằm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50619,
+    "dish_title": "Cháo Sườn Nấm - Món Dễ Ăn Cho Người Bệnh",
+    "ingredient_name": "bột canh",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50620,
+    "dish_title": "Cháo Sườn Nấm - Món Dễ Ăn Cho Người Bệnh",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

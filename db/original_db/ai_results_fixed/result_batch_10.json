@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 996,
+    "recipe_id": "25327520",
+    "standard_id": 11617,
+    "raw_name": "Cream cheese",
+    "standard_name": "cream cheese",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 997,
+    "recipe_id": "25327520",
+    "standard_id": 1129,
+    "raw_name": "Phô mai Parmesan bột",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 998,
+    "recipe_id": "25327520",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 999,
+    "recipe_id": "25327520",
+    "standard_id": 395,
+    "raw_name": "Dầu oliu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1000,
+    "recipe_id": "25327520",
+    "standard_id": 6101,
+    "raw_name": "Nước ấm",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1036,
+    "recipe_id": "24533184",
+    "standard_id": 149,
+    "raw_name": "thịt đùi heo",
+    "standard_name": "heo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1037,
+    "recipe_id": "24533184",
+    "standard_id": 273,
+    "raw_name": "móng giò",
+    "standard_name": "giò heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1040,
+    "recipe_id": "24533184",
+    "standard_id": 11829,
+    "raw_name": "quế bằng ngón tay",
+    "standard_name": "quế",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 1041,
+    "recipe_id": "24533184",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1042,
+    "recipe_id": "24533184",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1046,
+    "recipe_id": "24533184",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1093,
+    "recipe_id": "25317453",
+    "standard_id": 3044,
+    "raw_name": "đùi gà rút xương hoặc miếng ức gà",
+    "standard_name": "chicken",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1094,
+    "recipe_id": "25317453",
+    "standard_id": 457,
+    "raw_name": "ớt chuông đỏ",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1096,
+    "recipe_id": "25317453",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1098,
+    "recipe_id": "25317453",
+    "standard_id": 31,
+    "raw_name": "củ sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1099,
+    "recipe_id": "25317453",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1101,
+    "recipe_id": "25317453",
+    "standard_id": 11827,
+    "raw_name": "dầu chiên",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 1102,
+    "recipe_id": "25317453",
+    "standard_id": 7669,
+    "raw_name": "hành hoặc mùi",
+    "standard_name": "mixed herbs",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1119,
+    "recipe_id": "25307773",
+    "standard_id": 71,
+    "raw_name": "ậu phụ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1120,
+    "recipe_id": "25307773",
+    "standard_id": 1469,
+    "raw_name": "Rong biển loại cuốn cơm",
+    "standard_name": "lá nori",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1121,
+    "recipe_id": "25307773",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1124,
+    "recipe_id": "25307773",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 1125,
+    "recipe_id": "25307773",
+    "standard_id": 9733,
+    "raw_name": "Boa rô",
+    "standard_name": "boa rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1132,
+    "recipe_id": "25315234",
+    "standard_id": 41,
+    "raw_name": "cua lông cà ra",
+    "standard_name": "cua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1133,
+    "recipe_id": "25315234",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1134,
+    "recipe_id": "25315234",
+    "standard_id": 83,
+    "raw_name": "củ hành khô",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1135,
+    "recipe_id": "25315234",
+    "standard_id": 4589,
+    "raw_name": "mỡ lợn",
+    "standard_name": "mỡ heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1136,
+    "recipe_id": "25315234",
+    "standard_id": 3417,
+    "raw_name": "mắm ngon",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  }
+]

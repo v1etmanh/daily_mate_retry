@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 63176,
+    "recipe_id": "15786646",
+    "standard_id": 2210,
+    "raw_name": "rau sống",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63177,
+    "recipe_id": "15786646",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63178,
+    "recipe_id": "15786646",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63179,
+    "recipe_id": "15786646",
+    "standard_id": 8660,
+    "raw_name": "Nguyên liệu pha mắm nêm",
+    "standard_name": "mắm nêm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63181,
+    "recipe_id": "15786646",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63182,
+    "recipe_id": "15786646",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63183,
+    "recipe_id": "15786646",
+    "standard_id": 2363,
+    "raw_name": "Tỏi ớt băm",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63185,
+    "recipe_id": "15786646",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63194,
+    "recipe_id": "15786302",
+    "standard_id": 6501,
+    "raw_name": "Rửa xà lách dressing",
+    "standard_name": "xốt salad",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 63195,
+    "recipe_id": "15786302",
+    "standard_id": 3738,
+    "raw_name": "muỗng canh sốt cà chua ketchup tablespoon",
+    "standard_name": "ketchup",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63197,
+    "recipe_id": "15786302",
+    "standard_id": 225,
+    "raw_name": "muỗng canh giấm trắng white vinegar",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63198,
+    "recipe_id": "15786302",
+    "standard_id": 3662,
+    "raw_name": "muỗng canh nước chanh lemon juice",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63199,
+    "recipe_id": "15786302",
+    "standard_id": 8055,
+    "raw_name": "bột ớt chili powder",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63200,
+    "recipe_id": "15786302",
+    "standard_id": 3469,
+    "raw_name": "Thành phần salad salad ingredients",
+    "standard_name": "salad",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63201,
+    "recipe_id": "15786302",
+    "standard_id": 11827,
+    "raw_name": "Trứng luộc Boiled eggs",
+    "standard_name": "dầu ăn",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63203,
+    "recipe_id": "15786302",
+    "standard_id": 7479,
+    "raw_name": "đậu trộn mixed beans",
+    "standard_name": "đậu mix",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63204,
+    "recipe_id": "15786302",
+    "standard_id": 766,
+    "raw_name": "bơ avocado",
+    "standard_name": "bơ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63205,
+    "recipe_id": "15786302",
+    "standard_id": 9,
+    "raw_name": "Cà chua tomato",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63206,
+    "recipe_id": "15786302",
+    "standard_id": 10457,
+    "raw_name": "bánh cá fish cake",
+    "standard_name": "bánh cá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63207,
+    "recipe_id": "15786302",
+    "standard_id": 1851,
+    "raw_name": "Ngô corn",
+    "standard_name": "bắp mỹ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63208,
+    "recipe_id": "15786302",
+    "standard_id": 10065,
+    "raw_name": "lá cải salad leaves",
+    "standard_name": "lá cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63247,
+    "recipe_id": "15782212",
+    "standard_id": 1100,
+    "raw_name": "Mình cần gr gr bột mì nguyên cám",
+    "standard_name": "bột mì",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 63248,
+    "recipe_id": "15782212",
+    "standard_id": 2246,
+    "raw_name": "sữa tươi k đườg có thể là ml nước ấm",
+    "standard_name": "sữa",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 63250,
+    "recipe_id": "15782212",
+    "standard_id": 2798,
+    "raw_name": "gr thịt heo gà hoặc bò tôm",
+    "standard_name": "thịt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63251,
+    "recipe_id": "15782212",
+    "standard_id": 26,
+    "raw_name": "nắm mèo mộc nhĩ",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63252,
+    "recipe_id": "15782212",
+    "standard_id": 81,
+    "raw_name": "Cà rốt thái hạt lựu",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63253,
+    "recipe_id": "15782212",
+    "standard_id": 52,
+    "raw_name": "ậu co ve hoặc thêm nhữg loại mọi người thích",
+    "standard_name": "đậu que",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63298,
+    "recipe_id": "15779971",
+    "standard_id": 9798,
+    "raw_name": "Gan bò",
+    "standard_name": "gan bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63299,
+    "recipe_id": "15779971",
+    "standard_id": 6101,
+    "raw_name": "tuỳ nhà mình thích ít hay nhiều nước",
+    "standard_name": "nước",
+    "confidence": 0.8
+  }
+]

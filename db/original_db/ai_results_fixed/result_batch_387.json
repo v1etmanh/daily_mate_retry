@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 44544,
+    "recipe_id": "16643904",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44547,
+    "recipe_id": "16643904",
+    "standard_id": 7720,
+    "raw_name": "rượu trắng",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44548,
+    "recipe_id": "16643833",
+    "standard_id": 177,
+    "raw_name": "Bột rau câu dẻo",
+    "standard_name": "bột rau câu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44550,
+    "recipe_id": "16643833",
+    "standard_id": 1129,
+    "raw_name": "phô mai con bò cười",
+    "standard_name": "phô mai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44551,
+    "recipe_id": "16643833",
+    "standard_id": 2246,
+    "raw_name": "Sữa tươi",
+    "standard_name": "sữa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44553,
+    "recipe_id": "16643833",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44554,
+    "recipe_id": "16643833",
+    "standard_id": 2387,
+    "raw_name": "ường cát",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 44555,
+    "recipe_id": "16643833",
+    "standard_id": 1548,
+    "raw_name": "Vani",
+    "standard_name": "vani",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44556,
+    "recipe_id": "16643833",
+    "standard_id": 7300,
+    "raw_name": "Café đen",
+    "standard_name": "café",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44564,
+    "recipe_id": "16641667",
+    "standard_id": 774,
+    "raw_name": "dạ dày heo g",
+    "standard_name": "dạ dày",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44565,
+    "recipe_id": "16641667",
+    "standard_id": 6165,
+    "raw_name": "lòng non g",
+    "standard_name": "lòng non",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44566,
+    "recipe_id": "16641667",
+    "standard_id": 1162,
+    "raw_name": "lá mía g",
+    "standard_name": "lòng heo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 44567,
+    "recipe_id": "16641667",
+    "standard_id": 166,
+    "raw_name": "hành tây à Lạt",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44568,
+    "recipe_id": "16641667",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44569,
+    "recipe_id": "16641667",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44570,
+    "recipe_id": "16641667",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44572,
+    "recipe_id": "16641667",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44573,
+    "recipe_id": "16641667",
+    "standard_id": 7314,
+    "raw_name": "dầu điều",
+    "standard_name": "dầu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44574,
+    "recipe_id": "16641667",
+    "standard_id": 1613,
+    "raw_name": "ngũ vị hương mg",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44575,
+    "recipe_id": "16641667",
+    "standard_id": 587,
+    "raw_name": "bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44578,
+    "recipe_id": "16641849",
+    "standard_id": 357,
+    "raw_name": "Tôm gr hoặc bao nhiêu cũng được tùy các bạn",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44579,
+    "recipe_id": "16641849",
+    "standard_id": 766,
+    "raw_name": "Bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44580,
+    "recipe_id": "16641849",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44581,
+    "recipe_id": "16641849",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt cholimex cái này nấu ngon với tạo màu đẹp",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44585,
+    "recipe_id": "16641849",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44597,
+    "recipe_id": "16641002",
+    "standard_id": 2487,
+    "raw_name": "Cà tím dài",
+    "standard_name": "cà tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44598,
+    "recipe_id": "16641002",
+    "standard_id": 4729,
+    "raw_name": "Thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44599,
+    "recipe_id": "16641002",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  }
+]

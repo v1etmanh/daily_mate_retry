@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 91/365
+[
+  {
+    "id": 46681,
+    "dish_title": "Canh rong biển tôm tươi, đậu hủ non",
+    "ingredient_name": "tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46680,
+    "dish_title": "Canh rong biển tôm tươi, đậu hủ non",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48888,
+    "dish_title": "Canh rong biển đậu hũ",
+    "ingredient_name": "bột ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48887,
+    "dish_title": "Canh rong biển đậu hũ",
+    "ingredient_name": "ngò gai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48886,
+    "dish_title": "Canh rong biển đậu hũ",
+    "ingredient_name": "rong biển",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47715,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47719,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "cà rốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47718,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "cải bắp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47721,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47717,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "khoai tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47714,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "rau hay cà chua tùy ý",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47720,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "su su",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47716,
+    "dish_title": "Canh soup nấu thịt gà",
+    "ingredient_name": "đậu que",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49904,
+    "dish_title": "Canh sườn non nấu táo đỏ và nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49902,
+    "dish_title": "Canh sườn non nấu táo đỏ và nấm",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49903,
+    "dish_title": "Canh sườn non nấu táo đỏ và nấm",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49901,
+    "dish_title": "Canh sườn non nấu táo đỏ và nấm",
+    "ingredient_name": "táo tàu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45746,
+    "dish_title": "Canh sườn bò Galbi Tang Hàn quốc",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45745,
+    "dish_title": "Canh sườn bò Galbi Tang Hàn quốc",
+    "ingredient_name": "miến",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45747,
+    "dish_title": "Canh sườn bò Galbi Tang Hàn quốc",
+    "ingredient_name": "rượu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50781,
+    "dish_title": "Canh sườn nấm rong biển",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50779,
+    "dish_title": "Canh sườn nấm rong biển",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50780,
+    "dish_title": "Canh sườn nấm rong biển",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50778,
+    "dish_title": "Canh sườn nấm rong biển",
+    "ingredient_name": "rong biển",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49309,
+    "dish_title": "Canh sườn rau quả",
+    "ingredient_name": "bí xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49311,
+    "dish_title": "Canh sườn rau quả",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49308,
+    "dish_title": "Canh sườn rau quả",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49310,
+    "dish_title": "Canh sườn rau quả",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45704,
+    "dish_title": "Canh tim, dạ dày nấu nấm",
+    "ingredient_name": "dạ dày",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45707,
+    "dish_title": "Canh tim, dạ dày nấu nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 12517,
+    "recipe_id": "24526410",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12519,
+    "recipe_id": "24526410",
+    "standard_id": 422,
+    "raw_name": "ớt khô tỏi băm ớt hiểm băm",
+    "standard_name": "ớt hiểm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 12531,
+    "recipe_id": "24518030",
+    "standard_id": 1589,
+    "raw_name": "Mình lười ghi nguyên liệu quá Mọi người cứ đọc cách làm rồi tới loai nào không có thì ghi ra ngoài dù gì cũng phải đi mua",
+    "standard_name": "gia vị",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 12532,
+    "recipe_id": "24518030",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12533,
+    "recipe_id": "24518030",
+    "standard_id": 6173,
+    "raw_name": "rau củ quả",
+    "standard_name": "rau tạp",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 12534,
+    "recipe_id": "24518030",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12536,
+    "recipe_id": "24518030",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 12572,
+    "recipe_id": "24513329",
+    "standard_id": 315,
+    "raw_name": "thịt dẻ sườn bò",
+    "standard_name": "sườn bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 12573,
+    "recipe_id": "24513329",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12574,
+    "recipe_id": "24513329",
+    "standard_id": 2028,
+    "raw_name": "dưa cải",
+    "standard_name": "dưa cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12580,
+    "recipe_id": "24513329",
+    "standard_id": 39,
+    "raw_name": "gừng băm",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12581,
+    "recipe_id": "24513329",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12582,
+    "recipe_id": "24513329",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12584,
+    "recipe_id": "24513329",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12585,
+    "recipe_id": "24513329",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 12586,
+    "recipe_id": "24513329",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12587,
+    "recipe_id": "24513329",
+    "standard_id": 2985,
+    "raw_name": "ngò gai",
+    "standard_name": "ngò gai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12588,
+    "recipe_id": "24513329",
+    "standard_id": 1888,
+    "raw_name": "rau om",
+    "standard_name": "rau om",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12589,
+    "recipe_id": "24513329",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12633,
+    "recipe_id": "24493171",
+    "standard_id": 2638,
+    "raw_name": "thịt bò c thăn nội là chuẩn nhất Bò nhập khẩu mới mềm bò Việt Nam làm món này sẽ dai",
+    "standard_name": "thăn bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 12634,
+    "recipe_id": "24493171",
+    "standard_id": 1036,
+    "raw_name": "thịt ba rọi heo xông khói xắt lát mỏng",
+    "standard_name": "thịt xông khói",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 12636,
+    "recipe_id": "24493171",
+    "standard_id": 2061,
+    "raw_name": "đế bánh ngàn lớp puff pastry",
+    "standard_name": "vỏ bánh pateso",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12637,
+    "recipe_id": "24493171",
+    "standard_id": 766,
+    "raw_name": "bơ lạt",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12638,
+    "recipe_id": "24493171",
+    "standard_id": 2062,
+    "raw_name": "Pate nấm",
+    "standard_name": "pate",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 12639,
+    "recipe_id": "24493171",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ nâu",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 12640,
+    "recipe_id": "24493171",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 12641,
+    "recipe_id": "24493171",
+    "standard_id": 11829,
+    "raw_name": "Quét mặt",
+    "standard_name": "quế",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 12642,
+    "recipe_id": "24493171",
+    "standard_id": 2013,
+    "raw_name": "lòng đỏ trứng gà",
+    "standard_name": "lòng đỏ trứng",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50115,
+    "dish_title": "Bí Ngòi Nhồi Thịt Bò Bằm Sốt Tỏi Gấu",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50118,
+    "dish_title": "Bí Ngòi Nhồi Thịt Bò Bằm Sốt Tỏi Gấu",
+    "ingredient_name": "mật",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50119,
+    "dish_title": "Bí Ngòi Nhồi Thịt Bò Bằm Sốt Tỏi Gấu",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50121,
+    "dish_title": "Bí Ngòi Nhồi Thịt Bò Bằm Sốt Tỏi Gấu",
+    "ingredient_name": "sữa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43432,
+    "dish_title": "Bí Ngòi Nhồi Thịt Băm Sốt Kem Chua Thì Là",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43435,
+    "dish_title": "Bí Ngòi Nhồi Thịt Băm Sốt Kem Chua Thì Là",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43434,
+    "dish_title": "Bí Ngòi Nhồi Thịt Băm Sốt Kem Chua Thì Là",
+    "ingredient_name": "kem chua",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43433,
+    "dish_title": "Bí Ngòi Nhồi Thịt Băm Sốt Kem Chua Thì Là",
+    "ingredient_name": "sốt",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43431,
+    "dish_title": "Bí Ngòi Nhồi Thịt Băm Sốt Kem Chua Thì Là",
+    "ingredient_name": "thịt thăn",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44870,
+    "dish_title": "Bí Nụ Xào Nấm Hoàng Kim Chay",
+    "ingredient_name": "bí nụ",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44873,
+    "dish_title": "Bí Nụ Xào Nấm Hoàng Kim Chay",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44871,
+    "dish_title": "Bí Nụ Xào Nấm Hoàng Kim Chay",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44874,
+    "dish_title": "Bí Nụ Xào Nấm Hoàng Kim Chay",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44872,
+    "dish_title": "Bí Nụ Xào Nấm Hoàng Kim Chay",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45880,
+    "dish_title": "Bí Nụ Xào Thịt Nạc",
+    "ingredient_name": "bí nụ",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45881,
+    "dish_title": "Bí Nụ Xào Thịt Nạc",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45883,
+    "dish_title": "Bí Nụ Xào Thịt Nạc",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45882,
+    "dish_title": "Bí Nụ Xào Thịt Nạc",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45879,
+    "dish_title": "Bí Nụ Xào Thịt Nạc",
+    "ingredient_name": "thịt nạc vai",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44323,
+    "dish_title": "Bí đỏ xào bò tóp mỡ",
+    "ingredient_name": "bò",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44327,
+    "dish_title": "Bí đỏ xào bò tóp mỡ",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44326,
+    "dish_title": "Bí đỏ xào bò tóp mỡ",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44324,
+    "dish_title": "Bí đỏ xào bò tóp mỡ",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44325,
+    "dish_title": "Bí đỏ xào bò tóp mỡ",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47871,
+    "dish_title": "Bím bò chua ngọt",
+    "ingredient_name": "bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47870,
+    "dish_title": "Bím bò chua ngọt",
+    "ingredient_name": "cần",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47863,
+    "dish_title": "Bím bò chua ngọt",
+    "ingredient_name": "dấm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47864,
+    "dish_title": "Bím bò chua ngọt",
+    "ingredient_name": "gừng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47867,
+    "dish_title": "Bím bò chua ngọt",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47866,
+    "dish_title": "Bím bò chua ngọt",
+    "ingredient_name": "lạc",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

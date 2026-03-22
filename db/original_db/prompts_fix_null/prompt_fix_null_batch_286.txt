@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 286/365
+[
+  {
+    "id": 43192,
+    "dish_title": "Sườn Heo Ram Me",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43193,
+    "dish_title": "Sườn Heo Ram Me",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47859,
+    "dish_title": "Sườn bò nướng lá nghệ",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47862,
+    "dish_title": "Sườn bò nướng lá nghệ",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47861,
+    "dish_title": "Sườn bò nướng lá nghệ",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47860,
+    "dish_title": "Sườn bò nướng lá nghệ",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46925,
+    "dish_title": "Sườn bò, bò viên hầm ăn với bánh mì",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46926,
+    "dish_title": "Sườn bò, bò viên hầm ăn với bánh mì",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46924,
+    "dish_title": "Sườn bò, bò viên hầm ăn với bánh mì",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46923,
+    "dish_title": "Sườn bò, bò viên hầm ăn với bánh mì",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43672,
+    "dish_title": "Sườn heo hầm Hàn Quốc",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43671,
+    "dish_title": "Sườn heo hầm Hàn Quốc",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43670,
+    "dish_title": "Sườn heo hầm Hàn Quốc",
+    "ingredient_name": "rượu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44780,
+    "dish_title": "Sườn xào chua ngọt rau củ",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44778,
+    "dish_title": "Sườn xào chua ngọt rau củ",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44779,
+    "dish_title": "Sườn xào chua ngọt rau củ",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43637,
+    "dish_title": "Sốt Kem Nấm Hành Tây Phô Mai (Vegetarian)",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43636,
+    "dish_title": "Sốt Kem Nấm Hành Tây Phô Mai (Vegetarian)",
+    "ingredient_name": "kem",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43635,
+    "dish_title": "Sốt Kem Nấm Hành Tây Phô Mai (Vegetarian)",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50908,
+    "dish_title": "Sốt Tương Nhật Cho Món Poke Bowl (Cơm Trộn Rau Củ Thập Cẩm)",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50909,
+    "dish_title": "Sốt Tương Nhật Cho Món Poke Bowl (Cơm Trộn Rau Củ Thập Cẩm)",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50907,
+    "dish_title": "Sốt Tương Nhật Cho Món Poke Bowl (Cơm Trộn Rau Củ Thập Cẩm)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44905,
+    "dish_title": "Sốt bò",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44904,
+    "dish_title": "Sốt bò",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44903,
+    "dish_title": "Sốt bò",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44901,
+    "dish_title": "Sốt bò",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44902,
+    "dish_title": "Sốt bò",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47481,
+    "dish_title": "Sốt chấm thịt nướng Ssamjang",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47480,
+    "dish_title": "Sốt chấm thịt nướng Ssamjang",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47479,
+    "dish_title": "Sốt chấm thịt nướng Ssamjang",
+    "ingredient_name": "miso",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

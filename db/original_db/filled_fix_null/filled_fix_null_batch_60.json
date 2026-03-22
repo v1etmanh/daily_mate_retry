@@ -1,0 +1,242 @@
+[
+  {
+    "id": 46233,
+    "dish_title": "Bún cá lóc nấu dễ - nhanh - ngon",
+    "ingredient_name": "cá lóc",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46234,
+    "dish_title": "Bún cá lóc nấu dễ - nhanh - ngon",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51119,
+    "dish_title": "Bún cá ngừ",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51120,
+    "dish_title": "Bún cá ngừ",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51118,
+    "dish_title": "Bún cá ngừ",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51117,
+    "dish_title": "Bún cá ngừ",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47264,
+    "dish_title": "Bún cá ngừ eat clean",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47265,
+    "dish_title": "Bún cá ngừ eat clean",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47263,
+    "dish_title": "Bún cá ngừ eat clean",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44878,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "cần",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44879,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "hoa chuối",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44875,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "lá nori",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44881,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "mì căn",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44883,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "nấm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44876,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44877,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "thì là",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44880,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "topping",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44882,
+    "dish_title": "Bún cá nấu thơm (dứa)| Lẩu cá chay",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50557,
+    "dish_title": "Bún cá siêu tốc từ cá hộp",
+    "ingredient_name": "chả cá",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 50554,
+    "dish_title": "Bún cá siêu tốc từ cá hộp",
+    "ingredient_name": "cá hộp",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50558,
+    "dish_title": "Bún cá siêu tốc từ cá hộp",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50556,
+    "dish_title": "Bún cá siêu tốc từ cá hộp",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50555,
+    "dish_title": "Bún cá siêu tốc từ cá hộp",
+    "ingredient_name": "me",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43766,
+    "dish_title": "Bún cá thu",
+    "ingredient_name": "cá thu",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43769,
+    "dish_title": "Bún cá thu",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43767,
+    "dish_title": "Bún cá thu",
+    "ingredient_name": "me",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43768,
+    "dish_title": "Bún cá thu",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48561,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "bún",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48565,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "chanh",
+  "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48559,
+    "dish_title": "Bún cá thu healthy",
+    "ingredient_name": "cá thu",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

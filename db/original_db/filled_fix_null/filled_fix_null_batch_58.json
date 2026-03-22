@@ -1,0 +1,242 @@
+[
+  {
+    "id": 47943,
+    "dish_title": "Bún cua chả mực ăn sáng",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48973,
+    "dish_title": "Bún cua em bé",
+    "ingredient_name": "bún",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48975,
+    "dish_title": "Bún cua em bé",
+    "ingredient_name": "cà chua",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48974,
+    "dish_title": "Bún cua em bé",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52451,
+    "dish_title": "Bún cua thối đặc sản Pleiku (gia lai)",
+    "ingredient_name": "bún",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52448,
+    "dish_title": "Bún cua thối đặc sản Pleiku (gia lai)",
+    "ingredient_name": "măng chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52447,
+    "dish_title": "Bún cua thối đặc sản Pleiku (gia lai)",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52452,
+    "dish_title": "Bún cua thối đặc sản Pleiku (gia lai)",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52449,
+    "dish_title": "Bún cua thối đặc sản Pleiku (gia lai)",
+    "ingredient_name": "trứng vịt",
+    "quantity_g": 120,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52450,
+    "dish_title": "Bún cua thối đặc sản Pleiku (gia lai)",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51131,
+    "dish_title": "Bún cá Hải Phòng",
+    "ingredient_name": "bột canh",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51133,
+    "dish_title": "Bún cá Hải Phòng",
+    "ingredient_name": "cần",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51129,
+    "dish_title": "Bún cá Hải Phòng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51130,
+    "dish_title": "Bún cá Hải Phòng",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51134,
+    "dish_title": "Bún cá Hải Phòng",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51132,
+    "dish_title": "Bún cá Hải Phòng",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44014,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "bánh cống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44008,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44009,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44013,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44010,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44011,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44012,
+    "dish_title": "Bún cá Kiên Giang (Phiên bản tôm)",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52784,
+    "dish_title": "Bún cá cam",
+    "ingredient_name": "bún",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52779,
+    "dish_title": "Bún cá cam",
+    "ingredient_name": "chả cá",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52782,
+    "dish_title": "Bún cá cam",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52781,
+    "dish_title": "Bún cá cam",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52780,
+    "dish_title": "Bún cá cam",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52783,
+    "dish_title": "Bún cá cam",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50916,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "bột",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

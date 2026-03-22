@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 67731,
+    "recipe_id": "15575904",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67733,
+    "recipe_id": "15575904",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67734,
+    "recipe_id": "15575904",
+    "standard_id": 11361,
+    "raw_name": "sriracha",
+    "standard_name": "sriracha",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67735,
+    "recipe_id": "15575904",
+    "standard_id": 39,
+    "raw_name": "gừng cạo vỏ xắt nhỏ mịn",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67736,
+    "recipe_id": "15575904",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơi xắt nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67737,
+    "recipe_id": "15536754",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi nguyên tảng",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67738,
+    "recipe_id": "15536754",
+    "standard_id": 7595,
+    "raw_name": "Hành tím hành tây gừng",
+    "standard_name": "hành tỏi",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67739,
+    "recipe_id": "15536754",
+    "standard_id": 1613,
+    "raw_name": "ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67743,
+    "recipe_id": "15536754",
+    "standard_id": 7720,
+    "raw_name": "rượu nấu ăn",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67750,
+    "recipe_id": "15575903",
+    "standard_id": 10685,
+    "raw_name": "heo giòn da",
+    "standard_name": "heo quay",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67751,
+    "recipe_id": "15575903",
+    "standard_id": 312,
+    "raw_name": "kimchi dưa chua hoặc mắm tôm chua",
+    "standard_name": "kim chi",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 67752,
+    "recipe_id": "15575903",
+    "standard_id": 822,
+    "raw_name": "xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67753,
+    "recipe_id": "15575903",
+    "standard_id": 11359,
+    "raw_name": "Vỏ Bánh Bao ài Loan",
+    "standard_name": "vỏ bánh bao",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67757,
+    "recipe_id": "15575903",
+    "standard_id": 1589,
+    "raw_name": "dầu thực vật",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 67758,
+    "recipe_id": "15575903",
+    "standard_id": 1100,
+    "raw_name": "bột mì protein thấp số",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67763,
+    "recipe_id": "15581062",
+    "standard_id": 612,
+    "raw_name": "Cơm gạo thơm",
+    "standard_name": "gạo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67765,
+    "recipe_id": "15581062",
+    "standard_id": 125,
+    "raw_name": "wasabi",
+    "standard_name": "wasabi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67766,
+    "recipe_id": "15581062",
+    "standard_id": 9112,
+    "raw_name": "Rau xanh mình dùng diếp cừu mâche",
+    "standard_name": "diếp cừu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67767,
+    "recipe_id": "15581062",
+    "standard_id": 81,
+    "raw_name": "cà rốt nhỏ cắt sợi",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67768,
+    "recipe_id": "15581062",
+    "standard_id": 245,
+    "raw_name": "dưa leo nhỏ",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67769,
+    "recipe_id": "15581062",
+    "standard_id": 9309,
+    "raw_name": "táo xanh mình xài táo xanh để có vị chua tự nhiên ngon hơn táo ngọt",
+    "standard_name": "trái táo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67770,
+    "recipe_id": "15581062",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67771,
+    "recipe_id": "15581062",
+    "standard_id": 279,
+    "raw_name": "trái đậu dẹp",
+    "standard_name": "đậu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67772,
+    "recipe_id": "15581062",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67773,
+    "recipe_id": "15581062",
+    "standard_id": 1747,
+    "raw_name": "Mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67830,
+    "recipe_id": "15578281",
+    "standard_id": 7722,
+    "raw_name": "thịt bò bắp",
+    "standard_name": "bắp bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67831,
+    "recipe_id": "15578281",
+    "standard_id": 1795,
+    "raw_name": "mì Nhật Yu Noodles",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67832,
+    "recipe_id": "15578281",
+    "standard_id": 136,
+    "raw_name": "rau cải thìa hay cải ngọt",
+    "standard_name": "cải thìa",
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 30077,
+    "recipe_id": "17201577",
+    "standard_id": 596,
+    "raw_name": "ếch",
+    "standard_name": "ếch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30078,
+    "recipe_id": "17201577",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30079,
+    "recipe_id": "17201577",
+    "standard_id": 7595,
+    "raw_name": "Hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30080,
+    "recipe_id": "17201577",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30082,
+    "recipe_id": "17201577",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30083,
+    "recipe_id": "17201573",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30084,
+    "recipe_id": "17201573",
+    "standard_id": 1050,
+    "raw_name": "Nước cốt me",
+    "standard_name": "me",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30085,
+    "recipe_id": "17201573",
+    "standard_id": 1517,
+    "raw_name": "Rau nấu canh chua đậu bắp bạc hà cà chua thơm rau ôm ngò gai",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 30086,
+    "recipe_id": "17201573",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30087,
+    "recipe_id": "17201581",
+    "standard_id": 596,
+    "raw_name": "ếch",
+    "standard_name": "ếch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30088,
+    "recipe_id": "17201581",
+    "standard_id": 1795,
+    "raw_name": "mì lá tươi",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30089,
+    "recipe_id": "17201581",
+    "standard_id": 2210,
+    "raw_name": "Rau ăn kèm cải con bắp chuối rau muống bào",
+    "standard_name": "rau sống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30090,
+    "recipe_id": "17201581",
+    "standard_id": 837,
+    "raw_name": "Bánh đa nướng",
+    "standard_name": "bánh tráng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30091,
+    "recipe_id": "17201581",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30092,
+    "recipe_id": "17201601",
+    "standard_id": 7722,
+    "raw_name": "bắp bò",
+    "standard_name": "bắp bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30093,
+    "recipe_id": "17201601",
+    "standard_id": 1795,
+    "raw_name": "mì lá tươi",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30094,
+    "recipe_id": "17201601",
+    "standard_id": 1050,
+    "raw_name": "Nước cốt me",
+    "standard_name": "me",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30095,
+    "recipe_id": "17201601",
+    "standard_id": 1517,
+    "raw_name": "Rau nấu canh chua đậu bắp bạc hà cà chua thơm rau ôm ngò gai",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 30096,
+    "recipe_id": "17201601",
+    "standard_id": 1471,
+    "raw_name": "nấm linh chi nâu",
+    "standard_name": "nấm linh chi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30097,
+    "recipe_id": "17201601",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30098,
+    "recipe_id": "17201605",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30099,
+    "recipe_id": "17201605",
+    "standard_id": 1795,
+    "raw_name": "mì lá tươi",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30100,
+    "recipe_id": "17201605",
+    "standard_id": 1050,
+    "raw_name": "Nước cốt me",
+    "standard_name": "me",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 30101,
+    "recipe_id": "17201605",
+    "standard_id": 83,
+    "raw_name": "Hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30102,
+    "recipe_id": "17201605",
+    "standard_id": 1517,
+    "raw_name": "Rau nấu canh chua đậu bắp bạc hà cà chua thơm rau ôm ngò gai",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 30103,
+    "recipe_id": "17201605",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30110,
+    "recipe_id": "17200223",
+    "standard_id": 4936,
+    "raw_name": "cá cam",
+    "standard_name": "cá cam",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30111,
+    "recipe_id": "17200223",
+    "standard_id": 2210,
+    "raw_name": "Rau sống",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30112,
+    "recipe_id": "17200223",
+    "standard_id": 5525,
+    "raw_name": "lá mì tươi",
+    "standard_name": "lá mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 30113,
+    "recipe_id": "17200223",
+    "standard_id": 8660,
+    "raw_name": "Mắm nêm",
+    "standard_name": "mắm nêm",
+    "confidence": 1.0
+  }
+]

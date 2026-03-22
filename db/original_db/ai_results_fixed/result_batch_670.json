@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 69635,
+    "recipe_id": "15522917",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69636,
+    "recipe_id": "15522917",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69637,
+    "recipe_id": "15522917",
+    "standard_id": 766,
+    "raw_name": "bơ chín",
+    "standard_name": "bơ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69638,
+    "recipe_id": "15522917",
+    "standard_id": 1148,
+    "raw_name": "Phần nước sốt",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69639,
+    "recipe_id": "15522917",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69640,
+    "recipe_id": "15522917",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69645,
+    "recipe_id": "15522924",
+    "standard_id": 1098,
+    "raw_name": "Bánh bagels",
+    "standard_name": "bánh mì",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69646,
+    "recipe_id": "15522924",
+    "standard_id": 1921,
+    "raw_name": "Phần nhân",
+    "standard_name": "nhân bánh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69647,
+    "recipe_id": "15522924",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69648,
+    "recipe_id": "15522924",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69649,
+    "recipe_id": "15522924",
+    "standard_id": 1129,
+    "raw_name": "Phô mai",
+    "standard_name": "phô mai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69650,
+    "recipe_id": "15522924",
+    "standard_id": 11617,
+    "raw_name": "Kiri các bạn có thể thay bằng cream cheese",
+    "standard_name": "kiri",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69651,
+    "recipe_id": "15522924",
+    "standard_id": 397,
+    "raw_name": "Bacon",
+    "standard_name": "bacon",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69669,
+    "recipe_id": "15522073",
+    "standard_id": 142,
+    "raw_name": "thịt bò ngon",
+    "standard_name": "bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69670,
+    "recipe_id": "15522073",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69671,
+    "recipe_id": "15522073",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69673,
+    "recipe_id": "15522073",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69674,
+    "recipe_id": "15522073",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69676,
+    "recipe_id": "15522073",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69680,
+    "recipe_id": "15522073",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69681,
+    "recipe_id": "15522073",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69682,
+    "recipe_id": "15522073",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69683,
+    "recipe_id": "15522073",
+    "standard_id": 245,
+    "raw_name": "Dưa leo bánh mì",
+    "standard_name": "dưa leo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69684,
+    "recipe_id": "15522073",
+    "standard_id": 215,
+    "raw_name": "Khoai tây chiên",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69724,
+    "recipe_id": "15521352",
+    "standard_id": 766,
+    "raw_name": "Làm gan gồm những nguyên liệu hộp bơ nhỏ",
+    "standard_name": "bơ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69725,
+    "recipe_id": "15521352",
+    "standard_id": 166,
+    "raw_name": "nửa củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69727,
+    "recipe_id": "15521352",
+    "standard_id": 83,
+    "raw_name": "củ hành",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69728,
+    "recipe_id": "15521352",
+    "standard_id": 29,
+    "raw_name": "củ tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69729,
+    "recipe_id": "15521352",
+    "standard_id": 1613,
+    "raw_name": "gói ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69731,
+    "recipe_id": "15521352",
+    "standard_id": 3417,
+    "raw_name": "thìa mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  }
+]

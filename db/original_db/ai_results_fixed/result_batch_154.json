@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 20336,
+    "recipe_id": "23947898",
+    "standard_id": 2862,
+    "raw_name": "khô qua",
+    "standard_name": "mướp đắng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20337,
+    "recipe_id": "23947898",
+    "standard_id": 357,
+    "raw_name": "tôm tươi",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20338,
+    "recipe_id": "23947898",
+    "standard_id": 4138,
+    "raw_name": "môc",
+    "standard_name": "mộc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20339,
+    "recipe_id": "23947898",
+    "standard_id": 5850,
+    "raw_name": "hat nêm",
+    "standard_name": "hạt niêm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20340,
+    "recipe_id": "23947898",
+    "standard_id": 1589,
+    "raw_name": "muôi",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20341,
+    "recipe_id": "23947898",
+    "standard_id": 2832,
+    "raw_name": "bôt ngot",
+    "standard_name": "mỳ chính",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20342,
+    "recipe_id": "23947898",
+    "standard_id": 11827,
+    "raw_name": "dâu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 20343,
+    "recipe_id": "23947898",
+    "standard_id": 2363,
+    "raw_name": "Hanh lahanh timtoitiêu",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 20344,
+    "recipe_id": "23947864",
+    "standard_id": 653,
+    "raw_name": "cá cơ căt lat",
+    "standard_name": "cá cờ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20345,
+    "recipe_id": "23947864",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20346,
+    "recipe_id": "23947864",
+    "standard_id": 2699,
+    "raw_name": "lá chua dâm but",
+    "standard_name": "lá",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 20347,
+    "recipe_id": "23947864",
+    "standard_id": 956,
+    "raw_name": "đâu băp",
+    "standard_name": "đậu bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20348,
+    "recipe_id": "23947864",
+    "standard_id": 139,
+    "raw_name": "bạc hà nho",
+    "standard_name": "bạc hà",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20349,
+    "recipe_id": "23947864",
+    "standard_id": 1382,
+    "raw_name": "ngó sen",
+    "standard_name": "ngó sen",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20350,
+    "recipe_id": "23947864",
+    "standard_id": 2387,
+    "raw_name": "đương",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20351,
+    "recipe_id": "23947864",
+    "standard_id": 465,
+    "raw_name": "nươc măm",
+    "standard_name": "nước mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20352,
+    "recipe_id": "23947864",
+    "standard_id": 1589,
+    "raw_name": "muôi",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20353,
+    "recipe_id": "23947864",
+    "standard_id": 2832,
+    "raw_name": "bôt ngot",
+    "standard_name": "mỳ chính",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20354,
+    "recipe_id": "23947864",
+    "standard_id": 5850,
+    "raw_name": "hat nêm",
+    "standard_name": "hạt niêm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20356,
+    "recipe_id": "23947864",
+    "standard_id": 1888,
+    "raw_name": "Ngò gai rau ôm",
+    "standard_name": "rau om",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20357,
+    "recipe_id": "23947864",
+    "standard_id": 83,
+    "raw_name": "hanh tím băm nho",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20370,
+    "recipe_id": "23947462",
+    "standard_id": 4729,
+    "raw_name": "Giá và lá he xao thit băm",
+    "standard_name": "thịt bằm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 20372,
+    "recipe_id": "23947462",
+    "standard_id": 3265,
+    "raw_name": "lá he",
+    "standard_name": "hẹ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 20373,
+    "recipe_id": "23947462",
+    "standard_id": 1589,
+    "raw_name": "muông cafe hat nêmbôt ngottiêu",
+    "standard_name": "gia vị",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 20374,
+    "recipe_id": "23947462",
+    "standard_id": 62,
+    "raw_name": "Sươn non heo kho",
+    "standard_name": "sườn heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 20376,
+    "recipe_id": "23947462",
+    "standard_id": 465,
+    "raw_name": "nươc măm",
+    "standard_name": "nước mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 20377,
+    "recipe_id": "23947462",
+    "standard_id": 11833,
+    "raw_name": "nươc mau",
+    "standard_name": "nước màu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 20378,
+    "recipe_id": "23947462",
+    "standard_id": 2832,
+    "raw_name": "bôt ngot",
+    "standard_name": "mỳ chính",
+    "confidence": 0.95
+  }
+]

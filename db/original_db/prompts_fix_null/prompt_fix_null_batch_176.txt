@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 176/365
+[
+  {
+    "id": 46705,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "củ sắn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46711,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "nước tắc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46706,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "nấm tuyết",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46708,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46714,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "sườn chay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46710,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46713,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46712,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46709,
+    "dish_title": "Hương mùa hè|Salad nấm tuyết",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52351,
+    "dish_title": "Hạt kê, cá hồi sốt",
+    "ingredient_name": "bí ngòi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52330,
+    "dish_title": "Hạt kê, cá hồi sốt",
+    "ingredient_name": "cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52329,
+    "dish_title": "Hạt kê, cá hồi sốt",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44025,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "cầu gai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44029,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44028,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "mật",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44024,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "mực ống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44026,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44027,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44030,
+    "dish_title": "Hải sản Phú Quý hấp: mực ống, cua gạo, cua mặt trăng và nhum tươi",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49022,
+    "dish_title": "Hải sản chiên xù",
+    "ingredient_name": "bột hành",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49021,
+    "dish_title": "Hải sản chiên xù",
+    "ingredient_name": "bột tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49019,
+    "dish_title": "Hải sản chiên xù",
+    "ingredient_name": "bột xù",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49020,
+    "dish_title": "Hải sản chiên xù",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49018,
+    "dish_title": "Hải sản chiên xù",
+    "ingredient_name": "mực ống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53087,
+    "dish_title": "Hải sản ngâm cay",
+    "ingredient_name": "bột ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53085,
+    "dish_title": "Hải sản ngâm cay",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53084,
+    "dish_title": "Hải sản ngâm cay",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53088,
+    "dish_title": "Hải sản ngâm cay",
+    "ingredient_name": "nước tắc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53086,
+    "dish_title": "Hải sản ngâm cay",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51748,
+    "dish_title": "Hủ Tiếu Mộc Nấm, Thịt Bằm (Nước Hầm Xương Gà Cực Ngọt)",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

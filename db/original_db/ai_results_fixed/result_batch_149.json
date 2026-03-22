@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 19618,
+    "recipe_id": "17061207",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19619,
+    "recipe_id": "17061207",
+    "standard_id": 3552,
+    "raw_name": "đậu gà",
+    "standard_name": "đậu gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19620,
+    "recipe_id": "17061207",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19621,
+    "recipe_id": "17061207",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19622,
+    "recipe_id": "17061207",
+    "standard_id": 6829,
+    "raw_name": "Sốt kho",
+    "standard_name": "nước thịt kho",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 19624,
+    "recipe_id": "17061207",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19626,
+    "recipe_id": "17061207",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19627,
+    "recipe_id": "17061207",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19688,
+    "recipe_id": "22677795",
+    "standard_id": 1105,
+    "raw_name": "đầu cá bớp",
+    "standard_name": "cá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 19690,
+    "recipe_id": "22677795",
+    "standard_id": 139,
+    "raw_name": "Bạc hà",
+    "standard_name": "bạc hà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19691,
+    "recipe_id": "22677795",
+    "standard_id": 289,
+    "raw_name": "Rau muống",
+    "standard_name": "rau muống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19692,
+    "recipe_id": "22677795",
+    "standard_id": 620,
+    "raw_name": "măng chua",
+    "standard_name": "măng chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19693,
+    "recipe_id": "22677795",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19694,
+    "recipe_id": "22677795",
+    "standard_id": 31,
+    "raw_name": "Sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19695,
+    "recipe_id": "22677795",
+    "standard_id": 28,
+    "raw_name": "Thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19696,
+    "recipe_id": "22677795",
+    "standard_id": 1050,
+    "raw_name": "me",
+    "standard_name": "me",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19698,
+    "recipe_id": "22677795",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 19699,
+    "recipe_id": "22677795",
+    "standard_id": 2985,
+    "raw_name": "lá Ngò gai",
+    "standard_name": "ngò gai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19700,
+    "recipe_id": "22677795",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19708,
+    "recipe_id": "23958058",
+    "standard_id": 146,
+    "raw_name": "trứng gà ta",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19709,
+    "recipe_id": "23958058",
+    "standard_id": 4729,
+    "raw_name": "thịt băm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19710,
+    "recipe_id": "23958058",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19713,
+    "recipe_id": "23958058",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19714,
+    "recipe_id": "23958058",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19715,
+    "recipe_id": "23958058",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 19716,
+    "recipe_id": "23958058",
+    "standard_id": 6101,
+    "raw_name": "nước ấm độ",
+    "standard_name": "nước",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 19789,
+    "recipe_id": "23957255",
+    "standard_id": 71,
+    "raw_name": "đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  }
+]

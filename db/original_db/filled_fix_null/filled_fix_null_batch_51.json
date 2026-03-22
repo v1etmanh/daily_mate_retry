@@ -1,0 +1,242 @@
+[
+  {
+    "id": 47884,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47892,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47888,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "dưa kiệu",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47887,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "dưa leo",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47891,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47889,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47890,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "mật",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47894,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "nước màu",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47886,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47883,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47893,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47885,
+    "dish_title": "Bún THỊT nướng",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52025,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52026,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52028,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "gia vị",
+    "quantity_g": 35,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52030,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52027,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "nước",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52023,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "thịt",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52024,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52029,
+    "dish_title": "Bún Thịt Viên Nướng",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46866,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46868,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "bún",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46867,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "lá lốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46870,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "rau sống",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46871,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46872,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46873,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46869,
+    "dish_title": "Bún Trộn Bò Cuốn Lá Lốt Xiên Que Nướng",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50949,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50951,
+    "dish_title": "Bún Trộn Bò Xào Sả (Bún Bò Xào Nam Bộ)",
+    "ingredient_name": "củ cải",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

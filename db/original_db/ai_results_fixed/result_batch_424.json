@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 46930,
+    "recipe_id": "16522186",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46993,
+    "recipe_id": "16517685",
+    "standard_id": 71,
+    "raw_name": "đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46994,
+    "recipe_id": "16517685",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46995,
+    "recipe_id": "16517685",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46996,
+    "recipe_id": "16517685",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46997,
+    "recipe_id": "16517685",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 46998,
+    "recipe_id": "16517159",
+    "standard_id": 2608,
+    "raw_name": "mọc",
+    "standard_name": "mọc viên",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 46999,
+    "recipe_id": "16517159",
+    "standard_id": 62,
+    "raw_name": "xương sườn",
+    "standard_name": "sườn heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47000,
+    "recipe_id": "16517159",
+    "standard_id": 25,
+    "raw_name": "súp lơ",
+    "standard_name": "bông cải",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47001,
+    "recipe_id": "16517159",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47002,
+    "recipe_id": "16517159",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47038,
+    "recipe_id": "16476693",
+    "standard_id": 71,
+    "raw_name": "đậu hủ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47039,
+    "recipe_id": "16476693",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47040,
+    "recipe_id": "16476693",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47041,
+    "recipe_id": "16476693",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47042,
+    "recipe_id": "16476693",
+    "standard_id": 24,
+    "raw_name": "ớt khô",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47043,
+    "recipe_id": "16476693",
+    "standard_id": 1968,
+    "raw_name": "hành tăm tăng hương vị",
+    "standard_name": "hành tăm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47044,
+    "recipe_id": "16476693",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47045,
+    "recipe_id": "16476693",
+    "standard_id": 11828,
+    "raw_name": "nươc tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47049,
+    "recipe_id": "16513404",
+    "standard_id": 1795,
+    "raw_name": "mì",
+    "standard_name": "mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47050,
+    "recipe_id": "16513404",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47051,
+    "recipe_id": "16513404",
+    "standard_id": 2358,
+    "raw_name": "zambon ham cắt hạt lựu",
+    "standard_name": "jambon",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47052,
+    "recipe_id": "16513404",
+    "standard_id": 11609,
+    "raw_name": "xúc xích cắt hạt lựu cắt lát",
+    "standard_name": "xúc xích",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47053,
+    "recipe_id": "16513404",
+    "standard_id": 4729,
+    "raw_name": "thịt heo bằm hoặc thịt heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47054,
+    "recipe_id": "16513404",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47055,
+    "recipe_id": "16513404",
+    "standard_id": 1129,
+    "raw_name": "phô mai sợi băm nhuyễn",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47059,
+    "recipe_id": "16513404",
+    "standard_id": 1589,
+    "raw_name": "gói súp bột của mì tôm",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47104,
+    "recipe_id": "16511049",
+    "standard_id": 10,
+    "raw_name": "xương gà hoặc xương heo mình hầm xương gà mua k kg",
+    "standard_name": "xương gà",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47105,
+    "recipe_id": "16511049",
+    "standard_id": 564,
+    "raw_name": "bẹ đùi gà có thể thay thế bằng thịt heo",
+    "standard_name": "đùi gà",
+    "confidence": 0.9
+  }
+]

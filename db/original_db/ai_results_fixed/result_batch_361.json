@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 43066,
+    "recipe_id": "16736522",
+    "standard_id": 16,
+    "raw_name": "mỡ hành chén nhỏ đậu phộng rang ít mè rang",
+    "standard_name": "hành lá",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 43067,
+    "recipe_id": "16736522",
+    "standard_id": 2051,
+    "raw_name": "xà lách và rau mùi các loại giá dưa leo",
+    "standard_name": "đồ cuốn ăn kèm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43080,
+    "recipe_id": "16733469",
+    "standard_id": 39,
+    "raw_name": "nước gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43081,
+    "recipe_id": "16733469",
+    "standard_id": 83,
+    "raw_name": "thì phở nước hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43083,
+    "recipe_id": "16733469",
+    "standard_id": 2246,
+    "raw_name": "sữa đặc ông thọ",
+    "standard_name": "sữa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43085,
+    "recipe_id": "16733469",
+    "standard_id": 1145,
+    "raw_name": "bột chiên xù",
+    "standard_name": "bột xù",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43086,
+    "recipe_id": "16733469",
+    "standard_id": 1589,
+    "raw_name": "bột sư tử",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 43087,
+    "recipe_id": "16733469",
+    "standard_id": 2856,
+    "raw_name": "thịt thăn",
+    "standard_name": "thịt thăn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43095,
+    "recipe_id": "16726323",
+    "standard_id": 1187,
+    "raw_name": "Nước luộc chân giò thảo mộc",
+    "standard_name": "nước dùng",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43096,
+    "recipe_id": "16726323",
+    "standard_id": 1642,
+    "raw_name": "Rau cải thảo cải ngọt",
+    "standard_name": "cải thảo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43097,
+    "recipe_id": "16726323",
+    "standard_id": 151,
+    "raw_name": "gram Nấm tươi",
+    "standard_name": "nấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43098,
+    "recipe_id": "16726323",
+    "standard_id": 6643,
+    "raw_name": "Chân giò hầm thảo mộc thịt bò tươi",
+    "standard_name": "thịt lợn thịt bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43099,
+    "recipe_id": "16726323",
+    "standard_id": 16,
+    "raw_name": "Hành hoa",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43100,
+    "recipe_id": "16726323",
+    "standard_id": 7498,
+    "raw_name": "Mỳ trứng",
+    "standard_name": "mỳ trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43122,
+    "recipe_id": "16731761",
+    "standard_id": 2663,
+    "raw_name": "rau muống cọng",
+    "standard_name": "thân rau muống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43124,
+    "recipe_id": "16731761",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi luộc xắt mỏng",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43125,
+    "recipe_id": "16731761",
+    "standard_id": 357,
+    "raw_name": "tôm đất luộc chín",
+    "standard_name": "tôm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43126,
+    "recipe_id": "16731761",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43128,
+    "recipe_id": "16731761",
+    "standard_id": 83,
+    "raw_name": "Hành phi",
+    "standard_name": "hành tím",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43129,
+    "recipe_id": "16731761",
+    "standard_id": 21,
+    "raw_name": "Rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43130,
+    "recipe_id": "16731761",
+    "standard_id": 1747,
+    "raw_name": "mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43153,
+    "recipe_id": "16484783",
+    "standard_id": 731,
+    "raw_name": "can cá ngừ hộp gr",
+    "standard_name": "hộp cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43154,
+    "recipe_id": "16484783",
+    "standard_id": 9,
+    "raw_name": "cà chua chín",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43155,
+    "recipe_id": "16484783",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43156,
+    "recipe_id": "16484783",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43157,
+    "recipe_id": "16484783",
+    "standard_id": 39,
+    "raw_name": "gừng nhỏ cm",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43158,
+    "recipe_id": "16484783",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn hoặc bơ ghee",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 43159,
+    "recipe_id": "16484783",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43160,
+    "recipe_id": "16484783",
+    "standard_id": 4615,
+    "raw_name": "bột gia vị Masala",
+    "standard_name": "bột gia vị",
+    "confidence": 0.9
+  }
+]

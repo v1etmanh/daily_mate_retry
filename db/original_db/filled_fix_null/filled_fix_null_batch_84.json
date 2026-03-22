@@ -1,0 +1,242 @@
+[
+  {
+    "id": 46749,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "dọc mùng",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47463,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46751,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46753,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46748,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "khế",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46747,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "măng chua",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47462,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47461,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "rau ngổ",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46750,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46752,
+    "dish_title": "Canh chua thịt bò",
+    "ingredient_name": "ớt xanh",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47168,
+    "dish_title": "Canh chua thịt băm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47164,
+    "dish_title": "Canh chua thịt băm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47166,
+    "dish_title": "Canh chua thịt băm",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47165,
+    "dish_title": "Canh chua thịt băm",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47163,
+    "dish_title": "Canh chua thịt băm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47167,
+    "dish_title": "Canh chua thịt băm",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44984,
+    "dish_title": "Canh chua tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44982,
+    "dish_title": "Canh chua tôm",
+    "ingredient_name": "me",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44983,
+    "dish_title": "Canh chua tôm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49370,
+    "dish_title": "Canh chua tôm càng xanh hoa chuối",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49372,
+    "dish_title": "Canh chua tôm càng xanh hoa chuối",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49369,
+    "dish_title": "Canh chua tôm càng xanh hoa chuối",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49371,
+    "dish_title": "Canh chua tôm càng xanh hoa chuối",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49368,
+    "dish_title": "Canh chua tôm càng xanh hoa chuối",
+    "ingredient_name": "ngò gai",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49367,
+    "dish_title": "Canh chua tôm càng xanh hoa chuối",
+    "ingredient_name": "rau om",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51449,
+    "dish_title": "Canh chua đậu hủ chay",
+    "ingredient_name": "bạc hà",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51453,
+    "dish_title": "Canh chua đậu hủ chay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51452,
+    "dish_title": "Canh chua đậu hủ chay",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51455,
+    "dish_title": "Canh chua đậu hủ chay",
+    "ingredient_name": "me",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51454,
+    "dish_title": "Canh chua đậu hủ chay",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 45512,
+    "dish_title": "Bánh nướng heo mập",
+    "ingredient_name": "đậu đen",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42902,
+    "dish_title": "Bánh phở chiên giòn kèm thịt xào hành tây",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42900,
+    "dish_title": "Bánh phở chiên giòn kèm thịt xào hành tây",
+    "ingredient_name": "thịt",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 42901,
+    "dish_title": "Bánh phở chiên giòn kèm thịt xào hành tây",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51074,
+    "dish_title": "Bánh quy bơ tạo hình heo hồng xinh xắn",
+    "ingredient_name": "bơ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51075,
+    "dish_title": "Bánh quy bơ tạo hình heo hồng xinh xắn",
+    "ingredient_name": "bột mì",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51076,
+    "dish_title": "Bánh quy bơ tạo hình heo hồng xinh xắn",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42965,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "bánh",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42963,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "bột rau câu",
+    "quantity_g": 10,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 42961,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "cá",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 42967,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "gia vị",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42966,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "lòng đỏ trứng",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42962,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42964,
+    "dish_title": "Bánh rau câu cheese coffee",
+    "ingredient_name": "sữa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50272,
+    "dish_title": "Bánh sừng bò",
+    "ingredient_name": "bơ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50270,
+    "dish_title": "Bánh sừng bò",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50271,
+    "dish_title": "Bánh sừng bò",
+    "ingredient_name": "sữa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52252,
+    "dish_title": "Bánh sừng bò - Bánh càng cua",
+    "ingredient_name": "bơ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52253,
+    "dish_title": "Bánh sừng bò - Bánh càng cua",
+    "ingredient_name": "bột",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52251,
+    "dish_title": "Bánh sừng bò - Bánh càng cua",
+    "ingredient_name": "nước",
+    "quantity_g": 120,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51999,
+    "dish_title": "Bánh sừng bò có pha bột nếp",
+    "ingredient_name": "bơ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51997,
+    "dish_title": "Bánh sừng bò có pha bột nếp",
+    "ingredient_name": "bột mì",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51998,
+    "dish_title": "Bánh sừng bò có pha bột nếp",
+    "ingredient_name": "sữa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52000,
+    "dish_title": "Bánh sừng bò có pha bột nếp",
+    "ingredient_name": "sữa bột",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47005,
+    "dish_title": "Bánh tai heo",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47007,
+    "dish_title": "Bánh tai heo",
+    "ingredient_name": "cacao",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47008,
+    "dish_title": "Bánh tai heo",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 400,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47006,
+    "dish_title": "Bánh tai heo",
+    "ingredient_name": "sữa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52845,
+    "dish_title": "Bánh trung thu con heo",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52851,
+    "dish_title": "Bánh trung thu con heo",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

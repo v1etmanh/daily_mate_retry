@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 13908,
+    "recipe_id": "24353941",
+    "standard_id": 238,
+    "raw_name": "chả cá chiên",
+    "standard_name": "chả cá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13909,
+    "recipe_id": "24353941",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13910,
+    "recipe_id": "24353941",
+    "standard_id": 766,
+    "raw_name": "Bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13911,
+    "recipe_id": "24353941",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13912,
+    "recipe_id": "24353941",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13923,
+    "recipe_id": "24353823",
+    "standard_id": null,
+    "raw_name": "nóng",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 13924,
+    "recipe_id": "24353823",
+    "standard_id": 1071,
+    "raw_name": "rong biển trộn cơm",
+    "standard_name": "rong biển",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13925,
+    "recipe_id": "24353823",
+    "standard_id": 1041,
+    "raw_name": "cá ngừ",
+    "standard_name": "cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13926,
+    "recipe_id": "24353823",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13929,
+    "recipe_id": "24353823",
+    "standard_id": 3074,
+    "raw_name": "Lá kim",
+    "standard_name": "lá kim",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13930,
+    "recipe_id": "24353015",
+    "standard_id": 25,
+    "raw_name": "bông cải xanh khoảng gr",
+    "standard_name": "bông cải",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13931,
+    "recipe_id": "24353015",
+    "standard_id": 1036,
+    "raw_name": "ba rọi xông khói khoảng gr",
+    "standard_name": "thịt xông khói",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13932,
+    "recipe_id": "24353015",
+    "standard_id": 9,
+    "raw_name": "cà chua bi",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13933,
+    "recipe_id": "24353015",
+    "standard_id": 492,
+    "raw_name": "Phần sốt trộn",
+    "standard_name": "xốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 13935,
+    "recipe_id": "24353015",
+    "standard_id": 3077,
+    "raw_name": "hạnh nhân bột hoặc hạnh nhân bào lát",
+    "standard_name": "hạnh nhân",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13936,
+    "recipe_id": "24353015",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13937,
+    "recipe_id": "24353015",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13939,
+    "recipe_id": "24353015",
+    "standard_id": 3662,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13940,
+    "recipe_id": "24353015",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13942,
+    "recipe_id": "22551378",
+    "standard_id": 2917,
+    "raw_name": "đế bánh Pizza mua hoặc tự làm",
+    "standard_name": "đế pizza",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13943,
+    "recipe_id": "22551378",
+    "standard_id": 958,
+    "raw_name": "tuýp nhỏ sốt cà cô đặc",
+    "standard_name": "tinh chất cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13944,
+    "recipe_id": "22551378",
+    "standard_id": 11241,
+    "raw_name": "phô mai mozzarella cắt hạt lựu",
+    "standard_name": "mozzarella",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13945,
+    "recipe_id": "22551378",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13947,
+    "recipe_id": "24351669",
+    "standard_id": 142,
+    "raw_name": "thịt bò xay",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 13948,
+    "recipe_id": "24351669",
+    "standard_id": 78,
+    "raw_name": "bắp ngô",
+    "standard_name": "bắp ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13949,
+    "recipe_id": "24351669",
+    "standard_id": 492,
+    "raw_name": "sốt spagetti",
+    "standard_name": "xốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 13950,
+    "recipe_id": "24351669",
+    "standard_id": 766,
+    "raw_name": "bơ củ tỏi",
+    "standard_name": "bơ",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 13951,
+    "recipe_id": "24351669",
+    "standard_id": 2917,
+    "raw_name": "đế pizza size",
+    "standard_name": "đế pizza",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13952,
+    "recipe_id": "24351669",
+    "standard_id": 11241,
+    "raw_name": "phô mai mozzarella bào",
+    "standard_name": "mozzarella",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 13953,
+    "recipe_id": "24351669",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  }
+]

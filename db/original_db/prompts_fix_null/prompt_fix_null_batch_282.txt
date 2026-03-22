@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 282/365
+[
+  {
+    "id": 49998,
+    "dish_title": "Súp Măng Tây Trắng Nấm Tuyết Chay",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49995,
+    "dish_title": "Súp Măng Tây Trắng Nấm Tuyết Chay",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52458,
+    "dish_title": "Súp Nấm Hoành Thánh Cải Bó Xôi Nhân Tôm",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52457,
+    "dish_title": "Súp Nấm Hoành Thánh Cải Bó Xôi Nhân Tôm",
+    "ingredient_name": "lá hoành thánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52459,
+    "dish_title": "Súp Nấm Hoành Thánh Cải Bó Xôi Nhân Tôm",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52460,
+    "dish_title": "Súp Nấm Hoành Thánh Cải Bó Xôi Nhân Tôm",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52461,
+    "dish_title": "Súp Nấm Hoành Thánh Cải Bó Xôi Nhân Tôm",
+    "ingredient_name": "nước súp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52462,
+    "dish_title": "Súp Nấm Hoành Thánh Cải Bó Xôi Nhân Tôm",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49285,
+    "dish_title": "Súp Sò Điệp Bong Bóng Cá",
+    "ingredient_name": "bao tử cá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49480,
+    "dish_title": "Súp Sò Điệp Bong Bóng Cá",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49479,
+    "dish_title": "Súp Sò Điệp Bong Bóng Cá",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49481,
+    "dish_title": "Súp Sò Điệp Bong Bóng Cá",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49286,
+    "dish_title": "Súp Sò Điệp Bong Bóng Cá",
+    "ingredient_name": "nước hầm xương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49284,
+    "dish_title": "Súp Sò Điệp Bong Bóng Cá",
+    "ingredient_name": "sò điệp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51983,
+    "dish_title": "Súp Tôm Gà Vỏ Bưởi",
+    "ingredient_name": "bưởi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51987,
+    "dish_title": "Súp Tôm Gà Vỏ Bưởi",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51982,
+    "dish_title": "Súp Tôm Gà Vỏ Bưởi",
+    "ingredient_name": "gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51985,
+    "dish_title": "Súp Tôm Gà Vỏ Bưởi",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51986,
+    "dish_title": "Súp Tôm Gà Vỏ Bưởi",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51984,
+    "dish_title": "Súp Tôm Gà Vỏ Bưởi",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45128,
+    "dish_title": "Súp Tôm Tóc Tiên",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45132,
+    "dish_title": "Súp Tôm Tóc Tiên",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45131,
+    "dish_title": "Súp Tôm Tóc Tiên",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45130,
+    "dish_title": "Súp Tôm Tóc Tiên",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45127,
+    "dish_title": "Súp Tôm Tóc Tiên",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45129,
+    "dish_title": "Súp Tôm Tóc Tiên",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43807,
+    "dish_title": "Súp bánh phồng tôm nấu sườn",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43805,
+    "dish_title": "Súp bánh phồng tôm nấu sườn",
+    "ingredient_name": "giá hẹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43806,
+    "dish_title": "Súp bánh phồng tôm nấu sườn",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43804,
+    "dish_title": "Súp bánh phồng tôm nấu sườn",
+    "ingredient_name": "trứng cút",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

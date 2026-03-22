@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52020,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52018,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52019,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53118,
+    "dish_title": "Bánh KHOAI LANG chiên tôm",
+    "ingredient_name": "bột bánh",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53121,
+    "dish_title": "Bánh KHOAI LANG chiên tôm",
+    "ingredient_name": "cải bẹ xanh",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53120,
+    "dish_title": "Bánh KHOAI LANG chiên tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53119,
+    "dish_title": "Bánh KHOAI LANG chiên tôm",
+    "ingredient_name": "lon bia",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51246,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "bột",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51251,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 35,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51248,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51250,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51247,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51249,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "tôm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51252,
+    "dish_title": "Bánh Khọt Tôm Tươi & Bánh Khọt Nấm Mỡ (Chay)",
+    "ingredient_name": "đồ chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52941,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52940,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "bột làm bánh mì",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52938,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "bột mì",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 52939,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "nước",
+    "quantity_g": 250,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53045,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "pecorino mozzarella",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53046,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52942,
+    "dish_title": "Bánh Mì Bò Phô Mai",
+    "ingredient_name": "sữa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50546,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50549,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50545,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50547,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50543,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "pate",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50544,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "salad",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50542,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "thăn bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50548,
+    "dish_title": "Bánh Mì Chảo - Bò Né",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52070,
+    "dish_title": "Bánh Mì Pita Nhân Thịt Cừu Nướng Sốt BBQ",
+    "ingredient_name": "bánh mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

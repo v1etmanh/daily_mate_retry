@@ -1,0 +1,242 @@
+[
+  {
+    "id": 44803,
+    "dish_title": "Bún riêu tôm thịt",
+    "ingredient_name": "rau sống",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44800,
+    "dish_title": "Bún riêu tôm thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44965,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44968,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "bắp chuối",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44963,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "bột hành",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44967,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44962,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44961,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44969,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44964,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44966,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44959,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "tôm",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44958,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "xương gà",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44960,
+    "dish_title": "Bún suông tôm",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46547,
+    "dish_title": "Bún sườn bò, bò viên",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46544,
+    "dish_title": "Bún sườn bò, bò viên",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46546,
+    "dish_title": "Bún sườn bò, bò viên",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46543,
+    "dish_title": "Bún sườn bò, bò viên",
+    "ingredient_name": "sợi bún bò huế",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46545,
+    "dish_title": "Bún sườn bò, bò viên",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52804,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52805,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "dưa leo",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52802,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52807,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52801,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "nước tương",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52806,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52803,
+    "dish_title": "Bún thịt bò xào nước tương",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50355,
+    "dish_title": "Bún thịt nướng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50352,
+    "dish_title": "Bún thịt nướng",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45355,
+    "dish_title": "Bún thịt nướng",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45353,
+    "dish_title": "Bún thịt nướng",
+    "ingredient_name": "hàu",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 1
+  }
+]

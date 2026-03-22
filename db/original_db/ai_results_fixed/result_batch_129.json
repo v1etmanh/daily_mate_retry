@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 16210,
+    "recipe_id": "24019752",
+    "standard_id": 203,
+    "raw_name": "xoài chín",
+    "standard_name": "xoài",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16211,
+    "recipe_id": "24019752",
+    "standard_id": 822,
+    "raw_name": "xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16212,
+    "recipe_id": "24019752",
+    "standard_id": 887,
+    "raw_name": "tía tô",
+    "standard_name": "tía tô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16213,
+    "recipe_id": "24019752",
+    "standard_id": 1747,
+    "raw_name": "mè vàng rang",
+    "standard_name": "mè",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16214,
+    "recipe_id": "24019752",
+    "standard_id": 749,
+    "raw_name": "Sốt tương Gochujang",
+    "standard_name": "gochujang",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16215,
+    "recipe_id": "24019752",
+    "standard_id": 11828,
+    "raw_name": "nước tương tamari",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16218,
+    "recipe_id": "24019752",
+    "standard_id": 395,
+    "raw_name": "dầu hạt lanh hoặc dầu olive dầu óc chó dầu mè rang",
+    "standard_name": "dầu ô liu",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 16234,
+    "recipe_id": "24197510",
+    "standard_id": 5239,
+    "raw_name": "thanh cua",
+    "standard_name": "thanh cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16235,
+    "recipe_id": "24197510",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16236,
+    "recipe_id": "24197510",
+    "standard_id": 1589,
+    "raw_name": "Tăm",
+    "standard_name": "gia vị",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 16237,
+    "recipe_id": "24197510",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16238,
+    "recipe_id": "24197510",
+    "standard_id": 81,
+    "raw_name": "nhỏ bằng ngón tay cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16239,
+    "recipe_id": "24197510",
+    "standard_id": 16,
+    "raw_name": "Hành lá hoặc hẹ thích thì cho cả",
+    "standard_name": "hành lá",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 16240,
+    "recipe_id": "24197510",
+    "standard_id": 457,
+    "raw_name": "ớt chuông không có thì bỏ qua",
+    "standard_name": "ớt chuông",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16243,
+    "recipe_id": "24197510",
+    "standard_id": 24,
+    "raw_name": "ớt cayăn cay",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16244,
+    "recipe_id": "24197510",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16260,
+    "recipe_id": "16941950",
+    "standard_id": 822,
+    "raw_name": "Rau xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16261,
+    "recipe_id": "16941950",
+    "standard_id": 1517,
+    "raw_name": "Các loại rau thơm tuỳ thích tôi dùng rau răm và húng nhủi",
+    "standard_name": "rau thơm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16263,
+    "recipe_id": "16941950",
+    "standard_id": 1411,
+    "raw_name": "kim quất",
+    "standard_name": "tắc",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16264,
+    "recipe_id": "16941950",
+    "standard_id": 9695,
+    "raw_name": "Hoa cúc tần",
+    "standard_name": "hoa",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16265,
+    "recipe_id": "16941950",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16266,
+    "recipe_id": "16941950",
+    "standard_id": 3005,
+    "raw_name": "Sốt dầu dấm",
+    "standard_name": "dầu giấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16267,
+    "recipe_id": "16941950",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 16268,
+    "recipe_id": "16941950",
+    "standard_id": 225,
+    "raw_name": "dấm ăn",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16460,
+    "recipe_id": "24179787",
+    "standard_id": 1786,
+    "raw_name": "đậu hũ non",
+    "standard_name": "đậu non",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16461,
+    "recipe_id": "24179787",
+    "standard_id": 81,
+    "raw_name": "cà rốt tầm miếng bằng ngón tay",
+    "standard_name": "cà rốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16462,
+    "recipe_id": "24179787",
+    "standard_id": 865,
+    "raw_name": "nấm kim châm loại bằng bàn tay bán sẵn trong bịch đó ạ",
+    "standard_name": "nấm kim châm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16463,
+    "recipe_id": "24179787",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  }
+]

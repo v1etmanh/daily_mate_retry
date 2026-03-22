@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 222/365
+[
+  {
+    "id": 51888,
+    "dish_title": "Mỳ Ý thịt lợn sốt bơ tỏi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51886,
+    "dish_title": "Mỳ Ý thịt lợn sốt bơ tỏi",
+    "ingredient_name": "pasta",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47750,
+    "dish_title": "Mỳ ý thịt xông khói sốt kem thơm béo !!!",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47747,
+    "dish_title": "Mỳ ý thịt xông khói sốt kem thơm béo !!!",
+    "ingredient_name": "mì spaghetti",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47748,
+    "dish_title": "Mỳ ý thịt xông khói sốt kem thơm béo !!!",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47749,
+    "dish_title": "Mỳ ý thịt xông khói sốt kem thơm béo !!!",
+    "ingredient_name": "thịt xông khói",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47751,
+    "dish_title": "Mỳ ý thịt xông khói sốt kem thơm béo !!!",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52724,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "bột thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52727,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "cải bắp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52723,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52725,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "nhân heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52726,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "nước ép dứa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52729,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "rau mùi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52728,
+    "dish_title": "Nacho Heo Xé & Dứa Chua Ngọt - Pulled Pork & Caramelized Pineapple Nachos",
+    "ingredient_name": "vỏ tortillas",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53268,
+    "dish_title": "Neapolitan Pizza với Nấm và Ớt Chuông 🫑🍕🍄‍🟫",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53270,
+    "dish_title": "Neapolitan Pizza với Nấm và Ớt Chuông 🫑🍕🍄‍🟫",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53269,
+    "dish_title": "Neapolitan Pizza với Nấm và Ớt Chuông 🫑🍕🍄‍🟫",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53271,
+    "dish_title": "Neapolitan Pizza với Nấm và Ớt Chuông 🫑🍕🍄‍🟫",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51171,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51170,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "bột xù",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51169,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51168,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51167,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51166,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "thanh cua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51165,
+    "dish_title": "Nem hải sản",
+    "ingredient_name": "vỏ bò bía",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50660,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "bánh đa nem",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50664,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50657,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50655,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50656,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

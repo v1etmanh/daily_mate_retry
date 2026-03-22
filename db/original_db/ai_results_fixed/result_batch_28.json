@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 3358,
+    "recipe_id": "25179303",
+    "standard_id": 109,
+    "raw_name": "táo thái miếng mỏng mỏng",
+    "standard_name": "táo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3359,
+    "recipe_id": "25179303",
+    "standard_id": 166,
+    "raw_name": "Hành tây xắt múi cau",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3360,
+    "recipe_id": "25179303",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3361,
+    "recipe_id": "25179303",
+    "standard_id": 24,
+    "raw_name": "t",
+    "standard_name": "ớt",
+    "confidence": 0.4
+  },
+  {
+    "raw_id": 3362,
+    "recipe_id": "25179303",
+    "standard_id": 28,
+    "raw_name": "Dứa",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3363,
+    "recipe_id": "25179303",
+    "standard_id": 917,
+    "raw_name": "Rau mùi",
+    "standard_name": "rau mùi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3364,
+    "recipe_id": "25179303",
+    "standard_id": 83,
+    "raw_name": "Hành khô băm nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3365,
+    "recipe_id": "25179303",
+    "standard_id": 879,
+    "raw_name": "Rau mùi tàu",
+    "standard_name": "mùi tàu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3366,
+    "recipe_id": "25179303",
+    "standard_id": 285,
+    "raw_name": "nước dừa",
+    "standard_name": "nước dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3367,
+    "recipe_id": "25179303",
+    "standard_id": 6101,
+    "raw_name": "nước khoáng có ga",
+    "standard_name": "nước",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 3369,
+    "recipe_id": "25179303",
+    "standard_id": 10153,
+    "raw_name": "Nước chấm",
+    "standard_name": "sốt chấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3370,
+    "recipe_id": "25179303",
+    "standard_id": 8660,
+    "raw_name": "bthg mọi người sẽ pha mắm nêm nhưng vì em không có nên em sẽ pha mắm thường thêm dứa thôi ạ Nói chung là mọi người pha hợp miệng mình là được ạ",
+    "standard_name": "mắm nêm",
+    "confidence": 0.75
+  },
+  {
+    "raw_id": 3371,
+    "recipe_id": "25179303",
+    "standard_id": 6053,
+    "raw_name": "Topping ăn kèm",
+    "standard_name": "topping",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3372,
+    "recipe_id": "25179303",
+    "standard_id": 389,
+    "raw_name": "Bún để cuốn",
+    "standard_name": "bún",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3374,
+    "recipe_id": "25179303",
+    "standard_id": 81,
+    "raw_name": "Cà rốt dưa chuột dứa xắt miếng con chì mỏng",
+    "standard_name": "cà rốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 3375,
+    "recipe_id": "25179303",
+    "standard_id": 8551,
+    "raw_name": "Xà lách cải thảo nấm nói chung là rau củ theo mùa tuỳ nhu cầu thui ạ",
+    "standard_name": "rau nhúng",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 3376,
+    "recipe_id": "25179303",
+    "standard_id": 927,
+    "raw_name": "Quẩy",
+    "standard_name": "quẩy",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3377,
+    "recipe_id": "25179303",
+    "standard_id": 71,
+    "raw_name": "ậu rán",
+    "standard_name": "đậu hũ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3378,
+    "recipe_id": "25179303",
+    "standard_id": 4680,
+    "raw_name": "Bắp bò thái mỏng",
+    "standard_name": "bắp bò mỏng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3379,
+    "recipe_id": "25179303",
+    "standard_id": 142,
+    "raw_name": "Thịt bò chín cũng thái mỏng nhé ạ",
+    "standard_name": "bò",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 3380,
+    "recipe_id": "25179303",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng cuốn",
+    "standard_name": "bánh tráng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3424,
+    "recipe_id": "25173633",
+    "standard_id": 888,
+    "raw_name": "Cá nục",
+    "standard_name": "cá nục",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3425,
+    "recipe_id": "25173633",
+    "standard_id": 39,
+    "raw_name": "Gừng cắt lát",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3426,
+    "recipe_id": "25173633",
+    "standard_id": 166,
+    "raw_name": "củ cắt khoanh Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3427,
+    "recipe_id": "25173633",
+    "standard_id": 289,
+    "raw_name": "nhặt lấy phần non Rau muống",
+    "standard_name": "rau muống",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 3428,
+    "recipe_id": "25173633",
+    "standard_id": 822,
+    "raw_name": "Xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3429,
+    "recipe_id": "25173633",
+    "standard_id": 11829,
+    "raw_name": "Rau thơm húng quế tía tô",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3430,
+    "recipe_id": "25173633",
+    "standard_id": 24,
+    "raw_name": "cắt lát t",
+    "standard_name": "ớt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 3431,
+    "recipe_id": "25173633",
+    "standard_id": 1881,
+    "raw_name": "Phở sắn",
+    "standard_name": "bánh phở",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 3432,
+    "recipe_id": "25173633",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng",
+    "standard_name": "bánh tráng",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 144/365
+[
+  {
+    "id": 51977,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51975,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51958,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51976,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51972,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51960,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "nghệ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51956,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51959,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "nước mẻ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51974,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51957,
+    "dish_title": "Cá điêu hồng om dưa",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48815,
+    "dish_title": "Cá đuối nướng cuốn bánh tráng rau sống",
+    "ingredient_name": "dưa leo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48813,
+    "dish_title": "Cá đuối nướng cuốn bánh tráng rau sống",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48814,
+    "dish_title": "Cá đuối nướng cuốn bánh tráng rau sống",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46083,
+    "dish_title": "Cá đùi gà kho keo",
+    "ingredient_name": "cá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46084,
+    "dish_title": "Cá đùi gà kho keo",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46085,
+    "dish_title": "Cá đùi gà kho keo",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46086,
+    "dish_title": "Cá đùi gà kho keo",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44225,
+    "dish_title": "Cá Ồ Kho Chuối Cau",
+    "ingredient_name": "cải chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44227,
+    "dish_title": "Cá Ồ Kho Chuối Cau",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44226,
+    "dish_title": "Cá Ồ Kho Chuối Cau",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44063,
+    "dish_title": "Cá Ồ Kho Chuối Cau",
+    "ingredient_name": "mỡ gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44229,
+    "dish_title": "Cá Ồ Kho Chuối Cau",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44228,
+    "dish_title": "Cá Ồ Kho Chuối Cau",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44087,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44088,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44091,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44089,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44086,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44085,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "vỏ bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44090,
+    "dish_title": "Cách làm bánh su kem bằng nồi cơm điện thơm ngon, đơn giản tại nhà",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

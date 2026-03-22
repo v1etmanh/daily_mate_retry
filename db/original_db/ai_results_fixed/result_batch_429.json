@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 47364,
+    "recipe_id": "16492851",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47365,
+    "recipe_id": "16492851",
+    "standard_id": 9733,
+    "raw_name": "boa rô",
+    "standard_name": "boa rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47366,
+    "recipe_id": "16492851",
+    "standard_id": 1018,
+    "raw_name": "trứng gà lòng trắng",
+    "standard_name": "lòng trắng trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47367,
+    "recipe_id": "16492851",
+    "standard_id": 6777,
+    "raw_name": "bún tàu",
+    "standard_name": "bún tàu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47368,
+    "recipe_id": "16492851",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nêm nhân",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47370,
+    "recipe_id": "16492851",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47373,
+    "recipe_id": "16492851",
+    "standard_id": 146,
+    "raw_name": "Egg wash",
+    "standard_name": "trứng",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47374,
+    "recipe_id": "16492851",
+    "standard_id": 2013,
+    "raw_name": "lòng đỏ trứng gà",
+    "standard_name": "lòng đỏ trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47375,
+    "recipe_id": "16492851",
+    "standard_id": 2246,
+    "raw_name": "sữa tươi",
+    "standard_name": "sữa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47376,
+    "recipe_id": "16487765",
+    "standard_id": 149,
+    "raw_name": "thịt thăn lưng thịt vai heo",
+    "standard_name": "heo",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 47377,
+    "recipe_id": "16487765",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47378,
+    "recipe_id": "16487765",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47379,
+    "recipe_id": "16487765",
+    "standard_id": 28,
+    "raw_name": "Thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47380,
+    "recipe_id": "16487765",
+    "standard_id": 245,
+    "raw_name": "Dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47381,
+    "recipe_id": "16487765",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47382,
+    "recipe_id": "16487765",
+    "standard_id": 457,
+    "raw_name": "ớt chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47385,
+    "recipe_id": "16487765",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47386,
+    "recipe_id": "16487765",
+    "standard_id": 1589,
+    "raw_name": "Dầu thực vật để chiên",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 47387,
+    "recipe_id": "16487765",
+    "standard_id": 10784,
+    "raw_name": "Sốt chua ngọt",
+    "standard_name": "sốt chua ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47388,
+    "recipe_id": "16487765",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47390,
+    "recipe_id": "16487765",
+    "standard_id": 11828,
+    "raw_name": "Nước tương Hàn Quốc",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 47391,
+    "recipe_id": "16487765",
+    "standard_id": 225,
+    "raw_name": "dấm táo",
+    "standard_name": "dấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47393,
+    "recipe_id": "16490977",
+    "standard_id": 1410,
+    "raw_name": "thịt nạc có mỡ hoặc ba rọi tuỳ thích nạc nhiều hay ít",
+    "standard_name": "thịt ba rọi",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 47394,
+    "recipe_id": "16490977",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 47395,
+    "recipe_id": "16490977",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47396,
+    "recipe_id": "16490977",
+    "standard_id": 120,
+    "raw_name": "bột tỏi hoặc tỏi tươi băm nhuyễn",
+    "standard_name": "bột tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47400,
+    "recipe_id": "16490977",
+    "standard_id": 225,
+    "raw_name": "dấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47421,
+    "recipe_id": "16491055",
+    "standard_id": 7991,
+    "raw_name": "rau ngón biển salicorne",
+    "standard_name": "samphire",
+    "confidence": 1.0
+  }
+]

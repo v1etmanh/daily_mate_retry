@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 247/365
+[
+  {
+    "id": 46903,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46908,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46904,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46909,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46905,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46906,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46907,
+    "dish_title": "Pizza đế mỏng kiểu Florence (vị nấm)",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43145,
+    "dish_title": "Poke Bowl Cá Hồi & Xoài Sốt Tương Gochujang",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43150,
+    "dish_title": "Poke Bowl Cá Hồi & Xoài Sốt Tương Gochujang",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43148,
+    "dish_title": "Poke Bowl Cá Hồi & Xoài Sốt Tương Gochujang",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43149,
+    "dish_title": "Poke Bowl Cá Hồi & Xoài Sốt Tương Gochujang",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43146,
+    "dish_title": "Poke Bowl Cá Hồi & Xoài Sốt Tương Gochujang",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43147,
+    "dish_title": "Poke Bowl Cá Hồi & Xoài Sốt Tương Gochujang",
+    "ingredient_name": "tía tô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42990,
+    "dish_title": "Quiche Boa Rô & Thịt Cua Nhện",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42991,
+    "dish_title": "Quiche Boa Rô & Thịt Cua Nhện",
+    "ingredient_name": "cream",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42992,
+    "dish_title": "Quiche Boa Rô & Thịt Cua Nhện",
+    "ingredient_name": "nhục đậu khấu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42989,
+    "dish_title": "Quiche Boa Rô & Thịt Cua Nhện",
+    "ingredient_name": "vỏ bánh pateso",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47575,
+    "dish_title": "RAU CÂU lá dứa-sữa dừa-cà phê",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47574,
+    "dish_title": "RAU CÂU lá dứa-sữa dừa-cà phê",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47573,
+    "dish_title": "RAU CÂU lá dứa-sữa dừa-cà phê",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46377,
+    "dish_title": "RAU CÂU lười (Lazy Jelly)",
+    "ingredient_name": "café",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46376,
+    "dish_title": "RAU CÂU lười (Lazy Jelly)",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46379,
+    "dish_title": "RAU CÂU lười (Lazy Jelly)",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46378,
+    "dish_title": "RAU CÂU lười (Lazy Jelly)",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43539,
+    "dish_title": "RAU ĐẮNG trộn dầu giấm",
+    "ingredient_name": "dầu giấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43540,
+    "dish_title": "RAU ĐẮNG trộn dầu giấm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43541,
+    "dish_title": "RAU ĐẮNG trộn dầu giấm",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44795,
+    "dish_title": "Ragout Bò",
+    "ingredient_name": "bò nạm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44797,
+    "dish_title": "Ragout Bò",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44796,
+    "dish_title": "Ragout Bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

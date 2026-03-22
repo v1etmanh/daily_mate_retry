@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 8717,
+    "recipe_id": "24725227",
+    "standard_id": 2985,
+    "raw_name": "ngò tàu ngò gai",
+    "standard_name": "ngò gai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8718,
+    "recipe_id": "24725227",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng trang trí",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8900,
+    "recipe_id": "24776233",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8901,
+    "recipe_id": "24776233",
+    "standard_id": 136,
+    "raw_name": "cải thìa",
+    "standard_name": "cải thìa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8902,
+    "recipe_id": "24776233",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8903,
+    "recipe_id": "24776233",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8904,
+    "recipe_id": "24776233",
+    "standard_id": 5715,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8905,
+    "recipe_id": "24776233",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8991,
+    "recipe_id": "24207401",
+    "standard_id": 1406,
+    "raw_name": "bột gạo",
+    "standard_name": "bột gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8994,
+    "recipe_id": "24207401",
+    "standard_id": 7720,
+    "raw_name": "cơm rượu cái và nước",
+    "standard_name": "rượu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 8995,
+    "recipe_id": "24207401",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8996,
+    "recipe_id": "24207401",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 8997,
+    "recipe_id": "24769779",
+    "standard_id": 1105,
+    "raw_name": "phi lê cá chọn loại nào dễ dắt thành miếng mỏng và ít xương",
+    "standard_name": "cá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8999,
+    "recipe_id": "24769779",
+    "standard_id": 9646,
+    "raw_name": "gia vị canh cá tứ xuyên có kèm cải chua",
+    "standard_name": "cải chua",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 9000,
+    "recipe_id": "24769779",
+    "standard_id": 262,
+    "raw_name": "rau nấm tuỳ thích ưu tiên loại có vị nhạt như cải thảo nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 9001,
+    "recipe_id": "24769779",
+    "standard_id": 39,
+    "raw_name": "mấy lát gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9002,
+    "recipe_id": "24769779",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 9003,
+    "recipe_id": "24769779",
+    "standard_id": 1018,
+    "raw_name": "trứng lấy lòng trắng",
+    "standard_name": "lòng trắng trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9004,
+    "recipe_id": "24769759",
+    "standard_id": 142,
+    "raw_name": "Bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9005,
+    "recipe_id": "24769759",
+    "standard_id": 315,
+    "raw_name": "dẻ sườn bò",
+    "standard_name": "sườn bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 9006,
+    "recipe_id": "24769759",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9007,
+    "recipe_id": "24769759",
+    "standard_id": 11829,
+    "raw_name": "quế",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 9012,
+    "recipe_id": "24769759",
+    "standard_id": 7720,
+    "raw_name": "rượu vang",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9013,
+    "recipe_id": "24769759",
+    "standard_id": 1517,
+    "raw_name": "Rau củ",
+    "standard_name": "rau thơm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 9014,
+    "recipe_id": "24769759",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9015,
+    "recipe_id": "24769759",
+    "standard_id": 215,
+    "raw_name": "khoanh tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9016,
+    "recipe_id": "24769759",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9017,
+    "recipe_id": "24769759",
+    "standard_id": 9,
+    "raw_name": "cà chua có thể thay bằng thìa tomato paste thì màu đỏ sẽ đẹp hơn",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 9018,
+    "recipe_id": "24769759",
+    "standard_id": 121,
+    "raw_name": "Bột Roux tạo độ sánh",
+    "standard_name": "bột",
+    "confidence": 0.8
+  }
+]

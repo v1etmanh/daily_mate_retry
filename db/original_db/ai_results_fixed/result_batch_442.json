@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 48238,
+    "recipe_id": "16448020",
+    "standard_id": 16,
+    "raw_name": "hành lá xắt nhuyển",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48239,
+    "recipe_id": "16448020",
+    "standard_id": 26,
+    "raw_name": "nấm mèo",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48240,
+    "recipe_id": "16448020",
+    "standard_id": 1920,
+    "raw_name": "Vỏ bánh g bột tàn",
+    "standard_name": "vỏ bánh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 48243,
+    "recipe_id": "16448020",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 48244,
+    "recipe_id": "16448020",
+    "standard_id": 6101,
+    "raw_name": "nước sôi",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48252,
+    "recipe_id": "16446684",
+    "standard_id": 149,
+    "raw_name": "Thịt lợn",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48253,
+    "recipe_id": "16446684",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48254,
+    "recipe_id": "16446684",
+    "standard_id": 299,
+    "raw_name": "Bắp cải",
+    "standard_name": "cải bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48255,
+    "recipe_id": "16446684",
+    "standard_id": 371,
+    "raw_name": "Giá",
+    "standard_name": "giá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48256,
+    "recipe_id": "16446684",
+    "standard_id": 83,
+    "raw_name": "hành tím bằm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48257,
+    "recipe_id": "16446684",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48258,
+    "recipe_id": "16446684",
+    "standard_id": 312,
+    "raw_name": "Kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48259,
+    "recipe_id": "16446684",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48262,
+    "recipe_id": "16446637",
+    "standard_id": 9410,
+    "raw_name": "mỳ spaghetti",
+    "standard_name": "mì spaghetti",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48263,
+    "recipe_id": "16446637",
+    "standard_id": 1518,
+    "raw_name": "ức gà",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48264,
+    "recipe_id": "16446637",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ không có thay bằng nấm hương tươi",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 48265,
+    "recipe_id": "16446637",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48266,
+    "recipe_id": "16446637",
+    "standard_id": 1129,
+    "raw_name": "Phoi mai Mozarrella",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 48267,
+    "recipe_id": "16446637",
+    "standard_id": 11826,
+    "raw_name": "Phô mai bột",
+    "standard_name": "bột phomai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48268,
+    "recipe_id": "16446637",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48270,
+    "recipe_id": "16446637",
+    "standard_id": 8242,
+    "raw_name": "hũ cream size nhỏ",
+    "standard_name": "cream",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 48288,
+    "recipe_id": "16218004",
+    "standard_id": 142,
+    "raw_name": "Bò xào",
+    "standard_name": "bò",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 48290,
+    "recipe_id": "16218004",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48291,
+    "recipe_id": "16218004",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 48292,
+    "recipe_id": "16218004",
+    "standard_id": 1589,
+    "raw_name": "Các nguyên liệu tươi",
+    "standard_name": "gia vị",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 48293,
+    "recipe_id": "16218004",
+    "standard_id": 1129,
+    "raw_name": "phô mai Burrata",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 48294,
+    "recipe_id": "16218004",
+    "standard_id": 6954,
+    "raw_name": "Cải rocket",
+    "standard_name": "rau rocket",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48296,
+    "recipe_id": "16218004",
+    "standard_id": 28,
+    "raw_name": "khóm tươi dứa thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 48297,
+    "recipe_id": "16218004",
+    "standard_id": 8251,
+    "raw_name": "quả Việt quất",
+    "standard_name": "quả việt quất",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50618,
+    "dish_title": "Cháo Sườn Nấm - Món Dễ Ăn Cho Người Bệnh",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50617,
+    "dish_title": "Cháo Sườn Nấm - Món Dễ Ăn Cho Người Bệnh",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50616,
+    "dish_title": "Cháo Sườn Nấm - Món Dễ Ăn Cho Người Bệnh",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50615,
+    "dish_title": "Cháo Sườn Nấm - Món Dễ Ăn Cho Người Bệnh",
+    "ingredient_name": "đuôi heo",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50996,
+    "dish_title": "Cháo Sườn Nấm Mối Bí Đỏ",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50995,
+    "dish_title": "Cháo Sườn Nấm Mối Bí Đỏ",
+    "ingredient_name": "nước",
+    "quantity_g": 1800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50997,
+    "dish_title": "Cháo Sườn Nấm Mối Bí Đỏ",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44833,
+    "dish_title": "Cháo Thịt Băm Trứng Bắc Thảo",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44831,
+    "dish_title": "Cháo Thịt Băm Trứng Bắc Thảo",
+    "ingredient_name": "gạo tẻ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44832,
+    "dish_title": "Cháo Thịt Băm Trứng Bắc Thảo",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44834,
+    "dish_title": "Cháo Thịt Băm Trứng Bắc Thảo",
+    "ingredient_name": "đường",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50823,
+    "dish_title": "Cháo Thịt Bằm Nấu Từ Nước Luộc Gà",
+    "ingredient_name": "cháo",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50826,
+    "dish_title": "Cháo Thịt Bằm Nấu Từ Nước Luộc Gà",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50825,
+    "dish_title": "Cháo Thịt Bằm Nấu Từ Nước Luộc Gà",
+    "ingredient_name": "hành tây",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50827,
+    "dish_title": "Cháo Thịt Bằm Nấu Từ Nước Luộc Gà",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50824,
+    "dish_title": "Cháo Thịt Bằm Nấu Từ Nước Luộc Gà",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46074,
+    "dish_title": "Cháo cá chạch",
+    "ingredient_name": "cá chạch",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46078,
+    "dish_title": "Cháo cá chạch",
+    "ingredient_name": "gừng",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46076,
+    "dish_title": "Cháo cá chạch",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46075,
+    "dish_title": "Cháo cá chạch",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46077,
+    "dish_title": "Cháo cá chạch",
+    "ingredient_name": "tía tô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49834,
+    "dish_title": "Cháo cá rim dứa",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49833,
+    "dish_title": "Cháo cá rim dứa",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49832,
+    "dish_title": "Cháo cá rim dứa",
+    "ingredient_name": "nấm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49831,
+    "dish_title": "Cháo cá rim dứa",
+    "ingredient_name": "rau hay cà chua tùy ý",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49779,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49773,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "gạo",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49776,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49778,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49775,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "thì là",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 44447,
+    "recipe_id": "16621996",
+    "standard_id": 2121,
+    "raw_name": "tôm chay",
+    "standard_name": "chay",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 44449,
+    "recipe_id": "16621996",
+    "standard_id": 457,
+    "raw_name": "ớt chuông đỏ",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44452,
+    "recipe_id": "16621996",
+    "standard_id": 9,
+    "raw_name": "cà chua to",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44454,
+    "recipe_id": "16621996",
+    "standard_id": 2316,
+    "raw_name": "bún gạo lức khô",
+    "standard_name": "gạo lứt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 44455,
+    "recipe_id": "16621996",
+    "standard_id": 52,
+    "raw_name": "cộng đỗ cu ve",
+    "standard_name": "đậu que",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44456,
+    "recipe_id": "16621996",
+    "standard_id": 2210,
+    "raw_name": "Rau xà lách rau mùi thơm",
+    "standard_name": "rau sống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 44458,
+    "recipe_id": "16648226",
+    "standard_id": 142,
+    "raw_name": "Thịt bò cắt lát đập mỏng khoảng mm",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44459,
+    "recipe_id": "16648226",
+    "standard_id": 11829,
+    "raw_name": "phô mai hoặc phô mai mozzzarella bào hoặc phô mai con bò cười cắt dạng que vừa ăn",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44460,
+    "recipe_id": "16648226",
+    "standard_id": 865,
+    "raw_name": "nấm kim châm cắt cuống rửa sạch",
+    "standard_name": "nấm kim châm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44461,
+    "recipe_id": "16648226",
+    "standard_id": 81,
+    "raw_name": "cà rốt cắt sợi dài bằng miếng thịt bò",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44462,
+    "recipe_id": "16648226",
+    "standard_id": 4506,
+    "raw_name": "coca cola",
+    "standard_name": "coca-cola",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44463,
+    "recipe_id": "16648226",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44467,
+    "recipe_id": "16648226",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44474,
+    "recipe_id": "16636718",
+    "standard_id": 9646,
+    "raw_name": "cải chua",
+    "standard_name": "cải chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44475,
+    "recipe_id": "16636718",
+    "standard_id": 1192,
+    "raw_name": "gân bò đã luộc chín",
+    "standard_name": "gân bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44476,
+    "recipe_id": "16636718",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44477,
+    "recipe_id": "16636718",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44478,
+    "recipe_id": "16636718",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44479,
+    "recipe_id": "16636718",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44482,
+    "recipe_id": "16636718",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44484,
+    "recipe_id": "16636718",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 44485,
+    "recipe_id": "16636718",
+    "standard_id": 1520,
+    "raw_name": "hành ngò để trang trí",
+    "standard_name": "hành ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44486,
+    "recipe_id": "16646975",
+    "standard_id": 730,
+    "raw_name": "nguội một bát cơm nóng",
+    "standard_name": "cơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44487,
+    "recipe_id": "16646975",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44489,
+    "recipe_id": "16646975",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44490,
+    "recipe_id": "16646975",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  }
+]

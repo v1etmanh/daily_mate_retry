@@ -1,0 +1,242 @@
+[
+  {
+    "id": 49688,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49689,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "lee kum kee",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49690,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "lòng đỏ trứng",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49686,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "sả",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49685,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49687,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49691,
+    "dish_title": "Burger thịt nướng xốt trứng",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52905,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "baking powder",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52910,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "bò",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52904,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "bột mì",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52923,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "bột nghệ",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52921,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "cà chua",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52919,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "cơm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 52906,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52918,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52914,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "gà",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52922,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "gạo",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 52920,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "hành tây",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52917,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "lòng đỏ trứng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52916,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52907,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52909,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "rau sống",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52915,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "rượu",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52908,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "salad",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52912,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "sriracha",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52911,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 52913,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52903,
+    "dish_title": "Burrito bò/gà",
+    "ingredient_name": "vỏ bánh",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52874,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52878,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

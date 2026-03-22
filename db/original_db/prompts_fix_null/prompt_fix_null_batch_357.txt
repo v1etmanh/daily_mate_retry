@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 357/365
+[
+  {
+    "id": 47029,
+    "dish_title": "Ức gà xào rau củ Vetula",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48686,
+    "dish_title": "Ức gà áp chảo vị chanh cùng rau củ",
+    "ingredient_name": "cánh gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48687,
+    "dish_title": "Ức gà áp chảo vị chanh cùng rau củ",
+    "ingredient_name": "khoai lang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48689,
+    "dish_title": "Ức gà áp chảo vị chanh cùng rau củ",
+    "ingredient_name": "mật",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48688,
+    "dish_title": "Ức gà áp chảo vị chanh cùng rau củ",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43249,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "ba rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43251,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43250,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "hộp cá ngừ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43253,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43252,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43254,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43255,
+    "dish_title": "고추참치 순두부찌개- Canh đậu hũ non cá ngừ cay",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47375,
+    "dish_title": "두부강정 (đậu phụ sốt tương cà)",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47376,
+    "dish_title": "두부강정 (đậu phụ sốt tương cà)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47377,
+    "dish_title": "두부강정 (đậu phụ sốt tương cà)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47379,
+    "dish_title": "두부강정 (đậu phụ sốt tương cà)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47378,
+    "dish_title": "두부강정 (đậu phụ sốt tương cà)",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43299,
+    "dish_title": "순두부찌개- Canh đậu phụ non Hàn Quốc",
+    "ingredient_name": "ba rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43301,
+    "dish_title": "순두부찌개- Canh đậu phụ non Hàn Quốc",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43300,
+    "dish_title": "순두부찌개- Canh đậu phụ non Hàn Quốc",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43302,
+    "dish_title": "순두부찌개- Canh đậu phụ non Hàn Quốc",
+    "ingredient_name": "nấm kim châm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43298,
+    "dish_title": "순두부찌개- Canh đậu phụ non Hàn Quốc",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43317,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "ba chỉ bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43323,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "ba rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43319,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43321,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43320,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "xốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43322,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43318,
+    "dish_title": "우삼겹 된장찌개 - Canh đậu tương thịt bò",
+    "ingredient_name": "đậu nành",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43248,
+    "dish_title": "제육볶음 Thịt xào cay kiểu Hàn",
+    "ingredient_name": "ba rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

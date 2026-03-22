@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 150/365
+[
+  {
+    "id": 45025,
+    "dish_title": "Cơm cuộn cá hồi phiên bản em bé",
+    "ingredient_name": "lá nori",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45022,
+    "dish_title": "Cơm cuộn cá hồi phiên bản em bé",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50850,
+    "dish_title": "Cơm gà nghệ nấu nấm hương",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50848,
+    "dish_title": "Cơm gà nghệ nấu nấm hương",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50847,
+    "dish_title": "Cơm gà nghệ nấu nấm hương",
+    "ingredient_name": "nghệ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50849,
+    "dish_title": "Cơm gà nghệ nấu nấm hương",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43528,
+    "dish_title": "Cơm gạo lứt rang rau củ (Stir-fried brown rice with veggies)",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43526,
+    "dish_title": "Cơm gạo lứt rang rau củ (Stir-fried brown rice with veggies)",
+    "ingredient_name": "dầu bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43525,
+    "dish_title": "Cơm gạo lứt rang rau củ (Stir-fried brown rice with veggies)",
+    "ingredient_name": "gạo lứt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43691,
+    "dish_title": "Cơm gạo lứt rang rau củ (Stir-fried brown rice with veggies)",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43529,
+    "dish_title": "Cơm gạo lứt rang rau củ (Stir-fried brown rice with veggies)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43527,
+    "dish_title": "Cơm gạo lứt rang rau củ (Stir-fried brown rice with veggies)",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43788,
+    "dish_title": "Cơm gạo lứt thịt rang mắm ruốc",
+    "ingredient_name": "bí đỏ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43786,
+    "dish_title": "Cơm gạo lứt thịt rang mắm ruốc",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43784,
+    "dish_title": "Cơm gạo lứt thịt rang mắm ruốc",
+    "ingredient_name": "gạo lứt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43785,
+    "dish_title": "Cơm gạo lứt thịt rang mắm ruốc",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43787,
+    "dish_title": "Cơm gạo lứt thịt rang mắm ruốc",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43821,
+    "dish_title": "Cơm heo quay rim nước mắm",
+    "ingredient_name": "cải dún",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43819,
+    "dish_title": "Cơm heo quay rim nước mắm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43818,
+    "dish_title": "Cơm heo quay rim nước mắm",
+    "ingredient_name": "heo quay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43820,
+    "dish_title": "Cơm heo quay rim nước mắm",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47020,
+    "dish_title": "Cơm nắm chiên nhân cá😋",
+    "ingredient_name": "cá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47019,
+    "dish_title": "Cơm nắm chiên nhân cá😋",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47021,
+    "dish_title": "Cơm nắm chiên nhân cá😋",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44309,
+    "dish_title": "Cơm nắm cá hồi trộn sốt phomai chiên giòn",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44312,
+    "dish_title": "Cơm nắm cá hồi trộn sốt phomai chiên giòn",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44311,
+    "dish_title": "Cơm nắm cá hồi trộn sốt phomai chiên giòn",
+    "ingredient_name": "mè",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44310,
+    "dish_title": "Cơm nắm cá hồi trộn sốt phomai chiên giòn",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45193,
+    "dish_title": "Cơm nắm cá ngừ",
+    "ingredient_name": "chà bông",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45194,
+    "dish_title": "Cơm nắm cá ngừ",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

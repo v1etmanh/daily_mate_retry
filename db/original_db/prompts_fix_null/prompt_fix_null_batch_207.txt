@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 207/365
+[
+  {
+    "id": 52315,
+    "dish_title": "Mì Ý Tôm Cay - Spicy Prawns Aglio e Olio Tagliolini",
+    "ingredient_name": "tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53374,
+    "dish_title": "Mì Ý sốt kem nấm",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53375,
+    "dish_title": "Mì Ý sốt kem nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53376,
+    "dish_title": "Mì Ý sốt kem nấm",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42627,
+    "dish_title": "Mì Ý xốt Pesto với Bacon và Nấm Mỡ",
+    "ingredient_name": "kiri",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42628,
+    "dish_title": "Mì Ý xốt Pesto với Bacon và Nấm Mỡ",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53377,
+    "dish_title": "Mì Ý xốt Pesto với Bacon và Nấm Mỡ",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53378,
+    "dish_title": "Mì Ý xốt Pesto với Bacon và Nấm Mỡ",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51023,
+    "dish_title": "Mì Ý xốt kem gà nấm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51022,
+    "dish_title": "Mì Ý xốt kem gà nấm",
+    "ingredient_name": "nấm đông cô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51025,
+    "dish_title": "Mì Ý xốt kem gà nấm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51024,
+    "dish_title": "Mì Ý xốt kem gà nấm",
+    "ingredient_name": "rau và cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51021,
+    "dish_title": "Mì Ý xốt kem gà nấm",
+    "ingredient_name": "ức gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47684,
+    "dish_title": "Mì Ý ớt chuông + hành tây + cá basa",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47683,
+    "dish_title": "Mì Ý ớt chuông + hành tây + cá basa",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47681,
+    "dish_title": "Mì Ý ớt chuông + hành tây + cá basa",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47682,
+    "dish_title": "Mì Ý ớt chuông + hành tây + cá basa",
+    "ingredient_name": "xốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52741,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52735,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "mì spaghetti",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52738,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52739,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52742,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52737,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52740,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "tinh chất cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52736,
+    "dish_title": "Mì ý sốt bò bằm",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43381,
+    "dish_title": "Mì ý sốt cua 🦀",
+    "ingredient_name": "ghẹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43383,
+    "dish_title": "Mì ý sốt cua 🦀",
+    "ingredient_name": "kem",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43380,
+    "dish_title": "Mì ý sốt cua 🦀",
+    "ingredient_name": "mì spaghetti",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43382,
+    "dish_title": "Mì ý sốt cua 🦀",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46673,
+    "dish_title": "Mì ý sốt thịt bằm",
+    "ingredient_name": "cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

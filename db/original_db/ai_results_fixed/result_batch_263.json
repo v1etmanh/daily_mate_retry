@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 34515,
+    "recipe_id": "17080719",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 34516,
+    "recipe_id": "17080719",
+    "standard_id": 561,
+    "raw_name": "cần nước",
+    "standard_name": "cần",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34517,
+    "recipe_id": "17080719",
+    "standard_id": 3638,
+    "raw_name": "hành lá thì là",
+    "standard_name": "rau nêm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 34518,
+    "recipe_id": "17080719",
+    "standard_id": 29,
+    "raw_name": "Tỏi phi",
+    "standard_name": "tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34521,
+    "recipe_id": "17080719",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34523,
+    "recipe_id": "17080719",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 34548,
+    "recipe_id": "17076005",
+    "standard_id": 1639,
+    "raw_name": "rau dền",
+    "standard_name": "rau dền",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34549,
+    "recipe_id": "17076005",
+    "standard_id": 521,
+    "raw_name": "chả cá thác lác",
+    "standard_name": "chả thác lác",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34550,
+    "recipe_id": "17076005",
+    "standard_id": 1018,
+    "raw_name": "lòng trắng trứng gà",
+    "standard_name": "lòng trắng trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34551,
+    "recipe_id": "17076005",
+    "standard_id": 5715,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34552,
+    "recipe_id": "17076005",
+    "standard_id": 6101,
+    "raw_name": "nước nguội",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34553,
+    "recipe_id": "17076005",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34554,
+    "recipe_id": "17076005",
+    "standard_id": 9782,
+    "raw_name": "nước hầm xương",
+    "standard_name": "nước hầm xương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34556,
+    "recipe_id": "17076005",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34560,
+    "recipe_id": "17075066",
+    "standard_id": 521,
+    "raw_name": "chả cá thác lác mình chỉ dùng khoảng gr để nấu canh phần còn lại đem chiên",
+    "standard_name": "chả thác lác",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34561,
+    "recipe_id": "17075066",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34562,
+    "recipe_id": "17075066",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34563,
+    "recipe_id": "17075066",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34564,
+    "recipe_id": "17075066",
+    "standard_id": 350,
+    "raw_name": "Thì là",
+    "standard_name": "thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34565,
+    "recipe_id": "17075066",
+    "standard_id": 3481,
+    "raw_name": "rau dền đỏ",
+    "standard_name": "dền đỏ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34566,
+    "recipe_id": "17075066",
+    "standard_id": 1589,
+    "raw_name": "ớp chả cá",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 34567,
+    "recipe_id": "17075066",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 34579,
+    "recipe_id": "17076913",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34580,
+    "recipe_id": "17076913",
+    "standard_id": 2066,
+    "raw_name": "Bánh đa đỏ",
+    "standard_name": "bánh đa mì gạo phở",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 34581,
+    "recipe_id": "17076913",
+    "standard_id": 146,
+    "raw_name": "Trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34582,
+    "recipe_id": "17076913",
+    "standard_id": 262,
+    "raw_name": "Nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 34583,
+    "recipe_id": "17076913",
+    "standard_id": 2210,
+    "raw_name": "Rau sống ăn kèm theo sở thích",
+    "standard_name": "rau sống",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 34593,
+    "recipe_id": "17045586",
+    "standard_id": 1881,
+    "raw_name": "Bánh phở tráng chảo từ phụ phẩm làm mì căn hoặc phở tươi phở khô",
+    "standard_name": "bánh phở",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 34594,
+    "recipe_id": "17045586",
+    "standard_id": 4729,
+    "raw_name": "Thịt băm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  }
+]

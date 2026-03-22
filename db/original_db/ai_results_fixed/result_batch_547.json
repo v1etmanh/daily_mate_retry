@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 57489,
+    "recipe_id": "16072374",
+    "standard_id": 1405,
+    "raw_name": "sươn chay ga",
+    "standard_name": "sườn chay",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 57490,
+    "recipe_id": "16072374",
+    "standard_id": 71,
+    "raw_name": "đâu hu chiên miêng vuông",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57491,
+    "recipe_id": "16072374",
+    "standard_id": 3725,
+    "raw_name": "nâm bao ngư",
+    "standard_name": "nấm ngư",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57492,
+    "recipe_id": "16072374",
+    "standard_id": 6678,
+    "raw_name": "văt banh canh khô",
+    "standard_name": "bột bánh canh",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 57493,
+    "recipe_id": "16072374",
+    "standard_id": 81,
+    "raw_name": "cu ca rôt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57494,
+    "recipe_id": "16072374",
+    "standard_id": 4888,
+    "raw_name": "Boa rô ngo ritau hu ky chiên gion",
+    "standard_name": "tàu hũ ky",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 57495,
+    "recipe_id": "16072374",
+    "standard_id": 11827,
+    "raw_name": "Dâu ănhat nêm chaymuôitiêu",
+    "standard_name": "dầu ăn",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 57496,
+    "recipe_id": "16072416",
+    "standard_id": 315,
+    "raw_name": "dẻ sườn bò",
+    "standard_name": "sườn bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57498,
+    "recipe_id": "16072416",
+    "standard_id": 11829,
+    "raw_name": "quế",
+    "standard_name": "quế",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 57499,
+    "recipe_id": "16072416",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57500,
+    "recipe_id": "16072416",
+    "standard_id": 3417,
+    "raw_name": "Mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57502,
+    "recipe_id": "16072416",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57503,
+    "recipe_id": "16017536",
+    "standard_id": 9733,
+    "raw_name": "Boa rô",
+    "standard_name": "boa rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57504,
+    "recipe_id": "16017536",
+    "standard_id": 81,
+    "raw_name": "cu ca rôt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57505,
+    "recipe_id": "16017536",
+    "standard_id": 26,
+    "raw_name": "nâm meo",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57506,
+    "recipe_id": "16017536",
+    "standard_id": 4888,
+    "raw_name": "tau hu ky chiên",
+    "standard_name": "tàu hũ ky",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57507,
+    "recipe_id": "16017536",
+    "standard_id": 663,
+    "raw_name": "La chuôi",
+    "standard_name": "lá chuối",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57508,
+    "recipe_id": "16017536",
+    "standard_id": 121,
+    "raw_name": "bôt năng",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 57509,
+    "recipe_id": "16017536",
+    "standard_id": 6101,
+    "raw_name": "ml ml nươc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57510,
+    "recipe_id": "16017536",
+    "standard_id": 11827,
+    "raw_name": "Dâu ănhat nêm chaynươc tươngmuôiđươngtiêu",
+    "standard_name": "dầu ăn",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 57511,
+    "recipe_id": "16017536",
+    "standard_id": 67,
+    "raw_name": "Chanh ơt trai",
+    "standard_name": "chanh",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 57512,
+    "recipe_id": "16070296",
+    "standard_id": 1098,
+    "raw_name": "bánh mì dài",
+    "standard_name": "bánh mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 57513,
+    "recipe_id": "16070296",
+    "standard_id": 2638,
+    "raw_name": "thăn bò úc",
+    "standard_name": "thăn bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 57514,
+    "recipe_id": "16070296",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57515,
+    "recipe_id": "16070296",
+    "standard_id": 11609,
+    "raw_name": "xúc xích ức",
+    "standard_name": "xúc xích",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 57516,
+    "recipe_id": "16070296",
+    "standard_id": 1129,
+    "raw_name": "phô mai kiri Pháp có thể thay bằng con bò cười",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 57517,
+    "recipe_id": "16070296",
+    "standard_id": 2062,
+    "raw_name": "pate mua sẵn",
+    "standard_name": "pate",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57518,
+    "recipe_id": "16070296",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57519,
+    "recipe_id": "16070296",
+    "standard_id": 3469,
+    "raw_name": "Salad ăn kèm",
+    "standard_name": "salad",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 57520,
+    "recipe_id": "16070296",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  }
+]

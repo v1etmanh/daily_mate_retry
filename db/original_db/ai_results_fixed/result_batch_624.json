@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 64626,
+    "recipe_id": "15720987",
+    "standard_id": 2571,
+    "raw_name": "khoai lang tim",
+    "standard_name": "khoai lang",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64627,
+    "recipe_id": "15720987",
+    "standard_id": 2387,
+    "raw_name": "đương",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64628,
+    "recipe_id": "15720987",
+    "standard_id": 6101,
+    "raw_name": "nươc âm",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64629,
+    "recipe_id": "15720987",
+    "standard_id": 6678,
+    "raw_name": "bôt năng",
+    "standard_name": "bột bánh canh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64630,
+    "recipe_id": "15720987",
+    "standard_id": 10815,
+    "raw_name": "nươc côt dưa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64631,
+    "recipe_id": "15720987",
+    "standard_id": 1548,
+    "raw_name": "ông vani",
+    "standard_name": "vani",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64732,
+    "recipe_id": "15677075",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64734,
+    "recipe_id": "15677075",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64735,
+    "recipe_id": "15677075",
+    "standard_id": 29,
+    "raw_name": "củ tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64736,
+    "recipe_id": "15677075",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64737,
+    "recipe_id": "15677075",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64738,
+    "recipe_id": "15677075",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64740,
+    "recipe_id": "15677075",
+    "standard_id": 1589,
+    "raw_name": "gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64753,
+    "recipe_id": "15708891",
+    "standard_id": 624,
+    "raw_name": "cá chim biển trắng g",
+    "standard_name": "cá chim",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64754,
+    "recipe_id": "15708891",
+    "standard_id": 780,
+    "raw_name": "nghệ",
+    "standard_name": "nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64755,
+    "recipe_id": "15708891",
+    "standard_id": 851,
+    "raw_name": "miso paste",
+    "standard_name": "miso",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64756,
+    "recipe_id": "15708891",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64757,
+    "recipe_id": "15708891",
+    "standard_id": 1517,
+    "raw_name": "rau thơm đủ loại",
+    "standard_name": "rau thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64758,
+    "recipe_id": "15708891",
+    "standard_id": 81,
+    "raw_name": "cà rốt g",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64759,
+    "recipe_id": "15708891",
+    "standard_id": 245,
+    "raw_name": "dưa leo baby",
+    "standard_name": "dưa leo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64760,
+    "recipe_id": "15708891",
+    "standard_id": 8660,
+    "raw_name": "Nước chấm mắm nêm",
+    "standard_name": "mắm nêm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64761,
+    "recipe_id": "15708891",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64764,
+    "recipe_id": "15708891",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64765,
+    "recipe_id": "15708891",
+    "standard_id": 1411,
+    "raw_name": "tắc",
+    "standard_name": "tắc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64793,
+    "recipe_id": "15710462",
+    "standard_id": 10244,
+    "raw_name": "Pasta",
+    "standard_name": "pasta",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64794,
+    "recipe_id": "15710462",
+    "standard_id": 10758,
+    "raw_name": "Ravioli mình dùng loại nhân cottage và nấm truffle",
+    "standard_name": "ravioli",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64795,
+    "recipe_id": "15710462",
+    "standard_id": 1148,
+    "raw_name": "Sốt kem nấm",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 64796,
+    "recipe_id": "15710462",
+    "standard_id": 151,
+    "raw_name": "Nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64797,
+    "recipe_id": "15710462",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  }
+]

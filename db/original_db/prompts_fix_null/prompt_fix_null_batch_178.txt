@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 178/365
+[
+  {
+    "id": 47703,
+    "dish_title": "Hủ Tíu Mực",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47701,
+    "dish_title": "Hủ Tíu Mực",
+    "ingredient_name": "giá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47700,
+    "dish_title": "Hủ Tíu Mực",
+    "ingredient_name": "hẹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47702,
+    "dish_title": "Hủ Tíu Mực",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47698,
+    "dish_title": "Hủ Tíu Mực",
+    "ingredient_name": "tôm sú",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47697,
+    "dish_title": "Hủ Tíu Mực",
+    "ingredient_name": "đuôi heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46578,
+    "dish_title": "Hủ Tíu Xào Tôm",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46579,
+    "dish_title": "Hủ Tíu Xào Tôm",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46576,
+    "dish_title": "Hủ Tíu Xào Tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46575,
+    "dish_title": "Hủ Tíu Xào Tôm",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46577,
+    "dish_title": "Hủ Tíu Xào Tôm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50430,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "cà rốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50433,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50435,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50432,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50434,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "hủ tiếu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50437,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "lá bắp cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50431,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50436,
+    "dish_title": "Hủ Tíu Ức Gà, Nấm & Rau Củ",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49665,
+    "dish_title": "Hủ tiếu mì xương và thịt heo",
+    "ingredient_name": "cải trắng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49666,
+    "dish_title": "Hủ tiếu mì xương và thịt heo",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49669,
+    "dish_title": "Hủ tiếu mì xương và thịt heo",
+    "ingredient_name": "hẹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49667,
+    "dish_title": "Hủ tiếu mì xương và thịt heo",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49668,
+    "dish_title": "Hủ tiếu mì xương và thịt heo",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49664,
+    "dish_title": "Hủ tiếu mì xương và thịt heo",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52714,
+    "dish_title": "Hủ tiếu bò kho",
+    "ingredient_name": "bò nạm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52716,
+    "dish_title": "Hủ tiếu bò kho",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52719,
+    "dish_title": "Hủ tiếu bò kho",
+    "ingredient_name": "hủ tiếu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52718,
+    "dish_title": "Hủ tiếu bò kho",
+    "ingredient_name": "quả dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52717,
+    "dish_title": "Hủ tiếu bò kho",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

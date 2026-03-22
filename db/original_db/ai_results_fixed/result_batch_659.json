@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 68682,
+    "recipe_id": "15548736",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68684,
+    "recipe_id": "15548736",
+    "standard_id": 11829,
+    "raw_name": "Quế",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 68685,
+    "recipe_id": "15548736",
+    "standard_id": 10052,
+    "raw_name": "trái dừa",
+    "standard_name": "quả dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68686,
+    "recipe_id": "15548736",
+    "standard_id": 2255,
+    "raw_name": "Sợi hủ tiếu mì tuỳ thích",
+    "standard_name": "hủ tiếu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68688,
+    "recipe_id": "15549443",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68689,
+    "recipe_id": "15549443",
+    "standard_id": 71,
+    "raw_name": "đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68690,
+    "recipe_id": "15549443",
+    "standard_id": 26,
+    "raw_name": "nấm mèo",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68691,
+    "recipe_id": "15549443",
+    "standard_id": 25,
+    "raw_name": "Bông cải xanh",
+    "standard_name": "bông cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68692,
+    "recipe_id": "15549443",
+    "standard_id": 3278,
+    "raw_name": "Giò sống",
+    "standard_name": "giò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68693,
+    "recipe_id": "15549443",
+    "standard_id": 389,
+    "raw_name": "Bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68695,
+    "recipe_id": "15547927",
+    "standard_id": 11550,
+    "raw_name": "kem chua",
+    "standard_name": "kem chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68696,
+    "recipe_id": "15547927",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68697,
+    "recipe_id": "15547927",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68698,
+    "recipe_id": "15547927",
+    "standard_id": 166,
+    "raw_name": "hành tây xắt nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68699,
+    "recipe_id": "15547927",
+    "standard_id": 29,
+    "raw_name": "tỏi đập dập",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68700,
+    "recipe_id": "15547927",
+    "standard_id": 10769,
+    "raw_name": "bột thì là cumin",
+    "standard_name": "bột thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68702,
+    "recipe_id": "15547927",
+    "standard_id": 8055,
+    "raw_name": "bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68703,
+    "recipe_id": "15547927",
+    "standard_id": 11211,
+    "raw_name": "heo xé sợi đã trộn sốt BBQ",
+    "standard_name": "nhân heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68704,
+    "recipe_id": "15547927",
+    "standard_id": 2690,
+    "raw_name": "nước dứa không bắt buộc",
+    "standard_name": "nước ép dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68705,
+    "recipe_id": "15547927",
+    "standard_id": 28,
+    "raw_name": "dứa thái lúc lắc",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68706,
+    "recipe_id": "15547927",
+    "standard_id": 299,
+    "raw_name": "bắp cải tím nhỏ xắt sợi mình không có cải tím nên dùng tạm cải trắng",
+    "standard_name": "cải bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68707,
+    "recipe_id": "15547927",
+    "standard_id": 11627,
+    "raw_name": "nacho chips",
+    "standard_name": "vỏ tortillas",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 68708,
+    "recipe_id": "15547927",
+    "standard_id": 917,
+    "raw_name": "ngò ta trang trí",
+    "standard_name": "rau mùi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68754,
+    "recipe_id": "15547778",
+    "standard_id": 3044,
+    "raw_name": "gà vàng pháp có thể thay bằng nửa con gà ta",
+    "standard_name": "gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68755,
+    "recipe_id": "15547778",
+    "standard_id": 2211,
+    "raw_name": "rổ rau càng cua",
+    "standard_name": "rau càng cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68756,
+    "recipe_id": "15547778",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68757,
+    "recipe_id": "15547778",
+    "standard_id": 206,
+    "raw_name": "ậu phộng rang",
+    "standard_name": "đậu phộng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68759,
+    "recipe_id": "15547778",
+    "standard_id": 1148,
+    "raw_name": "Nước sốt",
+    "standard_name": "sốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68760,
+    "recipe_id": "15547778",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 21312,
+    "recipe_id": "23920895",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21318,
+    "recipe_id": "23920895",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21319,
+    "recipe_id": "23920895",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21320,
+    "recipe_id": "23920895",
+    "standard_id": 225,
+    "raw_name": "giấm Tiều",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 21375,
+    "recipe_id": "23918760",
+    "standard_id": 1410,
+    "raw_name": "thịt ba chỉ",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21376,
+    "recipe_id": "23918760",
+    "standard_id": 83,
+    "raw_name": "hành",
+    "standard_name": "hành tím",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 21377,
+    "recipe_id": "23918760",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21378,
+    "recipe_id": "23918760",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21381,
+    "recipe_id": "23918760",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21382,
+    "recipe_id": "23918760",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21383,
+    "recipe_id": "23918760",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21388,
+    "recipe_id": "23916272",
+    "standard_id": 1410,
+    "raw_name": "Thịt chỉ heo bạn bên mua đủ lượng ăn thôi nhé",
+    "standard_name": "thịt ba rọi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 21389,
+    "recipe_id": "23916272",
+    "standard_id": 1411,
+    "raw_name": "Vài trái quất nên mua nhiều chút",
+    "standard_name": "tắc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21390,
+    "recipe_id": "23916272",
+    "standard_id": 6801,
+    "raw_name": "t chin su",
+    "standard_name": "tương ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 21391,
+    "recipe_id": "23916272",
+    "standard_id": 2513,
+    "raw_name": "Sa tế chin su",
+    "standard_name": "satế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21392,
+    "recipe_id": "23916272",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21417,
+    "recipe_id": "23912149",
+    "standard_id": 5585,
+    "raw_name": "Cháo xương heo",
+    "standard_name": "cháo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 21418,
+    "recipe_id": "23912149",
+    "standard_id": 2400,
+    "raw_name": "bánh hỏi",
+    "standard_name": "bánh hỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21419,
+    "recipe_id": "23912149",
+    "standard_id": 3265,
+    "raw_name": "lá hẹ",
+    "standard_name": "hẹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21420,
+    "recipe_id": "23912149",
+    "standard_id": 3328,
+    "raw_name": "dồi chiên",
+    "standard_name": "chả",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 21421,
+    "recipe_id": "23912149",
+    "standard_id": 6248,
+    "raw_name": "tim",
+    "standard_name": "heart",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21422,
+    "recipe_id": "23912149",
+    "standard_id": 8440,
+    "raw_name": "cật",
+    "standard_name": "pork kidney",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 21423,
+    "recipe_id": "23912149",
+    "standard_id": 6164,
+    "raw_name": "gan",
+    "standard_name": "liver",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21424,
+    "recipe_id": "23912149",
+    "standard_id": 2798,
+    "raw_name": "cuống họng",
+    "standard_name": "thịt",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 21425,
+    "recipe_id": "23912149",
+    "standard_id": 1162,
+    "raw_name": "dồi trường",
+    "standard_name": "pork offal",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 21426,
+    "recipe_id": "23912149",
+    "standard_id": 1517,
+    "raw_name": "Rau thơm",
+    "standard_name": "herbs",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21458,
+    "recipe_id": "22596105",
+    "standard_id": 232,
+    "raw_name": "đuôi heo",
+    "standard_name": "đuôi heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21459,
+    "recipe_id": "22596105",
+    "standard_id": 5344,
+    "raw_name": "sấu",
+    "standard_name": "trái cây",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 21460,
+    "recipe_id": "22596105",
+    "standard_id": 139,
+    "raw_name": "mùng bạc hà",
+    "standard_name": "bạc hà",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 21461,
+    "recipe_id": "22596105",
+    "standard_id": 7669,
+    "raw_name": "Hành khô hành lá rau mùi",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 1.0
+  }
+]

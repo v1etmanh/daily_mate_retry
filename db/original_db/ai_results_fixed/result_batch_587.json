@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 60780,
+    "recipe_id": "15900798",
+    "standard_id": 1148,
+    "raw_name": "Sốt Teriyaki Teriyaki sauce",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60781,
+    "recipe_id": "15900798",
+    "standard_id": 1369,
+    "raw_name": "mật ong tablespoon honey",
+    "standard_name": "mật",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60784,
+    "recipe_id": "15900798",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60785,
+    "recipe_id": "15900798",
+    "standard_id": 3469,
+    "raw_name": "Thành phần salad Salad ingredients",
+    "standard_name": "salad",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60786,
+    "recipe_id": "15900798",
+    "standard_id": 612,
+    "raw_name": "gạo some rice",
+    "standard_name": "gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60787,
+    "recipe_id": "15900798",
+    "standard_id": 10065,
+    "raw_name": "Lá cải salad leaves",
+    "standard_name": "lá cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60788,
+    "recipe_id": "15900798",
+    "standard_id": 9,
+    "raw_name": "cà chua tomato",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60789,
+    "recipe_id": "15900798",
+    "standard_id": 766,
+    "raw_name": "bơ avocado",
+    "standard_name": "bơ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60830,
+    "recipe_id": "15919264",
+    "standard_id": 1105,
+    "raw_name": "cá",
+    "standard_name": "cá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60831,
+    "recipe_id": "15919264",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60832,
+    "recipe_id": "15919264",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60833,
+    "recipe_id": "15919264",
+    "standard_id": 1148,
+    "raw_name": "Pha sốt",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60834,
+    "recipe_id": "15919264",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60836,
+    "recipe_id": "15919264",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60838,
+    "recipe_id": "15919264",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60848,
+    "recipe_id": "15911275",
+    "standard_id": 7722,
+    "raw_name": "thịt bắp bò hoặc nạm bò",
+    "standard_name": "bắp bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60849,
+    "recipe_id": "15911275",
+    "standard_id": 285,
+    "raw_name": "nước dừa",
+    "standard_name": "nước dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60850,
+    "recipe_id": "15911275",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60851,
+    "recipe_id": "15911275",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60852,
+    "recipe_id": "15911275",
+    "standard_id": 31,
+    "raw_name": "sả đập dập",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60853,
+    "recipe_id": "15911275",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60854,
+    "recipe_id": "15911275",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60857,
+    "recipe_id": "15911275",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60858,
+    "recipe_id": "15911275",
+    "standard_id": 142,
+    "raw_name": "ớp thịt bò",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60861,
+    "recipe_id": "15911275",
+    "standard_id": 39,
+    "raw_name": "gừng nhỏ băm",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60867,
+    "recipe_id": "15911275",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60870,
+    "recipe_id": "15911275",
+    "standard_id": 1589,
+    "raw_name": "gia vị nấu bò kho",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  }
+]

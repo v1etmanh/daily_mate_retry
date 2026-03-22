@@ -1,0 +1,202 @@
+[
+  {
+    "raw_id": 69142,
+    "recipe_id": "15534597",
+    "standard_id": 717,
+    "raw_name": "Lạc",
+    "standard_name": "lạc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69143,
+    "recipe_id": "15534597",
+    "standard_id": 1148,
+    "raw_name": "Sốt tương",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69145,
+    "recipe_id": "15534597",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69146,
+    "recipe_id": "15534597",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69147,
+    "recipe_id": "15534597",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69148,
+    "recipe_id": "15534597",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69149,
+    "recipe_id": "15534597",
+    "standard_id": 225,
+    "raw_name": "Giấm táo",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69150,
+    "recipe_id": "15534597",
+    "standard_id": 6101,
+    "raw_name": "Nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69151,
+    "recipe_id": "15534597",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69152,
+    "recipe_id": "15534597",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69224,
+    "recipe_id": "15521878",
+    "standard_id": 1148,
+    "raw_name": "Sốt BBQ hũ lớn dùng dần",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69225,
+    "recipe_id": "15521878",
+    "standard_id": 3738,
+    "raw_name": "ketchup",
+    "standard_name": "ketchup",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69227,
+    "recipe_id": "15521878",
+    "standard_id": 225,
+    "raw_name": "giấm gạo hoặc giấm táo",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69231,
+    "recipe_id": "15521878",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69232,
+    "recipe_id": "15521878",
+    "standard_id": 11361,
+    "raw_name": "sốt cay Sriracha",
+    "standard_name": "sriracha",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69233,
+    "recipe_id": "15521878",
+    "standard_id": 8055,
+    "raw_name": "bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69235,
+    "recipe_id": "15521878",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69236,
+    "recipe_id": "15521878",
+    "standard_id": 11832,
+    "raw_name": "bột hành",
+    "standard_name": "bột hành",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69237,
+    "recipe_id": "15521878",
+    "standard_id": 10769,
+    "raw_name": "bột thì là cumin",
+    "standard_name": "bột thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69238,
+    "recipe_id": "15521878",
+    "standard_id": 3024,
+    "raw_name": "bột ngò ta coriander",
+    "standard_name": "coriander powder",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69241,
+    "recipe_id": "15521878",
+    "standard_id": 149,
+    "raw_name": "Heo Xé Sợi kg thịt",
+    "standard_name": "heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69250,
+    "recipe_id": "15521878",
+    "standard_id": 362,
+    "raw_name": "thịt vai heo không xương",
+    "standard_name": "thịt vai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69251,
+    "recipe_id": "15521878",
+    "standard_id": 1589,
+    "raw_name": "dầu thực vật",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 69252,
+    "recipe_id": "15521878",
+    "standard_id": 166,
+    "raw_name": "hành tây xắt nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69253,
+    "recipe_id": "15521878",
+    "standard_id": 8408,
+    "raw_name": "bia hoặc Cocacola thêm nếu cần",
+    "standard_name": "lon bia",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 146/365
+[
+  {
+    "id": 47649,
+    "dish_title": "Cơm Chiên Bò Kim Chi",
+    "ingredient_name": "bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47648,
+    "dish_title": "Cơm Chiên Bò Kim Chi",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47651,
+    "dish_title": "Cơm Chiên Bò Kim Chi",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47652,
+    "dish_title": "Cơm Chiên Bò Kim Chi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47650,
+    "dish_title": "Cơm Chiên Bò Kim Chi",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50842,
+    "dish_title": "Cơm Chiên Cá Thu, Cá Hồi & Rong Biển",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50843,
+    "dish_title": "Cơm Chiên Cá Thu, Cá Hồi & Rong Biển",
+    "ingredient_name": "cá thu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50844,
+    "dish_title": "Cơm Chiên Cá Thu, Cá Hồi & Rong Biển",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50846,
+    "dish_title": "Cơm Chiên Cá Thu, Cá Hồi & Rong Biển",
+    "ingredient_name": "mè",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50845,
+    "dish_title": "Cơm Chiên Cá Thu, Cá Hồi & Rong Biển",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44084,
+    "dish_title": "Cơm Chiên Gà Rau Củ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44082,
+    "dish_title": "Cơm Chiên Gà Rau Củ",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44083,
+    "dish_title": "Cơm Chiên Gà Rau Củ",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44081,
+    "dish_title": "Cơm Chiên Gà Rau Củ",
+    "ingredient_name": "đậu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43957,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43955,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43959,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43961,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43958,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43960,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43956,
+    "dish_title": "Cơm Chiên Ngô Và Xúc Xích Bò Tươi Ăn Kèm Với Đậu Cô Ve",
+    "ingredient_name": "xúc xích",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50420,
+    "dish_title": "Cơm Chiên Rau Xanh",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50424,
+    "dish_title": "Cơm Chiên Rau Xanh",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50423,
+    "dish_title": "Cơm Chiên Rau Xanh",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50421,
+    "dish_title": "Cơm Chiên Rau Xanh",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50422,
+    "dish_title": "Cơm Chiên Rau Xanh",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47842,
+    "dish_title": "Cơm Chiên Sốt Cà - Bông Cải Xào Tôm BLW",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47844,
+    "dish_title": "Cơm Chiên Sốt Cà - Bông Cải Xào Tôm BLW",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47841,
+    "dish_title": "Cơm Chiên Sốt Cà - Bông Cải Xào Tôm BLW",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47843,
+    "dish_title": "Cơm Chiên Sốt Cà - Bông Cải Xào Tôm BLW",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

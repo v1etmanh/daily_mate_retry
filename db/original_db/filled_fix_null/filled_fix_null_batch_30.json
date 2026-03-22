@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48757,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48755,
+    "dish_title": "Bánh xèo cá kình",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51378,
+    "dish_title": "Bánh xèo rau củ",
+    "ingredient_name": "bột",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51379,
+    "dish_title": "Bánh xèo rau củ",
+    "ingredient_name": "bột mì",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51380,
+    "dish_title": "Bánh xèo rau củ",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51381,
+    "dish_title": "Bánh xèo rau củ",
+    "ingredient_name": "nước",
+    "quantity_g": 600,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51377,
+    "dish_title": "Bánh xèo rau củ",
+    "ingredient_name": "topping",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51376,
+    "dish_title": "Bánh xèo rau củ",
+    "ingredient_name": "đậu que",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49328,
+    "dish_title": "Bánh xếp hấp tôm thịt",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49329,
+    "dish_title": "Bánh xếp hấp tôm thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49330,
+    "dish_title": "Bánh xếp hấp tôm thịt",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48306,
+    "dish_title": "Bánh Đa Cua Cà Mau",
+    "ingredient_name": "dầu màu điều",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48305,
+    "dish_title": "Bánh Đa Cua Cà Mau",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48303,
+    "dish_title": "Bánh Đa Cua Cà Mau",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48304,
+    "dish_title": "Bánh Đa Cua Cà Mau",
+    "ingredient_name": "thịt thăn",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45447,
+    "dish_title": "Bánh Đa Cua Rau Nhút",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45448,
+    "dish_title": "Bánh Đa Cua Rau Nhút",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45446,
+    "dish_title": "Bánh Đa Cua Rau Nhút",
+    "ingredient_name": "rau tạp",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44144,
+    "dish_title": "Bánh Đa Xào Lòng Gà Với Măng Và Nấm Hương",
+    "ingredient_name": "bánh đa nem",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44146,
+    "dish_title": "Bánh Đa Xào Lòng Gà Với Măng Và Nấm Hương",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44145,
+    "dish_title": "Bánh Đa Xào Lòng Gà Với Măng Và Nấm Hương",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45214,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45215,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "cải ngọt",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45218,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45220,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45217,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45216,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "xốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45219,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Bò",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45700,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Vịt",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45703,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Vịt",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

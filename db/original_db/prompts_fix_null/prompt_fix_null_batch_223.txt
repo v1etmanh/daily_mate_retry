@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 223/365
+[
+  {
+    "id": 50663,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50667,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50659,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50658,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "sả",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50662,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50666,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50665,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50661,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50668,
+    "dish_title": "Nem lụi/ Chạo heo bọc sả",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49467,
+    "dish_title": "Nem thính nấm đùi gà (món chay)",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49464,
+    "dish_title": "Nem thính nấm đùi gà (món chay)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49466,
+    "dish_title": "Nem thính nấm đùi gà (món chay)",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49465,
+    "dish_title": "Nem thính nấm đùi gà (món chay)",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49468,
+    "dish_title": "Nem thính nấm đùi gà (món chay)",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44314,
+    "dish_title": "Ngô bao tử, phù trúc (tàu hũ ky), nấm tuyết xào trứng",
+    "ingredient_name": "bắp ngọt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44315,
+    "dish_title": "Ngô bao tử, phù trúc (tàu hũ ky), nấm tuyết xào trứng",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44313,
+    "dish_title": "Ngô bao tử, phù trúc (tàu hũ ky), nấm tuyết xào trứng",
+    "ingredient_name": "nấm tuyết",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47570,
+    "dish_title": "Ngô chiên bơ kèm thịt rang",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47569,
+    "dish_title": "Ngô chiên bơ kèm thịt rang",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47572,
+    "dish_title": "Ngô chiên bơ kèm thịt rang",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47571,
+    "dish_title": "Ngô chiên bơ kèm thịt rang",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45166,
+    "dish_title": "Ngồng khoai nấu tôm",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45163,
+    "dish_title": "Ngồng khoai nấu tôm",
+    "ingredient_name": "ngó khoai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45164,
+    "dish_title": "Ngồng khoai nấu tôm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45165,
+    "dish_title": "Ngồng khoai nấu tôm",
+    "ingredient_name": "nước mẻ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45167,
+    "dish_title": "Ngồng khoai nấu tôm",
+    "ingredient_name": "tía tô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43825,
+    "dish_title": "Nui Nhỏ Nấu Sườn Heo Cà Rốt",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43823,
+    "dish_title": "Nui Nhỏ Nấu Sườn Heo Cà Rốt",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43822,
+    "dish_title": "Nui Nhỏ Nấu Sườn Heo Cà Rốt",
+    "ingredient_name": "nui",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43824,
+    "dish_title": "Nui Nhỏ Nấu Sườn Heo Cà Rốt",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

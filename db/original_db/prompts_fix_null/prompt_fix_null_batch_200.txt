@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 200/365
+[
+  {
+    "id": 44945,
+    "dish_title": "Mì Quảng tôm cua hấp dẫn",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44943,
+    "dish_title": "Mì Quảng tôm cua hấp dẫn",
+    "ingredient_name": "tôm sú",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44932,
+    "dish_title": "Mì Quảng tôm gà trứng",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44934,
+    "dish_title": "Mì Quảng tôm gà trứng",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44933,
+    "dish_title": "Mì Quảng tôm gà trứng",
+    "ingredient_name": "nén",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52881,
+    "dish_title": "Mì Quảng tôm thịt trứng 😋😋😋",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52882,
+    "dish_title": "Mì Quảng tôm thịt trứng 😋😋😋",
+    "ingredient_name": "mì quảng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52880,
+    "dish_title": "Mì Quảng tôm thịt trứng 😋😋😋",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52884,
+    "dish_title": "Mì Quảng tôm thịt trứng 😋😋😋",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52879,
+    "dish_title": "Mì Quảng tôm thịt trứng 😋😋😋",
+    "ingredient_name": "thịt vai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52883,
+    "dish_title": "Mì Quảng tôm thịt trứng 😋😋😋",
+    "ingredient_name": "ớt xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44986,
+    "dish_title": "Mì Quảng ếch đơn giản",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44987,
+    "dish_title": "Mì Quảng ếch đơn giản",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44985,
+    "dish_title": "Mì Quảng ếch đơn giản",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49170,
+    "dish_title": "Mì Ramen Xào Nấm Sốt Siêu Cay Samyang",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49169,
+    "dish_title": "Mì Ramen Xào Nấm Sốt Siêu Cay Samyang",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49168,
+    "dish_title": "Mì Ramen Xào Nấm Sốt Siêu Cay Samyang",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49171,
+    "dish_title": "Mì Ramen Xào Nấm Sốt Siêu Cay Samyang",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52712,
+    "dish_title": "Mì Rigatoni Bò Sốt Kem Nấm / Creamy Beef Mushroom Stroganoff Rigatoni 🇷🇺",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52710,
+    "dish_title": "Mì Rigatoni Bò Sốt Kem Nấm / Creamy Beef Mushroom Stroganoff Rigatoni 🇷🇺",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52709,
+    "dish_title": "Mì Rigatoni Bò Sốt Kem Nấm / Creamy Beef Mushroom Stroganoff Rigatoni 🇷🇺",
+    "ingredient_name": "pasta",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52713,
+    "dish_title": "Mì Rigatoni Bò Sốt Kem Nấm / Creamy Beef Mushroom Stroganoff Rigatoni 🇷🇺",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52711,
+    "dish_title": "Mì Rigatoni Bò Sốt Kem Nấm / Creamy Beef Mushroom Stroganoff Rigatoni 🇷🇺",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51278,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51279,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51275,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "mỳ trứng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51277,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51276,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51273,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "thịt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51274,
+    "dish_title": "Mì Trộn Nước Tương Tỏi Ớt & Thịt Thăn Heo Ram",
+    "ingredient_name": "thịt cốt lết",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

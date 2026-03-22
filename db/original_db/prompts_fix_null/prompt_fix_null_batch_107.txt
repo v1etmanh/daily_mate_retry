@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 107/365
+[
+  {
+    "id": 46061,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46060,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "dứa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46064,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46058,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "khế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46055,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46054,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46063,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46062,
+    "dish_title": "CÁ TAI TƯỢNG chiên xù",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47199,
+    "dish_title": "CÁ chốt sông kho tiêu",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47200,
+    "dish_title": "CÁ chốt sông kho tiêu",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47198,
+    "dish_title": "CÁ chốt sông kho tiêu",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46107,
+    "dish_title": "Cà Bát Xanh Muối Xổi Trộn Mắm Tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46109,
+    "dish_title": "Cà Bát Xanh Muối Xổi Trộn Mắm Tôm",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46106,
+    "dish_title": "Cà Bát Xanh Muối Xổi Trộn Mắm Tôm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46108,
+    "dish_title": "Cà Bát Xanh Muối Xổi Trộn Mắm Tôm",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51420,
+    "dish_title": "Cà Chua Nhồi Thịt Nướng & Cơm Nóng",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51425,
+    "dish_title": "Cà Chua Nhồi Thịt Nướng & Cơm Nóng",
+    "ingredient_name": "diếp cừu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51421,
+    "dish_title": "Cà Chua Nhồi Thịt Nướng & Cơm Nóng",
+    "ingredient_name": "nhân thịt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51424,
+    "dish_title": "Cà Chua Nhồi Thịt Nướng & Cơm Nóng",
+    "ingredient_name": "rau mầm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51423,
+    "dish_title": "Cà Chua Nhồi Thịt Nướng & Cơm Nóng",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51422,
+    "dish_title": "Cà Chua Nhồi Thịt Nướng & Cơm Nóng",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50305,
+    "dish_title": "Cà Pháo Xanh Muối Xổi Mắm Tôm",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50303,
+    "dish_title": "Cà Pháo Xanh Muối Xổi Mắm Tôm",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50306,
+    "dish_title": "Cà Pháo Xanh Muối Xổi Mắm Tôm",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50304,
+    "dish_title": "Cà Pháo Xanh Muối Xổi Mắm Tôm",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53139,
+    "dish_title": "Cà Pháo, Cà Đắng Giã Cá Khô",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53138,
+    "dish_title": "Cà Pháo, Cà Đắng Giã Cá Khô",
+    "ingredient_name": "cá sặc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53137,
+    "dish_title": "Cà Pháo, Cà Đắng Giã Cá Khô",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47643,
+    "dish_title": "Cà Ri Cá Ngừ Hộp Masala",
+    "ingredient_name": "bột gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47644,
+    "dish_title": "Cà Ri Cá Ngừ Hộp Masala",
+    "ingredient_name": "bột ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

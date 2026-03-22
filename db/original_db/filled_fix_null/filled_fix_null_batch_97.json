@@ -1,0 +1,242 @@
+[
+  {
+    "id": 49777,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "tía tô",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49774,
+    "dish_title": "Cháo cá song (mú)",
+    "ingredient_name": "đậu xanh",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48778,
+    "dish_title": "Cháo gà nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48776,
+    "dish_title": "Cháo gà nấm",
+    "ingredient_name": "gà",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48777,
+    "dish_title": "Cháo gà nấm",
+    "ingredient_name": "nấm ngọc châm",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50943,
+    "dish_title": "Cháo gà nấm ‐ gỏi gà",
+    "ingredient_name": "bánh phồng tôm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50945,
+    "dish_title": "Cháo gà nấm ‐ gỏi gà",
+    "ingredient_name": "hành răm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50944,
+    "dish_title": "Cháo gà nấm ‐ gỏi gà",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48542,
+    "dish_title": "Cháo gạo lứt rau củ ăn kèm trứng vịt muối",
+    "ingredient_name": "bột canh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48539,
+    "dish_title": "Cháo gạo lứt rau củ ăn kèm trứng vịt muối",
+    "ingredient_name": "cơm lứt",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48543,
+    "dish_title": "Cháo gạo lứt rau củ ăn kèm trứng vịt muối",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48540,
+    "dish_title": "Cháo gạo lứt rau củ ăn kèm trứng vịt muối",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48541,
+    "dish_title": "Cháo gạo lứt rau củ ăn kèm trứng vịt muối",
+    "ingredient_name": "đường",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48025,
+    "dish_title": "Cháo mực (mực nang và mực ống)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48007,
+    "dish_title": "Cháo mực (mực nang và mực ống)",
+    "ingredient_name": "gạo nếp",
+    "quantity_g": 50,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 48006,
+    "dish_title": "Cháo mực (mực nang và mực ống)",
+    "ingredient_name": "gạo tẻ",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48008,
+    "dish_title": "Cháo mực (mực nang và mực ống)",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48005,
+    "dish_title": "Cháo mực (mực nang và mực ống)",
+    "ingredient_name": "mực ống",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48009,
+    "dish_title": "Cháo mực (mực nang và mực ống)",
+    "ingredient_name": "rau răm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49405,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "củ",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49410,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49408,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49406,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49404,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49409,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "nước tương",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49407,
+    "dish_title": "Cháo nhuyễn xèo thịt bò",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45786,
+    "dish_title": "Cháo nấm chay thơm ngon, mát bổ (ngày 1)",
+    "ingredient_name": "bột rau củ",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45784,
+    "dish_title": "Cháo nấm chay thơm ngon, mát bổ (ngày 1)",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45787,
+    "dish_title": "Cháo nấm chay thơm ngon, mát bổ (ngày 1)",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45788,
+    "dish_title": "Cháo nấm chay thơm ngon, mát bổ (ngày 1)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

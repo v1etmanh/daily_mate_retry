@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52438,
+    "dish_title": "Bò viên nướng Hàn Quốc",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52435,
+    "dish_title": "Bò viên nướng Hàn Quốc",
+    "ingredient_name": "lê",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52436,
+    "dish_title": "Bò viên nướng Hàn Quốc",
+    "ingredient_name": "mật",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50104,
+    "dish_title": "Bò xào chua ngọt",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50102,
+    "dish_title": "Bò xào chua ngọt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50103,
+    "dish_title": "Bò xào chua ngọt",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52410,
+    "dish_title": "Bò xào cà rốt cho bé",
+    "ingredient_name": "cà rốt",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52411,
+    "dish_title": "Bò xào cà rốt cho bé",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52413,
+    "dish_title": "Bò xào cà rốt cho bé",
+    "ingredient_name": "nước tương",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52412,
+    "dish_title": "Bò xào cà rốt cho bé",
+    "ingredient_name": "rau mùi",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51109,
+    "dish_title": "Bò xào cần tây ớt chuông",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51110,
+    "dish_title": "Bò xào cần tây ớt chuông",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51108,
+    "dish_title": "Bò xào cần tây ớt chuông",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49484,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "cần tây",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49487,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49488,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49483,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "hành tây",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49490,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "nước",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49486,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "nước tương",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49485,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "sốt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49489,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49482,
+    "dish_title": "Bò xào lúc lắc",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44926,
+    "dish_title": "Bò xào rau củ và mì lá tươi chiên giòn",
+    "ingredient_name": "bò",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44928,
+    "dish_title": "Bò xào rau củ và mì lá tươi chiên giòn",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44927,
+    "dish_title": "Bò xào rau củ và mì lá tươi chiên giòn",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49932,
+    "dish_title": "Bò xào sả ớt",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49934,
+    "dish_title": "Bò xào sả ớt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49935,
+    "dish_title": "Bò xào sả ớt",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49933,
+    "dish_title": "Bò xào sả ớt",
+    "ingredient_name": "nước tương",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43385,
+    "dish_title": "Bò xào đậu rồng",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

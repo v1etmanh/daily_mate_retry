@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 15064,
+    "recipe_id": "24282793",
+    "standard_id": 3278,
+    "raw_name": "giò",
+    "standard_name": "giò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15065,
+    "recipe_id": "24282793",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15066,
+    "recipe_id": "24282793",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15067,
+    "recipe_id": "24282793",
+    "standard_id": 11828,
+    "raw_name": "tương đen của trung dark soy sauce",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 15068,
+    "recipe_id": "24282793",
+    "standard_id": 83,
+    "raw_name": "hành băm",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15069,
+    "recipe_id": "24282793",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15071,
+    "recipe_id": "24282793",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 15191,
+    "recipe_id": "24267461",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15192,
+    "recipe_id": "24267461",
+    "standard_id": 29,
+    "raw_name": "tỏi băm nhuyễn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15193,
+    "recipe_id": "24267461",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15194,
+    "recipe_id": "24267461",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15198,
+    "recipe_id": "24267461",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 15256,
+    "recipe_id": "24258363",
+    "standard_id": 2287,
+    "raw_name": "khuôn đậu Mình mua khuôn đóng sẵn trong siêu thị cả nước gr",
+    "standard_name": "đậu khuôn",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15257,
+    "recipe_id": "24258363",
+    "standard_id": 1322,
+    "raw_name": "Hành baro",
+    "standard_name": "ba rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15258,
+    "recipe_id": "24258363",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15259,
+    "recipe_id": "24258363",
+    "standard_id": 29,
+    "raw_name": "tỏi to",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15260,
+    "recipe_id": "24258363",
+    "standard_id": 24,
+    "raw_name": "ớt cay không ăn được cay thì bỏ qua",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15261,
+    "recipe_id": "24258363",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nấu",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15262,
+    "recipe_id": "24258363",
+    "standard_id": 8055,
+    "raw_name": "cơm bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15264,
+    "recipe_id": "24258363",
+    "standard_id": 7720,
+    "raw_name": "rượu soju",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15265,
+    "recipe_id": "24258363",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15266,
+    "recipe_id": "24258363",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15273,
+    "recipe_id": "24258268",
+    "standard_id": 11828,
+    "raw_name": "Nước tương Hàn Quốc",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15274,
+    "recipe_id": "24258268",
+    "standard_id": 7720,
+    "raw_name": "Rượu soju",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15276,
+    "recipe_id": "24258268",
+    "standard_id": 166,
+    "raw_name": "củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15277,
+    "recipe_id": "24258268",
+    "standard_id": 1322,
+    "raw_name": "hành ba rô",
+    "standard_name": "ba rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15278,
+    "recipe_id": "24258268",
+    "standard_id": 24,
+    "raw_name": "t cay Hàn Quốc không có dùng ớt Việt Nam vẫn ngon",
+    "standard_name": "ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 15279,
+    "recipe_id": "24258268",
+    "standard_id": 67,
+    "raw_name": "chanh dùng chanh vàng bớt đắng và thơm hơnkhông có thì dùng chanh mình cũng vẫn ngon nè",
+    "standard_name": "chanh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15280,
+    "recipe_id": "24258268",
+    "standard_id": 1747,
+    "raw_name": "vừng rang",
+    "standard_name": "mè",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15323,
+    "recipe_id": "24257440",
+    "standard_id": 142,
+    "raw_name": "thit bo",
+    "standard_name": "bò",
+    "confidence": 1.0
+  }
+]

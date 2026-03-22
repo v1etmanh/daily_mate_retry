@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 42289,
+    "recipe_id": "16799343",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42290,
+    "recipe_id": "16799343",
+    "standard_id": 2513,
+    "raw_name": "Sa tế",
+    "standard_name": "satế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42291,
+    "recipe_id": "16799343",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42292,
+    "recipe_id": "16797648",
+    "standard_id": 6643,
+    "raw_name": "set heo bò nướng",
+    "standard_name": "thịt lợn thịt bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42293,
+    "recipe_id": "16797648",
+    "standard_id": 2638,
+    "raw_name": "lõi thăn bò Mỹ thái mỏng",
+    "standard_name": "thăn bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42294,
+    "recipe_id": "16797648",
+    "standard_id": 668,
+    "raw_name": "ba chỉ bò Mỹ thái mỏng",
+    "standard_name": "ba chi bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42295,
+    "recipe_id": "16797648",
+    "standard_id": 1410,
+    "raw_name": "ba chỉ heo cắt mỏng",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42296,
+    "recipe_id": "16797648",
+    "standard_id": 166,
+    "raw_name": "hành tây xắt lát",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42297,
+    "recipe_id": "16797648",
+    "standard_id": 29,
+    "raw_name": "tỏi xắt lát",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42298,
+    "recipe_id": "16797648",
+    "standard_id": 492,
+    "raw_name": "hũ sốt BBQ Hàn Quốc",
+    "standard_name": "xốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42299,
+    "recipe_id": "16797648",
+    "standard_id": 8860,
+    "raw_name": "Rau củ nướng",
+    "standard_name": "mixed vegetables",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 42300,
+    "recipe_id": "16797648",
+    "standard_id": 2487,
+    "raw_name": "cà tím",
+    "standard_name": "cà tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42301,
+    "recipe_id": "16797648",
+    "standard_id": 1851,
+    "raw_name": "bắp Mỹ",
+    "standard_name": "bắp mỹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42302,
+    "recipe_id": "16797648",
+    "standard_id": 1501,
+    "raw_name": "măng tây",
+    "standard_name": "măng tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42303,
+    "recipe_id": "16797648",
+    "standard_id": 956,
+    "raw_name": "đậu bắp",
+    "standard_name": "đậu bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42304,
+    "recipe_id": "16797648",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42305,
+    "recipe_id": "16797648",
+    "standard_id": 749,
+    "raw_name": "hộp Tương chấm thịt nướng Hàn Quốc gr",
+    "standard_name": "gochujang",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42307,
+    "recipe_id": "16797648",
+    "standard_id": 312,
+    "raw_name": "kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42308,
+    "recipe_id": "16797648",
+    "standard_id": 822,
+    "raw_name": "Rau xà lách dưa leo cà rốt lá mè",
+    "standard_name": "rau xà lách",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 42309,
+    "recipe_id": "16797648",
+    "standard_id": null,
+    "raw_name": "Giấy nến",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 42311,
+    "recipe_id": "16797648",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 42312,
+    "recipe_id": "16797648",
+    "standard_id": 11829,
+    "raw_name": "Kẹp gắp kéo cắt cọ quét",
+    "standard_name": "quế",
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 42323,
+    "recipe_id": "16796993",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42324,
+    "recipe_id": "16796993",
+    "standard_id": 395,
+    "raw_name": "Dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42325,
+    "recipe_id": "16796993",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42326,
+    "recipe_id": "16796993",
+    "standard_id": 492,
+    "raw_name": "Teriyaki origin",
+    "standard_name": "xốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42327,
+    "recipe_id": "16796993",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  }
+]

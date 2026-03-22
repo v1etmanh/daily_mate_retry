@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 15793,
+    "recipe_id": "24197827",
+    "standard_id": 11828,
+    "raw_name": "Sốt nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15795,
+    "recipe_id": "24197827",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15797,
+    "recipe_id": "24197827",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15798,
+    "recipe_id": "24197827",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15805,
+    "recipe_id": "24214411",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15806,
+    "recipe_id": "24214411",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15807,
+    "recipe_id": "24214411",
+    "standard_id": 29,
+    "raw_name": "tỏi đập dập cắt nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15808,
+    "recipe_id": "24214411",
+    "standard_id": 166,
+    "raw_name": "hành tây thái hạt lựu",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15809,
+    "recipe_id": "24214411",
+    "standard_id": 766,
+    "raw_name": "bơ nhạt",
+    "standard_name": "bơ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15810,
+    "recipe_id": "24214411",
+    "standard_id": 7720,
+    "raw_name": "Rượu vang trắng",
+    "standard_name": "rượu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 15811,
+    "recipe_id": "24214411",
+    "standard_id": 4870,
+    "raw_name": "Lá thơm parsley",
+    "standard_name": "mùi tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15812,
+    "recipe_id": "24214411",
+    "standard_id": 9,
+    "raw_name": "cà chua tuỳ kích thước cắt nhỏ dằm nhuyễn",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15813,
+    "recipe_id": "24214411",
+    "standard_id": 11241,
+    "raw_name": "Phô mai chảy mozarella",
+    "standard_name": "mozzarella",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15814,
+    "recipe_id": "24214411",
+    "standard_id": 6053,
+    "raw_name": "Topping",
+    "standard_name": "topping",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15815,
+    "recipe_id": "24214411",
+    "standard_id": 5586,
+    "raw_name": "Hải sản tuỳ chọn mực tôm là must have",
+    "standard_name": "hải sản",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 15816,
+    "recipe_id": "24214411",
+    "standard_id": 4485,
+    "raw_name": "Túi mực của con mực ở bên thì bán sẵn loại đóng túi rất sạch sẽ Mọi người có thể dùng túi mực trực tiếp từ mực tươi",
+    "standard_name": "mực",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 15817,
+    "recipe_id": "24214411",
+    "standard_id": 612,
+    "raw_name": "gạo Risotto gr có thể thay bằng mỳ nếu mọi người đã có sẵn",
+    "standard_name": "gạo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 15857,
+    "recipe_id": "17045102",
+    "standard_id": 62,
+    "raw_name": "sườn heo",
+    "standard_name": "sườn heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15858,
+    "recipe_id": "17045102",
+    "standard_id": 3232,
+    "raw_name": "gia vị lagu",
+    "standard_name": "curry powder",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15859,
+    "recipe_id": "17045102",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15860,
+    "recipe_id": "17045102",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15861,
+    "recipe_id": "17045102",
+    "standard_id": 351,
+    "raw_name": "đậu hoà lan hạt",
+    "standard_name": "đậu hà lan",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15862,
+    "recipe_id": "17045102",
+    "standard_id": 958,
+    "raw_name": "sốt cà chua cô đặc",
+    "standard_name": "tinh chất cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15863,
+    "recipe_id": "17045102",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15864,
+    "recipe_id": "17045102",
+    "standard_id": 531,
+    "raw_name": "dừa xiêm",
+    "standard_name": "dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 15865,
+    "recipe_id": "17045102",
+    "standard_id": 102,
+    "raw_name": "ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15866,
+    "recipe_id": "17045102",
+    "standard_id": 83,
+    "raw_name": "Hành tím băm nhuyễn",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15867,
+    "recipe_id": "17045102",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 15889,
+    "recipe_id": "24207568",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  }
+]

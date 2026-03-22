@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 246/365
+[
+  {
+    "id": 47415,
+    "dish_title": "Pizza bắp thịt bằm sốt biến tấu",
+    "ingredient_name": "ketchup",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47389,
+    "dish_title": "Pizza bắp thịt bằm sốt biến tấu",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47417,
+    "dish_title": "Pizza bắp thịt bằm sốt biến tấu",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47416,
+    "dish_title": "Pizza bắp thịt bằm sốt biến tấu",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47412,
+    "dish_title": "Pizza bắp thịt bằm sốt biến tấu",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50449,
+    "dish_title": "Pizza khoai tây hải sản",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50450,
+    "dish_title": "Pizza khoai tây hải sản",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50447,
+    "dish_title": "Pizza khoai tây hải sản",
+    "ingredient_name": "mực ống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50448,
+    "dish_title": "Pizza khoai tây hải sản",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47406,
+    "dish_title": "Pizza tôm và xúc xích phô mai",
+    "ingredient_name": "bột làm bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47407,
+    "dish_title": "Pizza tôm và xúc xích phô mai",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47409,
+    "dish_title": "Pizza tôm và xúc xích phô mai",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47410,
+    "dish_title": "Pizza tôm và xúc xích phô mai",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47408,
+    "dish_title": "Pizza tôm và xúc xích phô mai",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52353,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52358,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "bột ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52354,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52357,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "kiri",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52356,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "nhân pizza",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52355,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52352,
+    "dish_title": "Pizza Đế Mỏng Giòn Nhân Cá Hồi Xông Khói",
+    "ingredient_name": "đế bánh pizza",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51012,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51013,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51015,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51020,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51019,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51014,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51017,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51018,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "thịt nguội",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51016,
+    "dish_title": "Pizza Đế Mỏng Với Sốt Cà Homemade, Nấm, & Thịt Nguội",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

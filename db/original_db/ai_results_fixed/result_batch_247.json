@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 32769,
+    "recipe_id": "17095666",
+    "standard_id": 31,
+    "raw_name": "Sả cây đập dập",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32770,
+    "recipe_id": "17095666",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32771,
+    "recipe_id": "17095666",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nêm",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32773,
+    "recipe_id": "17095666",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32774,
+    "recipe_id": "17095666",
+    "standard_id": 2387,
+    "raw_name": "ường phèn",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 32776,
+    "recipe_id": "17095666",
+    "standard_id": 2210,
+    "raw_name": "ồ ăn kèm",
+    "standard_name": "rau sống",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 32777,
+    "recipe_id": "17095666",
+    "standard_id": 291,
+    "raw_name": "Chả lụa",
+    "standard_name": "chả lụa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32778,
+    "recipe_id": "17095666",
+    "standard_id": 21,
+    "raw_name": "Rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32779,
+    "recipe_id": "17095666",
+    "standard_id": 11829,
+    "raw_name": "Rau quế",
+    "standard_name": "quế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 32780,
+    "recipe_id": "17095666",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32801,
+    "recipe_id": "17123883",
+    "standard_id": 6013,
+    "raw_name": "cá liệt",
+    "standard_name": "cá liệt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32802,
+    "recipe_id": "17123883",
+    "standard_id": 24,
+    "raw_name": "t đỏ",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 32803,
+    "recipe_id": "17123883",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32805,
+    "recipe_id": "17123883",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32806,
+    "recipe_id": "17123883",
+    "standard_id": 8055,
+    "raw_name": "ớt bột",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32817,
+    "recipe_id": "17122500",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32818,
+    "recipe_id": "17122500",
+    "standard_id": 1656,
+    "raw_name": "sữa đậu nành",
+    "standard_name": "sữa đậu nành",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32819,
+    "recipe_id": "17122500",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32820,
+    "recipe_id": "17122500",
+    "standard_id": 2213,
+    "raw_name": "men",
+    "standard_name": "men",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32823,
+    "recipe_id": "17122500",
+    "standard_id": 766,
+    "raw_name": "bơ thực vật",
+    "standard_name": "bơ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 32825,
+    "recipe_id": "17122500",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32826,
+    "recipe_id": "17122500",
+    "standard_id": 11140,
+    "raw_name": "Ruốc nấm hoặc pate chay",
+    "standard_name": "ruốc nấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32827,
+    "recipe_id": "17122500",
+    "standard_id": 1071,
+    "raw_name": "Rong biển ăn liền",
+    "standard_name": "rong biển",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32828,
+    "recipe_id": "17122400",
+    "standard_id": 4729,
+    "raw_name": "thịt xay Mình chọn thịt nách xay vì thịt có độ mềm vừa phải mỡ lại cứng thịt ngọt",
+    "standard_name": "thịt bằm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 32829,
+    "recipe_id": "17122400",
+    "standard_id": 8876,
+    "raw_name": "sả chút riềng xay hành tỏi",
+    "standard_name": "sả ớt tỏi hành tím",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 32830,
+    "recipe_id": "17122400",
+    "standard_id": 3417,
+    "raw_name": "mắm tép",
+    "standard_name": "mắm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 32831,
+    "recipe_id": "17122400",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 32849,
+    "recipe_id": "16800530",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  }
+]

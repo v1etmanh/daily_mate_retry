@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 29243,
+    "recipe_id": "17221329",
+    "standard_id": 822,
+    "raw_name": "Xà lách carol",
+    "standard_name": "rau xà lách",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 29244,
+    "recipe_id": "17221329",
+    "standard_id": 6501,
+    "raw_name": "Nước sốt trộn xà lách",
+    "standard_name": "xốt salad",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29245,
+    "recipe_id": "17221329",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29246,
+    "recipe_id": "17221329",
+    "standard_id": 225,
+    "raw_name": "dấm táo",
+    "standard_name": "dấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 29249,
+    "recipe_id": "17221329",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 29250,
+    "recipe_id": "17221329",
+    "standard_id": 9170,
+    "raw_name": "quýt bên trên vắt lấy nước",
+    "standard_name": "quýt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 29251,
+    "recipe_id": "17220924",
+    "standard_id": 11063,
+    "raw_name": "thịt nạc dăm lựa loại nhiều mỡ",
+    "standard_name": "thịt nạc dăm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29252,
+    "recipe_id": "17220924",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29253,
+    "recipe_id": "17220924",
+    "standard_id": 102,
+    "raw_name": "lá ngò rí chỉ lấy lá",
+    "standard_name": "rau ngò rí",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 29254,
+    "recipe_id": "17220924",
+    "standard_id": 355,
+    "raw_name": "hạt điều rang",
+    "standard_name": "hạt điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29255,
+    "recipe_id": "17220924",
+    "standard_id": 1145,
+    "raw_name": "bột chiên xù",
+    "standard_name": "bột xù",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29256,
+    "recipe_id": "17220924",
+    "standard_id": 83,
+    "raw_name": "hành tím băm nhuyễn",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29257,
+    "recipe_id": "17220924",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29258,
+    "recipe_id": "17220924",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29259,
+    "recipe_id": "17220924",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 29260,
+    "recipe_id": "17220924",
+    "standard_id": 1747,
+    "raw_name": "mè trắng rang chín",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29265,
+    "recipe_id": "17220924",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29266,
+    "recipe_id": "17220924",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29286,
+    "recipe_id": "16969636",
+    "standard_id": 2211,
+    "raw_name": "Rau càng cua",
+    "standard_name": "rau càng cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29287,
+    "recipe_id": "16969636",
+    "standard_id": 357,
+    "raw_name": "Giò tôm tùy ý",
+    "standard_name": "tôm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 29288,
+    "recipe_id": "16969636",
+    "standard_id": 29,
+    "raw_name": "Tỏi khô",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29290,
+    "recipe_id": "16969636",
+    "standard_id": 717,
+    "raw_name": "Vừng rang lạc rang",
+    "standard_name": "lạc",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 29300,
+    "recipe_id": "17218864",
+    "standard_id": 225,
+    "raw_name": "giấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29301,
+    "recipe_id": "17218864",
+    "standard_id": 492,
+    "raw_name": "tương đậu Hàn Quốc",
+    "standard_name": "xốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 29302,
+    "recipe_id": "17218864",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 29303,
+    "recipe_id": "17218864",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29304,
+    "recipe_id": "17218864",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29305,
+    "recipe_id": "17218864",
+    "standard_id": 1747,
+    "raw_name": "Mè rang nếu có",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29306,
+    "recipe_id": "17218805",
+    "standard_id": 149,
+    "raw_name": "thịt lợn",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 29307,
+    "recipe_id": "17218805",
+    "standard_id": 11832,
+    "raw_name": "bột hành",
+    "standard_name": "bột hành",
+    "confidence": 0.8
+  }
+]

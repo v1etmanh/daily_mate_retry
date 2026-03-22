@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48624,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "chân giò lấy khúc đùi phía trên",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48630,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48634,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48637,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "giá",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48626,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "gừng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48640,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48628,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48632,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48635,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48639,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "ngò gai",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48633,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48625,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "nạm",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48636,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48638,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48629,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "satế",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48627,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "sả",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48631,
+    "dish_title": "Bún Bò Huế (Nạm bò, chân giò, xương bò, giò sống)",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49583,
+    "dish_title": "Bún BÒ xào Nam bộ",
+    "ingredient_name": "bún",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49582,
+    "dish_title": "Bún BÒ xào Nam bộ",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49580,
+    "dish_title": "Bún BÒ xào Nam bộ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49581,
+    "dish_title": "Bún BÒ xào Nam bộ",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49584,
+    "dish_title": "Bún BÒ xào Nam bộ",
+    "ingredient_name": "sắn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48319,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48315,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48322,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48318,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "mắm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48316,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48317,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48321,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48320,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

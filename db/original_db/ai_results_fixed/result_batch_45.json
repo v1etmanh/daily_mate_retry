@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 5199,
+    "recipe_id": "25023239",
+    "standard_id": 81,
+    "raw_name": "Cà rốt cắt hạt lựu",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5200,
+    "recipe_id": "25023239",
+    "standard_id": 102,
+    "raw_name": "Rau ngò",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5202,
+    "recipe_id": "25023239",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5203,
+    "recipe_id": "25023239",
+    "standard_id": 1207,
+    "raw_name": "hòa tan với ml nước Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 5204,
+    "recipe_id": "25023239",
+    "standard_id": 83,
+    "raw_name": "Hành phi",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 5205,
+    "recipe_id": "25023239",
+    "standard_id": 146,
+    "raw_name": "Trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5206,
+    "recipe_id": "25023239",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5209,
+    "recipe_id": "25025742",
+    "standard_id": 142,
+    "raw_name": "Thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5210,
+    "recipe_id": "25025742",
+    "standard_id": 457,
+    "raw_name": "t chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 5211,
+    "recipe_id": "25025742",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5212,
+    "recipe_id": "25025742",
+    "standard_id": 353,
+    "raw_name": "Cần tây",
+    "standard_name": "cần tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5213,
+    "recipe_id": "25025742",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5214,
+    "recipe_id": "25025742",
+    "standard_id": 1148,
+    "raw_name": "Sốt ướp thịt bò",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 5215,
+    "recipe_id": "25025742",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 5216,
+    "recipe_id": "25025742",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5219,
+    "recipe_id": "25025742",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 5222,
+    "recipe_id": "25025742",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5226,
+    "recipe_id": "25025742",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5234,
+    "recipe_id": "25024826",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng",
+    "standard_name": "bánh tráng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5235,
+    "recipe_id": "25024826",
+    "standard_id": 1812,
+    "raw_name": "Củ sắn",
+    "standard_name": "củ sắn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5236,
+    "recipe_id": "25024826",
+    "standard_id": 50,
+    "raw_name": "Lạp xưởng gan",
+    "standard_name": "lạp xưởng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 5238,
+    "recipe_id": "25024826",
+    "standard_id": 11829,
+    "raw_name": "Chả quế",
+    "standard_name": "quế",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 5239,
+    "recipe_id": "25024826",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 5240,
+    "recipe_id": "25024826",
+    "standard_id": 146,
+    "raw_name": "Hột gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 5241,
+    "recipe_id": "25024826",
+    "standard_id": 1148,
+    "raw_name": "Xốt tương mè Kewpie",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 5242,
+    "recipe_id": "25024826",
+    "standard_id": 1369,
+    "raw_name": "Mật dừa nước",
+    "standard_name": "mật",
+    "confidence": 0.8
+  }
+]

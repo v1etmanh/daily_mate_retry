@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 954,
+    "recipe_id": "25295149",
+    "standard_id": 289,
+    "raw_name": "rau muống",
+    "standard_name": "rau muống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 955,
+    "recipe_id": "25295149",
+    "standard_id": 387,
+    "raw_name": "cải xoăn",
+    "standard_name": "cải xoăn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 956,
+    "recipe_id": "25295149",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 957,
+    "recipe_id": "25295149",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 958,
+    "recipe_id": "25295149",
+    "standard_id": 166,
+    "raw_name": "củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 959,
+    "recipe_id": "25295149",
+    "standard_id": 4621,
+    "raw_name": "lẩu Thái",
+    "standard_name": "tomyum paste",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 960,
+    "recipe_id": "25295149",
+    "standard_id": 10153,
+    "raw_name": "sốt chấm lẩu",
+    "standard_name": "sốt chấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 961,
+    "recipe_id": "25295149",
+    "standard_id": 389,
+    "raw_name": "bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 962,
+    "recipe_id": "25295149",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 969,
+    "recipe_id": "25328653",
+    "standard_id": 357,
+    "raw_name": "Tôm tươi",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 972,
+    "recipe_id": "25328653",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 973,
+    "recipe_id": "25328653",
+    "standard_id": 766,
+    "raw_name": "Bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 974,
+    "recipe_id": "25328653",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 975,
+    "recipe_id": "25328653",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 977,
+    "recipe_id": "25328653",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 978,
+    "recipe_id": "25328653",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 980,
+    "recipe_id": "25328197",
+    "standard_id": 1795,
+    "raw_name": "Mì",
+    "standard_name": "mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 982,
+    "recipe_id": "25328197",
+    "standard_id": 262,
+    "raw_name": "Nấm đùi gà dùng mũ nấm",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 983,
+    "recipe_id": "25328197",
+    "standard_id": 166,
+    "raw_name": "Hành tây băm nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 984,
+    "recipe_id": "25328197",
+    "standard_id": 766,
+    "raw_name": "Bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 986,
+    "recipe_id": "25328197",
+    "standard_id": 1589,
+    "raw_name": "Gia vị Italian seasoning mixed",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 987,
+    "recipe_id": "25328197",
+    "standard_id": 395,
+    "raw_name": "Dầu ô liu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 988,
+    "recipe_id": "25328197",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 989,
+    "recipe_id": "25328197",
+    "standard_id": 4870,
+    "raw_name": "cắt nhỏ nếu có Lá parsley tươi",
+    "standard_name": "mùi tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 990,
+    "recipe_id": "25327520",
+    "standard_id": 1795,
+    "raw_name": "Mì",
+    "standard_name": "mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 991,
+    "recipe_id": "25327520",
+    "standard_id": 397,
+    "raw_name": "Bacon",
+    "standard_name": "bacon",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 992,
+    "recipe_id": "25327520",
+    "standard_id": 151,
+    "raw_name": "Nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 993,
+    "recipe_id": "25327520",
+    "standard_id": 11829,
+    "raw_name": "Rau húng quế Tây",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 994,
+    "recipe_id": "25327520",
+    "standard_id": 355,
+    "raw_name": "Hạt điều",
+    "standard_name": "hat điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 995,
+    "recipe_id": "25327520",
+    "standard_id": 398,
+    "raw_name": "Cooking cream",
+    "standard_name": "kem",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 185/365
+[
+  {
+    "id": 47898,
+    "dish_title": "Lẩu Bò",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47896,
+    "dish_title": "Lẩu Bò",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47895,
+    "dish_title": "Lẩu Bò",
+    "ingredient_name": "thảo mộc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49259,
+    "dish_title": "Lẩu Bò Thuốc Bắc Ngày Mưa 🌧",
+    "ingredient_name": "cải bắp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49260,
+    "dish_title": "Lẩu Bò Thuốc Bắc Ngày Mưa 🌧",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49258,
+    "dish_title": "Lẩu Bò Thuốc Bắc Ngày Mưa 🌧",
+    "ingredient_name": "nấm linh chi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49257,
+    "dish_title": "Lẩu Bò Thuốc Bắc Ngày Mưa 🌧",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51830,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51826,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "cải thảo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51823,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "cốt lẩu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51829,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51831,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "mỳ trứng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51828,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51827,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "rau cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51825,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51824,
+    "dish_title": "Lẩu Bò Tiềm (Bò Nạm và Bò Viên)",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49134,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "bún",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49138,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49136,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49135,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49133,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "đùi gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49139,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49140,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49137,
+    "dish_title": "Lẩu Gà Nấm Mỡ Lá Quế",
+    "ingredient_name": "ớt xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52127,
+    "dish_title": "Lẩu Hải Sản",
+    "ingredient_name": "bún",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52124,
+    "dish_title": "Lẩu Hải Sản",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52120,
+    "dish_title": "Lẩu Hải Sản",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52126,
+    "dish_title": "Lẩu Hải Sản",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52121,
+    "dish_title": "Lẩu Hải Sản",
+    "ingredient_name": "me",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52118,
+    "dish_title": "Lẩu Hải Sản",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

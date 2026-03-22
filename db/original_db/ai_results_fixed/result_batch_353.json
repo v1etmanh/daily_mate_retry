@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 42202,
+    "recipe_id": "16801542",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42204,
+    "recipe_id": "16801542",
+    "standard_id": 1589,
+    "raw_name": "thảo",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 42205,
+    "recipe_id": "16801542",
+    "standard_id": 11829,
+    "raw_name": "quế",
+    "standard_name": "quế",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 42224,
+    "recipe_id": "16801090",
+    "standard_id": 1795,
+    "raw_name": "Phần mỳ",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42225,
+    "recipe_id": "16801090",
+    "standard_id": 1100,
+    "raw_name": "bột mỳ",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42226,
+    "recipe_id": "16801090",
+    "standard_id": 146,
+    "raw_name": "trứng gà to cứ gr bột mỳ trứng",
+    "standard_name": "trứng",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 42228,
+    "recipe_id": "16801090",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42229,
+    "recipe_id": "16801090",
+    "standard_id": 7908,
+    "raw_name": "Phần thịt viên",
+    "standard_name": "thịt viên",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42230,
+    "recipe_id": "16801090",
+    "standard_id": 4729,
+    "raw_name": "thịt bò xay mỡ",
+    "standard_name": "thịt bằm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42231,
+    "recipe_id": "16801090",
+    "standard_id": 1129,
+    "raw_name": "phô mai bột parmesan",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42232,
+    "recipe_id": "16801090",
+    "standard_id": 9854,
+    "raw_name": "bread crumbs vụn bánh mì",
+    "standard_name": "vụn bánh mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42235,
+    "recipe_id": "16801090",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42236,
+    "recipe_id": "16801090",
+    "standard_id": 4870,
+    "raw_name": "lá parsley thái nhỏ",
+    "standard_name": "mùi tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42237,
+    "recipe_id": "16801090",
+    "standard_id": 10299,
+    "raw_name": "Sốt cà",
+    "standard_name": "xốt cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42239,
+    "recipe_id": "16801090",
+    "standard_id": 83,
+    "raw_name": "hành tím hạt lựu",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42240,
+    "recipe_id": "16801090",
+    "standard_id": 166,
+    "raw_name": "hành trắng cắt hạt lựu",
+    "standard_name": "hành tây",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42260,
+    "recipe_id": "16800623",
+    "standard_id": 851,
+    "raw_name": "tương đậu nành",
+    "standard_name": "miso",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 42261,
+    "recipe_id": "16800623",
+    "standard_id": 749,
+    "raw_name": "tương ớt gojujang",
+    "standard_name": "gochujang",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42262,
+    "recipe_id": "16800623",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42263,
+    "recipe_id": "16800623",
+    "standard_id": 1369,
+    "raw_name": "mật ong corn syrup",
+    "standard_name": "mật",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 42264,
+    "recipe_id": "16800623",
+    "standard_id": 1747,
+    "raw_name": "hạt mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42265,
+    "recipe_id": "16800623",
+    "standard_id": 16,
+    "raw_name": "hành lá xắt",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42285,
+    "recipe_id": "16799343",
+    "standard_id": 1786,
+    "raw_name": "đậu hủ non",
+    "standard_name": "đậu non",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42286,
+    "recipe_id": "16799343",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42287,
+    "recipe_id": "16799343",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42288,
+    "recipe_id": "16799343",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  }
+]

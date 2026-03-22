@@ -1,0 +1,242 @@
+[
+  {
+    "id": 49038,
+    "dish_title": "Bò kho bánh mì",
+    "ingredient_name": "rau thơm cho vào lúc sau",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49033,
+    "dish_title": "Bò kho bánh mì",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47801,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "bắp bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47803,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "bột canh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50535,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47686,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47805,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47802,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47685,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "gừng",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50534,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "mắm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47687,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "nước màu",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47804,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "nước màu",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50533,
+    "dish_title": "Bò kho gừng",
+    "ingredient_name": "quế",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44476,
+    "dish_title": "Bò kho không dùng gói gia vị",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44442,
+    "dish_title": "Bò kho không dùng gói gia vị",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44443,
+    "dish_title": "Bò kho không dùng gói gia vị",
+    "ingredient_name": "quế",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44441,
+    "dish_title": "Bò kho không dùng gói gia vị",
+    "ingredient_name": "thịt",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46229,
+    "dish_title": "Bò kho tiêu",
+    "ingredient_name": "bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46232,
+    "dish_title": "Bò kho tiêu",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46230,
+    "dish_title": "Bò kho tiêu",
+    "ingredient_name": "nước",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46231,
+    "dish_title": "Bò kho tiêu",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52598,
+    "dish_title": "Bò lát chay nướng vị cà ri",
+    "ingredient_name": "cà ri",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52599,
+    "dish_title": "Bò lát chay nướng vị cà ri",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52597,
+    "dish_title": "Bò lát chay nướng vị cà ri",
+    "ingredient_name": "thịt chay",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52600,
+    "dish_title": "Bò lát chay nướng vị cà ri",
+    "ingredient_name": "ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42829,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43653,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43656,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42827,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42660,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

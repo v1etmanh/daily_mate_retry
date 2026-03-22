@@ -1,0 +1,242 @@
+[
+  {
+    "id": 45702,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Vịt",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45701,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Vịt",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45699,
+    "dish_title": "Bánh Đa Đỏ Trộn Thịt Vịt",
+    "ingredient_name": "vịt",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48782,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49884,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49889,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "heo",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48781,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "lá lốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49890,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "lá lốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48780,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49886,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48779,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49888,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "thịt thăn",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49887,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "tôm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 49885,
+    "dish_title": "Bánh đa cua Hải Phòng",
+    "ingredient_name": "xương heo",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47953,
+    "dish_title": "Bánh đa gạo lứt nấu đậu hũ non",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47955,
+    "dish_title": "Bánh đa gạo lứt nấu đậu hũ non",
+    "ingredient_name": "cà chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47956,
+    "dish_title": "Bánh đa gạo lứt nấu đậu hũ non",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47957,
+    "dish_title": "Bánh đa gạo lứt nấu đậu hũ non",
+    "ingredient_name": "rau hay cà chua tùy ý",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47954,
+    "dish_title": "Bánh đa gạo lứt nấu đậu hũ non",
+    "ingredient_name": "đậu non",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43407,
+    "dish_title": "Bánh đa hải sản",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43411,
+    "dish_title": "Bánh đa hải sản",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43409,
+    "dish_title": "Bánh đa hải sản",
+    "ingredient_name": "mỡ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43410,
+    "dish_title": "Bánh đa hải sản",
+    "ingredient_name": "nước mẻ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43408,
+    "dish_title": "Bánh đa hải sản",
+    "ingredient_name": "nấm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43406,
+    "dish_title": "Bánh đa hải sản",
+    "ingredient_name": "rau cải đắng",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45650,
+    "dish_title": "Bánh đa xào thịt",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45653,
+    "dish_title": "Bánh đa xào thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45652,
+    "dish_title": "Bánh đa xào thịt",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45651,
+    "dish_title": "Bánh đa xào thịt",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45692,
+    "dish_title": "Bánh đa đỏ hải sản chay",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

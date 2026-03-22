@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 76/365
+[
+  {
+    "id": 45489,
+    "dish_title": "Canh Cá nấu dưa",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45490,
+    "dish_title": "Canh Cá nấu dưa",
+    "ingredient_name": "thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45027,
+    "dish_title": "Canh Cải Chua Hầm Xương Heo",
+    "ingredient_name": "cải chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45028,
+    "dish_title": "Canh Cải Chua Hầm Xương Heo",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45029,
+    "dish_title": "Canh Cải Chua Hầm Xương Heo",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45026,
+    "dish_title": "Canh Cải Chua Hầm Xương Heo",
+    "ingredient_name": "đuôi heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45030,
+    "dish_title": "Canh Cải Chua Hầm Xương Heo",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43430,
+    "dish_title": "Canh Cải Thảo Thịt Băm",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43429,
+    "dish_title": "Canh Cải Thảo Thịt Băm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43428,
+    "dish_title": "Canh Cải Thảo Thịt Băm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42664,
+    "dish_title": "Canh Dưa Cải Nấu Dẻ Sườn Bò",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42665,
+    "dish_title": "Canh Dưa Cải Nấu Dẻ Sườn Bò",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42663,
+    "dish_title": "Canh Dưa Cải Nấu Dẻ Sườn Bò",
+    "ingredient_name": "sườn bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42666,
+    "dish_title": "Canh Dưa Cải Nấu Dẻ Sườn Bò",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43883,
+    "dish_title": "Canh Khoai Tây Nấu Rau Cần, Cà Chua, Thì Là",
+    "ingredient_name": "cần",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43885,
+    "dish_title": "Canh Khoai Tây Nấu Rau Cần, Cà Chua, Thì Là",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43886,
+    "dish_title": "Canh Khoai Tây Nấu Rau Cần, Cà Chua, Thì Là",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43887,
+    "dish_title": "Canh Khoai Tây Nấu Rau Cần, Cà Chua, Thì Là",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43884,
+    "dish_title": "Canh Khoai Tây Nấu Rau Cần, Cà Chua, Thì Là",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50492,
+    "dish_title": "Canh Khoai Tây Nấu Xương Heo",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50490,
+    "dish_title": "Canh Khoai Tây Nấu Xương Heo",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50493,
+    "dish_title": "Canh Khoai Tây Nấu Xương Heo",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50491,
+    "dish_title": "Canh Khoai Tây Nấu Xương Heo",
+    "ingredient_name": "sả",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51595,
+    "dish_title": "Canh Kim Chi Cá Ngừ (Chamchi Kimchi Jjigae)",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51596,
+    "dish_title": "Canh Kim Chi Cá Ngừ (Chamchi Kimchi Jjigae)",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51594,
+    "dish_title": "Canh Kim Chi Cá Ngừ (Chamchi Kimchi Jjigae)",
+    "ingredient_name": "hộp cá ngừ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51597,
+    "dish_title": "Canh Kim Chi Cá Ngừ (Chamchi Kimchi Jjigae)",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49731,
+    "dish_title": "Canh Kim Chi Nấm Kim Châm (Vegan Kimchi Soup)",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49729,
+    "dish_title": "Canh Kim Chi Nấm Kim Châm (Vegan Kimchi Soup)",
+    "ingredient_name": "kim chi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49732,
+    "dish_title": "Canh Kim Chi Nấm Kim Châm (Vegan Kimchi Soup)",
+    "ingredient_name": "váng đậu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

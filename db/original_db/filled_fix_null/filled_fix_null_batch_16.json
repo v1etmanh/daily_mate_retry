@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50221,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "sốt",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50217,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50222,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "tôm",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50220,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50223,
+    "dish_title": "Bánh Tráng Trộn Tôm Rim",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44697,
+    "dish_title": "Bánh Xèo Nấm Nhân Thịt",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44700,
+    "dish_title": "Bánh Xèo Nấm Nhân Thịt",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44699,
+    "dish_title": "Bánh Xèo Nấm Nhân Thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44698,
+    "dish_title": "Bánh Xèo Nấm Nhân Thịt",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44696,
+    "dish_title": "Bánh Xèo Nấm Nhân Thịt",
+    "ingredient_name": "thịt nạc dăm",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43392,
+    "dish_title": "Bánh Xèo Rau Rừng",
+    "ingredient_name": "bột",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43397,
+    "dish_title": "Bánh Xèo Rau Rừng",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43394,
+    "dish_title": "Bánh Xèo Rau Rừng",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43393,
+    "dish_title": "Bánh Xèo Rau Rừng",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43395,
+    "dish_title": "Bánh Xèo Rau Rừng",
+    "ingredient_name": "quế",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43396,
+    "dish_title": "Bánh Xèo Rau Rừng",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48645,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "cải thảo",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48648,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48649,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48642,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48647,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48643,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "nhân mandu",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48650,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48651,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48644,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48652,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48641,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "vỏ bánh mandu",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48646,
+    "dish_title": "Bánh Xếp Mandu Hàn Quốc Nhân Thịt Heo Chiên Nước",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48621,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48622,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

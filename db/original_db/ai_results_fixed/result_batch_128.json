@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 16116,
+    "recipe_id": "24202461",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16120,
+    "recipe_id": "24202461",
+    "standard_id": 11827,
+    "raw_name": "bơ hoặc dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 16121,
+    "recipe_id": "24202461",
+    "standard_id": 1921,
+    "raw_name": "Nhân bánh",
+    "standard_name": "nhân bánh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16122,
+    "recipe_id": "24202461",
+    "standard_id": 4729,
+    "raw_name": "thịt bằm hoặc thịt thái sợi",
+    "standard_name": "thịt bằm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16123,
+    "recipe_id": "24202461",
+    "standard_id": 50,
+    "raw_name": "Lạp xưởng",
+    "standard_name": "lạp xưởng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16124,
+    "recipe_id": "24202461",
+    "standard_id": 5932,
+    "raw_name": "trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16125,
+    "recipe_id": "24202461",
+    "standard_id": 1211,
+    "raw_name": "Miến",
+    "standard_name": "miến",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16126,
+    "recipe_id": "24202461",
+    "standard_id": 26,
+    "raw_name": "nấm tai mèo",
+    "standard_name": "nấm mèo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16127,
+    "recipe_id": "24202461",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16130,
+    "recipe_id": "24202461",
+    "standard_id": 83,
+    "raw_name": "hành băm nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16131,
+    "recipe_id": "24202461",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16133,
+    "recipe_id": "24201500",
+    "standard_id": 822,
+    "raw_name": "cải xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16134,
+    "recipe_id": "24201500",
+    "standard_id": 8624,
+    "raw_name": "cà chua bi",
+    "standard_name": "chua bi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16135,
+    "recipe_id": "24201500",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16136,
+    "recipe_id": "24201500",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16137,
+    "recipe_id": "24201500",
+    "standard_id": 357,
+    "raw_name": "tôm khô",
+    "standard_name": "tôm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16140,
+    "recipe_id": "24201500",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16141,
+    "recipe_id": "24201500",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16142,
+    "recipe_id": "24201500",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16145,
+    "recipe_id": "24201500",
+    "standard_id": 1589,
+    "raw_name": "dầu",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16187,
+    "recipe_id": "24202059",
+    "standard_id": 142,
+    "raw_name": "Bò shin",
+    "standard_name": "bò",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16188,
+    "recipe_id": "24202059",
+    "standard_id": 1192,
+    "raw_name": "Gân bò",
+    "standard_name": "gân bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16189,
+    "recipe_id": "24202059",
+    "standard_id": 7498,
+    "raw_name": "Mì trứng",
+    "standard_name": "mỳ trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16190,
+    "recipe_id": "24202059",
+    "standard_id": 1148,
+    "raw_name": "Sốt ớt toban",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 16191,
+    "recipe_id": "24202059",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16192,
+    "recipe_id": "24202059",
+    "standard_id": 11828,
+    "raw_name": "Dark soy sauce",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 16193,
+    "recipe_id": "24202059",
+    "standard_id": 2387,
+    "raw_name": "ường phèn",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 16194,
+    "recipe_id": "24202059",
+    "standard_id": 136,
+    "raw_name": "Cải thìa",
+    "standard_name": "cải thìa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16196,
+    "recipe_id": "24202059",
+    "standard_id": 9646,
+    "raw_name": "Cải chua",
+    "standard_name": "cải chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 16208,
+    "recipe_id": "24019752",
+    "standard_id": 730,
+    "raw_name": "gạo Nhật đã nấu chín",
+    "standard_name": "cơm",
+    "confidence": 0.95
+  }
+]

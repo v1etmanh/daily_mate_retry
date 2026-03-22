@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 62103,
+    "recipe_id": "15844058",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế trắng",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 62104,
+    "recipe_id": "15844058",
+    "standard_id": 1517,
+    "raw_name": "lá rau tần dày",
+    "standard_name": "rau thơm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 62105,
+    "recipe_id": "15844058",
+    "standard_id": 21,
+    "raw_name": "rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62106,
+    "recipe_id": "15844058",
+    "standard_id": 105,
+    "raw_name": "ngổ",
+    "standard_name": "rau ngổ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62107,
+    "recipe_id": "15844058",
+    "standard_id": 640,
+    "raw_name": "lá me đất",
+    "standard_name": "lá me",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 62108,
+    "recipe_id": "15844058",
+    "standard_id": 917,
+    "raw_name": "ngò mùi",
+    "standard_name": "rau mùi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62112,
+    "recipe_id": "15843709",
+    "standard_id": 279,
+    "raw_name": "đậu",
+    "standard_name": "đậu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62113,
+    "recipe_id": "15843709",
+    "standard_id": 11314,
+    "raw_name": "Mè vàng rang",
+    "standard_name": "muỗng cf mè trắng rang",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62114,
+    "recipe_id": "15843709",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62115,
+    "recipe_id": "15843709",
+    "standard_id": 24,
+    "raw_name": "t tươi",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62116,
+    "recipe_id": "15843709",
+    "standard_id": 457,
+    "raw_name": "t chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62117,
+    "recipe_id": "15843709",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62118,
+    "recipe_id": "15843709",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62119,
+    "recipe_id": "15843709",
+    "standard_id": 225,
+    "raw_name": "Giấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62120,
+    "recipe_id": "15843709",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 62121,
+    "recipe_id": "15843561",
+    "standard_id": 7338,
+    "raw_name": "bôt rau câu gion Agar",
+    "standard_name": "bột agar",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62122,
+    "recipe_id": "15843561",
+    "standard_id": 177,
+    "raw_name": "bôt rau câu deo Jelly",
+    "standard_name": "bột rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62123,
+    "recipe_id": "15843561",
+    "standard_id": 5575,
+    "raw_name": "rau câu sơi",
+    "standard_name": "rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62124,
+    "recipe_id": "15843561",
+    "standard_id": 285,
+    "raw_name": "lit nươc dưa tươi co thê thêm nêu muôn rau câu mêm hơn",
+    "standard_name": "nước dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62125,
+    "recipe_id": "15843561",
+    "standard_id": 2387,
+    "raw_name": "đương gia gia m tuy theo khâu vi",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62126,
+    "recipe_id": "15843561",
+    "standard_id": 1593,
+    "raw_name": "ông va ni xiu muôi",
+    "standard_name": "tinh chất vani",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 62127,
+    "recipe_id": "15843561",
+    "standard_id": 10815,
+    "raw_name": "nươc côt dưa",
+    "standard_name": "sữa dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62128,
+    "recipe_id": "15843561",
+    "standard_id": 7300,
+    "raw_name": "nươc ca phê",
+    "standard_name": "café",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62129,
+    "recipe_id": "15843561",
+    "standard_id": 3888,
+    "raw_name": "nươc thanh long ruôt đo",
+    "standard_name": "thanh long",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62130,
+    "recipe_id": "15843561",
+    "standard_id": 3495,
+    "raw_name": "nươc côt hoa đâu biêc",
+    "standard_name": "hoa đậu biếc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62131,
+    "recipe_id": "15842904",
+    "standard_id": 1074,
+    "raw_name": "cải trắng",
+    "standard_name": "cải trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62132,
+    "recipe_id": "15842904",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62133,
+    "recipe_id": "15842904",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62134,
+    "recipe_id": "15842904",
+    "standard_id": 1330,
+    "raw_name": "nấm hương khô",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62135,
+    "recipe_id": "15842904",
+    "standard_id": 985,
+    "raw_name": "nấm bào ngư",
+    "standard_name": "nấm sò",
+    "confidence": 0.9
+  }
+]

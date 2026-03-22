@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Ingredient Cleanup Workflow</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: 'Inter', sans-serif;
+    padding: 40px 24px;
+    min-height: 100vh;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    color: #f0f6ff;
+    margin-bottom: 4px;
+    letter-spacing: -0.3px;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 13px;
+    color: #7d8590;
+    margin-bottom: 48px;
+  }
+
+  .workflow {
+    max-width: 820px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  /* === STEP === */
+  .step {
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 0 20px;
+    position: relative;
+  }
+
+  /* vertical line */
+  .step:not(:last-child) .line-col::after {
+    content: '';
+    display: block;
+    width: 2px;
+    background: #21262d;
+    margin: 0 auto;
+    flex: 1;
+    min-height: 24px;
+  }
+
+  .line-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .node {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+    border: 2px solid transparent;
+    position: relative;
+    z-index: 1;
+  }
+
+  .body {
+    padding-bottom: 28px;
+  }
+
+  .step-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    padding-top: 8px;
+  }
+
+  .step-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .step-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #f0f6ff;
+  }
+
+  .step-desc {
+    font-size: 13px;
+    color: #8b949e;
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+
+  /* code block */
+  .code-box {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: #c9d1d9;
+    white-space: pre;
+    overflow-x: auto;
+    margin-bottom: 10px;
+    line-height: 1.7;
+  }
+
+  /* output pill */
+  .output-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    font-size: 12.5px;
+  }
+  .out-label {
+    background: #1f2937;
+    color: #6ee7b7;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    white-space: nowrap;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    margin-top: 1px;
+  }
+  .out-text {
+    color: #9ca3af;
+    line-height: 1.5;
+  }
+  .out-text code {
+    background: #1e2d3d;
+    color: #93c5fd;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+  }
+
+  /* arrow connector between steps */
+  .arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 0 27px;
+    color: #30363d;
+    font-size: 20px;
+    line-height: 1;
+    height: 24px;
+  }
+
+  /* decision diamond */
+  .decision-wrap {
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 0 20px;
+    margin: 0;
+  }
+  .diamond-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .diamond-col::before,
+  .diamond-col::after {
+    content: '';
+    display: block;
+    width: 2px;
+    background: #21262d;
+    height: 16px;
+    margin: 0 auto;
+  }
+  .diamond {
+    width: 42px;
+    height: 42px;
+    background: #1c2333;
+    border: 2px solid #f59e0b;
+    transform: rotate(45deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .diamond span {
+    transform: rotate(-45deg);
+    font-size: 16px;
+  }
+  .decision-body {
+    padding: 8px 0 16px;
+  }
+  .decision-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #f59e0b;
+    margin-bottom: 10px;
+  }
+  .branches {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .branch {
+    flex: 1;
+    min-width: 180px;
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 8px;
+    padding: 10px 14px;
+  }
+  .branch-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    margin-bottom: 4px;
+  }
+  .branch-label.yes { color: #34d399; }
+  .branch-label.no  { color: #f87171; }
+  .branch-text {
+    font-size: 12.5px;
+    color: #8b949e;
+    line-height: 1.5;
+  }
+
+  /* color themes per step */
+  .c-blue   { background: #0c2a4a; border-color: #1d6fa4; }
+  .c-purple { background: #1a1040; border-color: #6d28d9; }
+  .c-orange { background: #2d1a08; border-color: #c2410c; }
+  .c-yellow { background: #2a1f00; border-color: #b45309; }
+  .c-red    { background: #2d0f0f; border-color: #b91c1c; }
+  .c-green  { background: #0d2a1a; border-color: #065f46; }
+
+  .lbl-blue   { background: #1d3d5c; color: #60a5fa; }
+  .lbl-purple { background: #2e1a6e; color: #c4b5fd; }
+  .lbl-orange { background: #5c2200; color: #fb923c; }
+  .lbl-yellow { background: #452d00; color: #fcd34d; }
+  .lbl-red    { background: #4c1010; color: #fca5a5; }
+  .lbl-green  { background: #0a3320; color: #6ee7b7; }
+
+  .divider {
+    border: none;
+    border-top: 1px dashed #21262d;
+    margin: 4px 0 16px 76px;
+  }
+
+  /* final result box */
+  .result-box {
+    max-width: 820px;
+    margin: 0 auto 0;
+    background: linear-gradient(135deg, #0d2a1a 0%, #0a1628 100%);
+    border: 1px solid #065f46;
+    border-radius: 12px;
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .result-icon { font-size: 32px; }
+  .result-title { font-size: 15px; font-weight: 700; color: #6ee7b7; margin-bottom: 4px; }
+  .result-desc  { font-size: 13px; color: #6b7280; line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<h1>🧹 Ingredient Cleanup Workflow</h1>
+<p class="subtitle">Quy trình xóa Dish không đủ nguyên liệu sau khi cập nhật Ingredient DB</p>
+
+<div class="workflow">
+
+  <!-- STEP A -->
+  <div class="step">
+    <div class="line-col">
+      <div class="node c-blue">🤖</div>
+      <div style="flex:1; width:2px; background:#21262d; margin: 0 auto; min-height: 20px;"></div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-blue">Bước A</span>
+        <span class="step-title">Feed AI danh sách Ingredient hợp lệ</span>
+      </div>
+      <p class="step-desc">Cho AI "ăn" toàn bộ danh sách <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">ingredient_id</code> + <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">name</code> từ DB hiện tại — đây là nguồn sự thật duy nhất.</p>
+      <div class="code-box"><span style="color:#7ee787">SELECT</span> ingredient_id, name
+<span style="color:#7ee787">FROM</span> ingredient
+<span style="color:#7ee787">ORDER BY</span> name;
+<span style="color:#6e7681">-- Kết quả: ~N dòng, lưu vào context AI</span></div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text">AI đã biết toàn bộ nguyên liệu hợp lệ: <code>{ uuid-ing-01: "bánh phở", uuid-ing-02: "thịt bò", ... }</code></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP B -->
+  <div class="step">
+    <div class="line-col">
+      <div class="node c-purple">📋</div>
+      <div style="flex:1; width:2px; background:#21262d; margin: 0 auto; min-height: 20px;"></div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-purple">Bước B</span>
+        <span class="step-title">Query toàn bộ Dish + nguyên liệu thô</span>
+      </div>
+      <p class="step-desc">Lấy tất cả Dish kèm danh sách nguyên liệu hiện đang gắn với chúng trong bảng <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">dish_ingredient</code>. Lưu thành JSON.</p>
+      <div class="code-box"><span style="color:#7ee787">SELECT</span> d.dish_id, d.name,
+       <span style="color:#79c0ff">json_agg</span>(<span style="color:#79c0ff">json_build_object</span>(
+         <span style="color:#a5d6ff">'ingredient_id'</span>, di.ingredient_id,
+         <span style="color:#a5d6ff">'name_raw'</span>, i.name
+       )) <span style="color:#7ee787">AS</span> ingredients
+<span style="color:#7ee787">FROM</span> dish d
+<span style="color:#7ee787">JOIN</span> dish_ingredient di <span style="color:#7ee787">USING</span>(dish_id)
+<span style="color:#7ee787">JOIN</span> ingredient i <span style="color:#7ee787">USING</span>(ingredient_id)
+<span style="color:#7ee787">GROUP BY</span> d.dish_id, d.name;</div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text"><code>dishes.json</code> — mảng <code>{ dish_id, name, ingredients[] }</code></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP C -->
+  <div class="step">
+    <div class="line-col">
+      <div class="node c-orange">📝</div>
+      <div style="flex:1; width:2px; background:#21262d; margin: 0 auto; min-height: 20px;"></div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-orange">Bước C</span>
+        <span class="step-title">Tạo file TXT — batch input cho AI</span>
+      </div>
+      <p class="step-desc">Chuyển JSON thành định dạng text có cấu trúc để AI xử lý hàng loạt. Mỗi Dish là một block, phân cách bởi <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">---</code>.</p>
+      <div class="code-box"><span style="color:#6e7681">-- Cấu trúc mỗi block trong file .txt --</span>
+
+DISH_ID: <span style="color:#ffa657">550e8400-e29b-41d4-a716</span>
+NAME: <span style="color:#a5d6ff">Phở bò</span>
+INGREDIENTS:
+  - bánh phở
+  - thịt bò tái
+  - hành tím
+  - gừng nướng
+  - nước mắm
+<span style="color:#6e7681">---
+DISH_ID: ...
+NAME: ...</span></div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text"><code>dishes_to_verify.txt</code> — toàn bộ Dish cần AI kiểm tra</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP D -->
+  <div class="step">
+    <div class="line-col">
+      <div class="node c-yellow">🧠</div>
+      <div style="flex:1; width:2px; background:#21262d; margin: 0 auto; min-height: 20px;"></div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-yellow">Bước D</span>
+        <span class="step-title">AI map nguyên liệu thô → ingredient_id</span>
+      </div>
+      <p class="step-desc">AI duyệt từng nguyên liệu trong mỗi Dish, so khớp với danh sách đã biết (Bước A), trả về <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">ingredient_id</code> hoặc <code style="background:#1e2d3d;color:#fca5a5;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">NOT_FOUND</code>.</p>
+      <div class="code-box"><span style="color:#6e7681">-- Prompt gửi cho AI --</span>
+
+Dựa vào danh sách ingredient đã cung cấp,
+duyệt qua từng nguyên liệu trong dish sau.
+Nếu tìm thấy nguyên liệu tương ứng → trả về ingredient_id.
+Nếu không tìm thấy → trả về <span style="color:#ffa657">"NOT_FOUND"</span>.
+
+Trả về JSON duy nhất, không giải thích thêm:
+{
+  <span style="color:#a5d6ff">"dish_id"</span>: <span style="color:#a5d6ff">"..."</span>,
+  <span style="color:#a5d6ff">"mapped"</span>: {
+    <span style="color:#a5d6ff">"bánh phở"</span>:     <span style="color:#a5d6ff">"uuid-ing-01"</span>,
+    <span style="color:#a5d6ff">"thịt bò tái"</span>:  <span style="color:#a5d6ff">"uuid-ing-02"</span>,
+    <span style="color:#a5d6ff">"gừng nướng"</span>:   <span style="color:#ffa657">"NOT_FOUND"</span>
+  }
+}</div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text"><code>mapping_result.json</code> — mỗi dish có danh sách nguyên liệu đã được map</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- DECISION -->
+  <div class="decision-wrap">
+    <div class="diamond-col">
+      <div class="diamond"><span>❓</span></div>
+    </div>
+    <div class="decision-body">
+      <div class="decision-title">Dish có nguyên liệu NOT_FOUND không?</div>
+      <div class="branches">
+        <div class="branch">
+          <div class="branch-label no">✗ CÓ — incomplete dish</div>
+          <div class="branch-text">Ít nhất 1 nguyên liệu không map được → Dish không đủ điều kiện tồn tại trong DB → tiến hành xóa</div>
+        </div>
+        <div class="branch">
+          <div class="branch-label yes">✓ KHÔNG — dish hợp lệ</div>
+          <div class="branch-text">Tất cả nguyên liệu đều map được → Dish giữ nguyên, cập nhật FK nếu cần</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP E -->
+  <div class="step" style="margin-top:8px">
+    <div class="line-col">
+      <div class="node c-red">🔍</div>
+      <div style="flex:1; width:2px; background:#21262d; margin: 0 auto; min-height: 20px;"></div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-red">Bước E</span>
+        <span class="step-title">Tổng hợp danh sách Dish cần xóa</span>
+      </div>
+      <p class="step-desc">Quét <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">mapping_result.json</code>, thu thập tất cả <code style="background:#1e2d3d;color:#93c5fd;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">dish_id</code> có ít nhất một giá trị <code style="background:#1e2d3d;color:#fca5a5;padding:1px 5px;border-radius:3px;font-family:monospace;font-size:11px">NOT_FOUND</code>.</p>
+      <div class="code-box"><span style="color:#6e7681">-- Script Python / JS xử lý mapping_result.json --</span>
+
+dishes_to_delete = [
+  entry[<span style="color:#a5d6ff">"dish_id"</span>]
+  <span style="color:#ff7b72">for</span> entry <span style="color:#ff7b72">in</span> mapping_result
+  <span style="color:#ff7b72">if</span> <span style="color:#a5d6ff">"NOT_FOUND"</span> <span style="color:#ff7b72">in</span> entry[<span style="color:#a5d6ff">"mapped"</span>].values()
+]
+
+<span style="color:#6e7681"># Log để review trước khi xóa</span>
+<span style="color:#79c0ff">print</span>(f<span style="color:#a5d6ff">"Sẽ xóa {len(dishes_to_delete)} dish"</span>)</div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text"><code>delete_list.json</code> — danh sách <code>dish_id</code> cần xóa (review trước khi chạy)</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP F -->
+  <div class="step">
+    <div class="line-col">
+      <div class="node c-red">🗑️</div>
+      <div style="flex:1; width:2px; background:#21262d; margin: 0 auto; min-height: 20px;"></div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-red">Bước F</span>
+        <span class="step-title">Xóa cascade — dish_ingredient → dish</span>
+      </div>
+      <p class="step-desc">Xóa theo đúng thứ tự FK: xóa bảng junction trước, sau đó xóa Dish. Bọc trong transaction để rollback nếu có lỗi.</p>
+      <div class="code-box"><span style="color:#7ee787">BEGIN</span>;
+
+<span style="color:#6e7681">-- Bước 1: xóa junction table trước</span>
+<span style="color:#7ee787">DELETE FROM</span> dish_ingredient
+<span style="color:#7ee787">WHERE</span> dish_id = <span style="color:#7ee787">ANY</span>(<span style="color:#ffa657">:delete_list</span>);
+
+<span style="color:#6e7681">-- Bước 2: xóa dish</span>
+<span style="color:#7ee787">DELETE FROM</span> dish
+<span style="color:#7ee787">WHERE</span> dish_id = <span style="color:#7ee787">ANY</span>(<span style="color:#ffa657">:delete_list</span>);
+
+<span style="color:#6e7681">-- Kiểm tra trước khi commit</span>
+<span style="color:#7ee787">COMMIT</span>;  <span style="color:#6e7681">-- hoặc ROLLBACK nếu cần</span></div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text">DB sạch — không còn Dish nào tham chiếu đến ingredient đã bị xóa</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP G -->
+  <div class="step">
+    <div class="line-col">
+      <div class="node c-green">✅</div>
+    </div>
+    <div class="body">
+      <div class="step-header">
+        <span class="step-label lbl-green">Bước G</span>
+        <span class="step-title">Verify toàn vẹn DB</span>
+      </div>
+      <p class="step-desc">Chạy query kiểm tra đảm bảo không còn FK orphan nào sót lại trong hệ thống.</p>
+      <div class="code-box"><span style="color:#6e7681">-- Kiểm tra orphan: dish_ingredient trỏ tới ingredient không tồn tại</span>
+<span style="color:#7ee787">SELECT</span> di.dish_id, di.ingredient_id
+<span style="color:#7ee787">FROM</span> dish_ingredient di
+<span style="color:#7ee787">LEFT JOIN</span> ingredient i <span style="color:#7ee787">USING</span>(ingredient_id)
+<span style="color:#7ee787">WHERE</span> i.ingredient_id <span style="color:#7ee787">IS NULL</span>;
+
+<span style="color:#6e7681">-- Kết quả mong đợi: 0 rows</span></div>
+      <div class="output-row">
+        <span class="out-label">OUTPUT</span>
+        <span class="out-text">0 rows → DB toàn vẹn, pipeline scoring hoạt động chính xác</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- SUMMARY -->
+<div style="max-width:820px; margin: 32px auto 0; background:#161b22; border:1px solid #21262d; border-radius:12px; padding: 20px 24px;">
+  <div style="font-size:13px; font-weight:700; color:#8b949e; letter-spacing:1px; text-transform:uppercase; margin-bottom:16px;">Tóm tắt luồng dữ liệu</div>
+  <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; font-size:12.5px; color:#6e7681;">
+    <span style="background:#1d3d5c;color:#60a5fa;padding:4px 10px;border-radius:6px;font-weight:600;">DB Ingredient</span>
+    <span>→</span>
+    <span style="background:#161b22;color:#c4b5fd;padding:4px 10px;border-radius:6px;border:1px solid #2e1a6e;">AI Context</span>
+    <span>→</span>
+    <span style="background:#161b22;color:#fb923c;padding:4px 10px;border-radius:6px;border:1px solid #5c2200;">dishes_to_verify.txt</span>
+    <span>→</span>
+    <span style="background:#161b22;color:#fcd34d;padding:4px 10px;border-radius:6px;border:1px solid #452d00;">AI Mapping</span>
+    <span>→</span>
+    <span style="background:#161b22;color:#fca5a5;padding:4px 10px;border-radius:6px;border:1px solid #4c1010;">DELETE LIST</span>
+    <span>→</span>
+    <span style="background:#0a3320;color:#6ee7b7;padding:4px 10px;border-radius:6px;border:1px solid #065f46;">✓ Clean DB</span>
+  </div>
+</div>
+
+</body>
+</html>

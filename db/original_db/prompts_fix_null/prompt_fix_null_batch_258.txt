@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 258/365
+[
+  {
+    "id": 50802,
+    "dish_title": "Rau má nấu tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50606,
+    "dish_title": "Rau má nấu tôm",
+    "ingredient_name": "rau má",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44606,
+    "dish_title": "Rau mầm đá xào thịt nạc",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44607,
+    "dish_title": "Rau mầm đá xào thịt nạc",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44604,
+    "dish_title": "Rau mầm đá xào thịt nạc",
+    "ingredient_name": "rau mầm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44605,
+    "dish_title": "Rau mầm đá xào thịt nạc",
+    "ingredient_name": "thịt nạc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48196,
+    "dish_title": "Rau ngũ gia bì xào trứng",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48195,
+    "dish_title": "Rau ngũ gia bì xào trứng",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48194,
+    "dish_title": "Rau ngũ gia bì xào trứng",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48193,
+    "dish_title": "Rau ngũ gia bì xào trứng",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42791,
+    "dish_title": "Rau tiến vua ngâm mắm",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42789,
+    "dish_title": "Rau tiến vua ngâm mắm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42790,
+    "dish_title": "Rau tiến vua ngâm mắm",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42792,
+    "dish_title": "Rau tiến vua ngâm mắm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46425,
+    "dish_title": "Rau tần ô trộn",
+    "ingredient_name": "nước tắc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46422,
+    "dish_title": "Rau tần ô trộn",
+    "ingredient_name": "nấm ngư",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46421,
+    "dish_title": "Rau tần ô trộn",
+    "ingredient_name": "rau tần ô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46423,
+    "dish_title": "Rau tần ô trộn",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46424,
+    "dish_title": "Rau tần ô trộn",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46426,
+    "dish_title": "Rau tần ô trộn",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52061,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52060,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "kem chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52059,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52057,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "pasta",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52062,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "rau basil",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52058,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52063,
+    "dish_title": "Ravioli Sốt Kem Nấm Topping Cá Hồi Xông Khói & Trứng Cá Caviar",
+    "ingredient_name": "topping",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50902,
+    "dish_title": "Rice Bowl - Cơm Quinoa Trộn Ức Gà Xé & Rau Quả Tươi",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50899,
+    "dish_title": "Rice Bowl - Cơm Quinoa Trộn Ức Gà Xé & Rau Quả Tươi",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50901,
+    "dish_title": "Rice Bowl - Cơm Quinoa Trộn Ức Gà Xé & Rau Quả Tươi",
+    "ingredient_name": "mirin",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

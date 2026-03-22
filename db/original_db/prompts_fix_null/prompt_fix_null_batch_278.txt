@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 278/365
+[
+  {
+    "id": 47978,
+    "dish_title": "Somtum Mực - Gỏi đu đủ mắm Thái + Mực",
+    "ingredient_name": "đu đủ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47989,
+    "dish_title": "Somtum Mực - Gỏi đu đủ mắm Thái + Mực",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44340,
+    "dish_title": "Soup nấm, bí đỏ, phô mai",
+    "ingredient_name": "bí đỏ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44341,
+    "dish_title": "Soup nấm, bí đỏ, phô mai",
+    "ingredient_name": "cần tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44343,
+    "dish_title": "Soup nấm, bí đỏ, phô mai",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44342,
+    "dish_title": "Soup nấm, bí đỏ, phô mai",
+    "ingredient_name": "nấm đùi gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44947,
+    "dish_title": "Soup tôm bong bóng cá",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44949,
+    "dish_title": "Soup tôm bong bóng cá",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44948,
+    "dish_title": "Soup tôm bong bóng cá",
+    "ingredient_name": "nấm đông cô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44946,
+    "dish_title": "Soup tôm bong bóng cá",
+    "ingredient_name": "vĩ cá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46067,
+    "dish_title": "Soup đậu hũ non rau củ",
+    "ingredient_name": "rau cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46066,
+    "dish_title": "Soup đậu hũ non rau củ",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46065,
+    "dish_title": "Soup đậu hũ non rau củ",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52002,
+    "dish_title": "Spaghetti Sốt Kem Tươi Vị Chanh & Cá Hồi Xông Khói",
+    "ingredient_name": "cá thu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52005,
+    "dish_title": "Spaghetti Sốt Kem Tươi Vị Chanh & Cá Hồi Xông Khói",
+    "ingredient_name": "cái nụ bạch hoa capers",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52003,
+    "dish_title": "Spaghetti Sốt Kem Tươi Vị Chanh & Cá Hồi Xông Khói",
+    "ingredient_name": "kem",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52001,
+    "dish_title": "Spaghetti Sốt Kem Tươi Vị Chanh & Cá Hồi Xông Khói",
+    "ingredient_name": "mì spaghetti",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52006,
+    "dish_title": "Spaghetti Sốt Kem Tươi Vị Chanh & Cá Hồi Xông Khói",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52004,
+    "dish_title": "Spaghetti Sốt Kem Tươi Vị Chanh & Cá Hồi Xông Khói",
+    "ingredient_name": "vỏ chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46590,
+    "dish_title": "Spaghetti tôm sốt dầu tỏi",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46594,
+    "dish_title": "Spaghetti tôm sốt dầu tỏi",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46589,
+    "dish_title": "Spaghetti tôm sốt dầu tỏi",
+    "ingredient_name": "mì spaghetti",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46593,
+    "dish_title": "Spaghetti tôm sốt dầu tỏi",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46592,
+    "dish_title": "Spaghetti tôm sốt dầu tỏi",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46591,
+    "dish_title": "Spaghetti tôm sốt dầu tỏi",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44267,
+    "dish_title": "Steak bò sốt phomai",
+    "ingredient_name": "bít tết bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44268,
+    "dish_title": "Steak bò sốt phomai",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44271,
+    "dish_title": "Steak bò sốt phomai",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44269,
+    "dish_title": "Steak bò sốt phomai",
+    "ingredient_name": "hành tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44270,
+    "dish_title": "Steak bò sốt phomai",
+    "ingredient_name": "lá hương thảo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

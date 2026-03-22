@@ -1,0 +1,635 @@
+�
+�  WEATHER-AWARE FOOD 
+RECOMMENDATION 
+Entity Design & Processing Pipeline 
+Đề xuất hoàn thiện các thực thể và chu trình xử lý 
+I. TỔNG QUAN HỆ THỐNG 
+Hệ thống nhận 3 nhóm đầu vào (Thời tiết · Vị trí · Cá nhân), chuyển đổi thành các vector chuẩn hóa, tính 
+PhysiologicalDemand, áp ràng buộc, rồi chấm điểm và xếp hạng Dish. 
+Layer 
+Input 
+Processing 
+Raw Input 
+Output 
+WeatherInput · LocationInput 
+· PersonalInput 
+Chuẩn hóa + Mapping 
+Demand 
+3 Vectors 
+Tổng hợp sinh lý 
+WeatherVector · 
+LocationVector · 
+PersonalVector 
+Filter 
+PhysiologicalDemand 
+ConstraintProfile 
+Loại bỏ vi phạm 
+Scoring 
+Ingredient Pool hợp lệ 
+Ingredient Pool + Demand 
+Score formula 
+RankedDishList 
+II. NHÓM THỰC THỂ ĐẦU VÀO (Input Entities) 
+II.1  WeatherInput  →  WeatherVector 
+Entity: WeatherInput  (Dữ liệu thô thời tiết) 
+Field 
+Type 
+Mô tả 
+temperature 
+Float (°C) 
+Nhiệt độ không khí, đầu vào từ API thời tiết 
+humidity 
+Float (%) 
+Độ ẩm tương đối (0–100) 
+wind_speed 
+Float (km/h) 
+Tốc độ gió 
+pressure 
+Float (hPa) 
+Áp suất khí quyển 
+aqi 
+Int (0–500) 
+Chỉ số chất lượng không khí (Air Quality Index) 
+uv_index 
+Float (0–11+) 
+Chỉ số tia UV 
+season 
+Enum 
+spring / summer / autumn / winter 
+light_condition 
+Enum 
+sunny / cloudy / rainy / night 
+weather_comfort_index 
+Float 
+Chỉ số thoải mái tổng hợp (tính trước từ temp + 
+humidity + wind) 
+Entity: WeatherVector  (Sau chuẩn hóa) 
+Field 
+Type 
+Mô tả 
+heat_stress_index Float [0,1] Nguy cơ stress nhiệt; cao khi temp cao + humidity 
+cao 
+dehydration_risk Float [0,1] Nguy cơ mất nước; phụ thuộc heat_stress + wind + 
+aqi 
+cold_stress_index Float [0,1] Nguy cơ stress lạnh; cao khi temp thấp + wind mạnh 
+oxidative_stress_risk Float [0,1] Nguy cơ stress oxy hóa; liên quan UV, AQI, mùa 
+infection_risk Float [0,1] Nguy cơ nhiễm khuẩn / virus; tăng khi chuyển mùa, 
+áp thấp 
+immune_load Float [0,1] Tải miễn dịch tổng hợp từ AQI + infection_risk + 
+season 
+ 
+II.2  LocationInput  →  LocationVector 
+Entity: LocationInput  (Dữ liệu vị trí thô) 
+Field Type Mô tả 
+lat Float Vĩ độ địa lý 
+lon Float Kinh độ địa lý 
+city String Tên thành phố / vùng 
+country_code String ISO 3166-1 alpha-2 
+ 
+Entity: LocationVector  (Sau xử lý ngữ cảnh địa lý) 
+Field Type Mô tả 
+climate_type Enum tropical / arid / temperate / continental / polar 
+food_availability_score Float [0,1] Mức độ sẵn có của nguyên liệu tươi theo vùng / mùa 
+traditional_compatibility Float [0,1] Tương thích với ẩm thực truyền thống địa phương 
+seasonality_factor Float [0,1] Nguyên liệu đang đúng mùa vụ tại vị trí 
+local_spice_index Float [0,1] Xu hướng gia vị cay/mạnh theo văn hóa vùng (mới) 
+ 
+II.3  PersonalInput  →  PersonalVector 
+Entity: PersonalInput  (Dữ liệu người dùng thô) 
+Field Type Mô tả 
+age Int Tuổi (năm) 
+gender Enum male / female / other 
+height Float Chiều cao (cm) 
+weight Float Cân nặng (kg) 
+dietary_goal Enum weight_loss / muscle_gain / maintenance / detox 
+health_condition Array ['hypertension','diabetes','ibs',...]  — đa giá trị 
+taste_preference Array ['spicy','sweet','sour','umami',...] 
+activity_level Enum sedentary / lightly_active / moderately_active / 
+very_active 
+allergies Array Danh sách dị ứng nguyên liệu 
+diet_type Enum omnivore / vegetarian / vegan / pescatarian (mới) 
+ 
+Entity: PersonalVector  (Sau chuẩn hóa sinh lý) 
+Field Type Mô tả 
+BMI Float Chỉ số khối cơ thể = weight / height² 
+basal_metabolic_rate Float (kcal) BMR tính theo Harris-Benedict / Mifflin-St Jeor 
+activity_level_mult Float Hệ số hoạt động (1.2 – 1.9) 
+energy_need Float (kcal) TDEE = BMR × activity_level_mult 
+disease_flags Map<String,Bool> { hypertension: true, diabetes: false, ... } 
+dietary_goal_weight Map<String,Float> Trọng số theo mục tiêu: weight_loss→ giảm 
+energy_density 
+taste_weight Map<String,Float> Trọng số sở thích vị: { spicy: 0.8, sweet: 0.3 } 
+age_group Enum child / teen / adult / senior 
+constraint_flags Map<String,Bool> { vegan: true, gluten_free: false, ... } 
+ 
+III. THỰC THỂ TRUNG TÂM 
+III.1  PhysiologicalDemand  (Cầu sinh lý tổng hợp) 
+Được tính từ WeatherVector ⊕ PersonalVector. Đây là vector nhu cầu thực sự dùng để chấm điểm nguyên liệu / 
+món ăn. 
+ 
+Entity: PhysiologicalDemand 
+Field Type Mô tả 
+thermoregulation_need Float [0,1] Nhu cầu điều nhiệt: tăng khi heat_stress_index hoặc 
+cold_stress_index cao 
+hydration_need Float [0,1] Nhu cầu bù nước: tăng theo dehydration_risk 
+electrolyte_need Float [0,1] Nhu cầu điện giải: tăng khi mồ hôi nhiều (heat + 
+activity) 
+energy_need Float (kcal) TDEE hiệu chỉnh theo heat_stress (giảm) / 
+cold_stress (tăng) 
+glycemic_control_need Float [0,1] Kiểm soát đường huyết: bắt nguồn từ 
+disease_flags.diabetes 
+sodium_control_need Float [0,1] Kiểm soát natri: từ disease_flags.hypertension (mới 
+tách riêng) 
+warming_food_need Float [0,1] Nhu cầu thức ăn ấm nóng: cold_stress_index + 
+season (mới) 
+cooling_food_need Float [0,1] Nhu cầu thức ăn mát lạnh: heat_stress_index (mới) 
+ 
+Công thức tổng hợp PhysiologicalDemand 
+hydration_need         = 0.5×dehydration_risk + 0.3×heat_stress_index + 
+0.2×activity_mult 
+electrolyte_need       = 0.6×hydration_need + 0.4×activity_mult 
+thermoregulation_need  = max(heat_stress_index, cold_stress_index) 
+ 
+ 
+energy_need            = TDEE × (1 - 0.1×heat_stress_index + 
+0.1×cold_stress_index) 
+ 
+glycemic_control_need  = diabetes_flag × 1.0  (binary) 
+sodium_control_need    = hypertension_flag × 1.0  (binary) 
+warming_food_need      = 0.6×cold_stress_index + 0.4×(1−heat_stress_index) 
+cooling_food_need      = 0.6×heat_stress_index + 0.4×(1−cold_stress_index) 
+ 
+III.2  Ingredient  (Nguyên liệu) 
+Entity: Ingredient 
+Field Type Mô tả 
+ingredient_id UUID Khóa chính 
+name String Tên nguyên liệu 
+name_local String Tên địa phương (hỗ trợ đa ngôn ngữ) 
+category Enum vegetable / fruit / protein / grain / dairy / spice / fat / 
+condiment 
+is_animal_based Bool Phân loại vegan / non-vegan 
+allergen_tags Array<String> ['gluten','shellfish','nut','dairy',...] 
+seasonal_availability Map<Season,Bool> { spring: true, summer: true, ... } 
+regional_availability Array<ClimateType> Vùng khí hậu có sẵn nguyên liệu 
+thermogenic_score Float [0,1] Khả năng sinh nhiệt (gừng, ớt → cao) 
+hydration_score Float [0,1] Hàm lượng nước / khả năng bù nước (dưa hấu → 
+cao) 
+electrolyte_density Float [0,1] Mật độ điện giải (chuối, dừa → cao) 
+energy_density Float (kcal/100g) Mật độ năng lượng 
+glycemic_index Float [0–100] Chỉ số đường huyết GI 
+sodium_density Float (mg/100g) Hàm lượng natri — dùng cho constraint tăng huyết 
+áp 
+warming_score Float [0,1] Tính ấm theo y học cổ truyền / nhiệt lượng thực 
+phẩm (mới) 
+cooling_score Float [0,1] Tính mát theo YHCT (mới) 
+satiety_score Float [0,1] Độ no (chất xơ, protein → cao) (mới) 
+ 
+III.3  Dish  (Món ăn) 
+Entity: Dish 
+Field Type Mô tả 
+dish_id UUID Khóa chính 
+name String Tên món 
+preparation_time Int (min) Thời gian chế biến (phút) 
+climate_suitability Array<ClimateType> Phù hợp với vùng khí hậu nào 
+season_suitability Map<Season,Float> Điểm phù hợp theo mùa { summer: 0.9, winter: 0.2 } 
+dish_thermogenic_score Float [0,1] Trung bình có trọng số từ 
+ingredient.thermogenic_score 
+dish_hydration_score Float [0,1] Tổng hợp khả năng bù nước của tất cả nguyên liệu 
+dish_energy_total Float (kcal) Tổng năng lượng (1 serving) 
+dish_glycemic_load Float GL = GI × carb_g / 100 (tổng hợp) 
+dish_sodium_total Float (mg) Tổng natri 1 khẩu phần 
+dish_warming_score Float [0,1] Độ ấm của món (mới) 
+dish_cooling_score Float [0,1] Độ mát của món (mới) 
+dish_satiety_score Float [0,1] Độ no tổng hợp (mới) 
+taste_profile Map<Taste,Float> { spicy: 0.7, sweet: 0.2, sour: 0.3 } 
+final_score Float Điểm tổng hợp sau scoring pipeline 
+score_breakdown Map<Dim,Float> Chi tiết điểm từng chiều (debug / explainability) 
+ 
+III.4  DishIngredient  (Bảng trung gian Dish ↔ Ingredient) 
+Entity: DishIngredient  (Junction Table) 
+Field Type Mô tả 
+dish_id UUID → Dish FK tới Dish 
+ingredient_id UUID → Ingredient FK tới Ingredient 
+quantity_g Float (g) Khối lượng nguyên liệu trong 1 serving 
+weight_in_dish Float [0,1] Trọng số đóng góp vào DishVector (qty_i / Σ qty) 
+is_main Bool Nguyên liệu chính hay phụ gia 
+is_optional Bool Có thể bỏ qua khi có constraint không? 
+ 
+IV. THỰC THỂ RÀNG BUỘC & KẾT QUẢ 
+IV.1  ConstraintProfile  (Lớp ràng buộc người dùng) 
+Entity: ConstraintProfile 
+Field Type Mô tả 
+user_id UUID Liên kết với người dùng 
+allergy_blacklist Array<String> Danh sách allergen bị cấm tuyệt đối 
+ingredient_blacklist Array<UUID> Nguyên liệu cụ thể bị loại 
+diet_type Enum vegan / vegetarian / pescatarian / omnivore 
+sodium_limit_mg Float Giới hạn natri / bữa (hypertension → 600mg) 
+glycemic_load_limit Float Giới hạn GL / bữa (diabetes → ≤10) 
+calorie_target Float (kcal) Mục tiêu calo / bữa từ PersonalVector.energy_need 
+excluded_cuisines Array<Enum> Loại ẩm thực không muốn gợi ý 
+max_prep_time Int (min) Thời gian chế biến tối đa chấp nhận được 
+hard_constraints Array<ConstraintRule> Các ràng buộc cứng (vi phạm → loại món) 
+soft_constraints Array<ConstraintRule> Các ràng buộc mềm (vi phạm → trừ điểm) 
+ 
+Bảng Constraint Rules mẫu 
+Constraint Điều kiện Tác động 
+Dị ứng allergen ∈ allergy_blacklist HARD – loại Ingredient và toàn bộ 
+Dish chứa 
+Tăng huyết áp sodium_total > sodium_limit_mg HARD – loại Dish vi phạm ngưỡng 
+Tiểu đường glycemic_load > 
+glycemic_load_limit HARD – loại Dish vi phạm GL 
+Vegan is_animal_based == true HARD – loại Ingredient; ưu tiên 
+substitute 
+Thời gian prep_time > max_prep_time SOFT – trừ điểm (−0.1 per 5 min 
+thừa) 
+Sở thích vị taste_profile mismatch SOFT – nhân hệ số taste_weight 
+Mùa vụ seasonality_factor < 0.4 SOFT – trừ điểm khả năng sẵn có 
+ 
+IV.2  RecommendationResult  (Kết quả gợi ý) 
+Entity: RecommendationResult 
+Field Type Mô tả 
+result_id UUID Khóa chính 
+user_id UUID FK người dùng 
+timestamp DateTime Thời điểm tạo gợi ý 
+weather_snapshot WeatherVector Snapshot vector thời tiết tại lúc gợi ý 
+location_snapshot LocationVector Snapshot vector vị trí 
+demand_snapshot PhysiologicalDemand Snapshot nhu cầu sinh lý 
+ranked_dishes Array<RankedDish> Danh sách món xếp hạng (max 10) 
+explanation Array<String> Lý do gợi ý theo từng chiều demand (explainability) 
+fallback_dishes Array<UUID> Món dự phòng khi top-k bị constraint lọc hết 
+session_feedback Map<dish_id,Rating> Phản hồi người dùng sau khi ăn (mới) 
+ 
+IV.3  RankedDish  (Chi tiết một món trong kết quả) 
+Entity: RankedDish 
+Field Type Mô tả 
+dish_id UUID → Dish Tham chiếu món 
+rank Int Vị trí xếp hạng (1 = tốt nhất) 
+final_score Float [0,1] Điểm cuối sau tất cả các bước 
+score_breakdown Map<Dimension,Float> { hydration: 0.9, immune: 0.7, ... } 
+constraint_notes Array<String> Ghi chú constraint đã áp dụng (soft) hoặc vi phạm 
+substitutions Array<SubstitutionNote> Nguyên liệu nào đã được thay thế và tại sao 
+serving_suggestion String Gợi ý phục vụ: 'uống kèm nước dừa', 'ăn nóng', v.v. 
+ 
+V. CÔNG THỨC TÍNH ĐIỂM 
+V.1  DishVector  ←  tổng hợp từ IngredientVector 
+DishVector[dim] = Σ_i ( weight_i × Ingredient_i[dim] ) 
+  trong đó: weight_i = quantity_i / Σ_j quantity_j 
+ 
+  Áp dụng cho: thermogenic, hydration, electrolyte 
+, 
+               warming_score, cooling_score, satiety_score 
+ 
+  Đặc biệt: 
+  dish_energy_total = Σ_i ( quantity_i/100 × energy_density_i ) 
+  dish_glycemic_load = Σ_i ( GI_i × carb_g_i / 100 ) 
+  dish_sodium_total  = Σ_i ( quantity_i/100 × sodium_density_i ) 
+ 
+V.2  Score(Dish)  ←  dot-product với PhysiologicalDemand 
+Score(dish) = Σ_dim ( Demand[dim] × DishVector[dim] × ConstraintMultiplier[dim] ) 
+ 
+  ConstraintMultiplier[dim] ∈ { 0 = hard violation, 0.5 = soft penalty, 1 = OK } 
+ 
+  Demand dimensions: 
+    hydration_need, electrolyte_need, thermoregulation_need, 
+     
+    warming_food_need, cooling_food_need 
+ 
+  Taste bonus: 
+    taste_bonus = Σ_t ( taste_weight_t × taste_profile_dish[t] ) 
+ 
+  Final: 
+    FinalScore = 0.75 × Score(dish) + 0.15 × taste_bonus + 0.10 × 
+seasonality_factor 
+ 
+VI. CHU TRÌNH XỬ LÝ ĐẦY ĐỦ (Processing Pipeline) 
+# Bước Input Output Ghi chú 
+1 Thu thập Raw Input WeatherInput + LocationInput 
++ PersonalInput Dữ liệu thô đã hợp lệ API / Form 
+2 Chuẩn hóa WeatherVector WeatherInput (temp, humidity, 
+wind, aqi, uv...) WeatherVector [0,1] Min-Max Norm 
+3 Xây dựng LocationVector lat, lon, city + DB vùng khí 
+hậu LocationVector Lookup DB 
+4 Tính PersonalVector age, gender, height, weight, 
+goals, conditions 
+PersonalVector (BMI, 
+BMR, TDEE, flags) Formula 
+5 Tổng hợp 
+PhysiologicalDemand 
+WeatherVector ⊕ 
+PersonalVector 
+PhysiologicalDemand 
+(12 chiều) Weighted sum 
+6 Tạo ConstraintProfile PersonalVector.disease_flags 
++ allergies + diet_type ConstraintProfile Rule mapping 
+7 Lọc Ingredient Pool Tất cả Ingredient + 
+ConstraintProfile 
+Ingredient Pool hợp lệ 
+(hard constraints) Filter 
+8 Lọc Dish Pool Tất cả Dish + Ingredient Pool 
+hợp lệ 
+Dish Pool (chỉ dish có 
+đủ nguyên liệu hợp lệ) Join + Filter 
+9 Tính DishVector Dish Pool × DishIngredient × 
+Ingredient.vector 
+DishVector cho từng 
+Dish Weighted avg 
+10 Áp Soft Constraints DishVector + ConstraintProfile ConstraintMultiplier per 
+dish per dim Penalty 
+11 Chấm điểm Score(Dish) 
+PhysiologicalDemand × 
+DishVector × 
+ConstraintMultiplier 
+Raw score mỗi Dish Dot product 
+12 Cộng Taste & Seasonality 
+bonus 
+taste_weight, 
+seasonality_factor, 
+traditional_compat 
+ tương tác thực thể 
+locatevector 
+ 
+climate type->  
+food_availability_score→ 
+seasonality_factor -> 
+traditional_compatibility-> 
+local_spice_index-> 
+ 
+FinalScore Weighted add 
+13 Xếp hạng & Cắt top-K FinalScore tất cả Dish RankedDishList (top 
+10) argsort 
+14 Kiểm tra Fallback Nếu top-10 rỗng → mở rộng 
+soft constraints Fallback dish list Fallback logic 
+15 Tạo 
+RecommendationResult 
+RankedDishList + snapshots 
++ explanation 
+RecommendationResult 
+(trả về client) Serialize 
+ 
+VII. SƠ ĐỒ QUAN HỆ THỰC THỂ (ERD Summary) 
+Entity A Card. Entity B Card. Ghi chú quan hệ 
+PersonalInput 1:1 PersonalVector 1:1 Transformation, not stored separately 
+WeatherInput 1:1 WeatherVector 1:1 Normalization step 
+LocationInput 1:1 LocationVector 1:1 Lookup + Enrichment 
+WeatherVector 
++LocationVector 
++PersonalVector 
+N:1 PhysiologicalDemand 1:1 Fusion step, 1 demand per session 
+PhysiologicalDemand 1:N RecommendationResult N:1 Nhiều phiên gợi ý / demand 
+Dish M:N Ingredient M:N Qua DishIngredient (junction) 
+DishIngredient N:1 Ingredient 1:N Với weight_in_dish, quantity_g 
+Dish 1:1 DishVector 1:1 Computed, cached or real-time 
+Dish 1:N RankedDish N:1 Một Dish có thể rank trong nhiều kết 
+quả 
+RecommendationResult 1:N RankedDish N:1 Một kết quả chứa nhiều ranked 
+dishes 
+PersonalVector 1:1 ConstraintProfile 1:1 Derived from disease_flags, diet_type 
+ConstraintProfile 1:N ConstraintRule N:1 Hard và Soft rules 
+ 
+VIII. ĐỀ XUẤT BỔ SUNG 
+Hạng mục Đề xuất cụ thể Lý do / Lợi ích 
+Field mới cho Ingredient warming_score, cooling_score, 
+satiety_score 
+Phân biệt tính ấm/mát (YHCT) và độ no 
+→ gợi ý chính xác hơn theo mùa 
+Field mới cho Dish serving_temp, climate_suitability, 
+season_suitability 
+Phân loại rõ hơn: món ăn nóng / lạnh, 
+phù hợp vùng / mùa nào 
+Field mới cho 
+PhysiologicalDemand 
+sodium_control_need, 
+warming_food_need, cooling_food_need 
+Tách riêng 2 nhu cầu nhiệt và kiểm soát 
+natri ra khỏi các chiều cũ 
+ConstraintProfile hard_constraints / soft_constraints + 
+fallback_dishes 
+Phân biệt vi phạm tuyệt đối và giảm 
+điểm; tránh kết quả rỗng 
+RecommendationResult session_feedback, explanation, 
+score_breakdown 
+Explainability + học từ phản hồi người 
+dùng 
+LocationVector mở rộng market_access_score, local_spice_index Phản ánh khả năng mua nguyên liệu 
+tươi + khẩu vị địa phương 
+PersonalInput mở rộng diet_type (vegan/pescatarian...) Phân loại chế độ ăn rõ ràng hơn gender 
+/ health_condition 
+Caching & Indexing Cache DishVector; index theo 
+climate_type + season 
+Giảm latency tính toán real-time khi Dish 
+DB lớn 
+Feedback Loop session_feedback → cập nhật 
+taste_weight Cá nhân hóa theo thời gian dài hơn 
+ 
+Weather-Aware Food Recommendation System  |  Entity Design v1.0  |  2026 
+ 
+ 
+ 
+Bổ sung : 
+Geo-Cell Caching — Giải pháp Cache 
+Thời Tiết 
+Vấn đề 
+Mỗi lần người dùng mở app, hệ thống gọi Weather API một lần. Nếu 1.000 người dùng ở cùng một thành phố mở 
+app trong vòng 30 phút, hệ thống sẽ gọi API 1.000 lần dù thời tiết thực tế gần như không đổi. Đây là lãng phí chi 
+phí không cần thiết. 
+Ý tưởng cốt lõi 
+Thay vì gọi API theo từng tọa độ chính xác của từng người, hệ thống chia bản đồ thành các ô lưới đều nhau. 
+Mỗi ô đại diện cho một vùng địa lý nhỏ, khoảng 11km × 11km. Tất cả người dùng rơi vào cùng một ô sẽ dùng 
+chung một bản dữ liệu thời tiết đã được lưu sẵn, thay vì mỗi người tự gọi API riêng. 
+Ví dụ minh họa: Ba người dùng ở Đà Nẵng cùng mở app lúc 8 giờ sáng. Người A ở Hải Châu, người B ở Thanh 
+Khê, người C cũng ở Hải Châu. Hệ thống xác định A và C cùng ô lưới, nên chỉ gọi API một lần rồi trả kết quả cho 
+cả hai. Người B ở ô lưới khác thì gọi API riêng, nhưng bản cache đó cũng được lưu lại cho những người dùng 
+tiếp theo ở Thanh Khê. 
+Cơ chế hoạt động 
+Khi người dùng gửi yêu cầu gợi ý món ăn, hệ thống không gọi API thời tiết ngay. Thay vào đó, nó thực hiện theo 
+trình tự sau: 
+Bước 1 — Xác định ô lưới. Hệ thống làm tròn tọa độ của người dùng về trung tâm ô lưới gần nhất. Ví dụ tọa độ 
+15.872°N / 108.338°E sẽ được làm tròn về ô 15.9°N / 108.3°E. Đây trở thành "địa chỉ" cache duy nhất cho cả 
+vùng đó. 
+Bước 2 — Kiểm tra cache. Hệ thống tra cứu xem ô lưới này đã có dữ liệu thời tiết chưa và dữ liệu đó còn hợp 
+lệ không (chưa hết thời gian sống TTL). 
+Bước 3a — Nếu có cache hợp lệ. Trả ngay dữ liệu WeatherVector từ cache. Không tốn một lần gọi API nào. 
+Bước 3b — Nếu không có cache hoặc đã hết hạn. Gọi Weather API thật, nhận dữ liệu thô, chuẩn hóa thành 
+WeatherVector, lưu vào cache kèm thời điểm hết hạn, rồi trả về cho người dùng. 
+Thực thể WeatherCache 
+WeatherCache là một bảng lưu trữ trung gian, nằm giữa LocationInput và WeatherVector trong pipeline hiện tại. 
+Nó gồm các thông tin chính: 
+Định danh ô lưới gồm tọa độ trung tâm ô (grid_lat, grid_lon) và kích thước ô (cell_size_deg). Ba trường này kết 
+hợp tạo thành khóa tra cứu duy nhất. 
+Dữ liệu thời tiết gồm WeatherVector đã chuẩn hóa (dùng trực tiếp cho pipeline) và raw_data là phản hồi gốc từ 
+API (lưu để debug hoặc tái chuẩn hóa nếu cần). 
+Metadata vòng đời gồm fetched_at (thời điểm gọi API thật), expires_at (thời điểm cache hết hạn), và source_api 
+(tên nhà cung cấp thời tiết). 
+Thông tin vận hành gồm hit_count (đếm số lần cache được tái sử dụng, dùng để đánh giá hiệu quả) và 
+adaptive_ttl (TTL động, điều chỉnh theo điều kiện thời tiết). 
+Chiến lược thời gian sống (TTL) 
+TTL không nên cố định một giá trị duy nhất vì thời tiết thay đổi không đều nhau trong ngày và theo điều kiện khí 
+hậu. 
+Ban ngày từ 6 giờ đến 22 giờ, thời tiết biến động nhiều hơn nên TTL nên đặt khoảng 30 phút. Ban đêm từ 22 giờ 
+đến 6 giờ sáng, thời tiết ổn định hơn, có thể kéo dài lên 60 phút để tiết kiệm thêm. Khi AQI hoặc wind_speed 
+vượt ngưỡng cao, hoặc khi có cảnh báo thời tiết cực đoan, TTL nên rút xuống còn 15 phút vì dữ liệu thay đổi 
+nhanh hơn. 
+Vị trí trong Pipeline hiện tại 
+Giải pháp này chèn vào giữa Bước 1 (Thu thập Raw Input) và Bước 2 (Chuẩn hóa WeatherVector) dưới dạng 
+một bước mới, gọi là Bước 1.5 — Weather Cache Lookup. Toàn bộ phần còn lại của pipeline không thay đổi vì 
+đầu ra vẫn là WeatherVector như cũ, chỉ khác ở chỗ WeatherVector đó có thể đến từ cache thay vì từ API. 
+Điểm cần lưu ý 
+Vấn đề biên ô lưới. Hai người dùng chỉ cách nhau 200 mét nhưng nằm ở hai phía của đường biên ô lưới sẽ bị 
+xếp vào hai ô khác nhau và không dùng chung cache. Điều này chấp nhận được vì sai số thời tiết ở khoảng cách 
+đó là không đáng kể, và lợi ích cache vẫn đạt được ở quy mô lớn hơn. 
+Kích thước ô lưới. Ô càng lớn thì tỉ lệ cache hit càng cao nhưng độ chính xác thời tiết càng giảm. Ô 0.1° 
+(~11km) là điểm cân bằng tốt cho đô thị. Vùng nông thôn hoặc địa hình bằng phẳng có thể dùng ô lớn hơn (0.5°) 
+mà không ảnh hưởng nhiều đến chất lượng gợi ý. 
+Lưu trữ. Redis là lựa chọn phù hợp nhất vì hỗ trợ TTL tự động, tốc độ tra cứu rất nhanh, và không cần quản lý 
+việc xóa cache thủ công. 
+Để mình thiết kế đúng độ sâu bạn cần:Toàn bộ 4 phần, mức độ cân bằng — đây là lựa chọn thực tế nhất. Dưới 
+đây là thiết kế đầy đủ Lớp 3. 
+Lớp 3 — Học từ phản hồi người dùng 
+Thiết kế tổng thể 
+Hệ thống học theo nguyên tắc không cần train lại model. Thay vào đó, mọi thứ được thực hiện qua cập nhật 
+trọng số số học đơn giản, chạy real-time hoặc batch nhẹ. Điều này phù hợp với giai đoạn đầu khi chưa có đủ dữ 
+liệu để train mô hình ML phức tạp, đồng thời vẫn cho phép nâng cấp lên ML thật sự sau này mà không cần thay 
+đổi kiến trúc. 
+Phần 1 — Vòng ngắn hạn (Session Adaptation) 
+Cơ chế hoạt động 
+Khi người dùng nhận được danh sách gợi ý, hệ thống không chờ họ đánh giá sau khi ăn. Nó quan sát hành vi 
+tức thì ngay trong phiên đó: món nào được bấm vào xem chi tiết, món nào được chọn, món nào bị bỏ qua hoàn 
+toàn. 
+Mỗi hành động được gán một tín hiệu ngầm theo thang điểm. Chọn món ở hạng 1 là tín hiệu trung tính vì đúng 
+như kỳ vọng. Chọn món ở hạng 3 hoặc thấp hơn là tín hiệu dương mạnh cho các chiều đặc trưng của món đó. 
+Bỏ qua hoàn toàn món hạng 1 là tín hiệu âm. Xem chi tiết nhưng không chọn là tín hiệu âm nhẹ. 
+Cơ chế điều chỉnh trọng số tạm thời 
+Hệ thống duy trì một SessionDeltaVector — một bản sao tạm thời của taste_weight và dimension_sensitivity, 
+chỉ tồn tại trong bộ nhớ trong thời gian phiên hoạt động, không ghi vào database. 
+Khi người dùng chọn món X thay vì món Y được gợi ý cao hơn, hệ thống tính ra sự khác biệt giữa DishVector 
+của X và Y. Các chiều nào mà X cao hơn Y đáng kể thì tăng trọng số tạm thời cho chiều đó. Các chiều nào Y cao 
+hơn X thì giảm nhẹ. Mức điều chỉnh mỗi lần nhỏ — khoảng 5 đến 10 phần trăm — để tránh dao động quá mạnh 
+từ một lựa chọn đơn lẻ. 
+Nếu trong cùng một phiên người dùng thực hiện nhiều lựa chọn, các tín hiệu được cộng dồn. Kết quả là danh 
+sách gợi ý ở lần tiếp theo trong cùng phiên đó đã được điều chỉnh tinh tế theo khẩu vị thực tế của người dùng 
+hôm đó, không phải khẩu vị khai báo ban đầu. 
+Khi nào SessionDelta được ghi vào dài hạn 
+Cuối phiên, nếu người dùng có đánh giá sau khi ăn (rating 4–5 sao), SessionDelta được ghi nhận là tín hiệu đáng 
+tin cậy và đưa vào hàng đợi để cập nhật UserPreferenceModel. Nếu không có rating hoặc rating thấp, 
+SessionDelta bị hủy. Điều này tránh việc học từ những lựa chọn bốc đồng hoặc sai ngữ cảnh. 
+Phần 2 — Vòng dài hạn (Profile Learning) 
+Tín hiệu đầu vào 
+Vòng dài hạn không xử lý từng hành động riêng lẻ mà nhìn vào pattern tích lũy qua nhiều phiên. Dữ liệu đầu 
+vào là toàn bộ lịch sử UserFeedback của người dùng, được nhóm theo context_snapshot để tách biệt hành vi 
+theo thời tiết. 
+Ví dụ: nếu phân tích thấy rằng vào những ngày có heat_stress_index > 0.7, người dùng này có tỉ lệ chọn món có 
+cooling_score cao là 85%, nhưng vào ngày mát thì chỉ 30% — đây là pattern có ý nghĩa, không phải ngẫu nhiên. 
+Thuật toán cập nhật UserPreferenceModel 
+Hệ thống dùng Exponential Moving Average (EMA) để cập nhật learned_taste_weight. EMA phù hợp vì nó tự 
+nhiên ưu tiên hành vi gần đây hơn hành vi cũ, phản ánh đúng thực tế là khẩu vị người dùng thay đổi theo thời 
+gian. 
+Công thức cập nhật đơn giản: trọng số mới bằng 0.8 nhân trọng số cũ cộng 0.2 nhân tín hiệu từ hành vi mới 
+nhất. Hệ số 0.8 và 0.2 có thể điều chỉnh — hệ số decay càng cao thì model càng "bảo thủ", học chậm nhưng ổn 
+định hơn. 
+Sau mỗi lần cập nhật, confidence_score tăng dần theo số lượng feedback có rating rõ ràng. Chỉ khi 
+confidence_score vượt ngưỡng tối thiểu (được đề xuất là sau 20 lần tương tác có rating), hệ thống mới bắt đầu 
+dùng learned_taste_weight thay cho taste_weight gốc. 
+Phát hiện drift và reset cục bộ 
+Một vấn đề thực tế là khẩu vị người dùng có thể thay đổi đột ngột — ví dụ họ vừa được chẩn đoán bệnh mới, 
+hoặc đơn giản là chuyển sang chế độ ăn mới. Nếu hệ thống phát hiện rằng trong 5–7 phiên gần nhất, tỉ lệ chấp 
+nhận gợi ý giảm mạnh so với trung bình lịch sử, đó là dấu hiệu drift. 
+Khi drift được phát hiện, hệ thống không xóa toàn bộ profile mà thực hiện reset cục bộ — giảm 
+confidence_score về ngưỡng tối thiểu và tăng learning rate tạm thời để thích nghi nhanh hơn. Đồng thời, chatbot 
+(Lớp 2) có thể chủ động hỏi người dùng xem có thay đổi gì không để cập nhật PersonalInput nếu cần. 
+Phần 3 — Thiết kế Entity chi tiết 
+UserFeedback 
+Mỗi bản ghi UserFeedback đại diện cho một lần tương tác đơn lẻ giữa người dùng và một món trong danh sách 
+gợi ý. Các trường chính gồm user_id và session_id để định danh, dish_id và rank_at_time để biết món đó đứng 
+vị trí nào khi được gợi ý, action_type để phân loại hành vi (viewed / selected / skipped / rated), rating từ 1 đến 5 
+nếu người dùng đánh giá sau khi ăn, và context_snapshot lưu WeatherVector + PhysiologicalDemand tại thời 
+điểm đó. 
+Ngoài ra có hai trường quan trọng thường bị bỏ qua: time_to_action là thời gian từ lúc danh sách hiện ra đến lúc 
+người dùng hành động (thời gian dài trước khi chọn hạng thấp gợi ý sự do dự, có thể là tín hiệu âm yếu), và 
+competing_dishes là danh sách các món khác trong cùng phiên (để tính relative preference thay vì absolute 
+preference). 
+UserPreferenceModel 
+Đây là bảng trung tâm của Lớp 3, cập nhật sau mỗi batch học. Các trường quan trọng gồm learned_taste_weight 
+là Map từ taste dimension sang Float, được khởi tạo bằng taste_weight gốc và dần được điều chỉnh. 
+dimension_sensitivity là Map từ demand dimension sang Float, phản ánh mức độ người dùng thực sự phản ứng 
+với từng chiều nhu cầu. ingredient_affinity là Map từ ingredient_id sang Float trong khoảng âm 1 đến dương 1, 
+dương nghĩa là thích, âm nghĩa là né tránh theo hành vi thực tế. 
+Ba trường metadata quan trọng là confidence_score tăng dần theo số feedback có rating, last_updated để biết 
+khi nào profile được cập nhật lần cuối, và interaction_count là tổng số lần tương tác đã ghi nhận. 
+SessionState 
+Thực thể mới, tồn tại trong bộ nhớ (Redis) và tự động hết hạn sau khi phiên kết thúc. Lưu session_id, user_id, 
+delta_taste_weight (điều chỉnh tạm thời trong phiên), actions_in_session (danh sách hành động trong phiên theo 
+thứ tự thời gian), và is_committed (đánh dấu liệu SessionDelta có được ghi vào dài hạn không). 
+Phần 4 — Tích hợp vào Pipeline 
+Lớp 3 can thiệp tại hai điểm trong pipeline hiện tại, không thay thế bất kỳ bước nào mà chỉ bổ sung thêm dữ 
+liệu đầu vào. 
+Điểm can thiệp thứ nhất là ngay trước Bước 12 (Cộng Taste & Seasonality bonus). Pipeline kiểm tra 
+confidence_score của UserPreferenceModel. Nếu đủ ngưỡng, dùng learned_taste_weight và 
+dimension_sensitivity đã học. Nếu chưa đủ, dùng taste_weight gốc từ PersonalInput. Nếu đang trong session có 
+SessionDelta, áp thêm delta lên trên learned_taste_weight. Ba tầng này hoạt động theo thứ tự ưu tiên: 
+SessionDelta > LearnedWeight > OriginalWeight. 
+Điểm can thiệp thứ hai là sau Bước 13 (Xếp hạng top-K). Trước khi trả kết quả về client, pipeline áp thêm 
+ingredient_affinity penalty/bonus lên FinalScore. Các món chứa nguyên liệu có affinity âm cao bị trừ điểm nhẹ, 
+không bị loại hoàn toàn (để tránh hệ thống quá hẹp), nhưng đủ để đẩy xuống thứ hạng thấp hơn. 
+Điểm thu thập tín hiệu nằm ngoài pipeline scoring, ở lớp API. Mỗi khi client gửi sự kiện tương tác (user taps, 
+selections, ratings), server ghi vào UserFeedback và cập nhật SessionState. Việc cập nhật UserPreferenceModel 
+từ dài hạn chạy dưới dạng background job định kỳ, không chặn request chính. 
+Tóm tắt luồng dữ liệu hoàn chỉnh 
+Người dùng mở app → Pipeline chạy bình thường với PersonalVector gốc → Trước Bước 12, pipeline tra cứu 
+UserPreferenceModel và SessionState → FinalScore được điều chỉnh theo learned weights → Danh sách gợi ý 
+trả về client → Người dùng tương tác → Client gửi sự kiện về server → Server cập nhật SessionState real-time 
+và UserFeedback → Background job định kỳ phân tích UserFeedback và cập nhật UserPreferenceModel → 
+Phiên tiếp theo hệ thống đã thông minh hơn một chút. 
+Ý tưởng hay! Đây là hướng tiếp cận pre-computed explanation thay vì gọi LLM real-time mỗi lần. Hoàn toàn 
+khả thi, nhưng có nhiều cách làm với đánh đổi khác nhau. 
+Vấn đề cốt lõi cần xác định trước 
+Câu hỏi then chốt là: "trường hợp" ở đây là gì? 
+Nếu explanation phụ thuộc vào từng tổ hợp cụ thể giữa người dùng, thời tiết, và món ăn thì số lượng trường hợp 
+là vô hạn — không thể pre-compute hết. Nhưng nếu tách ra thành các thành phần độc lập và ghép lại, thì hoàn 
+toàn quản lý được. 
+Hướng tiếp cận: Explanation Template 
+Library 
+Thay vì lưu toàn bộ câu giải thích hoàn chỉnh, hệ thống lưu một thư viện các mảnh giải thích (explanation 
+fragments) theo từng chiều demand. Khi cần giải thích cho một gợi ý cụ thể, pipeline ghép các mảnh phù hợp lại 
+thành câu hoàn chỉnh mà không cần gọi LLM. 
+Cấu trúc thư viện 
+Thư viện được tổ chức theo ba tầng. 
+Tầng 1 — Context Fragment mô tả tình trạng thời tiết và nhu cầu sinh lý hiện tại. Mỗi fragment gắn với một 
+khoảng giá trị của một chiều demand. Ví dụ khi heat_stress_index nằm trong khoảng 0.7 đến 1.0, fragment tương 
+ứng là "Hôm nay nắng nóng, nhiệt độ cao và độ ẩm lớn khiến cơ thể dễ mất nước." Khi cold_stress_index cao, 
+fragment là "Thời tiết lạnh và gió mạnh hôm nay khiến cơ thể cần giữ ấm." Mỗi chiều demand được chia thành 3 
+đến 4 khoảng giá trị, mỗi khoảng có 2 đến 3 phiên bản câu để tránh lặp lại. 
+Tầng 2 — Dish Fragment mô tả tại sao món ăn cụ thể phù hợp với nhu cầu đó. Fragment này gắn với cặp 
+(demand_dimension, dish_score_range). Ví dụ khi hydration_need cao và dish_hydration_score cao, fragment là 
+"[Tên món] có hàm lượng nước cao, giúp bù đắp lượng nước cơ thể đang thiếu." Khi warming_food_need cao và 
+dish_warming_score cao, fragment là "[Tên món] có tính ấm, phù hợp để giữ nhiệt cho cơ thể trong thời tiết này." 
+Tầng 3 — Constraint Fragment giải thích các ràng buộc sức khỏe đã được áp dụng. Đây là các câu cố định gắn 
+với từng disease_flag. Ví dụ với hypertension_flag là "Món này có lượng natri thấp, phù hợp với người cần kiểm 
+soát huyết áp." Với diabetes_flag là "Chỉ số đường huyết của món này ở mức thấp, an toàn cho người cần kiểm 
+soát đường huyết." 
+Cơ chế ghép explanation 
+Khi pipeline cần giải thích cho một RankedDish, nó thực hiện theo thứ tự sau. 
+Đầu tiên xác định top 2 chiều demand có giá trị cao nhất trong PhysiologicalDemand của phiên đó. Đây là lý do 
+chính của gợi ý. Tiếp theo lấy Context Fragment tương ứng với chiều demand cao nhất. Sau đó lấy Dish 
+Fragment cho từng chiều demand đã chọn, thay thế placeholder tên món bằng tên thật. Cuối cùng nếu có 
+disease_flag nào đang hoạt động, thêm Constraint Fragment tương ứng. Ba phần này ghép lại thành một đoạn 
+giải thích hoàn chỉnh 2 đến 4 câu. 
+Số lượng fragment cần chuẩn bị 
+Ước tính quy mô thư viện cần thiết như sau. Có khoảng 9 chiều demand, mỗi chiều chia 4 khoảng giá trị, mỗi 
+khoảng cần 3 phiên bản câu — tổng cộng khoảng 108 Context Fragment. Dish Fragment tương tự với 9 chiều 
+demand nhân 4 khoảng nhân 3 phiên bản ra khoảng 108 fragment, nhưng có thêm placeholder tên món nên thực 
+tế chỉ cần 108 template. Constraint Fragment là khoảng 10 đến 15 câu cố định cho các bệnh lý phổ biến. Tổng 
+cộng toàn bộ thư viện chỉ cần khoảng 230 đến 250 fragment — hoàn toàn viết tay được, hoặc dùng LLM một lần 
+để sinh ra toàn bộ rồi lưu vào database. 
+Đánh đổi so với gọi LLM real-time 
+Pre-computed template có ưu điểm rõ ràng về chi phí (không tốn token mỗi request), tốc độ (ghép fragment gần 
+như tức thì), và kiểm soát (nội dung giải thích luôn nhất quán, không bị LLM hallucinate). Nhược điểm là câu văn 
+đôi khi cứng và thiếu tự nhiên, và khi có nhiều ràng buộc kết hợp phức tạp thì câu ghép có thể đọc không mượt. 
+Giải pháp cân bằng tốt nhất là dùng template cho 95% trường hợp thông thường, và chỉ gọi LLM cho các trường 
+hợp ngoại lệ — ví dụ khi người dùng có hơn 3 disease_flag cùng lúc, hoặc khi combination demand quá bất 
+thường so với các pattern đã có trong thư viện. 
+Thực thể ExplanationFragment 
+Bảng lưu trữ thư viện này gồm các trường chính: fragment_id, fragment_type (context / dish / constraint), 
+demand_dimension, score_range_min và score_range_max xác định khoảng giá trị kích hoạt fragment, 
+text_template là nội dung câu với placeholder như {dish_name} hoặc {temperature}, language để hỗ trợ đa ngôn 
+ngữ, và variant_index để phân biệt các phiên bản câu khác nhau cho cùng một điều kiện — hệ thống chọn ngẫu 
+nhiên giữa các variant để tránh lặp lại nội dung giữa các phiên. 

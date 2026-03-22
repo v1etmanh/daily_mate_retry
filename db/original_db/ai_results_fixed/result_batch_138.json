@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 17649,
+    "recipe_id": "24100020",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17650,
+    "recipe_id": "24100020",
+    "standard_id": 6027,
+    "raw_name": "thịt băm chay nhiều ít tuỳ mình",
+    "standard_name": "thịt chay",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 17651,
+    "recipe_id": "24100020",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế bắt buộc phải có để tạo ra hương vị món này",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 17653,
+    "recipe_id": "24100020",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 17656,
+    "recipe_id": "24100020",
+    "standard_id": 6101,
+    "raw_name": "nước lúc xào cho thịt chay đỡ két và thấm vị đều hơn",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17682,
+    "recipe_id": "24096655",
+    "standard_id": 668,
+    "raw_name": "ba chỉ bò loại lát mỏng",
+    "standard_name": "ba chỉ bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17683,
+    "recipe_id": "24096655",
+    "standard_id": 233,
+    "raw_name": "củ cải trắng",
+    "standard_name": "củ cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17684,
+    "recipe_id": "24096655",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17685,
+    "recipe_id": "24096655",
+    "standard_id": 8055,
+    "raw_name": "bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17686,
+    "recipe_id": "24096655",
+    "standard_id": 8180,
+    "raw_name": "đậu tương độ mặn gia giảm theo khẩu vị người Hàn thường ăn khá mặn",
+    "standard_name": "đậu nành",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 17687,
+    "recipe_id": "24096655",
+    "standard_id": 749,
+    "raw_name": "tương ớt Hàn Quốc",
+    "standard_name": "gochujang",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17688,
+    "recipe_id": "24096655",
+    "standard_id": 492,
+    "raw_name": "sốt ssamjang chấm thịt HQ",
+    "standard_name": "xốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 17689,
+    "recipe_id": "24096655",
+    "standard_id": 3635,
+    "raw_name": "bí ngòi",
+    "standard_name": "bí ngòi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17690,
+    "recipe_id": "24096655",
+    "standard_id": 166,
+    "raw_name": "hành tây to",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17692,
+    "recipe_id": "24096655",
+    "standard_id": 151,
+    "raw_name": "nấm không cho cũng được",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 17693,
+    "recipe_id": "24096655",
+    "standard_id": 24,
+    "raw_name": "ớt cay hoặc ớt không cay cùng để trang trí",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 17694,
+    "recipe_id": "24096655",
+    "standard_id": 71,
+    "raw_name": "đậu hũ lượng mình thường chỉ dùng khoanh bằng đĩa nhỏ tại thích ăn đậu",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17696,
+    "recipe_id": "24096655",
+    "standard_id": 1322,
+    "raw_name": "Hành baro hoặc hành lá",
+    "standard_name": "ba rô",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 17697,
+    "recipe_id": "24096586",
+    "standard_id": 142,
+    "raw_name": "Thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17698,
+    "recipe_id": "24096586",
+    "standard_id": 149,
+    "raw_name": "Thịt heo",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17699,
+    "recipe_id": "24096586",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17700,
+    "recipe_id": "24096586",
+    "standard_id": 371,
+    "raw_name": "Giá",
+    "standard_name": "giá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17701,
+    "recipe_id": "24096586",
+    "standard_id": 31,
+    "raw_name": "Sả bằm",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17702,
+    "recipe_id": "24096586",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17703,
+    "recipe_id": "24096586",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17704,
+    "recipe_id": "24096586",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17707,
+    "recipe_id": "24096586",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 17708,
+    "recipe_id": "24096586",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 17711,
+    "recipe_id": "24096586",
+    "standard_id": 1517,
+    "raw_name": "Rau thơm",
+    "standard_name": "rau thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 17730,
+    "recipe_id": "24096095",
+    "standard_id": 3735,
+    "raw_name": "Bánh mì sandwich",
+    "standard_name": "bánh mì sandwich",
+    "confidence": 1.0
+  }
+]

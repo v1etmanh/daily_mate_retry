@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 63626,
+    "recipe_id": "15769295",
+    "standard_id": 151,
+    "raw_name": "Nấm",
+    "standard_name": "nấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63627,
+    "recipe_id": "15769295",
+    "standard_id": 146,
+    "raw_name": "trứng gà ta",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63628,
+    "recipe_id": "15769295",
+    "standard_id": 9,
+    "raw_name": "cà chua dằm lấy nước canh",
+    "standard_name": "cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63629,
+    "recipe_id": "15768985",
+    "standard_id": 1020,
+    "raw_name": "Cá điêu hồng",
+    "standard_name": "cá diêu hồng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63630,
+    "recipe_id": "15768985",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63631,
+    "recipe_id": "15768985",
+    "standard_id": 353,
+    "raw_name": "Rau cần tàu",
+    "standard_name": "cần tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63632,
+    "recipe_id": "15768985",
+    "standard_id": 151,
+    "raw_name": "Các loại nấm",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63634,
+    "recipe_id": "15768985",
+    "standard_id": 225,
+    "raw_name": "Giấm chua",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63636,
+    "recipe_id": "15768985",
+    "standard_id": null,
+    "raw_name": "",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 63641,
+    "recipe_id": "15763232",
+    "standard_id": 1187,
+    "raw_name": "Nước phở",
+    "standard_name": "nước dùng",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 63642,
+    "recipe_id": "15763232",
+    "standard_id": 7722,
+    "raw_name": "bắp bò",
+    "standard_name": "bắp bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63643,
+    "recipe_id": "15763232",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63644,
+    "recipe_id": "15763232",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63647,
+    "recipe_id": "15763232",
+    "standard_id": 1589,
+    "raw_name": "gia vị phở khô",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 63651,
+    "recipe_id": "15763232",
+    "standard_id": 225,
+    "raw_name": "dấm táo",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63653,
+    "recipe_id": "15763232",
+    "standard_id": 2210,
+    "raw_name": "Rau ăn kèm",
+    "standard_name": "rau sống",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 63654,
+    "recipe_id": "15763232",
+    "standard_id": 1517,
+    "raw_name": "rau thơm và xà lách",
+    "standard_name": "rau thơm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 63655,
+    "recipe_id": "15763232",
+    "standard_id": 1520,
+    "raw_name": "hành ngò",
+    "standard_name": "hành ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63656,
+    "recipe_id": "15763232",
+    "standard_id": 1881,
+    "raw_name": "Bánh phở",
+    "standard_name": "bánh phở",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63658,
+    "recipe_id": "15741562",
+    "standard_id": 1786,
+    "raw_name": "hộp tàu hủ non",
+    "standard_name": "đậu non",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63659,
+    "recipe_id": "15741562",
+    "standard_id": 2513,
+    "raw_name": "Sa tế chay",
+    "standard_name": "satế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63661,
+    "recipe_id": "15741562",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63662,
+    "recipe_id": "15741562",
+    "standard_id": 1520,
+    "raw_name": "Hành lá ngò rí",
+    "standard_name": "hành ngò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63663,
+    "recipe_id": "15766898",
+    "standard_id": 777,
+    "raw_name": "Rau cải",
+    "standard_name": "rau cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63664,
+    "recipe_id": "15766898",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63665,
+    "recipe_id": "15766898",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  }
+]

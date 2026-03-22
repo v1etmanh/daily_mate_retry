@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 362/365
+[
+  {
+    "id": 44108,
+    "dish_title": "🌱 Salad Su Hào, Nấm & Măng Tây Rừng Sốt Hành Tăm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44106,
+    "dish_title": "🌱 Salad Su Hào, Nấm & Măng Tây Rừng Sốt Hành Tăm",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44107,
+    "dish_title": "🌱 Salad Su Hào, Nấm & Măng Tây Rừng Sốt Hành Tăm",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48957,
+    "dish_title": "🌱 Đậu Hủ & Nấm Mỡ Kho Tương Chay (Vegan)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48956,
+    "dish_title": "🌱 Đậu Hủ & Nấm Mỡ Kho Tương Chay (Vegan)",
+    "ingredient_name": "hành tăm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48958,
+    "dish_title": "🌱 Đậu Hủ & Nấm Mỡ Kho Tương Chay (Vegan)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48955,
+    "dish_title": "🌱 Đậu Hủ & Nấm Mỡ Kho Tương Chay (Vegan)",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46462,
+    "dish_title": "🌱 Đậu Hủ Chiên Sốt Tương Dầu Hành Chay (Vegan)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46460,
+    "dish_title": "🌱 Đậu Hủ Chiên Sốt Tương Dầu Hành Chay (Vegan)",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46461,
+    "dish_title": "🌱 Đậu Hủ Chiên Sốt Tương Dầu Hành Chay (Vegan)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46459,
+    "dish_title": "🌱 Đậu Hủ Chiên Sốt Tương Dầu Hành Chay (Vegan)",
+    "ingredient_name": "xốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51910,
+    "dish_title": "🍀Rau Càng Cua Trộn Thịt Bò Miền Trung🍀",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51908,
+    "dish_title": "🍀Rau Càng Cua Trộn Thịt Bò Miền Trung🍀",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51907,
+    "dish_title": "🍀Rau Càng Cua Trộn Thịt Bò Miền Trung🍀",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51909,
+    "dish_title": "🍀Rau Càng Cua Trộn Thịt Bò Miền Trung🍀",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48857,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48859,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "ngò gai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48854,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "nấm ngư",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48855,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "nấm đùi gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48856,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "sả",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48860,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48858,
+    "dish_title": "🍄🍄🍄 CHÁO NẤM 🍄🍄🍄",
+    "ingredient_name": "tía tô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45768,
+    "dish_title": "🍅 🐟 Chả Cá Thác Lác Sốt Cà 🍅 🐟",
+    "ingredient_name": "chả thác lác",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45770,
+    "dish_title": "🍅 🐟 Chả Cá Thác Lác Sốt Cà 🍅 🐟",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45769,
+    "dish_title": "🍅 🐟 Chả Cá Thác Lác Sốt Cà 🍅 🐟",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44413,
+    "dish_title": "🍍Cá ngừ kho thơm🍍",
+    "ingredient_name": "cá p",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44415,
+    "dish_title": "🍍Cá ngừ kho thơm🍍",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44416,
+    "dish_title": "🍍Cá ngừ kho thơm🍍",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44414,
+    "dish_title": "🍍Cá ngừ kho thơm🍍",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47385,
+    "dish_title": "🍕Pizza bò băm 🍕",
+    "ingredient_name": "baking powder",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

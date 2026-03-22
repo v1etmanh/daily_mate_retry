@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 63468,
+    "recipe_id": "15774737",
+    "standard_id": 1148,
+    "raw_name": "soup sốt mè rang",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 63469,
+    "recipe_id": "15774737",
+    "standard_id": 3005,
+    "raw_name": "soup dầu giấm",
+    "standard_name": "dầu giấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63470,
+    "recipe_id": "15774774",
+    "standard_id": null,
+    "raw_name": "phút",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 63471,
+    "recipe_id": "15774774",
+    "standard_id": 2472,
+    "raw_name": "Yến mạch cán dẹt hoặc Bột Yến mạch tầm gr",
+    "standard_name": "yến mạch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63472,
+    "recipe_id": "15774774",
+    "standard_id": 2601,
+    "raw_name": "Sữa hạnh nhân mình dùng loại degree",
+    "standard_name": "sữa hạt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63473,
+    "recipe_id": "15774774",
+    "standard_id": 1117,
+    "raw_name": "Chuối quả có thể dùng chuối sứ chín hay chuối già đều được",
+    "standard_name": "chuối",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63474,
+    "recipe_id": "15774774",
+    "standard_id": 146,
+    "raw_name": "Trứng gà quả",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63475,
+    "recipe_id": "15774774",
+    "standard_id": 1369,
+    "raw_name": "Mật ong",
+    "standard_name": "mật",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63477,
+    "recipe_id": "15774774",
+    "standard_id": 3077,
+    "raw_name": "Hạnh nhân cắt lát có dạng bột càng tốt",
+    "standard_name": "hạnh nhân",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63478,
+    "recipe_id": "15774774",
+    "standard_id": 1747,
+    "raw_name": "Hạt mè rang trang trí tuỳ ý",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63479,
+    "recipe_id": "15774880",
+    "standard_id": 2020,
+    "raw_name": "gầu bò",
+    "standard_name": "gầu bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63480,
+    "recipe_id": "15774880",
+    "standard_id": 166,
+    "raw_name": "hành nướng gừng nướng hành tây",
+    "standard_name": "hành tây",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 63482,
+    "recipe_id": "15774880",
+    "standard_id": 7720,
+    "raw_name": "Thêm chút rượu nấu ăn",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63483,
+    "recipe_id": "15774880",
+    "standard_id": 11829,
+    "raw_name": "Rau ngò tàu húng quế ngò rí bạc hà hành tây thái lát mỏng giá",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 63484,
+    "recipe_id": "15774880",
+    "standard_id": 1589,
+    "raw_name": "Nguyên liệu phở sẵn lần Rang sẵn Chia ra gói nhỏ dùng dần",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 63489,
+    "recipe_id": "15774880",
+    "standard_id": 327,
+    "raw_name": "hạt ngò g",
+    "standard_name": "hạt mùi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63507,
+    "recipe_id": "15717909",
+    "standard_id": 289,
+    "raw_name": "rau muống",
+    "standard_name": "rau muống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63508,
+    "recipe_id": "15717909",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63509,
+    "recipe_id": "15717909",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 63510,
+    "recipe_id": "15717909",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63512,
+    "recipe_id": "15717909",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63533,
+    "recipe_id": "15773341",
+    "standard_id": 2304,
+    "raw_name": "đậu đũa",
+    "standard_name": "đậu đũa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63534,
+    "recipe_id": "15773341",
+    "standard_id": 4729,
+    "raw_name": "thịt heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63535,
+    "recipe_id": "15773341",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63536,
+    "recipe_id": "15773341",
+    "standard_id": 11829,
+    "raw_name": "lá húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63537,
+    "recipe_id": "15773341",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63539,
+    "recipe_id": "15773341",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63541,
+    "recipe_id": "15773341",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  }
+]

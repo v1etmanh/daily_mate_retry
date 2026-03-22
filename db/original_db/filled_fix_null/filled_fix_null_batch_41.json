@@ -1,0 +1,242 @@
+[
+  {
+    "id": 42824,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "hành tây",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43657,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "mật",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42662,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42826,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43658,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42661,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "rau tạp",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43654,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "rượu",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43652,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "thăn bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 42828,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42825,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43655,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "xốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42823,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43659,
+    "dish_title": "Bò lúc lắc",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51935,
+    "dish_title": "Bò lúc lắc khoai tây trứng",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51933,
+    "dish_title": "Bò lúc lắc khoai tây trứng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51936,
+    "dish_title": "Bò lúc lắc khoai tây trứng",
+    "ingredient_name": "nước",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51937,
+    "dish_title": "Bò lúc lắc khoai tây trứng",
+    "ingredient_name": "sốt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51934,
+    "dish_title": "Bò lúc lắc khoai tây trứng",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49638,
+    "dish_title": "Bò lụi đặc sản Bình Định",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49635,
+    "dish_title": "Bò lụi đặc sản Bình Định",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49636,
+    "dish_title": "Bò lụi đặc sản Bình Định",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49639,
+    "dish_title": "Bò lụi đặc sản Bình Định",
+    "ingredient_name": "mật",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49634,
+    "dish_title": "Bò lụi đặc sản Bình Định",
+    "ingredient_name": "sả",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49637,
+    "dish_title": "Bò lụi đặc sản Bình Định",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42744,
+    "dish_title": "Bò nhúng chanh dây",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42746,
+    "dish_title": "Bò nhúng chanh dây",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42745,
+    "dish_title": "Bò nhúng chanh dây",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49161,
+    "dish_title": "Bò nhúng giấm",
+    "ingredient_name": "dấm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49160,
+    "dish_title": "Bò nhúng giấm",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49162,
+    "dish_title": "Bò nhúng giấm",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

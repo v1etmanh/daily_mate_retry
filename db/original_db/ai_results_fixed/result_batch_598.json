@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 62041,
+    "recipe_id": "15837112",
+    "standard_id": 10244,
+    "raw_name": "Lagsagne tuỳ kích thước khuôn của bạn một khay x cm dùng khoảng miếng",
+    "standard_name": "pasta",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62042,
+    "recipe_id": "15837112",
+    "standard_id": 1129,
+    "raw_name": "Phô mai bào dùng theo sở thích",
+    "standard_name": "phô mai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62046,
+    "recipe_id": "15837112",
+    "standard_id": 1148,
+    "raw_name": "Sốt bò bằm Bolognese",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 62047,
+    "recipe_id": "15837112",
+    "standard_id": 142,
+    "raw_name": "bò xay",
+    "standard_name": "bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 62048,
+    "recipe_id": "15837112",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62049,
+    "recipe_id": "15837112",
+    "standard_id": 81,
+    "raw_name": "cà rốt vừa",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62050,
+    "recipe_id": "15837112",
+    "standard_id": 10299,
+    "raw_name": "sốt cà chua basil",
+    "standard_name": "xốt cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 62051,
+    "recipe_id": "15837112",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62052,
+    "recipe_id": "15837112",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62053,
+    "recipe_id": "15837112",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62054,
+    "recipe_id": "15837112",
+    "standard_id": 9733,
+    "raw_name": "boa rô nhỏ",
+    "standard_name": "boa rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62056,
+    "recipe_id": "15837112",
+    "standard_id": 7566,
+    "raw_name": "Basil khô hoặc tươi",
+    "standard_name": "rau basil",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62057,
+    "recipe_id": "15846110",
+    "standard_id": 177,
+    "raw_name": "Bột rau câu giòn",
+    "standard_name": "bột rau câu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62058,
+    "recipe_id": "15846110",
+    "standard_id": 7300,
+    "raw_name": "Cafe",
+    "standard_name": "café",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62059,
+    "recipe_id": "15846110",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62060,
+    "recipe_id": "15846110",
+    "standard_id": 8976,
+    "raw_name": "Bột cốt dừa",
+    "standard_name": "bột dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62061,
+    "recipe_id": "15846110",
+    "standard_id": 2246,
+    "raw_name": "Sữa đặc",
+    "standard_name": "sữa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62062,
+    "recipe_id": "15846110",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62063,
+    "recipe_id": "15847182",
+    "standard_id": null,
+    "raw_name": "Nguyên liệu chính",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 62064,
+    "recipe_id": "15847182",
+    "standard_id": 4485,
+    "raw_name": "mực",
+    "standard_name": "mực",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62065,
+    "recipe_id": "15847182",
+    "standard_id": 2513,
+    "raw_name": "sa tế tùy độ thích cay của mỗi người",
+    "standard_name": "satế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62066,
+    "recipe_id": "15847182",
+    "standard_id": 166,
+    "raw_name": "Hành tây hành lá",
+    "standard_name": "hành tây",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 62067,
+    "recipe_id": "15847182",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62099,
+    "recipe_id": "15844058",
+    "standard_id": 354,
+    "raw_name": "nấm rơm",
+    "standard_name": "nấm rơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62100,
+    "recipe_id": "15844058",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62101,
+    "recipe_id": "15844058",
+    "standard_id": 640,
+    "raw_name": "lá me non",
+    "standard_name": "lá me",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62102,
+    "recipe_id": "15844058",
+    "standard_id": 71,
+    "raw_name": "đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  }
+]

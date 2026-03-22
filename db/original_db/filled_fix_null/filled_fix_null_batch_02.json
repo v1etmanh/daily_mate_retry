@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52371,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52374,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "cải thảo",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52378,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "dấm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52379,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52375,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "hành tây",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52380,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52372,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52377,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52376,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52373,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52370,
+    "dish_title": "2 Loại Sủi Cảo Nhật nhân Heo Xay - Pork Gyoza 2 Ways",
+    "ingredient_name": "vỏ bánh",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 52522,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "bột ngũ vị hương",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52524,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "dấm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52545,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52544,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "mật",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52525,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52521,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "sốt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52523,
+    "dish_title": "BBĐL Nấm & Bắp Cải Trộn sốt Bơ Đậu Phộng - TW Bao with Mushrooms & Coleslaw in Peanut Butter Sauce",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43177,
+    "dish_title": "Ba Rọi Heo Xào Dứa",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43178,
+    "dish_title": "Ba Rọi Heo Xào Dứa",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43176,
+    "dish_title": "Ba Rọi Heo Xào Dứa",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43175,
+    "dish_title": "Ba Rọi Heo Xào Dứa",
+    "ingredient_name": "thịt ba rọi",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49438,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49445,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49443,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49440,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49442,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49444,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49439,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "rượu",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49441,
+    "dish_title": "Ba chỉ cuộn nấm kim châm",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

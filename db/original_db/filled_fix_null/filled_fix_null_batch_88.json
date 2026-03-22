@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48308,
+    "dish_title": "Canh cá rìa dọc mùng giá đỗ",
+    "ingredient_name": "me",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48312,
+    "dish_title": "Canh cá rìa dọc mùng giá đỗ",
+    "ingredient_name": "sả",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47446,
+    "dish_title": "Canh cải cá rô đồng",
+    "ingredient_name": "gừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47447,
+    "dish_title": "Canh cải cá rô đồng",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47444,
+    "dish_title": "Canh cải cá rô đồng",
+    "ingredient_name": "rau cải",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47445,
+    "dish_title": "Canh cải cá rô đồng",
+    "ingredient_name": "thì là",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48930,
+    "dish_title": "Canh cải nấu tôm",
+    "ingredient_name": "cải ngọt",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48933,
+    "dish_title": "Canh cải nấu tôm",
+    "ingredient_name": "gừng",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48932,
+    "dish_title": "Canh cải nấu tôm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48934,
+    "dish_title": "Canh cải nấu tôm",
+    "ingredient_name": "mắm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48931,
+    "dish_title": "Canh cải nấu tôm",
+    "ingredient_name": "tôm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45399,
+    "dish_title": "Canh dưa bò",
+    "ingredient_name": "bò",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45401,
+    "dish_title": "Canh dưa bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45400,
+    "dish_title": "Canh dưa bò",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45402,
+    "dish_title": "Canh dưa bò",
+    "ingredient_name": "đường",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53524,
+    "dish_title": "Canh dưa chua bắp bò",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53522,
+    "dish_title": "Canh dưa chua bắp bò",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53523,
+    "dish_title": "Canh dưa chua bắp bò",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46574,
+    "dish_title": "Canh khoai mỡ nấu cùng tôm tươi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46571,
+    "dish_title": "Canh khoai mỡ nấu cùng tôm tươi",
+    "ingredient_name": "khoai mỡ",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46573,
+    "dish_title": "Canh khoai mỡ nấu cùng tôm tươi",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46572,
+    "dish_title": "Canh khoai mỡ nấu cùng tôm tươi",
+    "ingredient_name": "tôm sú",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43783,
+    "dish_title": "Canh khoai tây, nấm mỡ, xương đuôi heo",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43782,
+    "dish_title": "Canh khoai tây, nấm mỡ, xương đuôi heo",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43781,
+    "dish_title": "Canh khoai tây, nấm mỡ, xương đuôi heo",
+    "ingredient_name": "nấm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43780,
+    "dish_title": "Canh khoai tây, nấm mỡ, xương đuôi heo",
+    "ingredient_name": "đuôi heo",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43005,
+    "dish_title": "Canh khế chua nấu lườn cá hồi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43006,
+    "dish_title": "Canh khế chua nấu lườn cá hồi",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43004,
+    "dish_title": "Canh khế chua nấu lườn cá hồi",
+    "ingredient_name": "rau ngổ",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47246,
+    "dish_title": "Canh khổ qua nấu chả cá thác lác",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

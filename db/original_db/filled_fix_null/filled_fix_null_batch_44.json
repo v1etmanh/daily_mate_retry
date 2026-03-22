@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48323,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "satế",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48325,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48324,
+    "dish_title": "Bún Bò",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47093,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "bò nạm",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47096,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "chả lụa",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 47100,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47094,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "gân bò",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 47104,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "hành tây",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47097,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47103,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "rau muống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47102,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "rau răm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47098,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "sả",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47099,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "sả ớt tỏi hành tím",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47095,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "xương bò",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47101,
+    "dish_title": "Bún Bò Huế",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48590,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "bún bò",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48597,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "bột điều",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48596,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48598,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48593,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "nước",
+    "quantity_g": 2000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48591,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48599,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48594,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "súp",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48595,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "sả ớt tỏi hành tím",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48592,
+    "dish_title": "Bún Bò Huế Tái Nạm",
+    "ingredient_name": "thăn bò",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50330,
+    "dish_title": "Bún Bò Nam Bộ Keto (bún trộn)",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50327,
+    "dish_title": "Bún Bò Nam Bộ Keto (bún trộn)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50326,
+    "dish_title": "Bún Bò Nam Bộ Keto (bún trộn)",
+    "ingredient_name": "lạc",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50329,
+    "dish_title": "Bún Bò Nam Bộ Keto (bún trộn)",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50328,
+    "dish_title": "Bún Bò Nam Bộ Keto (bún trộn)",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "raw_id": 8615,
+    "recipe_id": "24694600",
+    "standard_id": 3417,
+    "raw_name": "mắm tôm đặc",
+    "standard_name": "mắm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8616,
+    "recipe_id": "24694600",
+    "standard_id": 780,
+    "raw_name": "nghệ xay nhỏ",
+    "standard_name": "nghệ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 8617,
+    "recipe_id": "24694600",
+    "standard_id": 1091,
+    "raw_name": "riềng",
+    "standard_name": "riềng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8618,
+    "recipe_id": "24694600",
+    "standard_id": 16,
+    "raw_name": "hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8619,
+    "recipe_id": "24694600",
+    "standard_id": 7669,
+    "raw_name": "Nhiều rau răm và hành lá",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 8620,
+    "recipe_id": "24694600",
+    "standard_id": 71,
+    "raw_name": "đậu không bắt buộc",
+    "standard_name": "đậu hũ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8621,
+    "recipe_id": "24694600",
+    "standard_id": 389,
+    "raw_name": "bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8625,
+    "recipe_id": "24694600",
+    "standard_id": 7069,
+    "raw_name": "chanh lấy nước cốt",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8626,
+    "recipe_id": "24694600",
+    "standard_id": 24,
+    "raw_name": "ớt cắt nhỏ",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8640,
+    "recipe_id": "24516190",
+    "standard_id": 730,
+    "raw_name": "Cơm cua",
+    "standard_name": "cơm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 8642,
+    "recipe_id": "24516190",
+    "standard_id": 2381,
+    "raw_name": "thịt cua đã gỡ",
+    "standard_name": "thịt cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8643,
+    "recipe_id": "24516190",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8644,
+    "recipe_id": "24516190",
+    "standard_id": 16,
+    "raw_name": "hành lá cắt nhỏ",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8645,
+    "recipe_id": "24516190",
+    "standard_id": 146,
+    "raw_name": "Trứng phủ",
+    "standard_name": "trứng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8703,
+    "recipe_id": "24725227",
+    "standard_id": 371,
+    "raw_name": "giá đỗ",
+    "standard_name": "giá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8704,
+    "recipe_id": "24725227",
+    "standard_id": 28,
+    "raw_name": "thơm dứa",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8705,
+    "recipe_id": "24725227",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8706,
+    "recipe_id": "24725227",
+    "standard_id": 71,
+    "raw_name": "đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8707,
+    "recipe_id": "24725227",
+    "standard_id": 865,
+    "raw_name": "nấm kim châm",
+    "standard_name": "nấm kim châm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8708,
+    "recipe_id": "24725227",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8709,
+    "recipe_id": "24725227",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8712,
+    "recipe_id": "24725227",
+    "standard_id": 1050,
+    "raw_name": "nước cốt me",
+    "standard_name": "me",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 8713,
+    "recipe_id": "24725227",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 8715,
+    "recipe_id": "24725227",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế trắng é trắng",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 8716,
+    "recipe_id": "24725227",
+    "standard_id": 105,
+    "raw_name": "ngỗ",
+    "standard_name": "rau ngổ",
+    "confidence": 1.0
+  }
+]

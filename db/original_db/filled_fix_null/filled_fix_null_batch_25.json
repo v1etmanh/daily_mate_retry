@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51506,
+    "dish_title": "Bánh mì ciabatta kẹp tôm",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51502,
+    "dish_title": "Bánh mì ciabatta kẹp tôm",
+    "ingredient_name": "tôm thẻ loại to",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52015,
+    "dish_title": "Bánh mì con sâu (cua/ốc/sừng bò)",
+    "ingredient_name": "bơ",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52013,
+    "dish_title": "Bánh mì con sâu (cua/ốc/sừng bò)",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52014,
+    "dish_title": "Bánh mì con sâu (cua/ốc/sừng bò)",
+    "ingredient_name": "kem whipping",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52016,
+    "dish_title": "Bánh mì con sâu (cua/ốc/sừng bò)",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44730,
+    "dish_title": "Bánh mì cua",
+    "ingredient_name": "bột mì",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44731,
+    "dish_title": "Bánh mì cua",
+    "ingredient_name": "sữa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44732,
+    "dish_title": "Bánh mì cua",
+    "ingredient_name": "đường",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52519,
+    "dish_title": "Bánh mì cua nhân phô mai",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52518,
+    "dish_title": "Bánh mì cua nhân phô mai",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52520,
+    "dish_title": "Bánh mì cua nhân phô mai",
+    "ingredient_name": "men",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52517,
+    "dish_title": "Bánh mì cua nhân phô mai",
+    "ingredient_name": "vỏ bánh",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46221,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "bơ",
+    "quantity_g": 45,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46222,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "bột",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46217,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "bột bánh",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46218,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "bột mì",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46223,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "nước",
+    "quantity_g": 120,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46219,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "sữa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46220,
+    "dish_title": "Bánh mì cua siêu ngon ai cũng phải thử 1 lần",
+    "ingredient_name": "đường",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45378,
+    "dish_title": "Bánh mì cuốn chà bông nấm rong biển",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45375,
+    "dish_title": "Bánh mì cuốn chà bông nấm rong biển",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45379,
+    "dish_title": "Bánh mì cuốn chà bông nấm rong biển",
+    "ingredient_name": "ruốc nấm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45377,
+    "dish_title": "Bánh mì cuốn chà bông nấm rong biển",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45376,
+    "dish_title": "Bánh mì cuốn chà bông nấm rong biển",
+    "ingredient_name": "sữa đậu nành",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52157,
+    "dish_title": "Bánh mì gà rau củ",
+    "ingredient_name": "bơ",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52156,
+    "dish_title": "Bánh mì gà rau củ",
+    "ingredient_name": "bột mì",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52159,
+    "dish_title": "Bánh mì gà rau củ",
+    "ingredient_name": "cải thảo",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52160,
+    "dish_title": "Bánh mì gà rau củ",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52158,
+    "dish_title": "Bánh mì gà rau củ",
+    "ingredient_name": "ức gà",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

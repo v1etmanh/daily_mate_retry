@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50923,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "bột canh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50914,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "cá rô phi",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50919,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50918,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50922,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50917,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "nghệ",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50921,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "ngò gai",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50915,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50920,
+    "dish_title": "Bún cá chiên",
+    "ingredient_name": "thì là",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50227,
+    "dish_title": "Bún cá full topping",
+    "ingredient_name": "chân giò bắp giò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50228,
+    "dish_title": "Bún cá full topping",
+    "ingredient_name": "cá thu",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50229,
+    "dish_title": "Bún cá full topping",
+    "ingredient_name": "cần",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50231,
+    "dish_title": "Bún cá full topping",
+    "ingredient_name": "hành răm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50230,
+    "dish_title": "Bún cá full topping",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50226,
+    "dish_title": "Bún cá full topping",
+    "ingredient_name": "nước hầm xương",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45773,
+    "dish_title": "Bún cá hồng chấm",
+    "ingredient_name": "bột mì",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45772,
+    "dish_title": "Bún cá hồng chấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45771,
+    "dish_title": "Bún cá hồng chấm",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45775,
+    "dish_title": "Bún cá hồng chấm",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45774,
+    "dish_title": "Bún cá hồng chấm",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44972,
+    "dish_title": "Bún cá lóc",
+    "ingredient_name": "chả",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44973,
+    "dish_title": "Bún cá lóc",
+    "ingredient_name": "dầu điều",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44971,
+    "dish_title": "Bún cá lóc",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44970,
+    "dish_title": "Bún cá lóc",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44974,
+    "dish_title": "Bún cá lóc",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45709,
+    "dish_title": "Bún cá lóc hương vị Khmer",
+    "ingredient_name": "mắm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45710,
+    "dish_title": "Bún cá lóc hương vị Khmer",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45711,
+    "dish_title": "Bún cá lóc hương vị Khmer",
+    "ingredient_name": "sả ớt tỏi hành tím",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46235,
+    "dish_title": "Bún cá lóc nấu dễ - nhanh - ngon",
+    "ingredient_name": "bột mì",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46236,
+    "dish_title": "Bún cá lóc nấu dễ - nhanh - ngon",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

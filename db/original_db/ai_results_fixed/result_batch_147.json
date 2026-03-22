@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 19252,
+    "recipe_id": "23966152",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19253,
+    "recipe_id": "23966152",
+    "standard_id": 492,
+    "raw_name": "Tương",
+    "standard_name": "xốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 19254,
+    "recipe_id": "23966152",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 19255,
+    "recipe_id": "23966152",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19256,
+    "recipe_id": "23966152",
+    "standard_id": 7720,
+    "raw_name": "Rượu khử mùi",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 19257,
+    "recipe_id": "23966152",
+    "standard_id": 3983,
+    "raw_name": "Bột gừng",
+    "standard_name": "bột gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19259,
+    "recipe_id": "23966152",
+    "standard_id": 1585,
+    "raw_name": "bột nếp",
+    "standard_name": "bột nếp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19356,
+    "recipe_id": "23963348",
+    "standard_id": 2014,
+    "raw_name": "mì udon khô tầm gr",
+    "standard_name": "mì udon",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19357,
+    "recipe_id": "23963348",
+    "standard_id": 998,
+    "raw_name": "tôm nõn",
+    "standard_name": "nõn tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19358,
+    "recipe_id": "23963348",
+    "standard_id": 81,
+    "raw_name": "củ cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19359,
+    "recipe_id": "23963348",
+    "standard_id": 11829,
+    "raw_name": "rổ nhỏ đậu que đủ màu xanh vàng tím",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 19360,
+    "recipe_id": "23963348",
+    "standard_id": 83,
+    "raw_name": "củ hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 19361,
+    "recipe_id": "23963348",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19362,
+    "recipe_id": "23963348",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19364,
+    "recipe_id": "23963348",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19365,
+    "recipe_id": "23963348",
+    "standard_id": 1303,
+    "raw_name": "dầu mè thơm",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19366,
+    "recipe_id": "23963348",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19367,
+    "recipe_id": "23963291",
+    "standard_id": 4002,
+    "raw_name": "Couscous",
+    "standard_name": "couscous",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19368,
+    "recipe_id": "23963291",
+    "standard_id": 11829,
+    "raw_name": "hạt đậu que giữ ra từ đậu que già vỏ đã dai",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 19369,
+    "recipe_id": "23963291",
+    "standard_id": 1517,
+    "raw_name": "lá thơm khô provence",
+    "standard_name": "rau thơm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 19370,
+    "recipe_id": "23963291",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19371,
+    "recipe_id": "23963291",
+    "standard_id": 457,
+    "raw_name": "ớt chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19373,
+    "recipe_id": "23963291",
+    "standard_id": 166,
+    "raw_name": "hành Tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19374,
+    "recipe_id": "23963291",
+    "standard_id": 4870,
+    "raw_name": "nhỏ ngò Tây",
+    "standard_name": "mùi tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19375,
+    "recipe_id": "23963291",
+    "standard_id": 16,
+    "raw_name": "nhỏ hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19376,
+    "recipe_id": "23963291",
+    "standard_id": 102,
+    "raw_name": "nhỏ ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19377,
+    "recipe_id": "23963291",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19378,
+    "recipe_id": "23963291",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 19379,
+    "recipe_id": "23963291",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  }
+]

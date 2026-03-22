@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 66001,
+    "recipe_id": "15645502",
+    "standard_id": 457,
+    "raw_name": "ớt chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66002,
+    "recipe_id": "15645502",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66003,
+    "recipe_id": "15645502",
+    "standard_id": 371,
+    "raw_name": "giá đỗ",
+    "standard_name": "giá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66004,
+    "recipe_id": "15645502",
+    "standard_id": 7669,
+    "raw_name": "rau mùi răng cưa ngò gai hành lá vừa đủ",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66005,
+    "recipe_id": "15645502",
+    "standard_id": 8161,
+    "raw_name": "thìa cafe dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66006,
+    "recipe_id": "15645502",
+    "standard_id": 11831,
+    "raw_name": "bột canh",
+    "standard_name": "bột canh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66007,
+    "recipe_id": "15645502",
+    "standard_id": 83,
+    "raw_name": "hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66010,
+    "recipe_id": "15645502",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 66011,
+    "recipe_id": "15645502",
+    "standard_id": 1303,
+    "raw_name": "thìa cafe dầu mè đen",
+    "standard_name": "dầu vừng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66017,
+    "recipe_id": "15647876",
+    "standard_id": 7647,
+    "raw_name": "bột làm bánh mì lượng protein ít nhât",
+    "standard_name": "bột làm bánh mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66019,
+    "recipe_id": "15647876",
+    "standard_id": 6101,
+    "raw_name": "nước ấm",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66021,
+    "recipe_id": "15647876",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66022,
+    "recipe_id": "15647876",
+    "standard_id": 146,
+    "raw_name": "trứng lớn khoảng g",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66023,
+    "recipe_id": "15647876",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66026,
+    "recipe_id": "15647876",
+    "standard_id": 121,
+    "raw_name": "bột sư tử Các bạn ở nước ngoài thì dùng bột custard powder có thể mua ở bất kì siêu thị nào bột này làm bánh ngọt nên cho vào Cái này không bắt buộc",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66035,
+    "recipe_id": "15646434",
+    "standard_id": 142,
+    "raw_name": "bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66036,
+    "recipe_id": "15646434",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66037,
+    "recipe_id": "15646434",
+    "standard_id": 2062,
+    "raw_name": "Pate",
+    "standard_name": "pate",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66038,
+    "recipe_id": "15646434",
+    "standard_id": 1098,
+    "raw_name": "bánh mì",
+    "standard_name": "bánh mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66039,
+    "recipe_id": "15646434",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66040,
+    "recipe_id": "15646434",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66041,
+    "recipe_id": "15646434",
+    "standard_id": 11829,
+    "raw_name": "Chả lụa chả quế nếu có",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66042,
+    "recipe_id": "15646434",
+    "standard_id": 1148,
+    "raw_name": "Phần nước sốt",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66044,
+    "recipe_id": "15646434",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66045,
+    "recipe_id": "15646434",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66055,
+    "recipe_id": "15645741",
+    "standard_id": 177,
+    "raw_name": "bột rau câu dẻo",
+    "standard_name": "bột rau câu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66056,
+    "recipe_id": "15645741",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66057,
+    "recipe_id": "15645741",
+    "standard_id": 2013,
+    "raw_name": "lòng đỏ trứng gà",
+    "standard_name": "lòng đỏ trứng",
+    "confidence": 1.0
+  }
+]

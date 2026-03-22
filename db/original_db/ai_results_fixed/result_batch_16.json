@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 1593,
+    "recipe_id": "25285228",
+    "standard_id": 7669,
+    "raw_name": "Hành lá thái nhỏ ngò rí rau mùi dầu mè rang",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 1594,
+    "recipe_id": "25285228",
+    "standard_id": 3044,
+    "raw_name": "thịt gà đã nấu chín thái nhỏ tuỳ chọn",
+    "standard_name": "gà",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1779,
+    "recipe_id": "25277771",
+    "standard_id": 1187,
+    "raw_name": "Phần nước chan",
+    "standard_name": "nước dùng",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1780,
+    "recipe_id": "25277771",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 1781,
+    "recipe_id": "25277771",
+    "standard_id": 1518,
+    "raw_name": "thịt ức gà",
+    "standard_name": "ức gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1782,
+    "recipe_id": "25277771",
+    "standard_id": 199,
+    "raw_name": "nấm đông cô",
+    "standard_name": "nấm đông cô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1783,
+    "recipe_id": "25277771",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1784,
+    "recipe_id": "25277771",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1786,
+    "recipe_id": "25277771",
+    "standard_id": 1520,
+    "raw_name": "Hành ngò",
+    "standard_name": "hành ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1788,
+    "recipe_id": "25277771",
+    "standard_id": 569,
+    "raw_name": "Phần bánh trôi",
+    "standard_name": "bánh trôi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1789,
+    "recipe_id": "25277771",
+    "standard_id": 360,
+    "raw_name": "đậu xanh khô",
+    "standard_name": "đậu xanh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1792,
+    "recipe_id": "25277771",
+    "standard_id": 1585,
+    "raw_name": "bột nếp Thái cần dùng bột nếp Thái để vỏ bánh thơm ngon",
+    "standard_name": "bột nếp",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1794,
+    "recipe_id": "25277771",
+    "standard_id": 6101,
+    "raw_name": "nước ấm khoảng độ C",
+    "standard_name": "nước",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1853,
+    "recipe_id": "25273554",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1854,
+    "recipe_id": "25273554",
+    "standard_id": 166,
+    "raw_name": "Củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1855,
+    "recipe_id": "25273554",
+    "standard_id": 371,
+    "raw_name": "nghìn giá đỗ",
+    "standard_name": "giá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1856,
+    "recipe_id": "25273554",
+    "standard_id": 142,
+    "raw_name": "Thịt bò xay",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1857,
+    "recipe_id": "25273554",
+    "standard_id": 1795,
+    "raw_name": "mỳ tươi mỳ nào tuỳ bạn thích nhé",
+    "standard_name": "mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1858,
+    "recipe_id": "25273554",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "butter",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1859,
+    "recipe_id": "25273554",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 1861,
+    "recipe_id": "25273554",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1864,
+    "recipe_id": "25273554",
+    "standard_id": 587,
+    "raw_name": "bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1888,
+    "recipe_id": "25173120",
+    "standard_id": 596,
+    "raw_name": "ếch",
+    "standard_name": "ếch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1889,
+    "recipe_id": "25173120",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1890,
+    "recipe_id": "25173120",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1892,
+    "recipe_id": "25173120",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1895,
+    "recipe_id": "25173120",
+    "standard_id": 39,
+    "raw_name": "gừng nhỏ",
+    "standard_name": "gừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1896,
+    "recipe_id": "25173120",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  }
+]

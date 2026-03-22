@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 63383,
+    "recipe_id": "15778627",
+    "standard_id": 1406,
+    "raw_name": "bột gạo",
+    "standard_name": "bột gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63384,
+    "recipe_id": "15778627",
+    "standard_id": 10815,
+    "raw_name": "cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63390,
+    "recipe_id": "15778473",
+    "standard_id": 2992,
+    "raw_name": "Mì tôm gói cho khẩu phần từ người nếu thấy đói thì các bạn có thể thêm nha",
+    "standard_name": "mì gói",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63391,
+    "recipe_id": "15778473",
+    "standard_id": 9,
+    "raw_name": "Cà chua từ",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63392,
+    "recipe_id": "15778473",
+    "standard_id": 766,
+    "raw_name": "Bơ ít tầm g thôi nha bơ loại nào cũng được",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63393,
+    "recipe_id": "15778473",
+    "standard_id": 2246,
+    "raw_name": "Sữa vị nguyên bản túi là okela",
+    "standard_name": "sữa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63394,
+    "recipe_id": "15778473",
+    "standard_id": 29,
+    "raw_name": "Tỏi tép là đủ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63395,
+    "recipe_id": "15778473",
+    "standard_id": 2798,
+    "raw_name": "loại thịt gì đấy nữa có thể là xúc xích thanh cua hoặc là tôm tùy bạn",
+    "standard_name": "thịt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 63424,
+    "recipe_id": "15776315",
+    "standard_id": 822,
+    "raw_name": "xà lách mỡ",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63425,
+    "recipe_id": "15776315",
+    "standard_id": 1467,
+    "raw_name": "rau mầm",
+    "standard_name": "rau mầm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63426,
+    "recipe_id": "15776315",
+    "standard_id": 9,
+    "raw_name": "Cà chua bi",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63427,
+    "recipe_id": "15776315",
+    "standard_id": 457,
+    "raw_name": "t chuông đỏ vàng",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63428,
+    "recipe_id": "15776315",
+    "standard_id": 395,
+    "raw_name": "Dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63429,
+    "recipe_id": "15776315",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 63430,
+    "recipe_id": "15776315",
+    "standard_id": 225,
+    "raw_name": "Giấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63451,
+    "recipe_id": "15774730",
+    "standard_id": 10,
+    "raw_name": "xương gà",
+    "standard_name": "xương gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63452,
+    "recipe_id": "15774730",
+    "standard_id": 3044,
+    "raw_name": "thịt gà xé sợi",
+    "standard_name": "gà",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63453,
+    "recipe_id": "15774730",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63454,
+    "recipe_id": "15774730",
+    "standard_id": 1851,
+    "raw_name": "Bắp non hoặc bắp mỹ hoặc bắp hộp",
+    "standard_name": "bắp mỹ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 63455,
+    "recipe_id": "15774730",
+    "standard_id": 5932,
+    "raw_name": "Trứng cút không cho cũng được",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63456,
+    "recipe_id": "15774730",
+    "standard_id": 1330,
+    "raw_name": "nấm hương nấm đông cô ngâm mềm",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63457,
+    "recipe_id": "15774730",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63459,
+    "recipe_id": "15774730",
+    "standard_id": 1589,
+    "raw_name": "Gia vịhạt nêm gàmuốiđườngtiêu",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63460,
+    "recipe_id": "15774730",
+    "standard_id": 102,
+    "raw_name": "Rau ngò",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63461,
+    "recipe_id": "15774730",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè hoặc dầu olive",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63462,
+    "recipe_id": "15774737",
+    "standard_id": 888,
+    "raw_name": "cá nục con",
+    "standard_name": "cá nục",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63463,
+    "recipe_id": "15774737",
+    "standard_id": 3469,
+    "raw_name": "salad",
+    "standard_name": "salad",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63464,
+    "recipe_id": "15774737",
+    "standard_id": 11233,
+    "raw_name": "dưa leo quả cà chua",
+    "standard_name": "dưa leo cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63466,
+    "recipe_id": "15774737",
+    "standard_id": 8161,
+    "raw_name": "dầu hàu",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 63467,
+    "recipe_id": "15774737",
+    "standard_id": 2363,
+    "raw_name": "hành ớt băm",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.85
+  }
+]

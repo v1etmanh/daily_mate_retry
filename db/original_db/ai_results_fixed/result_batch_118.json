@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 14542,
+    "recipe_id": "17254127",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14543,
+    "recipe_id": "17254127",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14544,
+    "recipe_id": "17254127",
+    "standard_id": 822,
+    "raw_name": "xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14546,
+    "recipe_id": "17254127",
+    "standard_id": 1148,
+    "raw_name": "Nước trộn",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 14547,
+    "recipe_id": "17254127",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14548,
+    "recipe_id": "17254127",
+    "standard_id": 225,
+    "raw_name": "dấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14550,
+    "recipe_id": "17254127",
+    "standard_id": 8055,
+    "raw_name": "ớt bột",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14569,
+    "recipe_id": "17305922",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14570,
+    "recipe_id": "17305922",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14571,
+    "recipe_id": "17305922",
+    "standard_id": 31,
+    "raw_name": "sả bào",
+    "standard_name": "sả",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 14572,
+    "recipe_id": "17305922",
+    "standard_id": 16,
+    "raw_name": "đầu hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14573,
+    "recipe_id": "17305922",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14574,
+    "recipe_id": "17305922",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14622,
+    "recipe_id": "24305692",
+    "standard_id": 238,
+    "raw_name": "chả cá",
+    "standard_name": "chả cá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14623,
+    "recipe_id": "24305692",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14624,
+    "recipe_id": "24305692",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14625,
+    "recipe_id": "24305692",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14626,
+    "recipe_id": "24305692",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14627,
+    "recipe_id": "24305692",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14628,
+    "recipe_id": "24305692",
+    "standard_id": 2210,
+    "raw_name": "rau sống ăn kèm",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14629,
+    "recipe_id": "24305692",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14750,
+    "recipe_id": "24302272",
+    "standard_id": 1105,
+    "raw_name": "ổ mặt vẽ",
+    "standard_name": "cá",
+    "confidence": 0.4
+  },
+  {
+    "raw_id": 14751,
+    "recipe_id": "24302272",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14752,
+    "recipe_id": "24302272",
+    "standard_id": 177,
+    "raw_name": "gói agar giòn",
+    "standard_name": "bột rau câu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 14753,
+    "recipe_id": "24302272",
+    "standard_id": 2246,
+    "raw_name": "sữa đặc",
+    "standard_name": "sữa",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 14755,
+    "recipe_id": "24302272",
+    "standard_id": 2275,
+    "raw_name": "Phần cốt bánh",
+    "standard_name": "bánh",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 14759,
+    "recipe_id": "24302272",
+    "standard_id": 1129,
+    "raw_name": "laughing cow cheese phô mai con bò cười",
+    "standard_name": "phô mai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 14760,
+    "recipe_id": "24302272",
+    "standard_id": 2013,
+    "raw_name": "lòng đỏ trứng",
+    "standard_name": "lòng đỏ trứng",
+    "confidence": 1.0
+  }
+]

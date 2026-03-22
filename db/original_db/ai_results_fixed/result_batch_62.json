@@ -1,0 +1,194 @@
+[
+  {
+    "raw_id": 6671,
+    "recipe_id": "24938523",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6673,
+    "recipe_id": "24938523",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6674,
+    "recipe_id": "24938523",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6675,
+    "recipe_id": "24938523",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6676,
+    "recipe_id": "24938523",
+    "standard_id": 9445,
+    "raw_name": "lá cà ri",
+    "standard_name": "lá cà ri",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6677,
+    "recipe_id": "24938523",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6678,
+    "recipe_id": "24938523",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 6679,
+    "recipe_id": "24938523",
+    "standard_id": 1589,
+    "raw_name": "bột bò kho",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 6680,
+    "recipe_id": "24938523",
+    "standard_id": 492,
+    "raw_name": "xốt cà xào dầu điều",
+    "standard_name": "xốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 6683,
+    "recipe_id": "24938523",
+    "standard_id": 11829,
+    "raw_name": "vỏ quế cỡ ngón tay",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 6685,
+    "recipe_id": "24938523",
+    "standard_id": 285,
+    "raw_name": "nước dừa tươi",
+    "standard_name": "nước dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6686,
+    "recipe_id": "24938523",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6687,
+    "recipe_id": "24938523",
+    "standard_id": 7720,
+    "raw_name": "rượu trắng",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6696,
+    "recipe_id": "24938523",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6738,
+    "recipe_id": "24750735",
+    "standard_id": 573,
+    "raw_name": "cá thu",
+    "standard_name": "cá thu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6739,
+    "recipe_id": "24750735",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6740,
+    "recipe_id": "24750735",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6741,
+    "recipe_id": "24750735",
+    "standard_id": 1589,
+    "raw_name": "chảo inox",
+    "standard_name": "gia vị",
+    "confidence": 0.1
+  },
+  {
+    "raw_id": 6748,
+    "recipe_id": "24933158",
+    "standard_id": 142,
+    "raw_name": "thịt bò lát",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6749,
+    "recipe_id": "24933158",
+    "standard_id": 146,
+    "raw_name": "Trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6750,
+    "recipe_id": "24933158",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6751,
+    "recipe_id": "24933158",
+    "standard_id": 730,
+    "raw_name": "Cơm",
+    "standard_name": "cơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6752,
+    "recipe_id": "24933158",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6753,
+    "recipe_id": "24933158",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  }
+]

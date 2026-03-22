@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 60417,
+    "recipe_id": "15939790",
+    "standard_id": 492,
+    "raw_name": "Tương mapo tofu không có thì thấy bằng tương và đầu hào",
+    "standard_name": "xốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60418,
+    "recipe_id": "15939790",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60419,
+    "recipe_id": "15939790",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60420,
+    "recipe_id": "15939790",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60421,
+    "recipe_id": "15939790",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60422,
+    "recipe_id": "15939790",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60446,
+    "recipe_id": "15939152",
+    "standard_id": 8537,
+    "raw_name": "chân giò heo nên chọn chân giò trước",
+    "standard_name": "chân giò lấy khúc đùi phía trên",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60447,
+    "recipe_id": "15939152",
+    "standard_id": 1091,
+    "raw_name": "riềng",
+    "standard_name": "riềng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60448,
+    "recipe_id": "15939152",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60449,
+    "recipe_id": "15939152",
+    "standard_id": 2489,
+    "raw_name": "mẻ ngon",
+    "standard_name": "nước mẻ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60450,
+    "recipe_id": "15939152",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60452,
+    "recipe_id": "15939152",
+    "standard_id": 10052,
+    "raw_name": "dừa tươi",
+    "standard_name": "quả dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60454,
+    "recipe_id": "15939152",
+    "standard_id": 3417,
+    "raw_name": "mắm tôm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60455,
+    "recipe_id": "15939152",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60456,
+    "recipe_id": "15939152",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60457,
+    "recipe_id": "15939152",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60458,
+    "recipe_id": "15939152",
+    "standard_id": 2985,
+    "raw_name": "ngò gai",
+    "standard_name": "ngò gai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60479,
+    "recipe_id": "15875829",
+    "standard_id": 142,
+    "raw_name": "bò nạc phần phi lê hoặc thăn lưng",
+    "standard_name": "bò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60480,
+    "recipe_id": "15875829",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60481,
+    "recipe_id": "15875829",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60482,
+    "recipe_id": "15875829",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60483,
+    "recipe_id": "15875829",
+    "standard_id": 166,
+    "raw_name": "hành tây lớn hoặc củ hành tây mini đúng là phải dùng hành mini nhưng không có thì bạn có thể dùng củ to thay thế chẻ tư chẻ tám là được",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60484,
+    "recipe_id": "15875829",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60485,
+    "recipe_id": "15875829",
+    "standard_id": 7720,
+    "raw_name": "rượu vang đỏ",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60517,
+    "recipe_id": "15931454",
+    "standard_id": 142,
+    "raw_name": "Thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60518,
+    "recipe_id": "15931454",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60519,
+    "recipe_id": "15931454",
+    "standard_id": 150,
+    "raw_name": "Lá lốt",
+    "standard_name": "lá lốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60520,
+    "recipe_id": "15931454",
+    "standard_id": 1589,
+    "raw_name": "Gia vị cơ bản",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60521,
+    "recipe_id": "15931454",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60522,
+    "recipe_id": "15931454",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  }
+]

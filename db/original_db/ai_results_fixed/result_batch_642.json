@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 67068,
+    "recipe_id": "15603949",
+    "standard_id": 146,
+    "raw_name": "trứng gà luộc",
+    "standard_name": "trứng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67069,
+    "recipe_id": "15603949",
+    "standard_id": 83,
+    "raw_name": "củ hành tím băm nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67072,
+    "recipe_id": "15603949",
+    "standard_id": 1225,
+    "raw_name": "Chả trứng hấp",
+    "standard_name": "chả trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67073,
+    "recipe_id": "15603949",
+    "standard_id": 1533,
+    "raw_name": "thịt nạc băm nhỏ",
+    "standard_name": "thịt nạc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67074,
+    "recipe_id": "15603949",
+    "standard_id": 7595,
+    "raw_name": "củ hành tím củ tỏi băm nhỏ",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67075,
+    "recipe_id": "15603949",
+    "standard_id": 6777,
+    "raw_name": "Bún tàu nấm mèo",
+    "standard_name": "bún tàu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67077,
+    "recipe_id": "15603949",
+    "standard_id": 1589,
+    "raw_name": "Các nguyên liệu khác",
+    "standard_name": "gia vị",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 67078,
+    "recipe_id": "15603949",
+    "standard_id": 612,
+    "raw_name": "Gạo tấm càng nhuyễn càng ngon",
+    "standard_name": "gạo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67079,
+    "recipe_id": "15603949",
+    "standard_id": 1659,
+    "raw_name": "Lá dứa nấu với gạo tấm",
+    "standard_name": "lá dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67080,
+    "recipe_id": "15603949",
+    "standard_id": 11233,
+    "raw_name": "Dưa leo cà chua",
+    "standard_name": "dưa leo cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67081,
+    "recipe_id": "15603949",
+    "standard_id": 16,
+    "raw_name": "Hành lá làm mỡ hành",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67082,
+    "recipe_id": "15603949",
+    "standard_id": 11829,
+    "raw_name": "ồ chua từ cà rốt củ cải trắng cắt nhỏ ngâm chua ngọt mình quên làm món này",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67083,
+    "recipe_id": "15603949",
+    "standard_id": 5878,
+    "raw_name": "Da heo làm bì trộn thính mình cũng không có món này",
+    "standard_name": "bì",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67084,
+    "recipe_id": "15603949",
+    "standard_id": 10153,
+    "raw_name": "Nước chấm cơm tấm",
+    "standard_name": "sốt chấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67086,
+    "recipe_id": "15603949",
+    "standard_id": 2363,
+    "raw_name": "Tỏi ớt băm nhuyễn",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67099,
+    "recipe_id": "15602832",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67100,
+    "recipe_id": "15602832",
+    "standard_id": 2571,
+    "raw_name": "khoai lang vàng",
+    "standard_name": "khoai lang",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67103,
+    "recipe_id": "15602832",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67104,
+    "recipe_id": "15602832",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67105,
+    "recipe_id": "15602832",
+    "standard_id": 1145,
+    "raw_name": "bột chiên xù",
+    "standard_name": "bột xù",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67108,
+    "recipe_id": "15602832",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67109,
+    "recipe_id": "15584338",
+    "standard_id": 9815,
+    "raw_name": "đế flatbread",
+    "standard_name": "đế bánh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67111,
+    "recipe_id": "15584338",
+    "standard_id": 11241,
+    "raw_name": "pecorino mozzarella",
+    "standard_name": "pecorino mozzarella",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67112,
+    "recipe_id": "15584338",
+    "standard_id": 1979,
+    "raw_name": "guanciale bacon",
+    "standard_name": "guanciale",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67113,
+    "recipe_id": "15584338",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67114,
+    "recipe_id": "15584338",
+    "standard_id": 225,
+    "raw_name": "giấm trắng",
+    "standard_name": "dấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67115,
+    "recipe_id": "15584338",
+    "standard_id": 6101,
+    "raw_name": "nước đá nếu cần",
+    "standard_name": "nước",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67134,
+    "recipe_id": "15602332",
+    "standard_id": 1406,
+    "raw_name": "bột gạo",
+    "standard_name": "bột gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67135,
+    "recipe_id": "15602332",
+    "standard_id": 11249,
+    "raw_name": "Lá dứa hoặc hoa đậu biếc ngâm cho ra nước",
+    "standard_name": "lá dứa hoặc hoa đậu biếc cho ra nước",
+    "confidence": 1.0
+  }
+]

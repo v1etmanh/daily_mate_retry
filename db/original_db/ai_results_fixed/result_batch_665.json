@@ -1,0 +1,202 @@
+[
+  {
+    "raw_id": 69280,
+    "recipe_id": "15531275",
+    "standard_id": 5575,
+    "raw_name": "rau câu sợi",
+    "standard_name": "rau câu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69282,
+    "recipe_id": "15531275",
+    "standard_id": 11291,
+    "raw_name": "cốt dừa hộplon",
+    "standard_name": "ml cốt dừa lon",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69283,
+    "recipe_id": "15531275",
+    "standard_id": 3495,
+    "raw_name": "hoa đậu biếc tươi khô",
+    "standard_name": "hoa đậu biếc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69285,
+    "recipe_id": "15531275",
+    "standard_id": 1659,
+    "raw_name": "lá dứa",
+    "standard_name": "lá dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69286,
+    "recipe_id": "15531275",
+    "standard_id": 2246,
+    "raw_name": "sữa đặc tuỳ thích",
+    "standard_name": "sữa",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69287,
+    "recipe_id": "15531275",
+    "standard_id": 11260,
+    "raw_name": "l nước",
+    "standard_name": "lít nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69310,
+    "recipe_id": "15530009",
+    "standard_id": 1920,
+    "raw_name": "Vỏ bánh",
+    "standard_name": "vỏ bánh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69311,
+    "recipe_id": "15530009",
+    "standard_id": 1100,
+    "raw_name": "bột mì số",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69313,
+    "recipe_id": "15530009",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 69314,
+    "recipe_id": "15530009",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69315,
+    "recipe_id": "15530009",
+    "standard_id": 1148,
+    "raw_name": "bơ đậu phộng",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69316,
+    "recipe_id": "15530009",
+    "standard_id": 2013,
+    "raw_name": "lòng đỏ trứng gà",
+    "standard_name": "lòng đỏ trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69317,
+    "recipe_id": "15530009",
+    "standard_id": 4978,
+    "raw_name": "paking soda",
+    "standard_name": "baking soda",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69318,
+    "recipe_id": "15530009",
+    "standard_id": 1921,
+    "raw_name": "Nhân bánh",
+    "standard_name": "nhân bánh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69319,
+    "recipe_id": "15530009",
+    "standard_id": 355,
+    "raw_name": "hạt điều",
+    "standard_name": "hạt điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69320,
+    "recipe_id": "15530009",
+    "standard_id": 2451,
+    "raw_name": "mứt hạt sen",
+    "standard_name": "mứt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69324,
+    "recipe_id": "15530009",
+    "standard_id": 1747,
+    "raw_name": "mè trắng",
+    "standard_name": "mè",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69326,
+    "recipe_id": "15530009",
+    "standard_id": 50,
+    "raw_name": "lap xương",
+    "standard_name": "lạp xưởng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69327,
+    "recipe_id": "15530009",
+    "standard_id": 3044,
+    "raw_name": "gà khô",
+    "standard_name": "gà",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69328,
+    "recipe_id": "15530009",
+    "standard_id": 6131,
+    "raw_name": "hạt dưa",
+    "standard_name": "hạt dưa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69329,
+    "recipe_id": "15530009",
+    "standard_id": 8151,
+    "raw_name": "hạt bí",
+    "standard_name": "hạt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69330,
+    "recipe_id": "15530009",
+    "standard_id": 703,
+    "raw_name": "lá chanh",
+    "standard_name": "lá chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69333,
+    "recipe_id": "15530009",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69334,
+    "recipe_id": "15530009",
+    "standard_id": 11829,
+    "raw_name": "rượu mai quế lộ",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69335,
+    "recipe_id": "15530009",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 1.0
+  }
+]

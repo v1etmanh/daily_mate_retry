@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 250/365
+[
+  {
+    "id": 45242,
+    "dish_title": "Rau Củ Xào Chay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45239,
+    "dish_title": "Rau Củ Xào Chay",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45240,
+    "dish_title": "Rau Củ Xào Chay",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43834,
+    "dish_title": "Rau Diếp Cuốn Phi Lê Bò Áp Chảo & Kim Chi Chấm Sốt Ssamjang Hàn Quốc",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43833,
+    "dish_title": "Rau Diếp Cuốn Phi Lê Bò Áp Chảo & Kim Chi Chấm Sốt Ssamjang Hàn Quốc",
+    "ingredient_name": "gochujang",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43830,
+    "dish_title": "Rau Diếp Cuốn Phi Lê Bò Áp Chảo & Kim Chi Chấm Sốt Ssamjang Hàn Quốc",
+    "ingredient_name": "rau húng chó",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43832,
+    "dish_title": "Rau Diếp Cuốn Phi Lê Bò Áp Chảo & Kim Chi Chấm Sốt Ssamjang Hàn Quốc",
+    "ingredient_name": "sốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43831,
+    "dish_title": "Rau Diếp Cuốn Phi Lê Bò Áp Chảo & Kim Chi Chấm Sốt Ssamjang Hàn Quốc",
+    "ingredient_name": "thăn bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45685,
+    "dish_title": "Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "chả thác lác",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45690,
+    "dish_title": "Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45688,
+    "dish_title": "Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "dền đỏ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45689,
+    "dish_title": "Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45686,
+    "dish_title": "Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45687,
+    "dish_title": "Rau Dền Đỏ Nấu Chả Cá Thác Lác",
+    "ingredient_name": "thì là",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51810,
+    "dish_title": "Rau Muống Xào Tỏi",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51811,
+    "dish_title": "Rau Muống Xào Tỏi",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46198,
+    "dish_title": "Rau Muống Xào Tỏi Sa Tế Và Chả Cá (2in1)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46199,
+    "dish_title": "Rau Muống Xào Tỏi Sa Tế Và Chả Cá (2in1)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46200,
+    "dish_title": "Rau Muống Xào Tỏi Sa Tế Và Chả Cá (2in1)",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52516,
+    "dish_title": "Rau Muống Xào Tỏi 🧄",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52514,
+    "dish_title": "Rau Muống Xào Tỏi 🧄",
+    "ingredient_name": "rau muống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52515,
+    "dish_title": "Rau Muống Xào Tỏi 🧄",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53381,
+    "dish_title": "Rau Tiến Vua Muối Chua Ngọt",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53383,
+    "dish_title": "Rau Tiến Vua Muối Chua Ngọt",
+    "ingredient_name": "rau tạp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53382,
+    "dish_title": "Rau Tiến Vua Muối Chua Ngọt",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53384,
+    "dish_title": "Rau Tiến Vua Muối Chua Ngọt",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53320,
+    "dish_title": "Rau Tiến Vua Ngâm Nước Tương",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53321,
+    "dish_title": "Rau Tiến Vua Ngâm Nước Tương",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53319,
+    "dish_title": "Rau Tiến Vua Ngâm Nước Tương",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53317,
+    "dish_title": "Rau Tiến Vua Trộn Tré",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

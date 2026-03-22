@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 199/365
+[
+  {
+    "id": 45994,
+    "dish_title": "Mì Gói Xào Rau Ngón Biển & Gà Xé",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45992,
+    "dish_title": "Mì Gói Xào Rau Ngón Biển & Gà Xé",
+    "ingredient_name": "ớt xanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51125,
+    "dish_title": "Mì Nưa Yến Mạch (Shirataki) Súp Nấm Rong Biển",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51123,
+    "dish_title": "Mì Nưa Yến Mạch (Shirataki) Súp Nấm Rong Biển",
+    "ingredient_name": "mentsuyu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51122,
+    "dish_title": "Mì Nưa Yến Mạch (Shirataki) Súp Nấm Rong Biển",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51124,
+    "dish_title": "Mì Nưa Yến Mạch (Shirataki) Súp Nấm Rong Biển",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51121,
+    "dish_title": "Mì Nưa Yến Mạch (Shirataki) Súp Nấm Rong Biển",
+    "ingredient_name": "đậu nưa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44156,
+    "dish_title": "Mì Nấu Rau Muống Tóp Mỡ",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44155,
+    "dish_title": "Mì Nấu Rau Muống Tóp Mỡ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44157,
+    "dish_title": "Mì Nấu Rau Muống Tóp Mỡ",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44153,
+    "dish_title": "Mì Nấu Rau Muống Tóp Mỡ",
+    "ingredient_name": "mì gói",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44154,
+    "dish_title": "Mì Nấu Rau Muống Tóp Mỡ",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49961,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "cải non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49956,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "củ nghệ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49955,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49964,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "giá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49965,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49953,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "mì quảng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49954,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "nước dùng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49960,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49963,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49962,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49959,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49958,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "đậu phộng rang thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49957,
+    "dish_title": "Mì Quảng Tôm Thịt Sườn Trứng",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44953,
+    "dish_title": "Mì Quảng mực",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44951,
+    "dish_title": "Mì Quảng mực",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44952,
+    "dish_title": "Mì Quảng mực",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44950,
+    "dish_title": "Mì Quảng mực",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44944,
+    "dish_title": "Mì Quảng tôm cua hấp dẫn",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 65890,
+    "recipe_id": "15654003",
+    "standard_id": null,
+    "raw_name": "Xửng hấp",
+    "standard_name": null,
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65943,
+    "recipe_id": "15649726",
+    "standard_id": 80,
+    "raw_name": "tai heo",
+    "standard_name": "tai heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65944,
+    "recipe_id": "15649726",
+    "standard_id": 9206,
+    "raw_name": "xoài xanh trái của mình chín hườm nhưng vẫn giòn và chua lè nên làm gỏi tốt",
+    "standard_name": "xoài xanh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 65945,
+    "recipe_id": "15649726",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65946,
+    "recipe_id": "15649726",
+    "standard_id": 355,
+    "raw_name": "hạt điều hoặc dùng đậu phộng mình hết đậu phộng nên dùng hạt điều",
+    "standard_name": "hạt điều",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65947,
+    "recipe_id": "15649726",
+    "standard_id": 21,
+    "raw_name": "rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65951,
+    "recipe_id": "15649726",
+    "standard_id": 67,
+    "raw_name": "chanh vì xoài chua sẵn tuỳ độ chua của xoài mà gia giảm",
+    "standard_name": "chanh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 65952,
+    "recipe_id": "15649726",
+    "standard_id": 29,
+    "raw_name": "tỏi băm nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65953,
+    "recipe_id": "15649726",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm cắt xéo hoặc băm tuỳ ý",
+    "standard_name": "ớt hiểm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65974,
+    "recipe_id": "15649892",
+    "standard_id": 41,
+    "raw_name": "Cua xay",
+    "standard_name": "cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65975,
+    "recipe_id": "15649892",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65976,
+    "recipe_id": "15649892",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65977,
+    "recipe_id": "15649892",
+    "standard_id": 279,
+    "raw_name": "ậu",
+    "standard_name": "đậu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 65978,
+    "recipe_id": "15649892",
+    "standard_id": 7314,
+    "raw_name": "Dầu điều",
+    "standard_name": "dầu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65979,
+    "recipe_id": "15649892",
+    "standard_id": 357,
+    "raw_name": "Tôm khô",
+    "standard_name": "tôm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 65980,
+    "recipe_id": "15649892",
+    "standard_id": 1499,
+    "raw_name": "Huyết luộc sẵn",
+    "standard_name": "huyết heo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 65981,
+    "recipe_id": "15649892",
+    "standard_id": 2210,
+    "raw_name": "Rau ăn kèm tuỳ thích",
+    "standard_name": "rau sống",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 65982,
+    "recipe_id": "15649892",
+    "standard_id": 2363,
+    "raw_name": "Hành tỏi ớt chanh",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65983,
+    "recipe_id": "15649892",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65984,
+    "recipe_id": "15649789",
+    "standard_id": 611,
+    "raw_name": "cá chép hoặc cá trắm hoặc cá lóc",
+    "standard_name": "cá lóc",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 65985,
+    "recipe_id": "15649789",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65986,
+    "recipe_id": "15649789",
+    "standard_id": 561,
+    "raw_name": "cần tầu",
+    "standard_name": "cần",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65987,
+    "recipe_id": "15649789",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65990,
+    "recipe_id": "15649789",
+    "standard_id": 11831,
+    "raw_name": "bột canh",
+    "standard_name": "bột canh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 65992,
+    "recipe_id": "15649789",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65993,
+    "recipe_id": "15649789",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 65997,
+    "recipe_id": "15645502",
+    "standard_id": 11014,
+    "raw_name": "miến dong miến Cao Bằng ngon nhất",
+    "standard_name": "miến dong",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65998,
+    "recipe_id": "15645502",
+    "standard_id": 3408,
+    "raw_name": "lườn gà chín xé nhỏ",
+    "standard_name": "lườn gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 65999,
+    "recipe_id": "15645502",
+    "standard_id": 1330,
+    "raw_name": "nấm hương",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66000,
+    "recipe_id": "15645502",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  }
+]

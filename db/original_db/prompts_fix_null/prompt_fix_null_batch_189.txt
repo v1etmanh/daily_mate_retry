@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 189/365
+[
+  {
+    "id": 48900,
+    "dish_title": "Lẩu cá thác lác",
+    "ingredient_name": "mỳ trứng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48905,
+    "dish_title": "Lẩu cá thác lác",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48901,
+    "dish_title": "Lẩu cá thác lác",
+    "ingredient_name": "rau nhúng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48903,
+    "dish_title": "Lẩu cá thác lác",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45183,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "bông súng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45182,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "bắp chuối",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42984,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "cá tầm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42986,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45184,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "hoa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42985,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "măng chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45181,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "rau muống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42988,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "rau nhúng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45179,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "rau om",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42987,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45180,
+    "dish_title": "Lẩu cá tầm măng chua",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48094,
+    "dish_title": "Lẩu gà và cá điêu hồng chua ngọt...🍅🌶🌽",
+    "ingredient_name": "cốt lẩu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48093,
+    "dish_title": "Lẩu gà và cá điêu hồng chua ngọt...🍅🌶🌽",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48095,
+    "dish_title": "Lẩu gà và cá điêu hồng chua ngọt...🍅🌶🌽",
+    "ingredient_name": "tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48096,
+    "dish_title": "Lẩu gà và cá điêu hồng chua ngọt...🍅🌶🌽",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48092,
+    "dish_title": "Lẩu gà và cá điêu hồng chua ngọt...🍅🌶🌽",
+    "ingredient_name": "ớt sừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45941,
+    "dish_title": "Lẩu mắt má heo",
+    "ingredient_name": "cải trắng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45939,
+    "dish_title": "Lẩu mắt má heo",
+    "ingredient_name": "huyết",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45942,
+    "dish_title": "Lẩu mắt má heo",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45940,
+    "dish_title": "Lẩu mắt má heo",
+    "ingredient_name": "lòng non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45938,
+    "dish_title": "Lẩu mắt má heo",
+    "ingredient_name": "má heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45943,
+    "dish_title": "Lẩu mắt má heo",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50646,
+    "dish_title": "Lẩu mực 🦑 nước dừa",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50645,
+    "dish_title": "Lẩu mực 🦑 nước dừa",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50642,
+    "dish_title": "Lẩu mực 🦑 nước dừa",
+    "ingredient_name": "su su",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50647,
+    "dish_title": "Lẩu mực 🦑 nước dừa",
+    "ingredient_name": "sả",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

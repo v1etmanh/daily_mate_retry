@@ -1,0 +1,202 @@
+[
+  {
+    "raw_id": 66974,
+    "recipe_id": "15599173",
+    "standard_id": 6101,
+    "raw_name": "nước ấm C",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66977,
+    "recipe_id": "15599173",
+    "standard_id": 11211,
+    "raw_name": "Nhân Heo xay Kimchi cái",
+    "standard_name": "nhân heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66978,
+    "recipe_id": "15599173",
+    "standard_id": 4729,
+    "raw_name": "heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66979,
+    "recipe_id": "15599173",
+    "standard_id": 312,
+    "raw_name": "kimchi cải thảo",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66980,
+    "recipe_id": "15599173",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66981,
+    "recipe_id": "15599173",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66982,
+    "recipe_id": "15599173",
+    "standard_id": 146,
+    "raw_name": "trứng đánh tan nửa quả",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66986,
+    "recipe_id": "15599173",
+    "standard_id": 1642,
+    "raw_name": "lá cải thảo",
+    "standard_name": "cải thảo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66987,
+    "recipe_id": "15599173",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66988,
+    "recipe_id": "15599173",
+    "standard_id": 166,
+    "raw_name": "hành trắng",
+    "standard_name": "hành tây",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66991,
+    "recipe_id": "15599173",
+    "standard_id": 81,
+    "raw_name": "cà rốt nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66993,
+    "recipe_id": "15599173",
+    "standard_id": 10153,
+    "raw_name": "Nước chấm",
+    "standard_name": "sốt chấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66995,
+    "recipe_id": "15599173",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66996,
+    "recipe_id": "15599173",
+    "standard_id": 225,
+    "raw_name": "giấm gạo",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66997,
+    "recipe_id": "15599173",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66999,
+    "recipe_id": "15599173",
+    "standard_id": 24,
+    "raw_name": "ớt vẩy hoặc trái ớt khô",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67000,
+    "recipe_id": "15599173",
+    "standard_id": 7595,
+    "raw_name": "tỏi gừng hành lá xắt nhỏ",
+    "standard_name": "hành tỏi",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 67013,
+    "recipe_id": "15605679",
+    "standard_id": 149,
+    "raw_name": "Thịt heo",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67014,
+    "recipe_id": "15605679",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67015,
+    "recipe_id": "15605679",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67017,
+    "recipe_id": "15605679",
+    "standard_id": 917,
+    "raw_name": "rau mùi",
+    "standard_name": "rau mùi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67018,
+    "recipe_id": "15605679",
+    "standard_id": 16,
+    "raw_name": "hành",
+    "standard_name": "hành lá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67019,
+    "recipe_id": "15605679",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn cho bé",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 67066,
+    "recipe_id": "15603949",
+    "standard_id": 2798,
+    "raw_name": "Thịt khìa",
+    "standard_name": "thịt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67067,
+    "recipe_id": "15603949",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  }
+]

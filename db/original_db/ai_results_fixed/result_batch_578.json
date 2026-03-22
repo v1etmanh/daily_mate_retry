@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 60211,
+    "recipe_id": "15958511",
+    "standard_id": 2210,
+    "raw_name": "Rau sống",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60212,
+    "recipe_id": "15958511",
+    "standard_id": 389,
+    "raw_name": "bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60213,
+    "recipe_id": "15958511",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60214,
+    "recipe_id": "15958511",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60219,
+    "recipe_id": "15958511",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60220,
+    "recipe_id": "15958511",
+    "standard_id": 24,
+    "raw_name": "ớt màu",
+    "standard_name": "ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60229,
+    "recipe_id": "15923199",
+    "standard_id": 7202,
+    "raw_name": "mì nưa yến mạch",
+    "standard_name": "đậu nưa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60230,
+    "recipe_id": "15923199",
+    "standard_id": 1071,
+    "raw_name": "rong biển wakame khô",
+    "standard_name": "rong biển",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 60231,
+    "recipe_id": "15923199",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ lớn",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60232,
+    "recipe_id": "15923199",
+    "standard_id": 5698,
+    "raw_name": "nước sốt Nhật Tsuyu chén nước lọc",
+    "standard_name": "mentsuyu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60233,
+    "recipe_id": "15923199",
+    "standard_id": 29,
+    "raw_name": "t bột hoặc tươi",
+    "standard_name": "tỏi",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60234,
+    "recipe_id": "15923199",
+    "standard_id": 1747,
+    "raw_name": "Mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60235,
+    "recipe_id": "15923199",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè thơm",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60236,
+    "recipe_id": "15228072",
+    "standard_id": 856,
+    "raw_name": "nui số",
+    "standard_name": "nui",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60237,
+    "recipe_id": "15228072",
+    "standard_id": 142,
+    "raw_name": "thịt bò xay",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60238,
+    "recipe_id": "15228072",
+    "standard_id": 1148,
+    "raw_name": "sốt spaghetti",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60239,
+    "recipe_id": "15228072",
+    "standard_id": 6101,
+    "raw_name": "nước đọc bên dưới",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60240,
+    "recipe_id": "15228072",
+    "standard_id": 166,
+    "raw_name": "củ hành trắng băm nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60241,
+    "recipe_id": "15228072",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60242,
+    "recipe_id": "15228072",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60244,
+    "recipe_id": "15954169",
+    "standard_id": 9957,
+    "raw_name": "cá vược tươi",
+    "standard_name": "cá vược",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60245,
+    "recipe_id": "15954169",
+    "standard_id": 268,
+    "raw_name": "xương đuôi lợn hoặc gói cốt xương heo gà mua sẵn",
+    "standard_name": "xương heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 60246,
+    "recipe_id": "15954169",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60247,
+    "recipe_id": "15954169",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn g bơ nhạt để chiên cá cho thơm",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 60248,
+    "recipe_id": "15954169",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60249,
+    "recipe_id": "15954169",
+    "standard_id": 83,
+    "raw_name": "hành khô bóc vỏ",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60250,
+    "recipe_id": "15954169",
+    "standard_id": 121,
+    "raw_name": "bột sư tử cho cá vàng đẹp thơm",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 60252,
+    "recipe_id": "15954169",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60253,
+    "recipe_id": "15954169",
+    "standard_id": 3983,
+    "raw_name": "bột gừng",
+    "standard_name": "bột gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 60254,
+    "recipe_id": "15954169",
+    "standard_id": 11831,
+    "raw_name": "bột canh",
+    "standard_name": "bột canh",
+    "confidence": 1.0
+  }
+]

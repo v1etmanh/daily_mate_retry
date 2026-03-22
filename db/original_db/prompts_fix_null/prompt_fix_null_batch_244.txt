@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 244/365
+[
+  {
+    "id": 43417,
+    "dish_title": "Phở khô trộn nấm đông cô (món chay)",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45202,
+    "dish_title": "Phở sắn cá lóc",
+    "ingredient_name": "cá lóc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45204,
+    "dish_title": "Phở sắn cá lóc",
+    "ingredient_name": "củ nén",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45203,
+    "dish_title": "Phở sắn cá lóc",
+    "ingredient_name": "nghệ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45205,
+    "dish_title": "Phở sắn cá lóc",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45201,
+    "dish_title": "Phở sắn cá lóc",
+    "ingredient_name": "sắn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42912,
+    "dish_title": "Phở trộn bò băm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42910,
+    "dish_title": "Phở trộn bò băm",
+    "ingredient_name": "giá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42908,
+    "dish_title": "Phở trộn bò băm",
+    "ingredient_name": "heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42909,
+    "dish_title": "Phở trộn bò băm",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42911,
+    "dish_title": "Phở trộn bò băm",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53471,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "bánh phở",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53473,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "bột baking soda",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53472,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53476,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53475,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53474,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "rau tạp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53470,
+    "dish_title": "Phở xào thịt bò chuẩn vị nhà hàng",
+    "ingredient_name": "thăn bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52196,
+    "dish_title": "Phở xào tôm 🦐",
+    "ingredient_name": "nấm đông cô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52197,
+    "dish_title": "Phở xào tôm 🦐",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52195,
+    "dish_title": "Phở xào tôm 🦐",
+    "ingredient_name": "rau tạp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52194,
+    "dish_title": "Phở xào tôm 🦐",
+    "ingredient_name": "tôm lột size trung",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50841,
+    "dish_title": "Phở xào vét tủ super rau",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50840,
+    "dish_title": "Phở xào vét tủ super rau",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50839,
+    "dish_title": "Phở xào vét tủ super rau",
+    "ingredient_name": "rau cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50838,
+    "dish_title": "Phở xào vét tủ super rau",
+    "ingredient_name": "thanh cua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43927,
+    "dish_title": "Phở Áp Chảo Thịt Bò Xào",
+    "ingredient_name": "bột gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43926,
+    "dish_title": "Phở Áp Chảo Thịt Bò Xào",
+    "ingredient_name": "cải ngọt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43928,
+    "dish_title": "Phở Áp Chảo Thịt Bò Xào",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43930,
+    "dish_title": "Phở Áp Chảo Thịt Bò Xào",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

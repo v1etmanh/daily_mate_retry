@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 36291,
+    "recipe_id": "16759360",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36308,
+    "recipe_id": "17028978",
+    "standard_id": 4485,
+    "raw_name": "mực râu mực",
+    "standard_name": "mực",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36309,
+    "recipe_id": "17028978",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36310,
+    "recipe_id": "17028978",
+    "standard_id": 1520,
+    "raw_name": "Hành ngò",
+    "standard_name": "hành ngò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36311,
+    "recipe_id": "17028978",
+    "standard_id": 7595,
+    "raw_name": "Hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36312,
+    "recipe_id": "17028978",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36320,
+    "recipe_id": "17028915",
+    "standard_id": 4485,
+    "raw_name": "đầu mực nang đầu con lớn",
+    "standard_name": "mực",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36321,
+    "recipe_id": "17028915",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36322,
+    "recipe_id": "17028915",
+    "standard_id": 1303,
+    "raw_name": "dầu nè",
+    "standard_name": "dầu vừng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36323,
+    "recipe_id": "17028915",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm nhuyễn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36324,
+    "recipe_id": "17028915",
+    "standard_id": 457,
+    "raw_name": "ớt chuông xanh nhỏ",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36326,
+    "recipe_id": "17028915",
+    "standard_id": 16,
+    "raw_name": "hành lá cắt khúc",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36327,
+    "recipe_id": "17028915",
+    "standard_id": 11829,
+    "raw_name": "lá rau quế",
+    "standard_name": "quế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36328,
+    "recipe_id": "17028915",
+    "standard_id": 6524,
+    "raw_name": "kicap",
+    "standard_name": "kicap",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36330,
+    "recipe_id": "17028915",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36331,
+    "recipe_id": "17028827",
+    "standard_id": 6517,
+    "raw_name": "Xương đầu heo má heo sọ đầumắt mátùy cách gọi địa phương",
+    "standard_name": "má heo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36332,
+    "recipe_id": "17028827",
+    "standard_id": 5071,
+    "raw_name": "Huyết hoặc theo sở thích",
+    "standard_name": "huyết",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36333,
+    "recipe_id": "17028827",
+    "standard_id": 116,
+    "raw_name": "Da heo hoặc theo sở thích",
+    "standard_name": "da heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36334,
+    "recipe_id": "17028827",
+    "standard_id": 6165,
+    "raw_name": "Phèo non hoặc theo sở thích",
+    "standard_name": "lòng non",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36335,
+    "recipe_id": "17028827",
+    "standard_id": 1074,
+    "raw_name": "củ cải trắng",
+    "standard_name": "cải trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36336,
+    "recipe_id": "17028827",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36337,
+    "recipe_id": "17028827",
+    "standard_id": 7595,
+    "raw_name": "hành tím tỏi",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36338,
+    "recipe_id": "17028827",
+    "standard_id": 2210,
+    "raw_name": "Rau lẩu rau má mùng tơi cải xanh nấm các loại mướp",
+    "standard_name": "rau sống",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36345,
+    "recipe_id": "17028642",
+    "standard_id": 4729,
+    "raw_name": "thịt heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36346,
+    "recipe_id": "17028642",
+    "standard_id": 1556,
+    "raw_name": "đậu trắng",
+    "standard_name": "đậu trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36347,
+    "recipe_id": "17028642",
+    "standard_id": 150,
+    "raw_name": "lá lốt",
+    "standard_name": "lá lốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36348,
+    "recipe_id": "17028642",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36349,
+    "recipe_id": "17028642",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36350,
+    "recipe_id": "17028642",
+    "standard_id": 357,
+    "raw_name": "tôm khô",
+    "standard_name": "tôm",
+    "confidence": 0.95
+  }
+]

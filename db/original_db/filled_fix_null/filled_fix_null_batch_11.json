@@ -1,0 +1,242 @@
+[
+  {
+    "id": 45062,
+    "dish_title": "BÒ KHO ĐƠN GIẢN - AI Cũng LÀM ĐƯỢC",
+    "ingredient_name": "bắp bò",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45065,
+    "dish_title": "BÒ KHO ĐƠN GIẢN - AI Cũng LÀM ĐƯỢC",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45063,
+    "dish_title": "BÒ KHO ĐƠN GIẢN - AI Cũng LÀM ĐƯỢC",
+    "ingredient_name": "xốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45064,
+    "dish_title": "BÒ KHO ĐƠN GIẢN - AI Cũng LÀM ĐƯỢC",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46538,
+    "dish_title": "BÒ viên",
+    "ingredient_name": "bắp bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46542,
+    "dish_title": "BÒ viên",
+    "ingredient_name": "bột hành",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46540,
+    "dish_title": "BÒ viên",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46539,
+    "dish_title": "BÒ viên",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46541,
+    "dish_title": "BÒ viên",
+    "ingredient_name": "nước",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52554,
+    "dish_title": "Bánh Bao Đài Loan kẹp Heo Giòn Da & Kimchi - Skinny Taiwanese Bao with Crispy Pork & Kimchi",
+    "ingredient_name": "bột mì",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52553,
+    "dish_title": "Bánh Bao Đài Loan kẹp Heo Giòn Da & Kimchi - Skinny Taiwanese Bao with Crispy Pork & Kimchi",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52549,
+    "dish_title": "Bánh Bao Đài Loan kẹp Heo Giòn Da & Kimchi - Skinny Taiwanese Bao with Crispy Pork & Kimchi",
+    "ingredient_name": "heo quay",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52550,
+    "dish_title": "Bánh Bao Đài Loan kẹp Heo Giòn Da & Kimchi - Skinny Taiwanese Bao with Crispy Pork & Kimchi",
+    "ingredient_name": "kim chi",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52551,
+    "dish_title": "Bánh Bao Đài Loan kẹp Heo Giòn Da & Kimchi - Skinny Taiwanese Bao with Crispy Pork & Kimchi",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52552,
+    "dish_title": "Bánh Bao Đài Loan kẹp Heo Giòn Da & Kimchi - Skinny Taiwanese Bao with Crispy Pork & Kimchi",
+    "ingredient_name": "vỏ bánh bao",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47777,
+    "dish_title": "Bánh BÒ nướng chảo",
+    "ingredient_name": "bột",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47774,
+    "dish_title": "Bánh BÒ nướng chảo",
+    "ingredient_name": "bột bánh bò",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47775,
+    "dish_title": "Bánh BÒ nướng chảo",
+    "ingredient_name": "men",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47776,
+    "dish_title": "Bánh BÒ nướng chảo",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47778,
+    "dish_title": "Bánh BÒ nướng chảo",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50375,
+    "dish_title": "Bánh BÒ thốt nốt nướng NCKD (airfryer)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50373,
+    "dish_title": "Bánh BÒ thốt nốt nướng NCKD (airfryer)",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50374,
+    "dish_title": "Bánh BÒ thốt nốt nướng NCKD (airfryer)",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50376,
+    "dish_title": "Bánh BÒ thốt nốt nướng NCKD (airfryer)",
+    "ingredient_name": "tinh chất vani",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52086,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "dấm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52083,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52089,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52084,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52088,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "hẹ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52082,
+    "dish_title": "Bánh Bột Lọc Nhân Tôm",
+    "ingredient_name": "mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

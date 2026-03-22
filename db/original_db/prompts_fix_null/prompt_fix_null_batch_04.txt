@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 4/365
+[
+  {
+    "id": 50541,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50540,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50538,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "lá chuối",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50537,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52663,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52667,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "cá cờ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52665,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52666,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52669,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52664,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52668,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50530,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50532,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50529,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "nấm ngư",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50531,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50528,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51740,
+    "dish_title": "Bánh canh giò heo và giò sống",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51742,
+    "dish_title": "Bánh canh giò heo và giò sống",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51741,
+    "dish_title": "Bánh canh giò heo và giò sống",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47910,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47909,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47907,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47908,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47906,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47905,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "nấm đùi gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44619,
+    "dish_title": "Bánh canh sườn heo cà rốt và nấm đùi gà",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44620,
+    "dish_title": "Bánh canh sườn heo cà rốt và nấm đùi gà",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44621,
+    "dish_title": "Bánh canh sườn heo cà rốt và nấm đùi gà",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52046,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52045,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

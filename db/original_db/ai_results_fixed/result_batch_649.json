@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 67684,
+    "recipe_id": "15583703",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67688,
+    "recipe_id": "15583671",
+    "standard_id": 985,
+    "raw_name": "nấm bào ngư",
+    "standard_name": "nấm sò",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67689,
+    "recipe_id": "15583671",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm",
+    "standard_name": "ớt hiểm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67690,
+    "recipe_id": "15583671",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67693,
+    "recipe_id": "15583671",
+    "standard_id": 8161,
+    "raw_name": "dầu hào chay",
+    "standard_name": "dầu hào",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67694,
+    "recipe_id": "15583671",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67695,
+    "recipe_id": "15583671",
+    "standard_id": 2051,
+    "raw_name": "n kèm đậu hủ chiên rau xà lách dưa leo bánh tráng",
+    "standard_name": "đồ cuốn ăn kèm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 67696,
+    "recipe_id": "15583671",
+    "standard_id": null,
+    "raw_name": "Giấy bạc",
+    "standard_name": null,
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67697,
+    "recipe_id": "15583276",
+    "standard_id": 289,
+    "raw_name": "Rau muống",
+    "standard_name": "rau muống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67698,
+    "recipe_id": "15583276",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67699,
+    "recipe_id": "15583276",
+    "standard_id": 5715,
+    "raw_name": "Mỡ",
+    "standard_name": "mỡ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67701,
+    "recipe_id": "15583276",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67710,
+    "recipe_id": "15582917",
+    "standard_id": 1920,
+    "raw_name": "vỏ bánh",
+    "standard_name": "vỏ bánh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67711,
+    "recipe_id": "15582917",
+    "standard_id": 1100,
+    "raw_name": "bột mì số",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67714,
+    "recipe_id": "15582917",
+    "standard_id": 766,
+    "raw_name": "bơ đun chảy",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67715,
+    "recipe_id": "15582917",
+    "standard_id": 2213,
+    "raw_name": "men ngọt",
+    "standard_name": "men",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67717,
+    "recipe_id": "15582917",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67718,
+    "recipe_id": "15582917",
+    "standard_id": 1129,
+    "raw_name": "nhân miếng phô mai Con bò cười",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67719,
+    "recipe_id": "15575904",
+    "standard_id": 11359,
+    "raw_name": "vỏ bánh bao ài Loan",
+    "standard_name": "vỏ bánh bao",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67720,
+    "recipe_id": "15575904",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67721,
+    "recipe_id": "15575904",
+    "standard_id": 1148,
+    "raw_name": "sốt BBQ",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67722,
+    "recipe_id": "15575904",
+    "standard_id": 1613,
+    "raw_name": "ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67723,
+    "recipe_id": "15575904",
+    "standard_id": 299,
+    "raw_name": "bắp cải trắng",
+    "standard_name": "cải bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67725,
+    "recipe_id": "15575904",
+    "standard_id": 206,
+    "raw_name": "đậu phộng rang nóng giã vụn",
+    "standard_name": "đậu phộng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67728,
+    "recipe_id": "15575904",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67729,
+    "recipe_id": "15575904",
+    "standard_id": 225,
+    "raw_name": "giấm trắng hoặc giấm táo",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67730,
+    "recipe_id": "15575904",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  }
+]

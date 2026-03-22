@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 43924,
+    "recipe_id": "16682288",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43925,
+    "recipe_id": "16682288",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn hoặc mỡ",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 43927,
+    "recipe_id": "16682288",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43928,
+    "recipe_id": "16682288",
+    "standard_id": 1090,
+    "raw_name": "nước mía",
+    "standard_name": "mía",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43929,
+    "recipe_id": "16682288",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43930,
+    "recipe_id": "16681166",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43931,
+    "recipe_id": "16681166",
+    "standard_id": 312,
+    "raw_name": "kimchi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43932,
+    "recipe_id": "16681166",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43933,
+    "recipe_id": "16681166",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43934,
+    "recipe_id": "16681166",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43935,
+    "recipe_id": "16681166",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43936,
+    "recipe_id": "16681166",
+    "standard_id": 11832,
+    "raw_name": "bột hành",
+    "standard_name": "bột hành",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43937,
+    "recipe_id": "16681166",
+    "standard_id": 11831,
+    "raw_name": "bột canh",
+    "standard_name": "bột canh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43940,
+    "recipe_id": "16681166",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43941,
+    "recipe_id": "16679948",
+    "standard_id": 71,
+    "raw_name": "đậu hũ trắng",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43942,
+    "recipe_id": "16679948",
+    "standard_id": 1071,
+    "raw_name": "Lá rong biển",
+    "standard_name": "rong biển",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43943,
+    "recipe_id": "16679948",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng",
+    "standard_name": "bánh tráng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43944,
+    "recipe_id": "16679948",
+    "standard_id": 31,
+    "raw_name": "Sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43945,
+    "recipe_id": "16679948",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43946,
+    "recipe_id": "16679948",
+    "standard_id": 587,
+    "raw_name": "Bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43947,
+    "recipe_id": "16679948",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43948,
+    "recipe_id": "16679948",
+    "standard_id": 492,
+    "raw_name": "Pha sốt",
+    "standard_name": "xốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43949,
+    "recipe_id": "16679948",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43950,
+    "recipe_id": "16679948",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43955,
+    "recipe_id": "16679551",
+    "standard_id": 41,
+    "raw_name": "cua",
+    "standard_name": "cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43956,
+    "recipe_id": "16679551",
+    "standard_id": 5650,
+    "raw_name": "chả mực",
+    "standard_name": "chả mực",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43957,
+    "recipe_id": "16679551",
+    "standard_id": 83,
+    "raw_name": "hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43958,
+    "recipe_id": "16679551",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43959,
+    "recipe_id": "16679551",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 46945,
+    "dish_title": "Canh cải xanh non nấu thịt bò",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46944,
+    "dish_title": "Canh cải xanh non nấu thịt bò",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46947,
+    "dish_title": "Canh cải xanh non nấu thịt bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46946,
+    "dish_title": "Canh cải xanh non nấu thịt bò",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46743,
+    "dish_title": "Canh cải xoong nhật nấu thịt bằm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46745,
+    "dish_title": "Canh cải xoong nhật nấu thịt bằm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46746,
+    "dish_title": "Canh cải xoong nhật nấu thịt bằm",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46742,
+    "dish_title": "Canh cải xoong nhật nấu thịt bằm",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46744,
+    "dish_title": "Canh cải xoong nhật nấu thịt bằm",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46741,
+    "dish_title": "Canh cải xoong nhật nấu thịt bằm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46478,
+    "dish_title": "Canh chay rong biển đậu hủ nấm kim châm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46479,
+    "dish_title": "Canh chay rong biển đậu hủ nấm kim châm",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46477,
+    "dish_title": "Canh chay rong biển đậu hủ nấm kim châm",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46476,
+    "dish_title": "Canh chay rong biển đậu hủ nấm kim châm",
+    "ingredient_name": "đậu non",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49503,
+    "dish_title": "Canh chay đậu hủ nấu mướp và rau",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49502,
+    "dish_title": "Canh chay đậu hủ nấu mướp và rau",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49501,
+    "dish_title": "Canh chay đậu hủ nấu mướp và rau",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49500,
+    "dish_title": "Canh chay đậu hủ nấu mướp và rau",
+    "ingredient_name": "rau xoong",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49499,
+    "dish_title": "Canh chay đậu hủ nấu mướp và rau",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49545,
+    "dish_title": "Canh chua bông điên điển ngó sen nấu cùng tôm mực",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49546,
+    "dish_title": "Canh chua bông điên điển ngó sen nấu cùng tôm mực",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49544,
+    "dish_title": "Canh chua bông điên điển ngó sen nấu cùng tôm mực",
+    "ingredient_name": "quế",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49543,
+    "dish_title": "Canh chua bông điên điển ngó sen nấu cùng tôm mực",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49542,
+    "dish_title": "Canh chua bông điên điển ngó sen nấu cùng tôm mực",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49108,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "boa rô",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49111,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49109,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "me",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49114,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "ngò gai",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49112,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49113,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "rau ngổ",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

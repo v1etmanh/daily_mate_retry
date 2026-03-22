@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 36659,
+    "recipe_id": "17019537",
+    "standard_id": 11828,
+    "raw_name": "Cá chưng nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36660,
+    "recipe_id": "17019537",
+    "standard_id": 5473,
+    "raw_name": "file cá mình dùng cá chẽm",
+    "standard_name": "cá chẽm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36661,
+    "recipe_id": "17019537",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36677,
+    "recipe_id": "17017745",
+    "standard_id": 3044,
+    "raw_name": "gà ta kg",
+    "standard_name": "gà",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36678,
+    "recipe_id": "17017745",
+    "standard_id": 289,
+    "raw_name": "rau muống đồng cọng to có màu hơi đỏ",
+    "standard_name": "rau muống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36679,
+    "recipe_id": "17017745",
+    "standard_id": 1517,
+    "raw_name": "bồn bồn",
+    "standard_name": "rau thơm",
+    "confidence": 0.5
+  },
+  {
+    "raw_id": 36680,
+    "recipe_id": "17017745",
+    "standard_id": 354,
+    "raw_name": "nấm rơm",
+    "standard_name": "nấm rơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36681,
+    "recipe_id": "17017745",
+    "standard_id": 21,
+    "raw_name": "rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36682,
+    "recipe_id": "17017745",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36683,
+    "recipe_id": "17017745",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36684,
+    "recipe_id": "17017745",
+    "standard_id": 83,
+    "raw_name": "hành phi",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36685,
+    "recipe_id": "17017745",
+    "standard_id": 206,
+    "raw_name": "đậu phộng",
+    "standard_name": "đậu phộng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36686,
+    "recipe_id": "17017745",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36688,
+    "recipe_id": "17017745",
+    "standard_id": 1589,
+    "raw_name": "gia vị thông dụng",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36689,
+    "recipe_id": "17013919",
+    "standard_id": 513,
+    "raw_name": "trứng cá chép",
+    "standard_name": "trứng cá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36690,
+    "recipe_id": "17013919",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36691,
+    "recipe_id": "17013919",
+    "standard_id": 350,
+    "raw_name": "Thì là",
+    "standard_name": "thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36692,
+    "recipe_id": "17013919",
+    "standard_id": 83,
+    "raw_name": "hành khô",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36693,
+    "recipe_id": "17013919",
+    "standard_id": 457,
+    "raw_name": "ớt chuông vàng cho ớt chuông vàng ăn đỡ ngấy hơn nhiều đó nha",
+    "standard_name": "ớt chuông",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 36696,
+    "recipe_id": "17013919",
+    "standard_id": 24,
+    "raw_name": "ớt xay",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36703,
+    "recipe_id": "17016495",
+    "standard_id": 996,
+    "raw_name": "cá trạch",
+    "standard_name": "cá chạch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36705,
+    "recipe_id": "17016495",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36706,
+    "recipe_id": "17016495",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36707,
+    "recipe_id": "17016495",
+    "standard_id": 837,
+    "raw_name": "bánh tráng",
+    "standard_name": "bánh tráng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36708,
+    "recipe_id": "17016495",
+    "standard_id": 1517,
+    "raw_name": "Rau thơm các loại",
+    "standard_name": "rau thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36709,
+    "recipe_id": "17016495",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36711,
+    "recipe_id": "17016495",
+    "standard_id": 8660,
+    "raw_name": "Mắm nêm",
+    "standard_name": "mắm nêm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36713,
+    "recipe_id": "17016495",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  }
+]

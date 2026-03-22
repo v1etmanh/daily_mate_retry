@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 67833,
+    "recipe_id": "15578281",
+    "standard_id": 1187,
+    "raw_name": "nước soup bò",
+    "standard_name": "nước dùng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67834,
+    "recipe_id": "15578281",
+    "standard_id": 3265,
+    "raw_name": "Hẹ",
+    "standard_name": "hẹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67835,
+    "recipe_id": "15578281",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67836,
+    "recipe_id": "15578281",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67847,
+    "recipe_id": "15578410",
+    "standard_id": 353,
+    "raw_name": "cần tây nhỏ",
+    "standard_name": "cần tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67848,
+    "recipe_id": "15578410",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67849,
+    "recipe_id": "15578410",
+    "standard_id": 11829,
+    "raw_name": "Rau răm húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67850,
+    "recipe_id": "15578410",
+    "standard_id": 206,
+    "raw_name": "ậu phộng rang cà bể",
+    "standard_name": "đậu phộng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67851,
+    "recipe_id": "15578410",
+    "standard_id": 1889,
+    "raw_name": "Bánh phồng tôm",
+    "standard_name": "bánh phồng tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67852,
+    "recipe_id": "15578410",
+    "standard_id": 1148,
+    "raw_name": "Sốt gỏi khô bò đen",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67853,
+    "recipe_id": "15578410",
+    "standard_id": 9798,
+    "raw_name": "khô gan bò đen mình tự làm",
+    "standard_name": "gan bò",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 67857,
+    "recipe_id": "15578410",
+    "standard_id": 225,
+    "raw_name": "dấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67858,
+    "recipe_id": "15578410",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67859,
+    "recipe_id": "15578410",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67860,
+    "recipe_id": "15578410",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 67888,
+    "recipe_id": "15574897",
+    "standard_id": 4729,
+    "raw_name": "Thịt băm",
+    "standard_name": "thịt băm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67890,
+    "recipe_id": "15574897",
+    "standard_id": 389,
+    "raw_name": "Bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67891,
+    "recipe_id": "15574897",
+    "standard_id": 2210,
+    "raw_name": "Rau thơm các loại mình chỉ có mớ rau xà lách ngô xài đỡ",
+    "standard_name": "rau sống",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67892,
+    "recipe_id": "15574897",
+    "standard_id": 81,
+    "raw_name": "Cà rốt đu đủ xanh mình thiếu đu đủ nên thay bằng củ cần tây",
+    "standard_name": "cà rốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 67894,
+    "recipe_id": "15555069",
+    "standard_id": 4729,
+    "raw_name": "thịt nạc xay",
+    "standard_name": "thịt bằm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67895,
+    "recipe_id": "15555069",
+    "standard_id": 357,
+    "raw_name": "tôm tươi",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67896,
+    "recipe_id": "15555069",
+    "standard_id": 840,
+    "raw_name": "trứng vịt",
+    "standard_name": "trứng vịt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67897,
+    "recipe_id": "15555069",
+    "standard_id": 389,
+    "raw_name": "bún",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67898,
+    "recipe_id": "15555069",
+    "standard_id": 71,
+    "raw_name": "hộp đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67899,
+    "recipe_id": "15555069",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67900,
+    "recipe_id": "15555069",
+    "standard_id": 2210,
+    "raw_name": "Rau sống",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67901,
+    "recipe_id": "15555069",
+    "standard_id": 7050,
+    "raw_name": "Mắm tôm",
+    "standard_name": "mắm ruốc",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67902,
+    "recipe_id": "15555069",
+    "standard_id": 291,
+    "raw_name": "Chả lụa",
+    "standard_name": "chả lụa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67903,
+    "recipe_id": "15575654",
+    "standard_id": 3044,
+    "raw_name": "gà ta",
+    "standard_name": "gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67904,
+    "recipe_id": "15575654",
+    "standard_id": 357,
+    "raw_name": "lạng tôm biển",
+    "standard_name": "tôm",
+    "confidence": 0.95
+  }
+]

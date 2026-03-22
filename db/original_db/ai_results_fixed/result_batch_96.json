@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 11530,
+    "recipe_id": "24612499",
+    "standard_id": 8161,
+    "raw_name": "dầu hào nấm chay",
+    "standard_name": "dầu hào",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 11531,
+    "recipe_id": "24612499",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 11532,
+    "recipe_id": "24612499",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11533,
+    "recipe_id": "24612499",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11534,
+    "recipe_id": "24612499",
+    "standard_id": 1613,
+    "raw_name": "bột ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11666,
+    "recipe_id": "24618194",
+    "standard_id": 238,
+    "raw_name": "Chả cá Hàn Quốc loại nào cũng được lượng tuỳ theo sức ăn",
+    "standard_name": "chả cá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11667,
+    "recipe_id": "24618194",
+    "standard_id": 233,
+    "raw_name": "củ cải trắng vừa",
+    "standard_name": "củ cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11668,
+    "recipe_id": "24618194",
+    "standard_id": 1330,
+    "raw_name": "nấm hương khô",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11669,
+    "recipe_id": "24618194",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11670,
+    "recipe_id": "24618194",
+    "standard_id": 9733,
+    "raw_name": "hành boaro",
+    "standard_name": "boa rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11671,
+    "recipe_id": "24618194",
+    "standard_id": 2656,
+    "raw_name": "tảo biển không có thì bỏ qua cũng vẫn ngon",
+    "standard_name": "tảo biển",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11673,
+    "recipe_id": "24618194",
+    "standard_id": 24,
+    "raw_name": "t không ăn được cay thì bỏ qua nhưng canh chả cá mà không cho là giảm độ ngon",
+    "standard_name": "ớt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 11674,
+    "recipe_id": "24618194",
+    "standard_id": 651,
+    "raw_name": "cải cúc cá nhân mình thấy không cần thiết lắm Có hay k cũng được",
+    "standard_name": "cải cúc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11676,
+    "recipe_id": "24618089",
+    "standard_id": 2638,
+    "raw_name": "Thịt thăn bò Phần này mềm nhất các bác thích phần nào thì thay bằng phần đó nhé Em thích ăn mềm k dai",
+    "standard_name": "thăn bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11677,
+    "recipe_id": "24618089",
+    "standard_id": 1881,
+    "raw_name": "Phở mình không mua được phở tươi nên mua phở khô ăn tạm liều lượng mọi người gia giảm tuỳ sức ăn",
+    "standard_name": "bánh phở",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 11678,
+    "recipe_id": "24618089",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11679,
+    "recipe_id": "24618089",
+    "standard_id": 10810,
+    "raw_name": "baking soda",
+    "standard_name": "bột baking soda",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11680,
+    "recipe_id": "24618089",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11681,
+    "recipe_id": "24618089",
+    "standard_id": 6173,
+    "raw_name": "rau củ",
+    "standard_name": "rau tạp",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 11682,
+    "recipe_id": "24618089",
+    "standard_id": 2661,
+    "raw_name": "cải ngọt hoặc cải chíp cải thìa",
+    "standard_name": "cải ngọt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 11683,
+    "recipe_id": "24618089",
+    "standard_id": 81,
+    "raw_name": "củ cà rốt nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11684,
+    "recipe_id": "24618089",
+    "standard_id": 166,
+    "raw_name": "củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11685,
+    "recipe_id": "24618089",
+    "standard_id": 1330,
+    "raw_name": "nấm hương tươi có thể thay bằng nấm đùi gà",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11686,
+    "recipe_id": "24618089",
+    "standard_id": 7595,
+    "raw_name": "hành lá tỏi",
+    "standard_name": "hành tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 11687,
+    "recipe_id": "24618089",
+    "standard_id": 1589,
+    "raw_name": "gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11714,
+    "recipe_id": "24616726",
+    "standard_id": 1786,
+    "raw_name": "đậu hũ non",
+    "standard_name": "đậu non",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11715,
+    "recipe_id": "24616726",
+    "standard_id": 4729,
+    "raw_name": "thịt băm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11716,
+    "recipe_id": "24616726",
+    "standard_id": 146,
+    "raw_name": "trứng gà ta",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11717,
+    "recipe_id": "24616726",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 11718,
+    "recipe_id": "24616726",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  }
+]

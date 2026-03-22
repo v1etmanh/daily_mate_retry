@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 195/365
+[
+  {
+    "id": 50514,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50518,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "dấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50520,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50517,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50516,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50512,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "rau mầm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50513,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50519,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50515,
+    "dish_title": "Món Chay Cải Mầm Trộn Nấm Hương Và Tàu Hủ Ky",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50425,
+    "dish_title": "Mushroom Bun 🍄 bánh mì ngọt hình nấm 🍄",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50428,
+    "dish_title": "Mushroom Bun 🍄 bánh mì ngọt hình nấm 🍄",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50426,
+    "dish_title": "Mushroom Bun 🍄 bánh mì ngọt hình nấm 🍄",
+    "ingredient_name": "bột",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50429,
+    "dish_title": "Mushroom Bun 🍄 bánh mì ngọt hình nấm 🍄",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50427,
+    "dish_title": "Mushroom Bun 🍄 bánh mì ngọt hình nấm 🍄",
+    "ingredient_name": "sữa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49767,
+    "dish_title": "MÓN CAMPUCHIA: GỎI BÒ TÁI CHANH KHMER 🇰🇭",
+    "ingredient_name": "bánh phồng tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49763,
+    "dish_title": "MÓN CAMPUCHIA: GỎI BÒ TÁI CHANH KHMER 🇰🇭",
+    "ingredient_name": "bò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49765,
+    "dish_title": "MÓN CAMPUCHIA: GỎI BÒ TÁI CHANH KHMER 🇰🇭",
+    "ingredient_name": "rau răm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49764,
+    "dish_title": "MÓN CAMPUCHIA: GỎI BÒ TÁI CHANH KHMER 🇰🇭",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49766,
+    "dish_title": "MÓN CAMPUCHIA: GỎI BÒ TÁI CHANH KHMER 🇰🇭",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49762,
+    "dish_title": "MÓN LÀO: LARB MOO - SALAD THỊT BĂM LÀO 🇱🇦",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49761,
+    "dish_title": "MÓN LÀO: LARB MOO - SALAD THỊT BĂM LÀO 🇱🇦",
+    "ingredient_name": "gạo nếp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49760,
+    "dish_title": "MÓN LÀO: LARB MOO - SALAD THỊT BĂM LÀO 🇱🇦",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49759,
+    "dish_title": "MÓN LÀO: LARB MOO - SALAD THỊT BĂM LÀO 🇱🇦",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49758,
+    "dish_title": "MÓN LÀO: LARB MOO - SALAD THỊT BĂM LÀO 🇱🇦",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50035,
+    "dish_title": "MÓN NUI THỊT VIÊN KÈM SỐT CAY CHUA NGỌT 🍋",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50034,
+    "dish_title": "MÓN NUI THỊT VIÊN KÈM SỐT CAY CHUA NGỌT 🍋",
+    "ingredient_name": "cải ngọt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50037,
+    "dish_title": "MÓN NUI THỊT VIÊN KÈM SỐT CAY CHUA NGỌT 🍋",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50036,
+    "dish_title": "MÓN NUI THỊT VIÊN KÈM SỐT CAY CHUA NGỌT 🍋",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50032,
+    "dish_title": "MÓN NUI THỊT VIÊN KÈM SỐT CAY CHUA NGỌT 🍋",
+    "ingredient_name": "nui",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50039,
+    "dish_title": "MÓN NUI THỊT VIÊN KÈM SỐT CAY CHUA NGỌT 🍋",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

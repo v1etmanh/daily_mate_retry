@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 1519,
+    "recipe_id": "25099853",
+    "standard_id": 5715,
+    "raw_name": "mỡ nước",
+    "standard_name": "mỡ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1520,
+    "recipe_id": "25099853",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1521,
+    "recipe_id": "25099853",
+    "standard_id": 1589,
+    "raw_name": "Gia vị thông thường",
+    "standard_name": "gia vị",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1535,
+    "recipe_id": "25284640",
+    "standard_id": 41,
+    "raw_name": "cà ra khoảng gram",
+    "standard_name": "cua",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1536,
+    "recipe_id": "25284640",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1537,
+    "recipe_id": "25284640",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1540,
+    "recipe_id": "25284640",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 1541,
+    "recipe_id": "25284640",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1543,
+    "recipe_id": "25284640",
+    "standard_id": 7498,
+    "raw_name": "mỳ trứng sợi nhỏ gram mỳ",
+    "standard_name": "mỳ trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1559,
+    "recipe_id": "25285975",
+    "standard_id": 535,
+    "raw_name": "Cá tầm",
+    "standard_name": "cá tầm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1560,
+    "recipe_id": "25285975",
+    "standard_id": 371,
+    "raw_name": "Giá đỗ",
+    "standard_name": "giá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1561,
+    "recipe_id": "25285975",
+    "standard_id": 28,
+    "raw_name": "Thơm dứa",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1562,
+    "recipe_id": "25285975",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1563,
+    "recipe_id": "25285975",
+    "standard_id": 1050,
+    "raw_name": "Me chua",
+    "standard_name": "me",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1564,
+    "recipe_id": "25285975",
+    "standard_id": 1517,
+    "raw_name": "Rau om ngò gai",
+    "standard_name": "rau thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1565,
+    "recipe_id": "25285975",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1566,
+    "recipe_id": "25285975",
+    "standard_id": 121,
+    "raw_name": "t bột",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 1567,
+    "recipe_id": "25285975",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 1570,
+    "recipe_id": "25285975",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 1571,
+    "recipe_id": "25285975",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1583,
+    "recipe_id": "25285228",
+    "standard_id": 2316,
+    "raw_name": "gạo lứt đã nấu chín",
+    "standard_name": "gạo lứt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1584,
+    "recipe_id": "25285228",
+    "standard_id": 146,
+    "raw_name": "trứng đánh tan",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1585,
+    "recipe_id": "25285228",
+    "standard_id": 11830,
+    "raw_name": "dầu bơ avocado oil",
+    "standard_name": "dầu bơ",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 1586,
+    "recipe_id": "25285228",
+    "standard_id": 166,
+    "raw_name": "củ hành tây cỡ vừa thái hạt lựu",
+    "standard_name": "hành tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1587,
+    "recipe_id": "25285228",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1588,
+    "recipe_id": "25285228",
+    "standard_id": 151,
+    "raw_name": "nấm thái miếng lớn",
+    "standard_name": "nấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 1589,
+    "recipe_id": "25285228",
+    "standard_id": 81,
+    "raw_name": "củ cà rốt nhỏ thái hạt lựu nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1590,
+    "recipe_id": "25285228",
+    "standard_id": 25,
+    "raw_name": "bông cải xanh súp lơ xanh thái miếng vừa",
+    "standard_name": "bông cải",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1591,
+    "recipe_id": "25285228",
+    "standard_id": 39,
+    "raw_name": "gừng tươi bào nhỏ",
+    "standard_name": "gừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 1592,
+    "recipe_id": "25285228",
+    "standard_id": 11828,
+    "raw_name": "sốt Tamari một loại nước tương không chứa hoặc ít gluten",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  }
+]

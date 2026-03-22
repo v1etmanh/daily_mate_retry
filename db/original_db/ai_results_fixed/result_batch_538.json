@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 56178,
+    "recipe_id": "16110735",
+    "standard_id": 1589,
+    "raw_name": "Gia vị rưới lên món ăn",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56179,
+    "recipe_id": "16110735",
+    "standard_id": 16,
+    "raw_name": "Hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56180,
+    "recipe_id": "16110735",
+    "standard_id": 29,
+    "raw_name": "Tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56181,
+    "recipe_id": "16110735",
+    "standard_id": 24,
+    "raw_name": "t or quả Tùy mức ăn cay",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56182,
+    "recipe_id": "16110735",
+    "standard_id": 3417,
+    "raw_name": "Mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56184,
+    "recipe_id": "16110735",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn muỗng sup",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 56187,
+    "recipe_id": "16110735",
+    "standard_id": 8055,
+    "raw_name": "Bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56276,
+    "recipe_id": "16116971",
+    "standard_id": 3020,
+    "raw_name": "cải Endive lớn hoặc cây nhỏ Endive còn được gọi rau diếp trắng",
+    "standard_name": "cải diếp",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56277,
+    "recipe_id": "16116971",
+    "standard_id": 109,
+    "raw_name": "táo",
+    "standard_name": "táo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56278,
+    "recipe_id": "16116971",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56279,
+    "recipe_id": "16116971",
+    "standard_id": 1535,
+    "raw_name": "Sốt sữa chua",
+    "standard_name": "sữa chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56282,
+    "recipe_id": "16116971",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56283,
+    "recipe_id": "16116971",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56284,
+    "recipe_id": "16116971",
+    "standard_id": 1719,
+    "raw_name": "siro phong có thể thay bằng mật ong hoặc mật cây thùa",
+    "standard_name": "siro",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56287,
+    "recipe_id": "16117485",
+    "standard_id": 41,
+    "raw_name": "cua đồng xay",
+    "standard_name": "cua",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56288,
+    "recipe_id": "16117485",
+    "standard_id": 268,
+    "raw_name": "xương heo",
+    "standard_name": "xương heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56289,
+    "recipe_id": "16117485",
+    "standard_id": 1074,
+    "raw_name": "cải trắng",
+    "standard_name": "cải trắng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56290,
+    "recipe_id": "16117485",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56291,
+    "recipe_id": "16117485",
+    "standard_id": 191,
+    "raw_name": "su su",
+    "standard_name": "su su",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56292,
+    "recipe_id": "16117485",
+    "standard_id": 3328,
+    "raw_name": "chả chiên cắt mỏng",
+    "standard_name": "chả",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56293,
+    "recipe_id": "16117485",
+    "standard_id": 238,
+    "raw_name": "chả cá chiên",
+    "standard_name": "chả cá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56294,
+    "recipe_id": "16117485",
+    "standard_id": 4516,
+    "raw_name": "tôm sú luộc chín bóc vỏ",
+    "standard_name": "tôm sú",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56295,
+    "recipe_id": "16117485",
+    "standard_id": 71,
+    "raw_name": "đậu hũ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56296,
+    "recipe_id": "16117485",
+    "standard_id": 9317,
+    "raw_name": "thịt cuốn lá lốt",
+    "standard_name": "thịt cuốn lá lốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56297,
+    "recipe_id": "16117485",
+    "standard_id": 9,
+    "raw_name": "cà chua cắt múi cau",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56298,
+    "recipe_id": "16117485",
+    "standard_id": 83,
+    "raw_name": "Hành tím băm nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56300,
+    "recipe_id": "16117485",
+    "standard_id": 67,
+    "raw_name": "t chanh",
+    "standard_name": "chanh",
+    "confidence": 0.9
+  }
+]

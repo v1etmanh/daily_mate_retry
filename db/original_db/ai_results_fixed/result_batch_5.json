@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 448,
+    "recipe_id": "24713735",
+    "standard_id": 10156,
+    "raw_name": "ít đậu phộng rang",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 449,
+    "recipe_id": "24713735",
+    "standard_id": 1517,
+    "raw_name": "rau mùi ngò gai rau răm rau thơm rau tía tô",
+    "standard_name": "rau thơm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 450,
+    "recipe_id": "24713735",
+    "standard_id": 9,
+    "raw_name": "cà chua nhỏ cắt tạo hoa hồng để trang trí",
+    "standard_name": "cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 451,
+    "recipe_id": "24713735",
+    "standard_id": 16,
+    "raw_name": "hành lá chẻ trang trí",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 452,
+    "recipe_id": "24713735",
+    "standard_id": 102,
+    "raw_name": "ngò rí trang trí",
+    "standard_name": "rau ngò rí",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 453,
+    "recipe_id": "24713735",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 454,
+    "recipe_id": "24713735",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "oyster sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 455,
+    "recipe_id": "24713735",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 459,
+    "recipe_id": "24713735",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 460,
+    "recipe_id": "24713735",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm",
+    "standard_name": "ớt hiểm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 462,
+    "recipe_id": "24713735",
+    "standard_id": 7069,
+    "raw_name": "nước cốt chanh tươi",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 463,
+    "recipe_id": "24713735",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 491,
+    "recipe_id": "24041963",
+    "standard_id": 4485,
+    "raw_name": "mực lá",
+    "standard_name": "mực",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 492,
+    "recipe_id": "24041963",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 493,
+    "recipe_id": "24041963",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 494,
+    "recipe_id": "24041963",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 495,
+    "recipe_id": "24041963",
+    "standard_id": 102,
+    "raw_name": "ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 496,
+    "recipe_id": "24041963",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "oyster sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 497,
+    "recipe_id": "24041963",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 500,
+    "recipe_id": "24041963",
+    "standard_id": 29,
+    "raw_name": "ỏi",
+    "standard_name": "tỏi",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 502,
+    "recipe_id": "24041963",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 547,
+    "recipe_id": "24076134",
+    "standard_id": 149,
+    "raw_name": "thịt heo rừng",
+    "standard_name": "heo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 548,
+    "recipe_id": "24076134",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "oyster sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 550,
+    "recipe_id": "24076134",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 553,
+    "recipe_id": "24076134",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 554,
+    "recipe_id": "24076134",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 596,
+    "recipe_id": "24798482",
+    "standard_id": 2580,
+    "raw_name": "thịt nạc vai heo rừng",
+    "standard_name": "thịt nạc vai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 597,
+    "recipe_id": "24798482",
+    "standard_id": 7,
+    "raw_name": "măng đã luộc chín",
+    "standard_name": "măng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 598,
+    "recipe_id": "24798482",
+    "standard_id": 83,
+    "raw_name": "củ hành tím",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  }
+]

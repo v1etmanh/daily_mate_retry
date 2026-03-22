@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 35069,
+    "recipe_id": "17060721",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35070,
+    "recipe_id": "17060721",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35071,
+    "recipe_id": "17060721",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35073,
+    "recipe_id": "17060721",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 35076,
+    "recipe_id": "17060721",
+    "standard_id": 24,
+    "raw_name": "Bột ớt hoặc ớt tươi",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 35087,
+    "recipe_id": "16925577",
+    "standard_id": 7595,
+    "raw_name": "hoa cỏ hành three cornered leek tỏi ba góc tỏi hoa ng dã",
+    "standard_name": "hành tỏi",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 35088,
+    "recipe_id": "16925577",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35090,
+    "recipe_id": "16925577",
+    "standard_id": 142,
+    "raw_name": "Bò bằm ướp gia vị",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 35092,
+    "recipe_id": "16925577",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35094,
+    "recipe_id": "16925577",
+    "standard_id": 11828,
+    "raw_name": "nước tương tamari",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 35144,
+    "recipe_id": "16957477",
+    "standard_id": 730,
+    "raw_name": "cơm nguội",
+    "standard_name": "cơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35145,
+    "recipe_id": "16957477",
+    "standard_id": 1184,
+    "raw_name": "gạo nếp",
+    "standard_name": "gạo nếp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35146,
+    "recipe_id": "16957477",
+    "standard_id": 360,
+    "raw_name": "đậu xanh đã xát vỏ ngâm nước ấm cho nở mềm",
+    "standard_name": "đậu xanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35147,
+    "recipe_id": "16957477",
+    "standard_id": 5625,
+    "raw_name": "hạt sen",
+    "standard_name": "sen",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35148,
+    "recipe_id": "16957477",
+    "standard_id": 354,
+    "raw_name": "nấm rơm",
+    "standard_name": "nấm rơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35149,
+    "recipe_id": "16957477",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35150,
+    "recipe_id": "16957477",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35151,
+    "recipe_id": "16957477",
+    "standard_id": 309,
+    "raw_name": "bí đỏ gọt vỏ cắt nhỏ",
+    "standard_name": "bí đỏ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35152,
+    "recipe_id": "16957477",
+    "standard_id": 1303,
+    "raw_name": "thìa cafe dầu mè đen",
+    "standard_name": "dầu vừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 35153,
+    "recipe_id": "16957477",
+    "standard_id": 395,
+    "raw_name": "thìa cafe dầu oliu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35154,
+    "recipe_id": "16957477",
+    "standard_id": 11828,
+    "raw_name": "thìa cafe nước tương đậu nành",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 35156,
+    "recipe_id": "16957477",
+    "standard_id": 2627,
+    "raw_name": "thìa cafe bột rau củ",
+    "standard_name": "bột rau củ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35157,
+    "recipe_id": "16957477",
+    "standard_id": 1520,
+    "raw_name": "Rau hành mùi vừa đủ rửa sạch thái nhỏ",
+    "standard_name": "hành ngò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 35159,
+    "recipe_id": "16957477",
+    "standard_id": null,
+    "raw_name": "Phần khác",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 35161,
+    "recipe_id": "16957477",
+    "standard_id": 83,
+    "raw_name": "Hành phi vừa đủ",
+    "standard_name": "hành tím",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 35216,
+    "recipe_id": "17056608",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35217,
+    "recipe_id": "17056608",
+    "standard_id": 199,
+    "raw_name": "nấm đông cô tươi",
+    "standard_name": "nấm đông cô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 35218,
+    "recipe_id": "17056608",
+    "standard_id": 351,
+    "raw_name": "đậu Hà Lan",
+    "standard_name": "đậu hà lan",
+    "confidence": 1.0
+  }
+]

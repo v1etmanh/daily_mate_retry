@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 9277,
+    "recipe_id": "24739978",
+    "standard_id": 1589,
+    "raw_name": "gia vị bò kho xốt vang",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9278,
+    "recipe_id": "24739978",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9279,
+    "recipe_id": "24739978",
+    "standard_id": 11829,
+    "raw_name": "lá quế khô",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 9280,
+    "recipe_id": "24739978",
+    "standard_id": 1148,
+    "raw_name": "Sốt ướp",
+    "standard_name": "sốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9282,
+    "recipe_id": "24739978",
+    "standard_id": 7720,
+    "raw_name": "rượu vang đỏ",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9283,
+    "recipe_id": "24739978",
+    "standard_id": 39,
+    "raw_name": "gừng cắt lát",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9285,
+    "recipe_id": "24739978",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 9286,
+    "recipe_id": "24739978",
+    "standard_id": 83,
+    "raw_name": "hành giã",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 9287,
+    "recipe_id": "24739978",
+    "standard_id": 29,
+    "raw_name": "tỏi giã",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9311,
+    "recipe_id": "24353817",
+    "standard_id": 2285,
+    "raw_name": "thăn heo thăn chuột",
+    "standard_name": "thăn heo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 9312,
+    "recipe_id": "24353817",
+    "standard_id": 1207,
+    "raw_name": "bột bắp hoặc tinh bột khoai tây",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9313,
+    "recipe_id": "24353817",
+    "standard_id": 457,
+    "raw_name": "ớt chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9314,
+    "recipe_id": "24353817",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9315,
+    "recipe_id": "24353817",
+    "standard_id": 29,
+    "raw_name": "tỏi băm nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9316,
+    "recipe_id": "24353817",
+    "standard_id": 10784,
+    "raw_name": "Sốt chua ngọt",
+    "standard_name": "sốt chua ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9318,
+    "recipe_id": "24353817",
+    "standard_id": 225,
+    "raw_name": "dấm táo",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9320,
+    "recipe_id": "24353817",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 9369,
+    "recipe_id": "24731562",
+    "standard_id": 457,
+    "raw_name": "t chuông đỏ xanh tạo màu nhưng không cay",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9370,
+    "recipe_id": "24731562",
+    "standard_id": 8055,
+    "raw_name": "ớt tươi bỏ hạt hoặc thay bằng ớt Hàn Quốc bột không cay gochugaru loại mild",
+    "standard_name": "bột ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 9371,
+    "recipe_id": "24731562",
+    "standard_id": 29,
+    "raw_name": "Tỏi Không cho quá nhiều tỏi vì có thể gây hăng",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9372,
+    "recipe_id": "24731562",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9373,
+    "recipe_id": "24731562",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9374,
+    "recipe_id": "24731562",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9376,
+    "recipe_id": "24731562",
+    "standard_id": 225,
+    "raw_name": "Giấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9378,
+    "recipe_id": "24731562",
+    "standard_id": 6101,
+    "raw_name": "Nước lọc tuỳ thuộc vào bạn có mua nhiều nguyên liệu không nha",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9379,
+    "recipe_id": "24731562",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 9380,
+    "recipe_id": "24731562",
+    "standard_id": 7069,
+    "raw_name": "nước cốt chanh hoặc trái tắc để tạo vị thanh mát",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 9395,
+    "recipe_id": "24730559",
+    "standard_id": 4485,
+    "raw_name": "mực",
+    "standard_name": "mực",
+    "confidence": 1.0
+  }
+]

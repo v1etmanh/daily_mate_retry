@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 45885,
+    "recipe_id": "16566755",
+    "standard_id": 1517,
+    "raw_name": "Rau thơm tăng hương vị",
+    "standard_name": "rau thơm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45886,
+    "recipe_id": "16566755",
+    "standard_id": 21,
+    "raw_name": "rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45887,
+    "recipe_id": "16566755",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45888,
+    "recipe_id": "16566755",
+    "standard_id": 166,
+    "raw_name": "hành tây nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45889,
+    "recipe_id": "16566347",
+    "standard_id": 1041,
+    "raw_name": "cá ngư đai dương",
+    "standard_name": "cá ngừ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45890,
+    "recipe_id": "16566347",
+    "standard_id": 11827,
+    "raw_name": "Dâu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 45891,
+    "recipe_id": "16566347",
+    "standard_id": 2210,
+    "raw_name": "Rau sông",
+    "standard_name": "rau sống",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45892,
+    "recipe_id": "16566347",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45893,
+    "recipe_id": "16566347",
+    "standard_id": 465,
+    "raw_name": "muông canh Nươc măm",
+    "standard_name": "nước mắm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45894,
+    "recipe_id": "16566347",
+    "standard_id": 29,
+    "raw_name": "toi",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45895,
+    "recipe_id": "16566347",
+    "standard_id": 24,
+    "raw_name": "ơt",
+    "standard_name": "ớt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45896,
+    "recipe_id": "16566347",
+    "standard_id": 7069,
+    "raw_name": "muông cafe nươc côt chanh",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45897,
+    "recipe_id": "16566347",
+    "standard_id": 2387,
+    "raw_name": "muông canh đương",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45898,
+    "recipe_id": "16565745",
+    "standard_id": 121,
+    "raw_name": "bột xén dư khi làm bánh xếp mandu gyoza sủi cảo",
+    "standard_name": "bột",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 45899,
+    "recipe_id": "16565745",
+    "standard_id": 151,
+    "raw_name": "cây nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 45900,
+    "recipe_id": "16565745",
+    "standard_id": 26,
+    "raw_name": "cái nấm mèo ngâm nở cắt nhỏ",
+    "standard_name": "nấm mèo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45901,
+    "recipe_id": "16565745",
+    "standard_id": 4729,
+    "raw_name": "thịt băm viên vừa đủ dùng",
+    "standard_name": "thịt bằm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45902,
+    "recipe_id": "16565745",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45903,
+    "recipe_id": "16565745",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45905,
+    "recipe_id": "16565745",
+    "standard_id": 1589,
+    "raw_name": "Gia vị nêm nếm",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45909,
+    "recipe_id": "16565745",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45929,
+    "recipe_id": "16565126",
+    "standard_id": 7893,
+    "raw_name": "Vỏ bánh mandu số lượng tuỳ người dùng",
+    "standard_name": "vỏ bánh mandu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 45930,
+    "recipe_id": "16565126",
+    "standard_id": 7913,
+    "raw_name": "Nhân mandu kim chi",
+    "standard_name": "nhân mandu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 45931,
+    "recipe_id": "16565126",
+    "standard_id": 1642,
+    "raw_name": "cải thảo",
+    "standard_name": "cải thảo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45932,
+    "recipe_id": "16565126",
+    "standard_id": 81,
+    "raw_name": "cà rốt nhỏ",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45933,
+    "recipe_id": "16565126",
+    "standard_id": 166,
+    "raw_name": "hành tây nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45934,
+    "recipe_id": "16565126",
+    "standard_id": 71,
+    "raw_name": "đậu hủ",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45935,
+    "recipe_id": "16565126",
+    "standard_id": 26,
+    "raw_name": "nấm mèo",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45936,
+    "recipe_id": "16565126",
+    "standard_id": 312,
+    "raw_name": "kim chi",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 45937,
+    "recipe_id": "16565126",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  }
+]

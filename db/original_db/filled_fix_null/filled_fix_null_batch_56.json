@@ -1,0 +1,242 @@
+[
+  {
+    "id": 44186,
+    "dish_title": "Bún bò xào miền Tây",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44187,
+    "dish_title": "Bún bò xào miền Tây",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44185,
+    "dish_title": "Bún bò xào miền Tây",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44188,
+    "dish_title": "Bún bò xào miền Tây",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44189,
+    "dish_title": "Bún bò xào miền Tây",
+    "ingredient_name": "topping",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51437,
+    "dish_title": "Bún bò xào sả",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51436,
+    "dish_title": "Bún bò xào sả",
+    "ingredient_name": "chanh",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51441,
+    "dish_title": "Bún bò xào sả",
+    "ingredient_name": "chả lụa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51440,
+    "dish_title": "Bún bò xào sả",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51439,
+    "dish_title": "Bún bò xào sả",
+    "ingredient_name": "đậu phộng",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51438,
+    "dish_title": "Bún bò xào sả",
+    "ingredient_name": "đồ chua",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48337,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48522,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "bún",
+    "quantity_g": 800,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48336,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "chả cá",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48521,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "chả cá",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46779,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48343,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46775,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "dứa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46778,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48342,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "giá",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46780,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48523,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "hành ngò",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46783,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48335,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46798,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "mắm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48344,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46784,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48338,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "nấm rơm",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46782,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46776,
+    "dish_title": "Bún chả cá",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

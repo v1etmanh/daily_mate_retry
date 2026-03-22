@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 344/365
+[
+  {
+    "id": 46183,
+    "dish_title": "Đậu Hũ sốt Trứng Muối",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51343,
+    "dish_title": "Đậu Hủ Kho Thịt Băm, Nấm Hương Sốt Nước Tương",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51342,
+    "dish_title": "Đậu Hủ Kho Thịt Băm, Nấm Hương Sốt Nước Tương",
+    "ingredient_name": "nấm hương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51341,
+    "dish_title": "Đậu Hủ Kho Thịt Băm, Nấm Hương Sốt Nước Tương",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51340,
+    "dish_title": "Đậu Hủ Kho Thịt Băm, Nấm Hương Sốt Nước Tương",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47517,
+    "dish_title": "Đậu Hủ Nhồi Thịt Sốt Cà Chua",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47519,
+    "dish_title": "Đậu Hủ Nhồi Thịt Sốt Cà Chua",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47520,
+    "dish_title": "Đậu Hủ Nhồi Thịt Sốt Cà Chua",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47518,
+    "dish_title": "Đậu Hủ Nhồi Thịt Sốt Cà Chua",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47516,
+    "dish_title": "Đậu Hủ Nhồi Thịt Sốt Cà Chua",
+    "ingredient_name": "thịt nạc vai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53068,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53066,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53067,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53065,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53071,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "lee kum kee",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53069,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53064,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53070,
+    "dish_title": "Đậu Phụ Tứ Xuyên Mapo Tofu 麻婆豆腐",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42641,
+    "dish_title": "Đậu Phụ Đảo Bông Với Rong Biển",
+    "ingredient_name": "boa rô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42640,
+    "dish_title": "Đậu Phụ Đảo Bông Với Rong Biển",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42638,
+    "dish_title": "Đậu Phụ Đảo Bông Với Rong Biển",
+    "ingredient_name": "lá nori",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42639,
+    "dish_title": "Đậu Phụ Đảo Bông Với Rong Biển",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44334,
+    "dish_title": "Đậu bắp hấp sốt thịt bằm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44335,
+    "dish_title": "Đậu bắp hấp sốt thịt bằm",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44332,
+    "dish_title": "Đậu bắp hấp sốt thịt bằm",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44333,
+    "dish_title": "Đậu bắp hấp sốt thịt bằm",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44331,
+    "dish_title": "Đậu bắp hấp sốt thịt bằm",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44285,
+    "dish_title": "Đậu bắp hấp thịt xay",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44284,
+    "dish_title": "Đậu bắp hấp thịt xay",
+    "ingredient_name": "hành ngò",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44283,
+    "dish_title": "Đậu bắp hấp thịt xay",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52491,
+    "dish_title": "Bánh bao kẹp thịt",
+    "ingredient_name": "nước",
+    "quantity_g": 180,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52493,
+    "dish_title": "Bánh bao kẹp thịt",
+    "ingredient_name": "thịt",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51715,
+    "dish_title": "Bánh bao nguyên cám bao heo thì nhoa 🤣",
+    "ingredient_name": "bột mì",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51718,
+    "dish_title": "Bánh bao nguyên cám bao heo thì nhoa 🤣",
+    "ingredient_name": "cà rốt",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51716,
+    "dish_title": "Bánh bao nguyên cám bao heo thì nhoa 🤣",
+    "ingredient_name": "sữa",
+    "quantity_g": 160,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51717,
+    "dish_title": "Bánh bao nguyên cám bao heo thì nhoa 🤣",
+    "ingredient_name": "thịt",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51719,
+    "dish_title": "Bánh bao nguyên cám bao heo thì nhoa 🤣",
+    "ingredient_name": "đậu que",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53001,
+    "dish_title": "Bánh bao nguyên cám bò ngô cheese",
+    "ingredient_name": "bắp ngọt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52996,
+    "dish_title": "Bánh bao nguyên cám bò ngô cheese",
+    "ingredient_name": "bột",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52997,
+    "dish_title": "Bánh bao nguyên cám bò ngô cheese",
+    "ingredient_name": "bột mì",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52999,
+    "dish_title": "Bánh bao nguyên cám bò ngô cheese",
+    "ingredient_name": "dừa",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53000,
+    "dish_title": "Bánh bao nguyên cám bò ngô cheese",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52998,
+    "dish_title": "Bánh bao nguyên cám bò ngô cheese",
+    "ingredient_name": "sữa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50986,
+    "dish_title": "Bánh bao nhân gà nấm",
+    "ingredient_name": "baking powder",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50984,
+    "dish_title": "Bánh bao nhân gà nấm",
+    "ingredient_name": "bột mì",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50985,
+    "dish_title": "Bánh bao nhân gà nấm",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51005,
+    "dish_title": "Bánh bao nhân gà nấm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51004,
+    "dish_title": "Bánh bao nhân gà nấm",
+    "ingredient_name": "nước",
+    "quantity_g": 220,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50987,
+    "dish_title": "Bánh bao nhân gà nấm",
+    "ingredient_name": "đường",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52305,
+    "dish_title": "Bánh bao nhân thịt gà ruốc nấm healthy",
+    "ingredient_name": "baking powder",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52303,
+    "dish_title": "Bánh bao nhân thịt gà ruốc nấm healthy",
+    "ingredient_name": "bột mì",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52306,
+    "dish_title": "Bánh bao nhân thịt gà ruốc nấm healthy",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52307,
+    "dish_title": "Bánh bao nhân thịt gà ruốc nấm healthy",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52304,
+    "dish_title": "Bánh bao nhân thịt gà ruốc nấm healthy",
+    "ingredient_name": "nước",
+    "quantity_g": 180,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44299,
+    "dish_title": "Bánh bao nướng nhân tôm & bắp cải",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44298,
+    "dish_title": "Bánh bao nướng nhân tôm & bắp cải",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44300,
+    "dish_title": "Bánh bao nướng nhân tôm & bắp cải",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44302,
+    "dish_title": "Bánh bao nướng nhân tôm & bắp cải",
+    "ingredient_name": "ngũ vị hương",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44297,
+    "dish_title": "Bánh bao nướng nhân tôm & bắp cải",
+    "ingredient_name": "nước",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44301,
+    "dish_title": "Bánh bao nướng nhân tôm & bắp cải",
+    "ingredient_name": "rượu",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 61413,
+    "recipe_id": "15882647",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61414,
+    "recipe_id": "15882647",
+    "standard_id": 10156,
+    "raw_name": "đậu phộng rang thơm giã nhỏ",
+    "standard_name": "đậu phộng rang thơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61455,
+    "recipe_id": "15879783",
+    "standard_id": 3878,
+    "raw_name": "vịt",
+    "standard_name": "vịt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61457,
+    "recipe_id": "15879783",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61458,
+    "recipe_id": "15879783",
+    "standard_id": 29,
+    "raw_name": "Tỏi ngâm ớt",
+    "standard_name": "tỏi",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 61459,
+    "recipe_id": "15879783",
+    "standard_id": 67,
+    "raw_name": "Chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61460,
+    "recipe_id": "15879783",
+    "standard_id": 11829,
+    "raw_name": "Lá húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61504,
+    "recipe_id": "15878316",
+    "standard_id": 1100,
+    "raw_name": "bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61506,
+    "recipe_id": "15878316",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61507,
+    "recipe_id": "15878316",
+    "standard_id": 3662,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61508,
+    "recipe_id": "15878316",
+    "standard_id": 1593,
+    "raw_name": "tinh chất vani",
+    "standard_name": "tinh chất vani",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61509,
+    "recipe_id": "15878316",
+    "standard_id": 766,
+    "raw_name": "Bơ Ghee",
+    "standard_name": "bơ",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 61510,
+    "recipe_id": "15878316",
+    "standard_id": 6561,
+    "raw_name": "Nhân",
+    "standard_name": "nhân",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61511,
+    "recipe_id": "15878316",
+    "standard_id": 1129,
+    "raw_name": "phô mai con bò cười",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61540,
+    "recipe_id": "15876345",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61541,
+    "recipe_id": "15876345",
+    "standard_id": 561,
+    "raw_name": "rau cần",
+    "standard_name": "cần",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61542,
+    "recipe_id": "15876345",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61543,
+    "recipe_id": "15876345",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61544,
+    "recipe_id": "15876345",
+    "standard_id": 4729,
+    "raw_name": "thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61551,
+    "recipe_id": "15872466",
+    "standard_id": 730,
+    "raw_name": "Cơm trắng",
+    "standard_name": "cơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61552,
+    "recipe_id": "15872466",
+    "standard_id": 9,
+    "raw_name": "cà chua to",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61553,
+    "recipe_id": "15872466",
+    "standard_id": 7671,
+    "raw_name": "Nhân thịt nhồi",
+    "standard_name": "nhân thịt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61554,
+    "recipe_id": "15872466",
+    "standard_id": 4729,
+    "raw_name": "thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61555,
+    "recipe_id": "15872466",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61556,
+    "recipe_id": "15872466",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61561,
+    "recipe_id": "15872466",
+    "standard_id": 102,
+    "raw_name": "Lá ngò trang trí không bắt buộc",
+    "standard_name": "rau ngò rí",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61562,
+    "recipe_id": "15872466",
+    "standard_id": 2210,
+    "raw_name": "Rau xanh ăn kèm tuỳ chọn",
+    "standard_name": "rau sống",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 61563,
+    "recipe_id": "15872466",
+    "standard_id": 1467,
+    "raw_name": "Rau mầm",
+    "standard_name": "rau mầm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61564,
+    "recipe_id": "15872466",
+    "standard_id": 9112,
+    "raw_name": "Rau diếp cừu",
+    "standard_name": "diếp cừu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61565,
+    "recipe_id": "15872466",
+    "standard_id": 16,
+    "raw_name": "Hành lá cắt nhỏ không bắt buộc",
+    "standard_name": "hành lá",
+    "confidence": 0.95
+  }
+]

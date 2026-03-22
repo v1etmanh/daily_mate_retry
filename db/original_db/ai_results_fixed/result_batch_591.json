@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 61203,
+    "recipe_id": "15901957",
+    "standard_id": 83,
+    "raw_name": "Hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61204,
+    "recipe_id": "15901957",
+    "standard_id": 1148,
+    "raw_name": "Nước sốt",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61205,
+    "recipe_id": "15901957",
+    "standard_id": 8411,
+    "raw_name": "Nước sốt xá xíu",
+    "standard_name": "xốt thịt xá xíu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61207,
+    "recipe_id": "15901957",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61209,
+    "recipe_id": "15901957",
+    "standard_id": 6101,
+    "raw_name": "Nước sôi",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61237,
+    "recipe_id": "15899656",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61238,
+    "recipe_id": "15899656",
+    "standard_id": 52,
+    "raw_name": "ậu cove",
+    "standard_name": "đậu que",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61239,
+    "recipe_id": "15899656",
+    "standard_id": 215,
+    "raw_name": "Khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61240,
+    "recipe_id": "15899656",
+    "standard_id": 6053,
+    "raw_name": "Topping chả lụa xúc xích tôm thịt tuỳ ý",
+    "standard_name": "topping",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61241,
+    "recipe_id": "15899656",
+    "standard_id": 121,
+    "raw_name": "Pha bột",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 61242,
+    "recipe_id": "15899656",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61243,
+    "recipe_id": "15899656",
+    "standard_id": 1207,
+    "raw_name": "tinh bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61244,
+    "recipe_id": "15899656",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61245,
+    "recipe_id": "15899656",
+    "standard_id": 6101,
+    "raw_name": "Nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61273,
+    "recipe_id": "15874387",
+    "standard_id": 299,
+    "raw_name": "cải bắp cabbage",
+    "standard_name": "cải bắp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61274,
+    "recipe_id": "15874387",
+    "standard_id": 71,
+    "raw_name": "đậu phụ tofu",
+    "standard_name": "đậu hũ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61275,
+    "recipe_id": "15874387",
+    "standard_id": 1100,
+    "raw_name": "bột tablespoon flour",
+    "standard_name": "bột mì",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61276,
+    "recipe_id": "15874387",
+    "standard_id": 1207,
+    "raw_name": "bột ngô cornstarch",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61278,
+    "recipe_id": "15874387",
+    "standard_id": 146,
+    "raw_name": "trứng egg",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61279,
+    "recipe_id": "15874387",
+    "standard_id": 6053,
+    "raw_name": "Topping",
+    "standard_name": "topping",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61281,
+    "recipe_id": "15874387",
+    "standard_id": 1148,
+    "raw_name": "sốt Chuno Chuno sauce",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 61282,
+    "recipe_id": "15874387",
+    "standard_id": 3925,
+    "raw_name": "Mayo Nhật Bản Japanese mayo",
+    "standard_name": "mayonnaise",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 61283,
+    "recipe_id": "15874387",
+    "standard_id": 1041,
+    "raw_name": "vảy cá ngừ bonito flakes",
+    "standard_name": "cá ngừ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61293,
+    "recipe_id": "15895100",
+    "standard_id": 357,
+    "raw_name": "Tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61294,
+    "recipe_id": "15895100",
+    "standard_id": 4729,
+    "raw_name": "Thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61295,
+    "recipe_id": "15895100",
+    "standard_id": 7997,
+    "raw_name": "Ram",
+    "standard_name": "ram",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 61296,
+    "recipe_id": "15895100",
+    "standard_id": 16,
+    "raw_name": "Hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 61331,
+    "recipe_id": "15828466",
+    "standard_id": 1148,
+    "raw_name": "Sốt kem nấm",
+    "standard_name": "sốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 61332,
+    "recipe_id": "15828466",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  }
+]

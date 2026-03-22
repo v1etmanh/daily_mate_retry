@@ -1,0 +1,242 @@
+[
+  {
+    "id": 43469,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43464,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "nấm ngư trắng",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43465,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "rau sống",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43462,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43470,
+    "dish_title": "Bánh xèo tôm thịt,nấm bào ngư ăn kèm rau cải xanh và rau sống",
+    "ingredient_name": "đường",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48501,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "bột",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48506,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48502,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "nước",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48507,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48505,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "rau sống",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48503,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48504,
+    "dish_title": "Bánh xèo tôm,thịt, mực và trứng cút",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46617,
+    "dish_title": "Beef & Reef Salad",
+    "ingredient_name": "bơ",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46614,
+    "dish_title": "Beef & Reef Salad",
+    "ingredient_name": "mayo",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46615,
+    "dish_title": "Beef & Reef Salad",
+    "ingredient_name": "salad",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46613,
+    "dish_title": "Beef & Reef Salad",
+    "ingredient_name": "sốt",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46618,
+    "dish_title": "Beef & Reef Salad",
+    "ingredient_name": "thịt",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46616,
+    "dish_title": "Beef & Reef Salad",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42783,
+    "dish_title": "Beef Jerky (thịt bò khô)",
+    "ingredient_name": "bột ngũ vị hương",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42784,
+    "dish_title": "Beef Jerky (thịt bò khô)",
+    "ingredient_name": "bột điều",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42785,
+    "dish_title": "Beef Jerky (thịt bò khô)",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42780,
+    "dish_title": "Beef Jerky (thịt bò khô)",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 42782,
+    "dish_title": "Beef Jerky (thịt bò khô)",
+    "ingredient_name": "rượu",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 42781,
+    "dish_title": "Beef Jerky (thịt bò khô)",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49012,
+    "dish_title": "Beef steak & mashed potato",
+    "ingredient_name": "bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49013,
+    "dish_title": "Beef steak & mashed potato",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49016,
+    "dish_title": "Beef steak & mashed potato",
+    "ingredient_name": "hương thảo",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49014,
+    "dish_title": "Beef steak & mashed potato",
+    "ingredient_name": "mùi tây",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49017,
+    "dish_title": "Beef steak & mashed potato",
+    "ingredient_name": "rượu",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49015,
+    "dish_title": "Beef steak & mashed potato",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

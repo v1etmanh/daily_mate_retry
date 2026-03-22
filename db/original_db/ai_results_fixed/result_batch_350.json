@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 42058,
+    "recipe_id": "16808301",
+    "standard_id": 1100,
+    "raw_name": "bột mì số hoặc đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 42060,
+    "recipe_id": "16808301",
+    "standard_id": 4729,
+    "raw_name": "Thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42061,
+    "recipe_id": "16808301",
+    "standard_id": 78,
+    "raw_name": "bắp",
+    "standard_name": "bắp ngọt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42062,
+    "recipe_id": "16808301",
+    "standard_id": 83,
+    "raw_name": "hành tím băm",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 42063,
+    "recipe_id": "16808301",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42064,
+    "recipe_id": "16808301",
+    "standard_id": 3738,
+    "raw_name": "ketchup",
+    "standard_name": "ketchup",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42065,
+    "recipe_id": "16808301",
+    "standard_id": 2246,
+    "raw_name": "sữa đặc",
+    "standard_name": "sữa",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 42066,
+    "recipe_id": "16808301",
+    "standard_id": 1129,
+    "raw_name": "phô mai mozzarella",
+    "standard_name": "phô mai",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 42079,
+    "recipe_id": "16807126",
+    "standard_id": 7332,
+    "raw_name": "ngan",
+    "standard_name": "ngan",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42080,
+    "recipe_id": "16807126",
+    "standard_id": 1050,
+    "raw_name": "sấu theo độ chua từng gđ nha",
+    "standard_name": "me",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 42081,
+    "recipe_id": "16807126",
+    "standard_id": 83,
+    "raw_name": "Hành củ",
+    "standard_name": "hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 42082,
+    "recipe_id": "16807126",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42083,
+    "recipe_id": "16807126",
+    "standard_id": 879,
+    "raw_name": "mùi tàu",
+    "standard_name": "mùi tàu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42084,
+    "recipe_id": "16807126",
+    "standard_id": 39,
+    "raw_name": "Gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42085,
+    "recipe_id": "16807126",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42086,
+    "recipe_id": "16807126",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42087,
+    "recipe_id": "16807126",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42093,
+    "recipe_id": "16804986",
+    "standard_id": 133,
+    "raw_name": "nạm bò và gân",
+    "standard_name": "nạm bò",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 42094,
+    "recipe_id": "16804986",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42095,
+    "recipe_id": "16804986",
+    "standard_id": 3738,
+    "raw_name": "ketchup",
+    "standard_name": "ketchup",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42096,
+    "recipe_id": "16804986",
+    "standard_id": 166,
+    "raw_name": "hành Tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42097,
+    "recipe_id": "16804986",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42098,
+    "recipe_id": "16804986",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42099,
+    "recipe_id": "16804986",
+    "standard_id": 39,
+    "raw_name": "gừng đập dập",
+    "standard_name": "gừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 42100,
+    "recipe_id": "16804986",
+    "standard_id": 7720,
+    "raw_name": "rượu vang",
+    "standard_name": "rượu",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 42101,
+    "recipe_id": "16804986",
+    "standard_id": 395,
+    "raw_name": "Dầu ôliu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42104,
+    "recipe_id": "16804986",
+    "standard_id": 11829,
+    "raw_name": "nguyệt quế",
+    "standard_name": "quế",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 42106,
+    "recipe_id": "16804986",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "khoai tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42107,
+    "recipe_id": "16804986",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 42108,
+    "recipe_id": "16804986",
+    "standard_id": 3256,
+    "raw_name": "Cần tỏi tây",
+    "standard_name": "tỏi tây",
+    "confidence": 0.95
+  }
+]

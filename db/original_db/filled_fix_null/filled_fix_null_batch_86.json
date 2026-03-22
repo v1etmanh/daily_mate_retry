@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48251,
+    "dish_title": "Canh cá dìa nấu thơm cà chua",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48249,
+    "dish_title": "Canh cá dìa nấu thơm cà chua",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48248,
+    "dish_title": "Canh cá dìa nấu thơm cà chua",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48250,
+    "dish_title": "Canh cá dìa nấu thơm cà chua",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48252,
+    "dish_title": "Canh cá dìa nấu thơm cà chua",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48253,
+    "dish_title": "Canh cá dìa nấu thơm cà chua",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45680,
+    "dish_title": "Canh cá diếc chua ngọt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45677,
+    "dish_title": "Canh cá diếc chua ngọt",
+    "ingredient_name": "rau nêm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45678,
+    "dish_title": "Canh cá diếc chua ngọt",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45679,
+    "dish_title": "Canh cá diếc chua ngọt",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46679,
+    "dish_title": "Canh cá khoai nấu thơm cà",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46676,
+    "dish_title": "Canh cá khoai nấu thơm cà",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46675,
+    "dish_title": "Canh cá khoai nấu thơm cà",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46677,
+    "dish_title": "Canh cá khoai nấu thơm cà",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46678,
+    "dish_title": "Canh cá khoai nấu thơm cà",
+    "ingredient_name": "ớt xanh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49316,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "cá kình",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49320,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49317,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "dứa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49321,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49319,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49318,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "hành tím",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49323,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49322,
+    "dish_title": "Canh cá kình nấu thơm",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48995,
+    "dish_title": "Canh cá miso",
+    "ingredient_name": "cá",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48998,
+    "dish_title": "Canh cá miso",
+    "ingredient_name": "gia vị",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48997,
+    "dish_title": "Canh cá miso",
+    "ingredient_name": "miso",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48996,
+    "dish_title": "Canh cá miso",
+    "ingredient_name": "đậu non",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44917,
+    "dish_title": "Canh cá nâu măng chua",
+    "ingredient_name": "chanh",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 44913,
+    "dish_title": "Canh cá nâu măng chua",
+    "ingredient_name": "cà chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44914,
+    "dish_title": "Canh cá nâu măng chua",
+    "ingredient_name": "dứa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

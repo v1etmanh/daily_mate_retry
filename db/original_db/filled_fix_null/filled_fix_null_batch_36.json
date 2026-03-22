@@ -1,0 +1,242 @@
+[
+  {
+    "id": 52637,
+    "dish_title": "Bò Kho Chay - ăn kèm bánh mì",
+    "ingredient_name": "thịt chay",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52641,
+    "dish_title": "Bò Kho Chay - ăn kèm bánh mì",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51962,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51963,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "gia vị",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51961,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "lá cà ri",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51965,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51781,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "nạm bò",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51964,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "quế",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51966,
+    "dish_title": "Bò Kho Nam Bộ",
+    "ingredient_name": "rượu",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53227,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "bắp bò",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53240,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53245,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "hành tím",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53244,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53241,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53243,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "rượu",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53242,
+    "dish_title": "Bò Kho Xốt Vang",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45621,
+    "dish_title": "Bò Lá Lốt - Ẩm thực Việt",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45789,
+    "dish_title": "Bò Lá Lốt - Ẩm thực Việt",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49363,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "bánh mì",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49362,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49366,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "bột hành",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49364,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49360,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "thăn bò",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49365,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49361,
+    "dish_title": "Bò Né Phiên Bản Dọn Tủ",
+    "ingredient_name": "xúc xích",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46513,
+    "dish_title": "Bò Né Đậu Bắp",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46514,
+    "dish_title": "Bò Né Đậu Bắp",
+    "ingredient_name": "chao",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46512,
+    "dish_title": "Bò Né Đậu Bắp",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46511,
+    "dish_title": "Bò Né Đậu Bắp",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46510,
+    "dish_title": "Bò Né Đậu Bắp",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

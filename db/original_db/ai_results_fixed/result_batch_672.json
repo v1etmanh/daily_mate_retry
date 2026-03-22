@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 69820,
+    "recipe_id": "15513784",
+    "standard_id": 3983,
+    "raw_name": "bột gừng",
+    "standard_name": "bột gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69822,
+    "recipe_id": "15513784",
+    "standard_id": 8055,
+    "raw_name": "bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69823,
+    "recipe_id": "15515782",
+    "standard_id": 11773,
+    "raw_name": "Vỏ bánh Gyoza",
+    "standard_name": "vỏ bánh gyoza",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69824,
+    "recipe_id": "15515782",
+    "standard_id": 7647,
+    "raw_name": "bột mì T bột bánh mì",
+    "standard_name": "bột làm bánh mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69825,
+    "recipe_id": "15515782",
+    "standard_id": 1100,
+    "raw_name": "bột mì T bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69826,
+    "recipe_id": "15515782",
+    "standard_id": 6101,
+    "raw_name": "nước ấm C",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69829,
+    "recipe_id": "15515782",
+    "standard_id": 1303,
+    "raw_name": "dầu mè thơm",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69830,
+    "recipe_id": "15515782",
+    "standard_id": 11774,
+    "raw_name": "Nhân Gyoza",
+    "standard_name": "nhân gyoza",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69831,
+    "recipe_id": "15515782",
+    "standard_id": 4729,
+    "raw_name": "thịt băm nhuyễn",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69832,
+    "recipe_id": "15515782",
+    "standard_id": 1642,
+    "raw_name": "lá cải thảo",
+    "standard_name": "cải thảo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69833,
+    "recipe_id": "15515782",
+    "standard_id": 3265,
+    "raw_name": "nhỏ hẹ",
+    "standard_name": "hẹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69834,
+    "recipe_id": "15515782",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69835,
+    "recipe_id": "15515782",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69836,
+    "recipe_id": "15515782",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69837,
+    "recipe_id": "15515782",
+    "standard_id": 39,
+    "raw_name": "gừng nhỏ bằng lượng tỏi",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69838,
+    "recipe_id": "15515782",
+    "standard_id": 81,
+    "raw_name": "cà rốt nhỏ to thì dùng củ",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69840,
+    "recipe_id": "15515782",
+    "standard_id": 1148,
+    "raw_name": "Sốt tương chấm Gyoza",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 69841,
+    "recipe_id": "15515782",
+    "standard_id": 11828,
+    "raw_name": "nước tương loại của Nhật càng ngon",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69842,
+    "recipe_id": "15515782",
+    "standard_id": 225,
+    "raw_name": "dấm trắng",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69845,
+    "recipe_id": "15515782",
+    "standard_id": 1747,
+    "raw_name": "Mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69846,
+    "recipe_id": "15515782",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69848,
+    "recipe_id": "15516211",
+    "standard_id": 1406,
+    "raw_name": "bột gạo",
+    "standard_name": "bột gạo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69850,
+    "recipe_id": "15516211",
+    "standard_id": 360,
+    "raw_name": "đậu xanh",
+    "standard_name": "đậu xanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69851,
+    "recipe_id": "15516211",
+    "standard_id": 10815,
+    "raw_name": "nước cốt dừa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69852,
+    "recipe_id": "15516211",
+    "standard_id": 1659,
+    "raw_name": "Lá dứa",
+    "standard_name": "lá dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 69853,
+    "recipe_id": "15516211",
+    "standard_id": 11827,
+    "raw_name": "Vani dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 69886,
+    "recipe_id": "15515698",
+    "standard_id": 121,
+    "raw_name": "Phần bột",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 69887,
+    "recipe_id": "15515698",
+    "standard_id": 1100,
+    "raw_name": "bột mì nguyên cám BMNC",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 69889,
+    "recipe_id": "15515698",
+    "standard_id": 2246,
+    "raw_name": "sữa tươi làm ấm",
+    "standard_name": "sữa",
+    "confidence": 1.0
+  }
+]

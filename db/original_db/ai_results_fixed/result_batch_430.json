@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 47422,
+    "recipe_id": "16491055",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47423,
+    "recipe_id": "16491055",
+    "standard_id": 395,
+    "raw_name": "dầu olive loại chiên xào được",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47424,
+    "recipe_id": "16491055",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47438,
+    "recipe_id": "16488464",
+    "standard_id": 1410,
+    "raw_name": "thịt nạc có mỡ ba rọi cũng được",
+    "standard_name": "thịt ba rọi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47439,
+    "recipe_id": "16488464",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47440,
+    "recipe_id": "16488464",
+    "standard_id": 39,
+    "raw_name": "gừng nhỏ gấp đôi tép tỏi",
+    "standard_name": "gừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47441,
+    "recipe_id": "16488464",
+    "standard_id": 24,
+    "raw_name": "t tươi",
+    "standard_name": "ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 47442,
+    "recipe_id": "16488464",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 47443,
+    "recipe_id": "16488464",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47444,
+    "recipe_id": "16488464",
+    "standard_id": 1613,
+    "raw_name": "bột ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47449,
+    "recipe_id": "16488464",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47481,
+    "recipe_id": "16314306",
+    "standard_id": 353,
+    "raw_name": "Lá cần tây non",
+    "standard_name": "cần tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47482,
+    "recipe_id": "16314306",
+    "standard_id": 28,
+    "raw_name": "cùi khóm",
+    "standard_name": "dứa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 47483,
+    "recipe_id": "16314306",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47484,
+    "recipe_id": "16314306",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47485,
+    "recipe_id": "16314306",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47486,
+    "recipe_id": "16314306",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47488,
+    "recipe_id": "16314306",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47504,
+    "recipe_id": "16486651",
+    "standard_id": 1410,
+    "raw_name": "thịt heo có nạc có mỡ ba rọi càng ngon",
+    "standard_name": "thịt ba rọi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 47505,
+    "recipe_id": "16486651",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47506,
+    "recipe_id": "16486651",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47507,
+    "recipe_id": "16486651",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47508,
+    "recipe_id": "16486651",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47510,
+    "recipe_id": "16486651",
+    "standard_id": 120,
+    "raw_name": "bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47536,
+    "recipe_id": "16485542",
+    "standard_id": 564,
+    "raw_name": "thịt đùi gà cắt vừa ăn",
+    "standard_name": "đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47537,
+    "recipe_id": "16485542",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 47538,
+    "recipe_id": "16485542",
+    "standard_id": 109,
+    "raw_name": "táo hoặc lê",
+    "standard_name": "táo",
+    "confidence": 0.8
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "raw_id": 56400,
+    "recipe_id": "16101105",
+    "standard_id": 8161,
+    "raw_name": "dâu hao",
+    "standard_name": "dầu hào",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56401,
+    "recipe_id": "16101105",
+    "standard_id": 2387,
+    "raw_name": "đương",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56402,
+    "recipe_id": "16101105",
+    "standard_id": 5850,
+    "raw_name": "hat nêm",
+    "standard_name": "hạt niêm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56404,
+    "recipe_id": "16101105",
+    "standard_id": 1589,
+    "raw_name": "it muôi",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56405,
+    "recipe_id": "16101105",
+    "standard_id": 465,
+    "raw_name": "nươc măm",
+    "standard_name": "nước mắm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56406,
+    "recipe_id": "16101105",
+    "standard_id": 16,
+    "raw_name": "Hanh la",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56407,
+    "recipe_id": "16101105",
+    "standard_id": 83,
+    "raw_name": "hanh tim",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56408,
+    "recipe_id": "16101105",
+    "standard_id": 9,
+    "raw_name": "trai ca chua rưa sach đê rao va căt nho",
+    "standard_name": "cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56426,
+    "recipe_id": "16109614",
+    "standard_id": 142,
+    "raw_name": "Thịt Bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56428,
+    "recipe_id": "16109614",
+    "standard_id": 11832,
+    "raw_name": "Bột hành",
+    "standard_name": "bột hành",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 56429,
+    "recipe_id": "16109614",
+    "standard_id": 120,
+    "raw_name": "Bột tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56430,
+    "recipe_id": "16109614",
+    "standard_id": 1589,
+    "raw_name": "Italian Seasoning",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56433,
+    "recipe_id": "16109614",
+    "standard_id": 856,
+    "raw_name": "Nui vỏ sò loại khổng lồ",
+    "standard_name": "nui",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56434,
+    "recipe_id": "16109614",
+    "standard_id": 1148,
+    "raw_name": "Sốt Pasta",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 56435,
+    "recipe_id": "16109614",
+    "standard_id": 1129,
+    "raw_name": "Phô mai Ricottage hoặc loại Cottage cũng ngon nhé",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56440,
+    "recipe_id": "16109614",
+    "standard_id": 4870,
+    "raw_name": "Ngò tây băm nhuyễn",
+    "standard_name": "mùi tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56443,
+    "recipe_id": "16109614",
+    "standard_id": 146,
+    "raw_name": "Trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56452,
+    "recipe_id": "16104495",
+    "standard_id": 39,
+    "raw_name": "Gừng nhỏ tầm cm băm nhuyễn",
+    "standard_name": "gừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56453,
+    "recipe_id": "16104495",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm nhuyễn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56454,
+    "recipe_id": "16104495",
+    "standard_id": 16,
+    "raw_name": "Hành lá để trang trí",
+    "standard_name": "hành lá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 56455,
+    "recipe_id": "16104495",
+    "standard_id": 1148,
+    "raw_name": "Sốt",
+    "standard_name": "sốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 56456,
+    "recipe_id": "16104495",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 56457,
+    "recipe_id": "16104495",
+    "standard_id": 225,
+    "raw_name": "Giấm táo",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  }
+]

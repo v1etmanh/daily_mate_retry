@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 7399,
+    "recipe_id": "24874868",
+    "standard_id": 6801,
+    "raw_name": "tương đỏ",
+    "standard_name": "tương ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7400,
+    "recipe_id": "24874868",
+    "standard_id": 2513,
+    "raw_name": "sa tế",
+    "standard_name": "satế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7410,
+    "recipe_id": "24876703",
+    "standard_id": 121,
+    "raw_name": "Phần bột",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7412,
+    "recipe_id": "24876703",
+    "standard_id": 6101,
+    "raw_name": "nước ml nếu không có trứng",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7414,
+    "recipe_id": "24876703",
+    "standard_id": 1589,
+    "raw_name": "dầu hành phi",
+    "standard_name": "gia vị",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7415,
+    "recipe_id": "24876703",
+    "standard_id": 16,
+    "raw_name": "hành lá thái nhuyễn",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7416,
+    "recipe_id": "24876703",
+    "standard_id": 146,
+    "raw_name": "trứng gà đánh thật tan",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7417,
+    "recipe_id": "24876703",
+    "standard_id": 1921,
+    "raw_name": "Nhân tôm thịt",
+    "standard_name": "nhân bánh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7418,
+    "recipe_id": "24876703",
+    "standard_id": 357,
+    "raw_name": "tôm đã bóc vỏ",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7419,
+    "recipe_id": "24876703",
+    "standard_id": 4729,
+    "raw_name": "thịt xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7420,
+    "recipe_id": "24876703",
+    "standard_id": 166,
+    "raw_name": "củ hành tây nhỏ băm",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7421,
+    "recipe_id": "24876703",
+    "standard_id": 1812,
+    "raw_name": "củ sắn nhỏ băm vắt nước",
+    "standard_name": "củ sắn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7422,
+    "recipe_id": "24876703",
+    "standard_id": 26,
+    "raw_name": "nấm mèo thái sợi",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7423,
+    "recipe_id": "24876703",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7425,
+    "recipe_id": "24876703",
+    "standard_id": 3417,
+    "raw_name": "mắm độ đạm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7429,
+    "recipe_id": "24876703",
+    "standard_id": 225,
+    "raw_name": "dấm hoặc cốt tắc chanh",
+    "standard_name": "dấm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 7430,
+    "recipe_id": "24876703",
+    "standard_id": 2051,
+    "raw_name": "n kèm",
+    "standard_name": "đồ cuốn ăn kèm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7431,
+    "recipe_id": "24876703",
+    "standard_id": 11829,
+    "raw_name": "Chả lụa chả quế nem chua",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 7479,
+    "recipe_id": "24844099",
+    "standard_id": 121,
+    "raw_name": "Phần Tangzhong",
+    "standard_name": "bột",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 7480,
+    "recipe_id": "24844099",
+    "standard_id": 1100,
+    "raw_name": "bột mì số",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7481,
+    "recipe_id": "24844099",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7482,
+    "recipe_id": "24844099",
+    "standard_id": 1920,
+    "raw_name": "Vỏ bánh",
+    "standard_name": "vỏ bánh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7483,
+    "recipe_id": "24844099",
+    "standard_id": 7647,
+    "raw_name": "bột bánh mì",
+    "standard_name": "bột làm bánh mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7487,
+    "recipe_id": "24844099",
+    "standard_id": 766,
+    "raw_name": "bơ lạt",
+    "standard_name": "bơ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7488,
+    "recipe_id": "24844099",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7489,
+    "recipe_id": "24844099",
+    "standard_id": 2246,
+    "raw_name": "sữa tươi",
+    "standard_name": "sữa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7490,
+    "recipe_id": "24844099",
+    "standard_id": 1921,
+    "raw_name": "Nhân bánh",
+    "standard_name": "nhân bánh",
+    "confidence": 1.0
+  }
+]

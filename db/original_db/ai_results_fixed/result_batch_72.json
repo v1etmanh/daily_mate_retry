@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 7889,
+    "recipe_id": "24843467",
+    "standard_id": 26,
+    "raw_name": "black fungus nấm mèo",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7890,
+    "recipe_id": "24843467",
+    "standard_id": 151,
+    "raw_name": "mushrooms nấm tươi",
+    "standard_name": "nấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7891,
+    "recipe_id": "24843467",
+    "standard_id": 766,
+    "raw_name": "peanut butter bơ đậu phộng",
+    "standard_name": "bơ",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 7892,
+    "recipe_id": "24843467",
+    "standard_id": 1795,
+    "raw_name": "noodle pack gói mì tươi",
+    "standard_name": "mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7960,
+    "recipe_id": "24839602",
+    "standard_id": 1827,
+    "raw_name": "ếch đùi ếch",
+    "standard_name": "đùi ếch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7962,
+    "recipe_id": "24839602",
+    "standard_id": 6101,
+    "raw_name": "nước đá lạnh",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7963,
+    "recipe_id": "24839602",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7964,
+    "recipe_id": "24839602",
+    "standard_id": 1589,
+    "raw_name": "Gia vịbột tỏibột ngũ vị hươnghạt nêmtiêudầu hàonước mắm",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7965,
+    "recipe_id": "24839602",
+    "standard_id": 29,
+    "raw_name": "tỏi bămrửa qua giấm để hết nhựa và giòn lâu hơn",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 7966,
+    "recipe_id": "24839602",
+    "standard_id": 166,
+    "raw_name": "hành tây cắt múi cau",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7967,
+    "recipe_id": "24839602",
+    "standard_id": 766,
+    "raw_name": "bơ thực vật",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7968,
+    "recipe_id": "24839602",
+    "standard_id": 492,
+    "raw_name": "Sốt xào",
+    "standard_name": "xốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 7970,
+    "recipe_id": "24839602",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7972,
+    "recipe_id": "24839602",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 7973,
+    "recipe_id": "24839602",
+    "standard_id": 7069,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8023,
+    "recipe_id": "24834780",
+    "standard_id": 232,
+    "raw_name": "đuôi heo",
+    "standard_name": "đuôi heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8024,
+    "recipe_id": "24834780",
+    "standard_id": 11271,
+    "raw_name": "bún loại sợi to",
+    "standard_name": "sợi bún bò huế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 8025,
+    "recipe_id": "24834780",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8026,
+    "recipe_id": "24834780",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8027,
+    "recipe_id": "24834780",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8029,
+    "recipe_id": "24834780",
+    "standard_id": 7050,
+    "raw_name": "mắm ruốc Huế",
+    "standard_name": "mắm ruốc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8031,
+    "recipe_id": "24834780",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8033,
+    "recipe_id": "24834780",
+    "standard_id": 2513,
+    "raw_name": "sa tế",
+    "standard_name": "satế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8034,
+    "recipe_id": "24834780",
+    "standard_id": 429,
+    "raw_name": "dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8040,
+    "recipe_id": "24834780",
+    "standard_id": 2018,
+    "raw_name": "bắp chuối",
+    "standard_name": "bắp chuối",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8041,
+    "recipe_id": "24834780",
+    "standard_id": 822,
+    "raw_name": "xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8042,
+    "recipe_id": "24834780",
+    "standard_id": 11829,
+    "raw_name": "rau thơm húng quế húng cây kinh giới",
+    "standard_name": "quế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 8043,
+    "recipe_id": "24834780",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 8063,
+    "recipe_id": "24827256",
+    "standard_id": 2571,
+    "raw_name": "khoai lang Nhật",
+    "standard_name": "khoai lang",
+    "confidence": 1.0
+  }
+]

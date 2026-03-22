@@ -1,0 +1,242 @@
+[
+  {
+    "id": 43387,
+    "dish_title": "Bò xào đậu rồng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43386,
+    "dish_title": "Bò xào đậu rồng",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43384,
+    "dish_title": "Bò xào đậu rồng",
+    "ingredient_name": "đậu rồng",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45227,
+    "dish_title": "Bò Áp Chảo Sốt BBQ Hàn Quốc",
+    "ingredient_name": "bơ",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45226,
+    "dish_title": "Bò Áp Chảo Sốt BBQ Hàn Quốc",
+    "ingredient_name": "rau tạp",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45225,
+    "dish_title": "Bò Áp Chảo Sốt BBQ Hàn Quốc",
+    "ingredient_name": "xốt",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49532,
+    "dish_title": "Bóng cá chay rim mè rang",
+    "ingredient_name": "chanh",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49530,
+    "dish_title": "Bóng cá chay rim mè rang",
+    "ingredient_name": "cá chay",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49534,
+    "dish_title": "Bóng cá chay rim mè rang",
+    "ingredient_name": "dưa leo",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49531,
+    "dish_title": "Bóng cá chay rim mè rang",
+    "ingredient_name": "nước",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49533,
+    "dish_title": "Bóng cá chay rim mè rang",
+    "ingredient_name": "ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45075,
+    "dish_title": "Bông Kim Châm Kho Rau Củ Chay",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45073,
+    "dish_title": "Bông Kim Châm Kho Rau Củ Chay",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45074,
+    "dish_title": "Bông Kim Châm Kho Rau Củ Chay",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45076,
+    "dish_title": "Bông Kim Châm Kho Rau Củ Chay",
+    "ingredient_name": "đường",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45072,
+    "dish_title": "Bông Kim Châm Kho Rau Củ Chay",
+    "ingredient_name": "đậu que",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45781,
+    "dish_title": "Bông Tỏi Ba Góc Xào Bò Bằm",
+    "ingredient_name": "bò",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45780,
+    "dish_title": "Bông Tỏi Ba Góc Xào Bò Bằm",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45782,
+    "dish_title": "Bông Tỏi Ba Góc Xào Bò Bằm",
+    "ingredient_name": "nước tương",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44616,
+    "dish_title": "Bông bí nhồi cá thác lác chiên giòn",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44618,
+    "dish_title": "Bông bí nhồi cá thác lác chiên giòn",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44617,
+    "dish_title": "Bông bí nhồi cá thác lác chiên giòn",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48706,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "gừng",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48707,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48705,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48712,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48708,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "satế",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48710,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "sả",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48711,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "đường",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48709,
+    "dish_title": "Bún Bò Huế (Bắp bò,sườn bò và chả lụa)",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 27976,
+    "recipe_id": "17260604",
+    "standard_id": 398,
+    "raw_name": "kem beo",
+    "standard_name": "kem",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 27977,
+    "recipe_id": "17260604",
+    "standard_id": 2246,
+    "raw_name": "sưa đăc",
+    "standard_name": "sữa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 27978,
+    "recipe_id": "17260604",
+    "standard_id": 10815,
+    "raw_name": "nươc côt dưa",
+    "standard_name": "sữa dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 27979,
+    "recipe_id": "17260604",
+    "standard_id": 421,
+    "raw_name": "xiu muôi",
+    "standard_name": "mơ",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 27980,
+    "recipe_id": "17260604",
+    "standard_id": 5191,
+    "raw_name": "tra xanh matcha pha vơi it nươc nong",
+    "standard_name": "trà xanh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 27981,
+    "recipe_id": "17260604",
+    "standard_id": 1589,
+    "raw_name": "hat danh danh đâp dâp rôi cho nươc sôi vào đê phut rôi lọc lây nươc",
+    "standard_name": "gia vị",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 27982,
+    "recipe_id": "17260604",
+    "standard_id": 121,
+    "raw_name": "bôt tinh than tre hòa cung it nươc sôi khuây đêu",
+    "standard_name": "bột",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 28008,
+    "recipe_id": "17274376",
+    "standard_id": 10685,
+    "raw_name": "Heo quay",
+    "standard_name": "heo quay",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28009,
+    "recipe_id": "17274376",
+    "standard_id": 291,
+    "raw_name": "Chả lụa",
+    "standard_name": "chả lụa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28010,
+    "recipe_id": "17274376",
+    "standard_id": 166,
+    "raw_name": "Hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28011,
+    "recipe_id": "17274376",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28012,
+    "recipe_id": "17274376",
+    "standard_id": 203,
+    "raw_name": "Xoài",
+    "standard_name": "xoài",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28013,
+    "recipe_id": "17274376",
+    "standard_id": 5195,
+    "raw_name": "Chanh ớt rau thơm húng mùi tàu ngò hành lá tía tô",
+    "standard_name": "chanh ớt rau thơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28014,
+    "recipe_id": "17274376",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28016,
+    "recipe_id": "17274376",
+    "standard_id": 245,
+    "raw_name": "Dưa chuột",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28063,
+    "recipe_id": "17273740",
+    "standard_id": 149,
+    "raw_name": "thịt heo",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28064,
+    "recipe_id": "17273740",
+    "standard_id": 2210,
+    "raw_name": "Rau sống Xà lách rau thơm ngò hành lá rau cần ngò gai giá bắp chuối",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28065,
+    "recipe_id": "17273740",
+    "standard_id": 245,
+    "raw_name": "Dưa leo chuối khế xoài sống",
+    "standard_name": "dưa leo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 28067,
+    "recipe_id": "17273740",
+    "standard_id": 28,
+    "raw_name": "Thơm chín",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28068,
+    "recipe_id": "17273740",
+    "standard_id": 1795,
+    "raw_name": "Mì lá",
+    "standard_name": "mì",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 28069,
+    "recipe_id": "17273740",
+    "standard_id": 837,
+    "raw_name": "Bánh tráng cuốn bánh tráng nướng",
+    "standard_name": "bánh tráng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28082,
+    "recipe_id": "17273535",
+    "standard_id": 357,
+    "raw_name": "Tôm to chút lột vỏ cho dễ ý mà mua bao nhiu cũng được miễng bạn thấy đủ",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28083,
+    "recipe_id": "17273535",
+    "standard_id": 78,
+    "raw_name": "Bắp ngọt sống mua vừa đủ thôi nhé nếu mua củ thì hãy lấy hạt bắp nha còn mua bao bắp trong siêu thị thì tiện hơn",
+    "standard_name": "bắp ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28084,
+    "recipe_id": "17273535",
+    "standard_id": 166,
+    "raw_name": "hành tây nhỏnếu có hành tây lớn thì cắt nửa thôi nhé",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28088,
+    "recipe_id": "17273535",
+    "standard_id": 766,
+    "raw_name": "hộp bơ",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28089,
+    "recipe_id": "17273535",
+    "standard_id": 1129,
+    "raw_name": "Phô mai sợi phô mai",
+    "standard_name": "phô mai",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28090,
+    "recipe_id": "17273443",
+    "standard_id": 6643,
+    "raw_name": "Thịt heo thịt bò xay",
+    "standard_name": "thịt lợn thịt bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 28091,
+    "recipe_id": "17273443",
+    "standard_id": 6101,
+    "raw_name": "nước đá tbsp",
+    "standard_name": "nước",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 28093,
+    "recipe_id": "17273443",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn tbsp",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 28096,
+    "recipe_id": "17273443",
+    "standard_id": 11781,
+    "raw_name": "baking powder",
+    "standard_name": "baking powder",
+    "confidence": 1.0
+  }
+]

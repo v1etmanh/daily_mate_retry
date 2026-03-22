@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 68013,
+    "recipe_id": "15568798",
+    "standard_id": 11617,
+    "raw_name": "phô mai kem hoặc kem chua",
+    "standard_name": "kiri",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68014,
+    "recipe_id": "15568798",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn đập dập xắt nhỏ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68015,
+    "recipe_id": "15568798",
+    "standard_id": 350,
+    "raw_name": "thì là xắt nhỏ để làm sốt để dành chút trang trí",
+    "standard_name": "thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68016,
+    "recipe_id": "15568798",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68017,
+    "recipe_id": "15568798",
+    "standard_id": 1129,
+    "raw_name": "parmesan bào",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68020,
+    "recipe_id": "15568798",
+    "standard_id": 83,
+    "raw_name": "hành tím mỏng",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68021,
+    "recipe_id": "15568798",
+    "standard_id": 11306,
+    "raw_name": "nụ bạch hoa",
+    "standard_name": "cái nụ bạch hoa capers",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68037,
+    "recipe_id": "15572085",
+    "standard_id": 1100,
+    "raw_name": "bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68038,
+    "recipe_id": "15572085",
+    "standard_id": 4729,
+    "raw_name": "thịt heo xay",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68039,
+    "recipe_id": "15572085",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68040,
+    "recipe_id": "15572085",
+    "standard_id": 1211,
+    "raw_name": "Miến",
+    "standard_name": "miến",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68041,
+    "recipe_id": "15572085",
+    "standard_id": 1330,
+    "raw_name": "Nấm hương",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68042,
+    "recipe_id": "15572085",
+    "standard_id": 26,
+    "raw_name": "Mộc nhĩ",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68043,
+    "recipe_id": "15572085",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68044,
+    "recipe_id": "15572085",
+    "standard_id": 5932,
+    "raw_name": "trứng cút",
+    "standard_name": "trứng cút",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68045,
+    "recipe_id": "15572085",
+    "standard_id": 50,
+    "raw_name": "lạp sườn",
+    "standard_name": "lạp xưởng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68048,
+    "recipe_id": "15572085",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 68051,
+    "recipe_id": "15572085",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68062,
+    "recipe_id": "15570763",
+    "standard_id": 1589,
+    "raw_name": "Gia vị bò kho",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68063,
+    "recipe_id": "15570763",
+    "standard_id": 6027,
+    "raw_name": "Thịt bò lát chay",
+    "standard_name": "thịt chay",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68064,
+    "recipe_id": "15570763",
+    "standard_id": 29,
+    "raw_name": "tỏi cô đơn băm nhuyễn",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68065,
+    "recipe_id": "15570763",
+    "standard_id": 83,
+    "raw_name": "hành tím thái nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68066,
+    "recipe_id": "15570763",
+    "standard_id": 166,
+    "raw_name": "Hành trắng thái miếng mỏng",
+    "standard_name": "hành tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68069,
+    "recipe_id": "15570763",
+    "standard_id": 1207,
+    "raw_name": "Bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68070,
+    "recipe_id": "15570763",
+    "standard_id": 816,
+    "raw_name": "Chân nấm đông cô",
+    "standard_name": "chân nấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68071,
+    "recipe_id": "15570763",
+    "standard_id": 4888,
+    "raw_name": "Tàu hủ ky cọng",
+    "standard_name": "tàu hũ ky",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68072,
+    "recipe_id": "15570763",
+    "standard_id": 81,
+    "raw_name": "Cà rốt và khoai tây cắt sẵn",
+    "standard_name": "cà rốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 68073,
+    "recipe_id": "15568454",
+    "standard_id": 81,
+    "raw_name": "ca rô khoang gr",
+    "standard_name": "cà rốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68074,
+    "recipe_id": "15568454",
+    "standard_id": 389,
+    "raw_name": "bun",
+    "standard_name": "bún",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 66790,
+    "recipe_id": "15613210",
+    "standard_id": 3635,
+    "raw_name": "Bí ngòi",
+    "standard_name": "bí ngòi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66792,
+    "recipe_id": "15613023",
+    "standard_id": 6494,
+    "raw_name": "ế bánh pizza không men mỏng giòn",
+    "standard_name": "đế bánh pizza",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66793,
+    "recipe_id": "15613023",
+    "standard_id": 1100,
+    "raw_name": "bột mì đa dụng",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66794,
+    "recipe_id": "15613023",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66795,
+    "recipe_id": "15613023",
+    "standard_id": 6101,
+    "raw_name": "nước tuỳ theo độ hút nước của bột",
+    "standard_name": "nước",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66797,
+    "recipe_id": "15613023",
+    "standard_id": 11168,
+    "raw_name": "Nhân pizza",
+    "standard_name": "nhân pizza",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66798,
+    "recipe_id": "15613023",
+    "standard_id": 11617,
+    "raw_name": "cream cheese",
+    "standard_name": "kiri",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66799,
+    "recipe_id": "15613023",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66800,
+    "recipe_id": "15613023",
+    "standard_id": 350,
+    "raw_name": "thì là cắt nhỏ giữ lại vài lá tưoi trang trí",
+    "standard_name": "thì là",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66801,
+    "recipe_id": "15613023",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66802,
+    "recipe_id": "15613023",
+    "standard_id": 1129,
+    "raw_name": "Phô mai parmesan bào",
+    "standard_name": "phô mai",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66807,
+    "recipe_id": "15613023",
+    "standard_id": 8055,
+    "raw_name": "Bột ớt",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66827,
+    "recipe_id": "15608486",
+    "standard_id": 142,
+    "raw_name": "bò mềm",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66828,
+    "recipe_id": "15608486",
+    "standard_id": 11829,
+    "raw_name": "chả quết",
+    "standard_name": "quế",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66829,
+    "recipe_id": "15608486",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66830,
+    "recipe_id": "15608486",
+    "standard_id": 150,
+    "raw_name": "Lá lốt to",
+    "standard_name": "lá lốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66831,
+    "recipe_id": "15608486",
+    "standard_id": 2363,
+    "raw_name": "t đỏ tỏi chanh",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66833,
+    "recipe_id": "15608486",
+    "standard_id": 2210,
+    "raw_name": "Rau sống dưa leo",
+    "standard_name": "rau sống",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 66875,
+    "recipe_id": "15609357",
+    "standard_id": 11061,
+    "raw_name": "bò nạc làm có chút ét ăn chơi mà chơi thiệt không đủ cho mình mình ăn nữa",
+    "standard_name": "nạc bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66876,
+    "recipe_id": "15609357",
+    "standard_id": 1148,
+    "raw_name": "Sốt trộn",
+    "standard_name": "sốt",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 66877,
+    "recipe_id": "15609357",
+    "standard_id": 8876,
+    "raw_name": "Cho tất cả vô máy xay nhuyễn tép tỏi củ hành tím mc sả băm miếng gừng bằng lượng tỏi",
+    "standard_name": "sả ớt tỏi hành tím",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66879,
+    "recipe_id": "15609357",
+    "standard_id": 8161,
+    "raw_name": "mc dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66880,
+    "recipe_id": "15609357",
+    "standard_id": 11828,
+    "raw_name": "mc nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66881,
+    "recipe_id": "15609357",
+    "standard_id": 225,
+    "raw_name": "mc dấm",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66882,
+    "recipe_id": "15609357",
+    "standard_id": 1613,
+    "raw_name": "mc bột ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66883,
+    "recipe_id": "15609357",
+    "standard_id": 7233,
+    "raw_name": "mc bột cà ri",
+    "standard_name": "cà ri",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66884,
+    "recipe_id": "15609357",
+    "standard_id": 121,
+    "raw_name": "t bột ít nhiều tuỳ khẩu vị",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66972,
+    "recipe_id": "15599173",
+    "standard_id": 1920,
+    "raw_name": "Vỏ cái",
+    "standard_name": "vỏ bánh",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 66973,
+    "recipe_id": "15599173",
+    "standard_id": 1100,
+    "raw_name": "bột mì đa dụng thêm bột áo",
+    "standard_name": "bột mì",
+    "confidence": 0.9
+  }
+]

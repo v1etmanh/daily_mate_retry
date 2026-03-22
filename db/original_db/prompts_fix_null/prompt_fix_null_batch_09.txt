@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 9/365
+[
+  {
+    "id": 52875,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52873,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52877,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "pecorino mozzarella",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52872,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "vỏ tortillas",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52876,
+    "dish_title": "Burritos 🌯 - Mothering Chicken & Beef Baked Burritos 🌯",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48692,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "dầu điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48701,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48696,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "giá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48690,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48699,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "hành tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48691,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48700,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48703,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48698,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "ngò gai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48704,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48695,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48697,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48693,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48702,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48694,
+    "dish_title": "Bún Bò Huế (Bò tái,nạm bò có da và chả lụa)",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46861,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46856,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "giá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46850,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "gừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46857,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "hoa chuối",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46853,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46849,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46860,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "ngò gai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46859,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "rau muống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46855,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46858,
+    "dish_title": "Bún Bò Huế (Nạm bò và sườn bò hoặc xương bò)",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

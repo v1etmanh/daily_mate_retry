@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 64169,
+    "recipe_id": "15741746",
+    "standard_id": 3417,
+    "raw_name": "Mắm tôm",
+    "standard_name": "mắm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64171,
+    "recipe_id": "15741746",
+    "standard_id": 9646,
+    "raw_name": "Cải chua",
+    "standard_name": "cải chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64172,
+    "recipe_id": "15741746",
+    "standard_id": 29,
+    "raw_name": "Tỏi xay",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64173,
+    "recipe_id": "15741746",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64174,
+    "recipe_id": "15741746",
+    "standard_id": 2699,
+    "raw_name": "là",
+    "standard_name": "lá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 64175,
+    "recipe_id": "15741746",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64176,
+    "recipe_id": "15741746",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 64177,
+    "recipe_id": "15741746",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64230,
+    "recipe_id": "15738925",
+    "standard_id": 149,
+    "raw_name": "Thịt heo rừng",
+    "standard_name": "heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64231,
+    "recipe_id": "15738925",
+    "standard_id": 1747,
+    "raw_name": "Vừng rang sẵn",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64232,
+    "recipe_id": "15738925",
+    "standard_id": null,
+    "raw_name": "Lá mắc mật",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 64233,
+    "recipe_id": "15738925",
+    "standard_id": 31,
+    "raw_name": "xả riềng xay",
+    "standard_name": "sả",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 64236,
+    "recipe_id": "15736140",
+    "standard_id": 357,
+    "raw_name": "con tôm to nhỏ tuỳ ý",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64237,
+    "recipe_id": "15736140",
+    "standard_id": 3044,
+    "raw_name": "Gà xé",
+    "standard_name": "gà",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 64238,
+    "recipe_id": "15736140",
+    "standard_id": 9067,
+    "raw_name": "Vỏ bưởi đã sơ chế đến bước",
+    "standard_name": "bưởi",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 64241,
+    "recipe_id": "15736140",
+    "standard_id": 6053,
+    "raw_name": "Phần thêm khi dùng",
+    "standard_name": "topping",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 64242,
+    "recipe_id": "15736140",
+    "standard_id": 102,
+    "raw_name": "Ngò rí",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64244,
+    "recipe_id": "15736140",
+    "standard_id": 2513,
+    "raw_name": "t bột t sa tế",
+    "standard_name": "satế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 64245,
+    "recipe_id": "15736140",
+    "standard_id": 1303,
+    "raw_name": "Dầu mè thơm",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64266,
+    "recipe_id": "15733885",
+    "standard_id": 7647,
+    "raw_name": "Bột bánh mì Protein Bread flour Protein",
+    "standard_name": "bột làm bánh mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64268,
+    "recipe_id": "15733885",
+    "standard_id": 2213,
+    "raw_name": "men instant Instant yeast",
+    "standard_name": "men",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64270,
+    "recipe_id": "15733885",
+    "standard_id": 766,
+    "raw_name": "bơ lạt làm tan Melted unsalted butter",
+    "standard_name": "bơ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64272,
+    "recipe_id": "15733885",
+    "standard_id": 2246,
+    "raw_name": "sữa tươi mc bột mì khuấy sệt làm hồ gr of fresh milk tablespoon of flour to make a milk paste",
+    "standard_name": "sữa",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 64273,
+    "recipe_id": "15733885",
+    "standard_id": 11829,
+    "raw_name": "trứng gà pha vào bột để quét mặt egg to mix into the dough to brush the surface",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64275,
+    "recipe_id": "15734604",
+    "standard_id": 4485,
+    "raw_name": "mực tươi loại to",
+    "standard_name": "mực",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64276,
+    "recipe_id": "15734604",
+    "standard_id": 120,
+    "raw_name": "bột tỏi hoặc nước tỏi",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64277,
+    "recipe_id": "15734604",
+    "standard_id": 3983,
+    "raw_name": "bột gừng hoặc nước gừng",
+    "standard_name": "bột gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64279,
+    "recipe_id": "15734604",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64280,
+    "recipe_id": "15734604",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 64281,
+    "recipe_id": "15734604",
+    "standard_id": 2513,
+    "raw_name": "sate gia giảm theo độ ăn cay của nhà mình",
+    "standard_name": "satế",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 58270,
+    "recipe_id": "16050383",
+    "standard_id": 1782,
+    "raw_name": "mạch nha",
+    "standard_name": "mạch nha",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58277,
+    "recipe_id": "16049937",
+    "standard_id": 730,
+    "raw_name": "Cơm",
+    "standard_name": "cơm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58278,
+    "recipe_id": "16049937",
+    "standard_id": 142,
+    "raw_name": "Thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58279,
+    "recipe_id": "16049937",
+    "standard_id": 777,
+    "raw_name": "Rau cải",
+    "standard_name": "rau cải",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58280,
+    "recipe_id": "16049937",
+    "standard_id": 377,
+    "raw_name": "Dưa chua",
+    "standard_name": "dưa chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58281,
+    "recipe_id": "16049937",
+    "standard_id": 81,
+    "raw_name": "Cà rốt ậu ve tuỳ thích ko có cũng ko sao",
+    "standard_name": "cà rốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 58283,
+    "recipe_id": "16049937",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58309,
+    "recipe_id": "16047324",
+    "standard_id": 357,
+    "raw_name": "tôm",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58310,
+    "recipe_id": "16047324",
+    "standard_id": 822,
+    "raw_name": "xà lách thuỷ tinh",
+    "standard_name": "rau xà lách",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58311,
+    "recipe_id": "16047324",
+    "standard_id": 766,
+    "raw_name": "bơ sáp",
+    "standard_name": "bơ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58312,
+    "recipe_id": "16047324",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58313,
+    "recipe_id": "16047324",
+    "standard_id": 9618,
+    "raw_name": "Bánh tortilla",
+    "standard_name": "bánh tortilla",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58314,
+    "recipe_id": "16047324",
+    "standard_id": 1100,
+    "raw_name": "bột mì số",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58316,
+    "recipe_id": "16047324",
+    "standard_id": 11781,
+    "raw_name": "bột baking powder",
+    "standard_name": "baking powder",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58317,
+    "recipe_id": "16047324",
+    "standard_id": 395,
+    "raw_name": "dầu ô liu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58318,
+    "recipe_id": "16047324",
+    "standard_id": 6101,
+    "raw_name": "nước ấm",
+    "standard_name": "nước",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58319,
+    "recipe_id": "16047324",
+    "standard_id": 11630,
+    "raw_name": "Sốt salsa xoài",
+    "standard_name": "salsa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 58320,
+    "recipe_id": "16047324",
+    "standard_id": 9,
+    "raw_name": "cà chua khoảng g",
+    "standard_name": "cà chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58321,
+    "recipe_id": "16047324",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58322,
+    "recipe_id": "16047324",
+    "standard_id": 29,
+    "raw_name": "tỏi to",
+    "standard_name": "tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58323,
+    "recipe_id": "16047324",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58324,
+    "recipe_id": "16047324",
+    "standard_id": 16,
+    "raw_name": "hành lá thái nhỏ",
+    "standard_name": "hành lá",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58327,
+    "recipe_id": "16047324",
+    "standard_id": 1610,
+    "raw_name": "bột thì là cumin",
+    "standard_name": "bột cumin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58328,
+    "recipe_id": "16047324",
+    "standard_id": 2985,
+    "raw_name": "lá ngò gai",
+    "standard_name": "ngò gai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58329,
+    "recipe_id": "16047324",
+    "standard_id": 11829,
+    "raw_name": "rau húng quế",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 58330,
+    "recipe_id": "16047324",
+    "standard_id": 3265,
+    "raw_name": "hẹ",
+    "standard_name": "hẹ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58331,
+    "recipe_id": "16047324",
+    "standard_id": 67,
+    "raw_name": "chanh",
+    "standard_name": "chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 58332,
+    "recipe_id": "16047324",
+    "standard_id": 24,
+    "raw_name": "ớt tuỳ ý",
+    "standard_name": "ớt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58333,
+    "recipe_id": "16047324",
+    "standard_id": 203,
+    "raw_name": "xoài chín",
+    "standard_name": "xoài",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 58334,
+    "recipe_id": "16047324",
+    "standard_id": 1535,
+    "raw_name": "Sốt sữa chua",
+    "standard_name": "sữa chua",
+    "confidence": 1.0
+  }
+]

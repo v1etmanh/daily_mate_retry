@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 43960,
+    "recipe_id": "16679551",
+    "standard_id": 1050,
+    "raw_name": "me",
+    "standard_name": "me",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43961,
+    "recipe_id": "16679551",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43966,
+    "recipe_id": "16677884",
+    "standard_id": 39,
+    "raw_name": "gừng rượu",
+    "standard_name": "gừng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43967,
+    "recipe_id": "16677884",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43968,
+    "recipe_id": "16677884",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43970,
+    "recipe_id": "16677884",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43974,
+    "recipe_id": "16677884",
+    "standard_id": 499,
+    "raw_name": "cam",
+    "standard_name": "cam",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43975,
+    "recipe_id": "16640660",
+    "standard_id": 149,
+    "raw_name": "thịt nạc dăm vai ba rọi heo",
+    "standard_name": "heo",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43976,
+    "recipe_id": "16640660",
+    "standard_id": 31,
+    "raw_name": "Sả băm nhỏ",
+    "standard_name": "sả",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43977,
+    "recipe_id": "16640660",
+    "standard_id": 1091,
+    "raw_name": "Riềng bằng trái bóng bàn xay nhỏ vắt lấy nước",
+    "standard_name": "riềng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43978,
+    "recipe_id": "16640660",
+    "standard_id": 2489,
+    "raw_name": "Mẻ",
+    "standard_name": "nước mẻ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43979,
+    "recipe_id": "16640660",
+    "standard_id": 7050,
+    "raw_name": "Mắm tôm",
+    "standard_name": "mắm ruốc",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43980,
+    "recipe_id": "16640660",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 43981,
+    "recipe_id": "16640660",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43982,
+    "recipe_id": "16675527",
+    "standard_id": 2066,
+    "raw_name": "Bánh đa gạo lứt tuỳ ăn nhiều ít",
+    "standard_name": "bánh đa mì gạo phở",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 43983,
+    "recipe_id": "16675527",
+    "standard_id": 1786,
+    "raw_name": "ậu hũ non",
+    "standard_name": "đậu non",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43984,
+    "recipe_id": "16675527",
+    "standard_id": 9,
+    "raw_name": "Cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43985,
+    "recipe_id": "16675527",
+    "standard_id": 262,
+    "raw_name": "Nấm đùi gà",
+    "standard_name": "nấm đùi gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43986,
+    "recipe_id": "16675527",
+    "standard_id": 1589,
+    "raw_name": "Gia vị cơ bản thui",
+    "standard_name": "gia vị",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43987,
+    "recipe_id": "16675527",
+    "standard_id": 8860,
+    "raw_name": "Rau thì nhà có j thì mình luộc ăn thêm á",
+    "standard_name": "rau hay cà chua tùy ý",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43989,
+    "recipe_id": "16671189",
+    "standard_id": 3044,
+    "raw_name": "gà xé sợi",
+    "standard_name": "gà",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43990,
+    "recipe_id": "16671189",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43991,
+    "recipe_id": "16671189",
+    "standard_id": 1330,
+    "raw_name": "nấm hương",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43992,
+    "recipe_id": "16671189",
+    "standard_id": 8860,
+    "raw_name": "rau củ Cà rốtbắp cải bông cải trắng bông cải xanh khoai tây cắt hạt lựu nhỏ",
+    "standard_name": "rau hay cà chua tùy ý",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 43993,
+    "recipe_id": "16671189",
+    "standard_id": 4417,
+    "raw_name": "Thịt nguội như Ham chả lụa",
+    "standard_name": "thịt nguội",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 43994,
+    "recipe_id": "16671189",
+    "standard_id": 10368,
+    "raw_name": "chả tôm hoặc tôm viên",
+    "standard_name": "chả tôm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43995,
+    "recipe_id": "16671189",
+    "standard_id": 5650,
+    "raw_name": "chả mực hoặc mực viên",
+    "standard_name": "chả mực",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 43996,
+    "recipe_id": "16671189",
+    "standard_id": 11609,
+    "raw_name": "xúc xích tất cả cắt hạt lựu",
+    "standard_name": "xúc xích",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 43998,
+    "recipe_id": "16671189",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44003,
+    "recipe_id": "16674733",
+    "standard_id": 2381,
+    "raw_name": "thịt cua chín đã gỡ",
+    "standard_name": "thịt cua",
+    "confidence": 1.0
+  }
+]

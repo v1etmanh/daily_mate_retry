@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 40372,
+    "recipe_id": "16872163",
+    "standard_id": 6053,
+    "raw_name": "Decor",
+    "standard_name": "topping",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 40373,
+    "recipe_id": "16872163",
+    "standard_id": 1467,
+    "raw_name": "rau mầm",
+    "standard_name": "rau mầm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40374,
+    "recipe_id": "16872163",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40375,
+    "recipe_id": "16872163",
+    "standard_id": 1148,
+    "raw_name": "Sốt truffle ponzu",
+    "standard_name": "sốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 40376,
+    "recipe_id": "16872163",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40377,
+    "recipe_id": "16872163",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm",
+    "standard_name": "ớt hiểm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40378,
+    "recipe_id": "16872163",
+    "standard_id": 7147,
+    "raw_name": "dầu nấm truffle",
+    "standard_name": "dầu nấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 40379,
+    "recipe_id": "16872163",
+    "standard_id": 395,
+    "raw_name": "dầu oliu",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40380,
+    "recipe_id": "16872163",
+    "standard_id": 11828,
+    "raw_name": "nước tương nhật kikkoman",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 40381,
+    "recipe_id": "16872163",
+    "standard_id": 7069,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40384,
+    "recipe_id": "16872163",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40385,
+    "recipe_id": "16872173",
+    "standard_id": 41,
+    "raw_name": "cua lột chiên xù",
+    "standard_name": "cua",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 40387,
+    "recipe_id": "16872173",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40388,
+    "recipe_id": "16872173",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40389,
+    "recipe_id": "16872173",
+    "standard_id": 7149,
+    "raw_name": "bột panko chiên giòn",
+    "standard_name": "bột panko",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40390,
+    "recipe_id": "16872173",
+    "standard_id": 7150,
+    "raw_name": "bột cajun",
+    "standard_name": "bột cajun",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40391,
+    "recipe_id": "16872173",
+    "standard_id": 215,
+    "raw_name": "khoai tây nghiền",
+    "standard_name": "khoai tây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 40393,
+    "recipe_id": "16872173",
+    "standard_id": 766,
+    "raw_name": "bơ cho sốt khoai tây",
+    "standard_name": "bơ",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 40394,
+    "recipe_id": "16872173",
+    "standard_id": 398,
+    "raw_name": "cooking cream",
+    "standard_name": "kem",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 40395,
+    "recipe_id": "16872173",
+    "standard_id": 1148,
+    "raw_name": "nước sốt",
+    "standard_name": "sốt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 40397,
+    "recipe_id": "16872173",
+    "standard_id": 7720,
+    "raw_name": "rượu vang trắng",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 40398,
+    "recipe_id": "16872173",
+    "standard_id": 3662,
+    "raw_name": "nước chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40399,
+    "recipe_id": "16872173",
+    "standard_id": 11829,
+    "raw_name": "húng quế tây basil",
+    "standard_name": "quế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40402,
+    "recipe_id": "16872173",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40403,
+    "recipe_id": "16872173",
+    "standard_id": 166,
+    "raw_name": "hành trắng",
+    "standard_name": "hành tây",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 40416,
+    "recipe_id": "16871428",
+    "standard_id": 149,
+    "raw_name": "heo",
+    "standard_name": "heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 40417,
+    "recipe_id": "16871428",
+    "standard_id": 2210,
+    "raw_name": "tắc trái dưa leo vừa củ cà rốt củ hành tây",
+    "standard_name": "rau sống",
+    "confidence": 0.6
+  }
+]

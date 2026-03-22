@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 3475,
+    "recipe_id": "25160935",
+    "standard_id": 7314,
+    "raw_name": "Dầu điều",
+    "standard_name": "dầu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3476,
+    "recipe_id": "25160935",
+    "standard_id": 29,
+    "raw_name": "t băm",
+    "standard_name": "tỏi",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 3477,
+    "recipe_id": "25160935",
+    "standard_id": 245,
+    "raw_name": "Dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3478,
+    "recipe_id": "25160935",
+    "standard_id": 24,
+    "raw_name": "t tươi",
+    "standard_name": "ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 3511,
+    "recipe_id": "25125810",
+    "standard_id": 142,
+    "raw_name": "thịt bò xay",
+    "standard_name": "bò",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3512,
+    "recipe_id": "25125810",
+    "standard_id": 1589,
+    "raw_name": "gia vị Tacos",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3513,
+    "recipe_id": "25125810",
+    "standard_id": 958,
+    "raw_name": "tinh chất cà chua cô đặc",
+    "standard_name": "tinh chất cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3514,
+    "recipe_id": "25125810",
+    "standard_id": 1148,
+    "raw_name": "Sốt quả bơ ăn kèm Guacamole",
+    "standard_name": "sốt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 3515,
+    "recipe_id": "25125810",
+    "standard_id": 766,
+    "raw_name": "bơ",
+    "standard_name": "bơ",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 3516,
+    "recipe_id": "25125810",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3517,
+    "recipe_id": "25125810",
+    "standard_id": 7069,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "chanh vắt nước cốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3518,
+    "recipe_id": "25125810",
+    "standard_id": 917,
+    "raw_name": "rau mùi",
+    "standard_name": "rau mùi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3519,
+    "recipe_id": "25125810",
+    "standard_id": 9618,
+    "raw_name": "vỏ bánh tacos",
+    "standard_name": "bánh tortilla",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3520,
+    "recipe_id": "25125810",
+    "standard_id": 822,
+    "raw_name": "xà lách",
+    "standard_name": "rau xà lách",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3527,
+    "recipe_id": "25062472",
+    "standard_id": 596,
+    "raw_name": "ếch đã làm sạch",
+    "standard_name": "ếch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3528,
+    "recipe_id": "25062472",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3529,
+    "recipe_id": "25062472",
+    "standard_id": 7,
+    "raw_name": "măng lay",
+    "standard_name": "măng",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 3530,
+    "recipe_id": "25062472",
+    "standard_id": 1330,
+    "raw_name": "nấm hương ngâm nở",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3531,
+    "recipe_id": "25062472",
+    "standard_id": 28,
+    "raw_name": "dứa",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3532,
+    "recipe_id": "25062472",
+    "standard_id": 31,
+    "raw_name": "sả",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3533,
+    "recipe_id": "25062472",
+    "standard_id": 7314,
+    "raw_name": "màu dầu điều",
+    "standard_name": "dầu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3534,
+    "recipe_id": "25062472",
+    "standard_id": 587,
+    "raw_name": "bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3535,
+    "recipe_id": "25062472",
+    "standard_id": 166,
+    "raw_name": "củ hành tây xắt lát",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3536,
+    "recipe_id": "25062472",
+    "standard_id": 531,
+    "raw_name": "dừa",
+    "standard_name": "dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3537,
+    "recipe_id": "25062472",
+    "standard_id": 2513,
+    "raw_name": "sa tế",
+    "standard_name": "satế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3538,
+    "recipe_id": "25062472",
+    "standard_id": 3093,
+    "raw_name": "ớt sừng",
+    "standard_name": "ớt sừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 3540,
+    "recipe_id": "25062472",
+    "standard_id": 7669,
+    "raw_name": "lá lốt tía tô mùi tàu",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 3541,
+    "recipe_id": "25062472",
+    "standard_id": 2489,
+    "raw_name": "mẻ hoặc dấm",
+    "standard_name": "nước mẻ",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 3543,
+    "recipe_id": "25062472",
+    "standard_id": 389,
+    "raw_name": "Bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 45691,
+    "dish_title": "Bánh đa đỏ hải sản chay",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45693,
+    "dish_title": "Bánh đa đỏ hải sản chay",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45655,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45657,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45661,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45656,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "mỡ heo",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45658,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45654,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45660,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45659,
+    "dish_title": "Bánh đa đỏ trộn tôm cua",
+    "ingredient_name": "đường",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45673,
+    "dish_title": "Bánh đa đỏ xào tôm",
+    "ingredient_name": "bánh đa mì gạo phở",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45676,
+    "dish_title": "Bánh đa đỏ xào tôm",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45675,
+    "dish_title": "Bánh đa đỏ xào tôm",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45674,
+    "dish_title": "Bánh đa đỏ xào tôm",
+    "ingredient_name": "ớt chuông",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52338,
+    "dish_title": "Bánh đúc thịt làm từ cơm nguội",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52335,
+    "dish_title": "Bánh đúc thịt làm từ cơm nguội",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52336,
+    "dish_title": "Bánh đúc thịt làm từ cơm nguội",
+    "ingredient_name": "nấm mèo",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52337,
+    "dish_title": "Bánh đúc thịt làm từ cơm nguội",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52334,
+    "dish_title": "Bánh đúc thịt làm từ cơm nguội",
+    "ingredient_name": "thịt nguội",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53273,
+    "dish_title": "Bánh đúc thịt vai xay",
+    "ingredient_name": "bột ngô",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53276,
+    "dish_title": "Bánh đúc thịt vai xay",
+    "ingredient_name": "dấm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 53277,
+    "dish_title": "Bánh đúc thịt vai xay",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53274,
+    "dish_title": "Bánh đúc thịt vai xay",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53275,
+    "dish_title": "Bánh đúc thịt vai xay",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53272,
+    "dish_title": "Bánh đúc thịt vai xay",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50069,
+    "dish_title": "Bánh đúc tôm thịt",
+    "ingredient_name": "củ sắn",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50070,
+    "dish_title": "Bánh đúc tôm thịt",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50067,
+    "dish_title": "Bánh đúc tôm thịt",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50066,
+    "dish_title": "Bánh đúc tôm thịt",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50068,
+    "dish_title": "Bánh đúc tôm thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

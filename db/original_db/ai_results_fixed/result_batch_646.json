@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 67398,
+    "recipe_id": "15593092",
+    "standard_id": 4729,
+    "raw_name": "thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67399,
+    "recipe_id": "15593092",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67400,
+    "recipe_id": "15593092",
+    "standard_id": 164,
+    "raw_name": "Rau bó xôi",
+    "standard_name": "cải bó xôi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67401,
+    "recipe_id": "15593092",
+    "standard_id": 1129,
+    "raw_name": "Phô mai Parmesan bào nhuyễn",
+    "standard_name": "phô mai",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67406,
+    "recipe_id": "15591099",
+    "standard_id": 10882,
+    "raw_name": "Lá hoành thánh Công thức làm bằng máy Philips",
+    "standard_name": "lá hoành thánh",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67407,
+    "recipe_id": "15591099",
+    "standard_id": 1100,
+    "raw_name": "bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67408,
+    "recipe_id": "15591099",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67410,
+    "recipe_id": "15591099",
+    "standard_id": 11298,
+    "raw_name": "nước cốt cải bó xôi gia giảm tuỳ loại bột",
+    "standard_name": "nước cốt cải bó xôi gia giảm tuỳ loại bột",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67412,
+    "recipe_id": "15591099",
+    "standard_id": 1921,
+    "raw_name": "Nhân hoành thánh",
+    "standard_name": "nhân bánh",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 67413,
+    "recipe_id": "15591099",
+    "standard_id": 998,
+    "raw_name": "tôm bóc nõn",
+    "standard_name": "nõn tôm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67414,
+    "recipe_id": "15591099",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67415,
+    "recipe_id": "15591099",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67416,
+    "recipe_id": "15591099",
+    "standard_id": 164,
+    "raw_name": "Xác cải bó xôi sau khi vắt lấy nước cốt cho phần lá hoành thánh",
+    "standard_name": "cải bó xôi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67418,
+    "recipe_id": "15591099",
+    "standard_id": 11301,
+    "raw_name": "Nước súp",
+    "standard_name": "nước súp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67419,
+    "recipe_id": "15591099",
+    "standard_id": 10,
+    "raw_name": "xương gà",
+    "standard_name": "xương gà",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67420,
+    "recipe_id": "15591099",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67421,
+    "recipe_id": "15591099",
+    "standard_id": 151,
+    "raw_name": "nấm mỡ",
+    "standard_name": "nấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67423,
+    "recipe_id": "15592736",
+    "standard_id": 5585,
+    "raw_name": "Cháo trắng",
+    "standard_name": "cháo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67424,
+    "recipe_id": "15592736",
+    "standard_id": 843,
+    "raw_name": "Rau mồng tơi khoảng lá",
+    "standard_name": "mồng tơi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67425,
+    "recipe_id": "15592736",
+    "standard_id": 6101,
+    "raw_name": "nước",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67426,
+    "recipe_id": "15592736",
+    "standard_id": 41,
+    "raw_name": "Cua biển",
+    "standard_name": "cua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 67427,
+    "recipe_id": "15592736",
+    "standard_id": 16,
+    "raw_name": "hành nhỏ",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 67470,
+    "recipe_id": "15591821",
+    "standard_id": 366,
+    "raw_name": "mướp hương",
+    "standard_name": "mướp",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67471,
+    "recipe_id": "15591821",
+    "standard_id": 4729,
+    "raw_name": "Thịt bằm",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67473,
+    "recipe_id": "15591821",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67474,
+    "recipe_id": "15591821",
+    "standard_id": 83,
+    "raw_name": "Hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67481,
+    "recipe_id": "15591254",
+    "standard_id": 1148,
+    "raw_name": "sốt Teriyaki hữu cơ",
+    "standard_name": "sốt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 67482,
+    "recipe_id": "15591254",
+    "standard_id": 10789,
+    "raw_name": "syrup thốt nốt",
+    "standard_name": "syrup thốt nốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 67484,
+    "recipe_id": "15591254",
+    "standard_id": 11314,
+    "raw_name": "muỗng cf mè trắng rang",
+    "standard_name": "muỗng cf mè trắng rang",
+    "confidence": 1.0
+  }
+]

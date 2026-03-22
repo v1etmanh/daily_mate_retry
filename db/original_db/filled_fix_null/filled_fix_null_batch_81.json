@@ -1,0 +1,242 @@
+[
+  {
+    "id": 49110,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "đường",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49107,
+    "dish_title": "Canh chua chay đậu hủ trắng,nấm kim châm và cà chua",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48396,
+    "dish_title": "Canh chua chả cá",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48395,
+    "dish_title": "Canh chua chả cá",
+    "ingredient_name": "hành tím",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48393,
+    "dish_title": "Canh chua chả cá",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48394,
+    "dish_title": "Canh chua chả cá",
+    "ingredient_name": "thì là",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47233,
+    "dish_title": "Canh chua chả cá nhồng",
+    "ingredient_name": "cá nhòng",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47234,
+    "dish_title": "Canh chua chả cá nhồng",
+    "ingredient_name": "cá ồ",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 1
+  },
+  {
+    "id": 47237,
+    "dish_title": "Canh chua chả cá nhồng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47235,
+    "dish_title": "Canh chua chả cá nhồng",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47236,
+    "dish_title": "Canh chua chả cá nhồng",
+    "ingredient_name": "hành tím",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46439,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46427,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "chả cá",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46438,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46429,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "dọc mùng",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46437,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46435,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46436,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "hành tím",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46428,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "khế",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46432,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "lá lốt",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46434,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "mùi tây",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 46430,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "măng chua",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46433,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "rau ngổ",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46431,
+    "dish_title": "Canh chua chả cá rựa",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44407,
+    "dish_title": "Canh chua cá bông lau",
+    "ingredient_name": "gia vị",
+    "quantity_g": 25,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44405,
+    "dish_title": "Canh chua cá bông lau",
+    "ingredient_name": "me",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44404,
+    "dish_title": "Canh chua cá bông lau",
+    "ingredient_name": "rau om",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44406,
+    "dish_title": "Canh chua cá bông lau",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45195,
+    "dish_title": "Canh chua cá cam",
+    "ingredient_name": "cá cam",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45198,
+    "dish_title": "Canh chua cá cam",
+    "ingredient_name": "me",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

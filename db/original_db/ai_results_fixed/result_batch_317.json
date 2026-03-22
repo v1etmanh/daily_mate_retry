@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 39405,
+    "recipe_id": "16907424",
+    "standard_id": 102,
+    "raw_name": "Ngò thơm",
+    "standard_name": "rau ngò rí",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39406,
+    "recipe_id": "16907424",
+    "standard_id": 5239,
+    "raw_name": "thanh chả cua",
+    "standard_name": "thanh cua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39407,
+    "recipe_id": "16907424",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39408,
+    "recipe_id": "16907424",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39409,
+    "recipe_id": "16907424",
+    "standard_id": 7014,
+    "raw_name": "sate sambal",
+    "standard_name": "sambal",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39412,
+    "recipe_id": "16906883",
+    "standard_id": 624,
+    "raw_name": "cá chim trắng biển",
+    "standard_name": "cá chim",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39413,
+    "recipe_id": "16906883",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39414,
+    "recipe_id": "16906883",
+    "standard_id": 3635,
+    "raw_name": "bí ngòi",
+    "standard_name": "bí ngòi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39415,
+    "recipe_id": "16906883",
+    "standard_id": 457,
+    "raw_name": "ớt chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39416,
+    "recipe_id": "16906883",
+    "standard_id": 9,
+    "raw_name": "cà chua bi",
+    "standard_name": "cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39417,
+    "recipe_id": "16906883",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39418,
+    "recipe_id": "16906883",
+    "standard_id": 7014,
+    "raw_name": "sambal sate của Indonesia",
+    "standard_name": "sambal",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39419,
+    "recipe_id": "16906883",
+    "standard_id": 11831,
+    "raw_name": "bột canh",
+    "standard_name": "bột canh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39420,
+    "recipe_id": "16906883",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39422,
+    "recipe_id": "16892907",
+    "standard_id": 2054,
+    "raw_name": "lá ram lá nem",
+    "standard_name": "bánh đa nem",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39423,
+    "recipe_id": "16892907",
+    "standard_id": 580,
+    "raw_name": "thịt nạc heo",
+    "standard_name": "nạc heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39424,
+    "recipe_id": "16892907",
+    "standard_id": 26,
+    "raw_name": "nấm mộc nhĩ",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39425,
+    "recipe_id": "16892907",
+    "standard_id": 1211,
+    "raw_name": "miến sợi nhỏ",
+    "standard_name": "miến",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39426,
+    "recipe_id": "16892907",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39430,
+    "recipe_id": "16892907",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39431,
+    "recipe_id": "16892907",
+    "standard_id": 203,
+    "raw_name": "xoài",
+    "standard_name": "xoài",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39432,
+    "recipe_id": "16892907",
+    "standard_id": 245,
+    "raw_name": "dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39433,
+    "recipe_id": "16892907",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39434,
+    "recipe_id": "16892907",
+    "standard_id": 822,
+    "raw_name": "Rau xà lách rau thơm",
+    "standard_name": "rau xà lách",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 39435,
+    "recipe_id": "16892907",
+    "standard_id": 10153,
+    "raw_name": "Nước chấm",
+    "standard_name": "sốt chấm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 39436,
+    "recipe_id": "16892907",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39437,
+    "recipe_id": "16892907",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39440,
+    "recipe_id": "16892907",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39442,
+    "recipe_id": "16892907",
+    "standard_id": 3662,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 39443,
+    "recipe_id": "16806292",
+    "standard_id": 3421,
+    "raw_name": "cai xoong nhât",
+    "standard_name": "cải xoong",
+    "confidence": 0.9
+  }
+]

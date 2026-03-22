@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 33659,
+    "recipe_id": "17101157",
+    "standard_id": 29,
+    "raw_name": "Tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33662,
+    "recipe_id": "17101157",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 33663,
+    "recipe_id": "17101157",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 33712,
+    "recipe_id": "17100937",
+    "standard_id": 4485,
+    "raw_name": "mực lá",
+    "standard_name": "mực",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33715,
+    "recipe_id": "17100937",
+    "standard_id": 938,
+    "raw_name": "nước cốt tắc quả quất",
+    "standard_name": "nước tắc",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 33716,
+    "recipe_id": "17100937",
+    "standard_id": 1780,
+    "raw_name": "nước cốt chanh dây",
+    "standard_name": "chanh dây",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 33717,
+    "recipe_id": "17100937",
+    "standard_id": 8055,
+    "raw_name": "ớt bột",
+    "standard_name": "bột ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33718,
+    "recipe_id": "17100937",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33719,
+    "recipe_id": "17100937",
+    "standard_id": 82,
+    "raw_name": "cóc cày",
+    "standard_name": "cóc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33720,
+    "recipe_id": "17100937",
+    "standard_id": 1411,
+    "raw_name": "tắc",
+    "standard_name": "tắc",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33721,
+    "recipe_id": "17100937",
+    "standard_id": 21,
+    "raw_name": "rau răm",
+    "standard_name": "rau răm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33729,
+    "recipe_id": "17082562",
+    "standard_id": 1517,
+    "raw_name": "rau chua rau chút chít rau dương đề thổ đại hoàng",
+    "standard_name": "rau thơm",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 33730,
+    "recipe_id": "17082562",
+    "standard_id": 9,
+    "raw_name": "cà chua lớn",
+    "standard_name": "cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33731,
+    "recipe_id": "17082562",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33732,
+    "recipe_id": "17082562",
+    "standard_id": 3417,
+    "raw_name": "mắm tôm",
+    "standard_name": "mắm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 33734,
+    "recipe_id": "17082562",
+    "standard_id": 24,
+    "raw_name": "ớt tươi",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33769,
+    "recipe_id": "17090853",
+    "standard_id": 1100,
+    "raw_name": "Bột mì",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33771,
+    "recipe_id": "17090853",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 33772,
+    "recipe_id": "17090853",
+    "standard_id": 121,
+    "raw_name": "bột sư tử",
+    "standard_name": "bột",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 33773,
+    "recipe_id": "17090853",
+    "standard_id": 206,
+    "raw_name": "bơ đậu",
+    "standard_name": "đậu phộng",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 33774,
+    "recipe_id": "17090853",
+    "standard_id": 8162,
+    "raw_name": "Nhân đậu xanh sên nhiều người chỉ rồi mình k nói lại nữa nhân thập cẩm",
+    "standard_name": "nhân đậu xanh",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 33775,
+    "recipe_id": "17090853",
+    "standard_id": 63,
+    "raw_name": "ậu đen",
+    "standard_name": "đậu đen",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 33776,
+    "recipe_id": "17090853",
+    "standard_id": 421,
+    "raw_name": "Mơ không hạt hạt dưa",
+    "standard_name": "mơ",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 33777,
+    "recipe_id": "17090853",
+    "standard_id": 11833,
+    "raw_name": "Quét mặt lòng đỏ trứng trứng vịt sẽ đẹp nhất dầu mè nước lọc giọt nước hàng",
+    "standard_name": "nước màu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 33778,
+    "recipe_id": "17098861",
+    "standard_id": 3608,
+    "raw_name": "đu đủ xanh",
+    "standard_name": "đu đủ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33779,
+    "recipe_id": "17098861",
+    "standard_id": 554,
+    "raw_name": "tép đất luộc sẵn",
+    "standard_name": "tép",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33780,
+    "recipe_id": "17098861",
+    "standard_id": 80,
+    "raw_name": "lỗ tai heo luộc sẵn",
+    "standard_name": "tai heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 33781,
+    "recipe_id": "17098861",
+    "standard_id": 21,
+    "raw_name": "Rau răm rau thơm",
+    "standard_name": "rau răm",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 33785,
+    "recipe_id": "17098861",
+    "standard_id": 3662,
+    "raw_name": "nước cốt chanh",
+    "standard_name": "nước chanh",
+    "confidence": 1.0
+  }
+]

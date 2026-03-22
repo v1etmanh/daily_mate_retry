@@ -1,0 +1,210 @@
+[
+  {
+    "raw_id": 44492,
+    "recipe_id": "16646975",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44493,
+    "recipe_id": "16646975",
+    "standard_id": 7595,
+    "raw_name": "Hành tỏi",
+    "standard_name": "hành tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44499,
+    "recipe_id": "16646086",
+    "standard_id": 1624,
+    "raw_name": "thịt ngan",
+    "standard_name": "thịt ngan",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44500,
+    "recipe_id": "16646086",
+    "standard_id": 83,
+    "raw_name": "hành khô",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 44502,
+    "recipe_id": "16646086",
+    "standard_id": 7702,
+    "raw_name": "Rau húng chó lá đinh lăng",
+    "standard_name": "rau húng chó",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 44503,
+    "recipe_id": "16646086",
+    "standard_id": 1613,
+    "raw_name": "Ngũ vị hương màu xanh không dùng loại công nghiệp màu vàng",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 44504,
+    "recipe_id": "16646086",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44505,
+    "recipe_id": "16646086",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 44511,
+    "recipe_id": "16642771",
+    "standard_id": 9,
+    "raw_name": "cà chua à Lạt",
+    "standard_name": "cà chua",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 44512,
+    "recipe_id": "16642771",
+    "standard_id": 3635,
+    "raw_name": "bí ngòi xanh",
+    "standard_name": "bí ngòi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44514,
+    "recipe_id": "16642771",
+    "standard_id": 457,
+    "raw_name": "ớt chuông",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44516,
+    "recipe_id": "16642771",
+    "standard_id": 395,
+    "raw_name": "Dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44517,
+    "recipe_id": "16642771",
+    "standard_id": 10299,
+    "raw_name": "Sốt cà chua",
+    "standard_name": "xốt cà chua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44519,
+    "recipe_id": "16642771",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44521,
+    "recipe_id": "16642771",
+    "standard_id": 166,
+    "raw_name": "củ hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44531,
+    "recipe_id": "16643904",
+    "standard_id": 564,
+    "raw_name": "đùi gà hoặc cánh mà đùi nguyên con vv",
+    "standard_name": "đùi gà",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 44532,
+    "recipe_id": "16643904",
+    "standard_id": 499,
+    "raw_name": "cam vàng",
+    "standard_name": "cam",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 44533,
+    "recipe_id": "16643904",
+    "standard_id": 3635,
+    "raw_name": "bí ngòi xanh",
+    "standard_name": "bí ngòi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44535,
+    "recipe_id": "16643904",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44536,
+    "recipe_id": "16643904",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44537,
+    "recipe_id": "16643904",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44538,
+    "recipe_id": "16643904",
+    "standard_id": 39,
+    "raw_name": "gừng giã dập",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44539,
+    "recipe_id": "16643904",
+    "standard_id": 7720,
+    "raw_name": "rượu trắng",
+    "standard_name": "rượu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44541,
+    "recipe_id": "16643904",
+    "standard_id": 1148,
+    "raw_name": "Sốt ướp",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 44542,
+    "recipe_id": "16643904",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 44543,
+    "recipe_id": "16643904",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  }
+]

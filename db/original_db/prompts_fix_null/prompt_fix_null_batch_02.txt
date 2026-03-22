@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 2/365
+[
+  {
+    "id": 43716,
+    "dish_title": "Ba chỉ sốt tắc (heo)",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43715,
+    "dish_title": "Ba chỉ sốt tắc (heo)",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43713,
+    "dish_title": "Ba chỉ sốt tắc (heo)",
+    "ingredient_name": "thịt ba rọi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43714,
+    "dish_title": "Ba chỉ sốt tắc (heo)",
+    "ingredient_name": "tương ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51607,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "bacon",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51605,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51608,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51611,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51610,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51609,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51606,
+    "dish_title": "Bagels Bacon, Trứng, Phô Mai và Tôm",
+    "ingredient_name": "tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52950,
+    "dish_title": "Bagels Thịt Hun Khói và Phô Mai Kem (Cream Cheese Bacon & Egg Bagels) 🥯🥯🥯",
+    "ingredient_name": "bacon",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52946,
+    "dish_title": "Bagels Thịt Hun Khói và Phô Mai Kem (Cream Cheese Bacon & Egg Bagels) 🥯🥯🥯",
+    "ingredient_name": "bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52949,
+    "dish_title": "Bagels Thịt Hun Khói và Phô Mai Kem (Cream Cheese Bacon & Egg Bagels) 🥯🥯🥯",
+    "ingredient_name": "kiri",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52947,
+    "dish_title": "Bagels Thịt Hun Khói và Phô Mai Kem (Cream Cheese Bacon & Egg Bagels) 🥯🥯🥯",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52948,
+    "dish_title": "Bagels Thịt Hun Khói và Phô Mai Kem (Cream Cheese Bacon & Egg Bagels) 🥯🥯🥯",
+    "ingredient_name": "phô mai",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53048,
+    "dish_title": "Bao tử CÁ BASA khìa nước dừa",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53049,
+    "dish_title": "Bao tử CÁ BASA khìa nước dừa",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 53047,
+    "dish_title": "Bao tử CÁ BASA khìa nước dừa",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48826,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48832,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48833,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48829,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "kim chi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48828,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48830,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "sốt chấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48827,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48831,
+    "dish_title": "Bánh Mandu Hấp Nhân Tôm Thịt",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52869,
+    "dish_title": "Bánh Mì Nhân Gà Nấm",
+    "ingredient_name": "bơ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52865,
+    "dish_title": "Bánh Mì Nhân Gà Nấm",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 52862,
+    "dish_title": "Bánh Mì Nhân Gà Nấm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

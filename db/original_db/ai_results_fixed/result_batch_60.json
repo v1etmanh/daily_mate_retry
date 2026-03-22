@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 6367,
+    "recipe_id": "24597838",
+    "standard_id": 1069,
+    "raw_name": "cá hồng",
+    "standard_name": "cá hồng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6369,
+    "recipe_id": "24597838",
+    "standard_id": 7669,
+    "raw_name": "Carrot lá chanh gừng vỏ quýt hành tây hành ngò ớt",
+    "standard_name": "hành hành lá rau mùi ngò thơm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 6370,
+    "recipe_id": "24597838",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp cá",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 6373,
+    "recipe_id": "24597838",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6375,
+    "recipe_id": "24954931",
+    "standard_id": 1473,
+    "raw_name": "nấm hầu thủ khô",
+    "standard_name": "nấm hầu thủ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 6376,
+    "recipe_id": "24954931",
+    "standard_id": 1117,
+    "raw_name": "chuối xanh",
+    "standard_name": "chuối",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 6377,
+    "recipe_id": "24954931",
+    "standard_id": 1091,
+    "raw_name": "riềng xay",
+    "standard_name": "riềng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6378,
+    "recipe_id": "24954931",
+    "standard_id": 16,
+    "raw_name": "hành",
+    "standard_name": "hành lá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 6380,
+    "recipe_id": "24954931",
+    "standard_id": 11828,
+    "raw_name": "nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 6381,
+    "recipe_id": "24954931",
+    "standard_id": 1006,
+    "raw_name": "mật mía",
+    "standard_name": "mật mía",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6382,
+    "recipe_id": "24954931",
+    "standard_id": 11831,
+    "raw_name": "mắm hoặc bột canh chay",
+    "standard_name": "bột canh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 6384,
+    "recipe_id": "24954931",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 6509,
+    "recipe_id": "24947254",
+    "standard_id": 4729,
+    "raw_name": "thịt heo xay chọn thịt mỡ",
+    "standard_name": "thịt bằm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 6510,
+    "recipe_id": "24947254",
+    "standard_id": 357,
+    "raw_name": "tôm tươi lột vỏ băm sơ",
+    "standard_name": "tôm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6511,
+    "recipe_id": "24947254",
+    "standard_id": 26,
+    "raw_name": "mộc nhĩ ngâm nở mềm thái chỉ hoặc băm vụn",
+    "standard_name": "nấm mèo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6512,
+    "recipe_id": "24947254",
+    "standard_id": 1211,
+    "raw_name": "miến hoặc bún tàu ngâm nước mềm cắt khúc ngắn cm",
+    "standard_name": "miến",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 6513,
+    "recipe_id": "24947254",
+    "standard_id": 81,
+    "raw_name": "củ cà rốt bào sợi",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6514,
+    "recipe_id": "24947254",
+    "standard_id": 7753,
+    "raw_name": "củ khoai môn nhỏ bào sợi",
+    "standard_name": "khoai môn",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6515,
+    "recipe_id": "24947254",
+    "standard_id": 1517,
+    "raw_name": "rau húng hoặc rau mùi nhặt lá băm nhỏ",
+    "standard_name": "rau thơm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 6516,
+    "recipe_id": "24947254",
+    "standard_id": 83,
+    "raw_name": "củ hành khô băm nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6517,
+    "recipe_id": "24947254",
+    "standard_id": 146,
+    "raw_name": "trứng vịt hoặc trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 6518,
+    "recipe_id": "24947254",
+    "standard_id": 5037,
+    "raw_name": "Vỏ bánh tráng bò bía đậu xanh được cuốn",
+    "standard_name": "vỏ bò bía",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 6519,
+    "recipe_id": "24947254",
+    "standard_id": 1589,
+    "raw_name": "Gia Vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6521,
+    "recipe_id": "24947254",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6522,
+    "recipe_id": "24947254",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 6524,
+    "recipe_id": "24947236",
+    "standard_id": 11063,
+    "raw_name": "thịt nạc dăm đầu giòn hoặc thịt vai giòn",
+    "standard_name": "thịt nạc dăm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 6525,
+    "recipe_id": "24947236",
+    "standard_id": 1589,
+    "raw_name": "Gia vị ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 6526,
+    "recipe_id": "24947236",
+    "standard_id": 31,
+    "raw_name": "sả băm nhỏ",
+    "standard_name": "sả",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6527,
+    "recipe_id": "24947236",
+    "standard_id": 83,
+    "raw_name": "củ hành tím khô băm nhỏ",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 6529,
+    "recipe_id": "24947236",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  }
+]

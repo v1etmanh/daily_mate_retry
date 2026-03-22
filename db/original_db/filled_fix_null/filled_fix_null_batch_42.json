@@ -1,0 +1,242 @@
+[
+  {
+    "id": 49159,
+    "dish_title": "Bò nhúng giấm",
+    "ingredient_name": "rau sống",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49807,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "ba chỉ bò",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49825,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "bún",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49806,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "bắp bò",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49822,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "hành lá",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49820,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "mắm ruốc",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49824,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "rau muống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49823,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "sả",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49821,
+    "dish_title": "Bò nhúng mắm ruốc",
+    "ingredient_name": "tóp mỡ",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43948,
+    "dish_title": "Bò nhúng mẻ",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43950,
+    "dish_title": "Bò nhúng mẻ",
+    "ingredient_name": "mắm nêm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43951,
+    "dish_title": "Bò nhúng mẻ",
+    "ingredient_name": "nước",
+    "quantity_g": 800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43946,
+    "dish_title": "Bò nhúng mẻ",
+    "ingredient_name": "nước mẻ",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43947,
+    "dish_title": "Bò nhúng mẻ",
+    "ingredient_name": "rau sống",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43949,
+    "dish_title": "Bò nhúng mẻ",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48491,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "bánh tráng",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48486,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "bún",
+    "quantity_g": 400,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48492,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48497,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "bột ngũ vị hương",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48489,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "chuối",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48488,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "dưa leo",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48495,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48494,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "dầu màu điều",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48493,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48490,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "hành tây",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48500,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48499,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "mật",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48496,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48487,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "rau sống",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48498,
+    "dish_title": "Bò né cuốn bánh tráng 🥩🍀",
+    "ingredient_name": "satế",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

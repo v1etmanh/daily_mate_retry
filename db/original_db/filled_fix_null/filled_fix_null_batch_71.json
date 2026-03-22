@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51327,
+    "dish_title": "Bắp cải cuộn thịt",
+    "ingredient_name": "nấm hương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51467,
+    "dish_title": "Bắp cải cuộn thịt",
+    "ingredient_name": "nấm mèo",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51326,
+    "dish_title": "Bắp cải cuộn thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51462,
+    "dish_title": "Bắp cải cuộn thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51469,
+    "dish_title": "Bắp cải cuộn thịt",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 43056,
+    "dish_title": "Bắp cải cuộn thịt sốt cà chua",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43054,
+    "dish_title": "Bắp cải cuộn thịt sốt cà chua",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43055,
+    "dish_title": "Bắp cải cuộn thịt sốt cà chua",
+    "ingredient_name": "nước tương",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 43052,
+    "dish_title": "Bắp cải cuộn thịt sốt cà chua",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 43053,
+    "dish_title": "Bắp cải cuộn thịt sốt cà chua",
+    "ingredient_name": "thịt nguội",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49206,
+    "dish_title": "Bắp cải thảo chưng thịt",
+    "ingredient_name": "cải thảo",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49209,
+    "dish_title": "Bắp cải thảo chưng thịt",
+    "ingredient_name": "dầu hào",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49208,
+    "dish_title": "Bắp cải thảo chưng thịt",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 49210,
+    "dish_title": "Bắp cải thảo chưng thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49211,
+    "dish_title": "Bắp cải thảo chưng thịt",
+    "ingredient_name": "nước",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49207,
+    "dish_title": "Bắp cải thảo chưng thịt",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45566,
+    "dish_title": "Bắp cải tím xào gan heo",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45563,
+    "dish_title": "Bắp cải tím xào gan heo",
+    "ingredient_name": "gan lợn",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 45564,
+    "dish_title": "Bắp cải tím xào gan heo",
+    "ingredient_name": "sữa",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 45565,
+    "dish_title": "Bắp cải tím xào gan heo",
+    "ingredient_name": "tỏi",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47460,
+    "dish_title": "Bắp cải xào tôm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47459,
+    "dish_title": "Bắp cải xào tôm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47458,
+    "dish_title": "Bắp cải xào tôm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47457,
+    "dish_title": "Bắp cải xào tôm",
+    "ingredient_name": "hành tím",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44638,
+    "dish_title": "Bắp tôm phô mai",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44637,
+    "dish_title": "Bắp tôm phô mai",
+    "ingredient_name": "bắp ngọt",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44636,
+    "dish_title": "Bắp tôm phô mai",
+    "ingredient_name": "tôm",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51899,
+    "dish_title": "Bắp xào tôm",
+    "ingredient_name": "bơ",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51896,
+    "dish_title": "Bắp xào tôm",
+    "ingredient_name": "bắp mỹ",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51897,
+    "dish_title": "Bắp xào tôm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

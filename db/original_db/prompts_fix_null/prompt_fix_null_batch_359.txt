@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 359/365
+[
+  {
+    "id": 48681,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48678,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48684,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48654,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "su hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48653,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "sợi bún bò huế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48674,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "đậu khuôn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48682,
+    "dish_title": "🌱 Bún Bò Huế Chay Nấu Nhanh Với Viên Súp",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46550,
+    "dish_title": "🌱 Bún Nấm Hương Chay (Vegan)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46549,
+    "dish_title": "🌱 Bún Nấm Hương Chay (Vegan)",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46552,
+    "dish_title": "🌱 Bún Nấm Hương Chay (Vegan)",
+    "ingredient_name": "rau sống",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46548,
+    "dish_title": "🌱 Bún Nấm Hương Chay (Vegan)",
+    "ingredient_name": "súp chay",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46551,
+    "dish_title": "🌱 Bún Nấm Hương Chay (Vegan)",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50691,
+    "dish_title": "🌱 Canh Chua Bắp Chuối & Nấm Chay (Vegan)",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50692,
+    "dish_title": "🌱 Canh Chua Bắp Chuối & Nấm Chay (Vegan)",
+    "ingredient_name": "me",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50688,
+    "dish_title": "🌱 Canh Chua Bắp Chuối & Nấm Chay (Vegan)",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50689,
+    "dish_title": "🌱 Canh Chua Bắp Chuối & Nấm Chay (Vegan)",
+    "ingredient_name": "đậu non",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50690,
+    "dish_title": "🌱 Canh Chua Bắp Chuối & Nấm Chay (Vegan)",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48284,
+    "dish_title": "🌱 Canh Mồng Tơi Nấu Nấm Mỡ Chay",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48283,
+    "dish_title": "🌱 Canh Mồng Tơi Nấu Nấm Mỡ Chay",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48285,
+    "dish_title": "🌱 Canh Mồng Tơi Nấu Nấm Mỡ Chay",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45856,
+    "dish_title": "🌱 Canh Nấm Mỡ Đậu Hủ Lá É (Vegan)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45854,
+    "dish_title": "🌱 Canh Nấm Mỡ Đậu Hủ Lá É (Vegan)",
+    "ingredient_name": "quế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45855,
+    "dish_title": "🌱 Canh Nấm Mỡ Đậu Hủ Lá É (Vegan)",
+    "ingredient_name": "súp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45853,
+    "dish_title": "🌱 Canh Nấm Mỡ Đậu Hủ Lá É (Vegan)",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50342,
+    "dish_title": "🌱 Canh Rau Tầm Ma Nấm Mỡ (Vegan)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50341,
+    "dish_title": "🌱 Canh Rau Tầm Ma Nấm Mỡ (Vegan)",
+    "ingredient_name": "nấm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50340,
+    "dish_title": "🌱 Canh Rau Tầm Ma Nấm Mỡ (Vegan)",
+    "ingredient_name": "tầm ma",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48571,
+    "dish_title": "🌱 Canh Súp Mandu Rong Biển Đậu Hủ Chay",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48568,
+    "dish_title": "🌱 Canh Súp Mandu Rong Biển Đậu Hủ Chay",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48569,
+    "dish_title": "🌱 Canh Súp Mandu Rong Biển Đậu Hủ Chay",
+    "ingredient_name": "rau ngò rí",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

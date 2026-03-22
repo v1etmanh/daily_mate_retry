@@ -1,0 +1,226 @@
+[
+  {
+    "raw_id": 36715,
+    "recipe_id": "17016495",
+    "standard_id": 24,
+    "raw_name": "ớt xay",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36720,
+    "recipe_id": "17017564",
+    "standard_id": 4485,
+    "raw_name": "Mực tươi",
+    "standard_name": "mực",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36721,
+    "recipe_id": "17017564",
+    "standard_id": 457,
+    "raw_name": "t chuông vàng ớt chuông đỏ",
+    "standard_name": "ớt chuông",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36722,
+    "recipe_id": "17017564",
+    "standard_id": 166,
+    "raw_name": "cần tây hành Tây",
+    "standard_name": "hành tây",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36723,
+    "recipe_id": "17017564",
+    "standard_id": 16,
+    "raw_name": "hành lá cà chua",
+    "standard_name": "hành lá",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 36724,
+    "recipe_id": "17017564",
+    "standard_id": 1589,
+    "raw_name": "gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36738,
+    "recipe_id": "17017334",
+    "standard_id": 1105,
+    "raw_name": "Cá tai tượng cá lớn thì nhiều thịt",
+    "standard_name": "cá",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 36739,
+    "recipe_id": "17017334",
+    "standard_id": 2210,
+    "raw_name": "Rau sống các loại xà lách diếp cá húng lũi",
+    "standard_name": "rau sống",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36741,
+    "recipe_id": "17017334",
+    "standard_id": 3417,
+    "raw_name": "Mắm cá cơm",
+    "standard_name": "mắm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36742,
+    "recipe_id": "17017334",
+    "standard_id": 389,
+    "raw_name": "Bún tươi sợi nhỏ",
+    "standard_name": "bún",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36743,
+    "recipe_id": "17017334",
+    "standard_id": 245,
+    "raw_name": "Dưa leo",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36744,
+    "recipe_id": "17017334",
+    "standard_id": 1563,
+    "raw_name": "khế",
+    "standard_name": "khế",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36745,
+    "recipe_id": "17017334",
+    "standard_id": 1117,
+    "raw_name": "chuối chát",
+    "standard_name": "chuối",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 36746,
+    "recipe_id": "17017334",
+    "standard_id": 28,
+    "raw_name": "thơm",
+    "standard_name": "dứa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36747,
+    "recipe_id": "17017334",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 36748,
+    "recipe_id": "17017334",
+    "standard_id": 24,
+    "raw_name": "ớt",
+    "standard_name": "ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36749,
+    "recipe_id": "17017334",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36750,
+    "recipe_id": "17017334",
+    "standard_id": 1589,
+    "raw_name": "gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36758,
+    "recipe_id": "17016941",
+    "standard_id": 1786,
+    "raw_name": "ậu hũ non",
+    "standard_name": "đậu non",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36759,
+    "recipe_id": "17016941",
+    "standard_id": 1330,
+    "raw_name": "nấm hương tươi có thể thay bằng nấm hương khô ngâm mềm",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36760,
+    "recipe_id": "17016941",
+    "standard_id": 78,
+    "raw_name": "bắp ngọt",
+    "standard_name": "bắp ngọt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36761,
+    "recipe_id": "17016941",
+    "standard_id": 81,
+    "raw_name": "cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36765,
+    "recipe_id": "17016941",
+    "standard_id": 102,
+    "raw_name": "Rau ngò rí rau mùi ta",
+    "standard_name": "rau ngò rí",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36766,
+    "recipe_id": "17016941",
+    "standard_id": 777,
+    "raw_name": "Các bạn cũng có thể sử dụng loại rau củ khác như bông cải đậu Hà Lan",
+    "standard_name": "rau cải",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 36767,
+    "recipe_id": "17016732",
+    "standard_id": 996,
+    "raw_name": "cá chạch",
+    "standard_name": "cá chạch",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36768,
+    "recipe_id": "17016732",
+    "standard_id": 1050,
+    "raw_name": "me vắt",
+    "standard_name": "me",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36771,
+    "recipe_id": "17016732",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 36772,
+    "recipe_id": "17016732",
+    "standard_id": 9206,
+    "raw_name": "Xoài xanh",
+    "standard_name": "xoài xanh",
+    "confidence": 1.0
+  }
+]

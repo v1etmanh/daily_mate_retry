@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 66201,
+    "recipe_id": "15637534",
+    "standard_id": 4516,
+    "raw_name": "tôm sú",
+    "standard_name": "tôm sú",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66202,
+    "recipe_id": "15637534",
+    "standard_id": 492,
+    "raw_name": "Nước sauce",
+    "standard_name": "xốt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66204,
+    "recipe_id": "15637534",
+    "standard_id": 357,
+    "raw_name": "ầu và vỏ tôm",
+    "standard_name": "tôm",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 66205,
+    "recipe_id": "15637534",
+    "standard_id": 7720,
+    "raw_name": "rượu vang trắng",
+    "standard_name": "rượu",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 66464,
+    "recipe_id": "15627619",
+    "standard_id": 62,
+    "raw_name": "sườn non",
+    "standard_name": "sườn heo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66465,
+    "recipe_id": "15627619",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66466,
+    "recipe_id": "15627619",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66467,
+    "recipe_id": "15627619",
+    "standard_id": 3417,
+    "raw_name": "mắm",
+    "standard_name": "mắm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66469,
+    "recipe_id": "15627619",
+    "standard_id": 1369,
+    "raw_name": "mật ong",
+    "standard_name": "mật",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66470,
+    "recipe_id": "15627619",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 66472,
+    "recipe_id": "15627619",
+    "standard_id": 531,
+    "raw_name": "dừa",
+    "standard_name": "dừa",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66605,
+    "recipe_id": "15621588",
+    "standard_id": 1920,
+    "raw_name": "Phần vỏ bánh",
+    "standard_name": "vỏ bánh",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66606,
+    "recipe_id": "15621588",
+    "standard_id": 1100,
+    "raw_name": "bột mì mềm nguyên cám hoặc bột mì nguyên cám",
+    "standard_name": "bột mì",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66608,
+    "recipe_id": "15621588",
+    "standard_id": 2213,
+    "raw_name": "men khô instant yeast",
+    "standard_name": "men",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66611,
+    "recipe_id": "15621588",
+    "standard_id": 6101,
+    "raw_name": "nước ấm C",
+    "standard_name": "nước",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66613,
+    "recipe_id": "15621588",
+    "standard_id": 1018,
+    "raw_name": "lòng trắng trứng gà",
+    "standard_name": "egg white",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66614,
+    "recipe_id": "15621588",
+    "standard_id": 11781,
+    "raw_name": "baking powder",
+    "standard_name": "baking powder",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66615,
+    "recipe_id": "15621588",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66616,
+    "recipe_id": "15621588",
+    "standard_id": 1921,
+    "raw_name": "Phần nhân thịt gà ruốc nấm",
+    "standard_name": "nhân bánh",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 66617,
+    "recipe_id": "15621588",
+    "standard_id": 3044,
+    "raw_name": "thịt gà",
+    "standard_name": "chicken",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66618,
+    "recipe_id": "15621588",
+    "standard_id": 11140,
+    "raw_name": "ruốc nấm hương",
+    "standard_name": "mushroom floss",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 66621,
+    "recipe_id": "15621385",
+    "standard_id": 1620,
+    "raw_name": "sườn cốt lết",
+    "standard_name": "pork chop",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66622,
+    "recipe_id": "15621385",
+    "standard_id": 1589,
+    "raw_name": "Italian seasoning",
+    "standard_name": "gia vị",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 66624,
+    "recipe_id": "15621385",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "oyster sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66625,
+    "recipe_id": "15621385",
+    "standard_id": 6801,
+    "raw_name": "tương ớt",
+    "standard_name": "chili sauce",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66666,
+    "recipe_id": "15619280",
+    "standard_id": 215,
+    "raw_name": "khoai tây",
+    "standard_name": "potato",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66667,
+    "recipe_id": "15619280",
+    "standard_id": 1100,
+    "raw_name": "Bột mỳ",
+    "standard_name": "bột mì",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66669,
+    "recipe_id": "15619280",
+    "standard_id": 9,
+    "raw_name": "cà chua",
+    "standard_name": "tomato",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 66670,
+    "recipe_id": "15619280",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "beef",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "raw_id": 59028,
+    "recipe_id": "16023145",
+    "standard_id": 7595,
+    "raw_name": "hành tỏi phi",
+    "standard_name": "hành tỏi",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59029,
+    "recipe_id": "16023145",
+    "standard_id": 11828,
+    "raw_name": "nước tương nhật",
+    "standard_name": "nước tương",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59030,
+    "recipe_id": "16023145",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59032,
+    "recipe_id": "16023145",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59033,
+    "recipe_id": "16023312",
+    "standard_id": 1410,
+    "raw_name": "thịt ba chỉ lợn thịt rọi thái khối vuông",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59034,
+    "recipe_id": "16023312",
+    "standard_id": 83,
+    "raw_name": "hành khô bóc vỏ đập giập",
+    "standard_name": "hành tím",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59035,
+    "recipe_id": "16023312",
+    "standard_id": 7720,
+    "raw_name": "rượu trắng",
+    "standard_name": "rượu",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59036,
+    "recipe_id": "16023312",
+    "standard_id": 1613,
+    "raw_name": "bột ngũ vị hương",
+    "standard_name": "bột ngũ vị hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59038,
+    "recipe_id": "16023312",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59039,
+    "recipe_id": "16023312",
+    "standard_id": 225,
+    "raw_name": "Giấm ăn",
+    "standard_name": "dấm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59040,
+    "recipe_id": "16023312",
+    "standard_id": null,
+    "raw_name": "Giấy bạc",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 59042,
+    "recipe_id": "16023090",
+    "standard_id": 83,
+    "raw_name": "hành tím",
+    "standard_name": "hành tím",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59043,
+    "recipe_id": "16023090",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59044,
+    "recipe_id": "16023090",
+    "standard_id": 11828,
+    "raw_name": "nước tương mình dùng hiệu kikkoman loại nắp xanh",
+    "standard_name": "nước tương",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 59045,
+    "recipe_id": "16023090",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59047,
+    "recipe_id": "16023090",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59048,
+    "recipe_id": "16023090",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59049,
+    "recipe_id": "16021455",
+    "standard_id": null,
+    "raw_name": "nóng vừa đủ dùng",
+    "standard_name": null,
+    "confidence": 0.0
+  },
+  {
+    "raw_id": 59050,
+    "recipe_id": "16021455",
+    "standard_id": 1041,
+    "raw_name": "cá ngừ tươi loại để làm sashimi đã đông lạnh trên tiếng và rã đông",
+    "standard_name": "cá ngừ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59051,
+    "recipe_id": "16021455",
+    "standard_id": 1071,
+    "raw_name": "rong biển wakame",
+    "standard_name": "rong biển",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59052,
+    "recipe_id": "16021455",
+    "standard_id": 1786,
+    "raw_name": "đậu hủ non cắt hạt lựu",
+    "standard_name": "đậu non",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 59053,
+    "recipe_id": "16021455",
+    "standard_id": 312,
+    "raw_name": "kim chi cải thảo",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59054,
+    "recipe_id": "16021455",
+    "standard_id": 11829,
+    "raw_name": "miếng đậu que dẹp ngâm chua ngọt",
+    "standard_name": "quế",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59055,
+    "recipe_id": "16021455",
+    "standard_id": 11828,
+    "raw_name": "Nước tương dùng kèm",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59057,
+    "recipe_id": "16021455",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59070,
+    "recipe_id": "16022672",
+    "standard_id": 859,
+    "raw_name": "phi lê cá rô phi",
+    "standard_name": "cá rô phi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 59071,
+    "recipe_id": "16022672",
+    "standard_id": 28,
+    "raw_name": "dứa chua",
+    "standard_name": "dứa",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 59072,
+    "recipe_id": "16022672",
+    "standard_id": 268,
+    "raw_name": "xương óng",
+    "standard_name": "xương heo",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 59073,
+    "recipe_id": "16022672",
+    "standard_id": 389,
+    "raw_name": "bún tươi",
+    "standard_name": "bún",
+    "confidence": 1.0
+  }
+]

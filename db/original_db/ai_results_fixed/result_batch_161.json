@@ -1,0 +1,186 @@
+[
+  {
+    "raw_id": 21462,
+    "recipe_id": "22596105",
+    "standard_id": 1589,
+    "raw_name": "gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21480,
+    "recipe_id": "23889288",
+    "standard_id": 166,
+    "raw_name": "củ hành tây to",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21481,
+    "recipe_id": "23889288",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21482,
+    "recipe_id": "23889288",
+    "standard_id": 39,
+    "raw_name": "gừng",
+    "standard_name": "gừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21483,
+    "recipe_id": "23889288",
+    "standard_id": 29,
+    "raw_name": "tỏi Hải Dương nguyên củ",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21484,
+    "recipe_id": "23889288",
+    "standard_id": 199,
+    "raw_name": "nấm đông cô khô",
+    "standard_name": "nấm đông cô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21485,
+    "recipe_id": "23889288",
+    "standard_id": 273,
+    "raw_name": "giò heo",
+    "standard_name": "giò heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21486,
+    "recipe_id": "23889288",
+    "standard_id": 1410,
+    "raw_name": "ba chỉ heo",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21487,
+    "recipe_id": "23889288",
+    "standard_id": 62,
+    "raw_name": "sườn non",
+    "standard_name": "sườn heo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21491,
+    "recipe_id": "23889288",
+    "standard_id": 170,
+    "raw_name": "mirin",
+    "standard_name": "mirin",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21492,
+    "recipe_id": "23889288",
+    "standard_id": 1105,
+    "raw_name": "cá bào Nhật bonito flakes",
+    "standard_name": "cá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 21493,
+    "recipe_id": "23889288",
+    "standard_id": 1890,
+    "raw_name": "Dầu mè ớt",
+    "standard_name": "mè ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21494,
+    "recipe_id": "23889288",
+    "standard_id": 422,
+    "raw_name": "ớt hiểm",
+    "standard_name": "ớt hiểm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21497,
+    "recipe_id": "23889288",
+    "standard_id": 16,
+    "raw_name": "hành thái lát",
+    "standard_name": "hành lá",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 21498,
+    "recipe_id": "23889288",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21499,
+    "recipe_id": "23889288",
+    "standard_id": 1517,
+    "raw_name": "n kèm",
+    "standard_name": "rau thơm",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 21500,
+    "recipe_id": "23889288",
+    "standard_id": 164,
+    "raw_name": "rau cải bó xôi",
+    "standard_name": "cải bó xôi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21501,
+    "recipe_id": "23889288",
+    "standard_id": 245,
+    "raw_name": "dưa leo nhật thái miếng tròn",
+    "standard_name": "dưa leo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21502,
+    "recipe_id": "23889288",
+    "standard_id": 371,
+    "raw_name": "Giá ăn kèm",
+    "standard_name": "giá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21506,
+    "recipe_id": "23889288",
+    "standard_id": 1747,
+    "raw_name": "hạt mè rang",
+    "standard_name": "mè",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21507,
+    "recipe_id": "23889288",
+    "standard_id": 7,
+    "raw_name": "Măng ăn kèm",
+    "standard_name": "măng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 21511,
+    "recipe_id": "23889288",
+    "standard_id": 225,
+    "raw_name": "dấm gạo",
+    "standard_name": "dấm",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 21514,
+    "recipe_id": "23889288",
+    "standard_id": 1148,
+    "raw_name": "Sốt ngâm thịt",
+    "standard_name": "sốt",
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 62550,
+    "recipe_id": "15814610",
+    "standard_id": 29,
+    "raw_name": "Tỏi xay",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62551,
+    "recipe_id": "15814610",
+    "standard_id": 16,
+    "raw_name": "ầu hành",
+    "standard_name": "hành lá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62552,
+    "recipe_id": "15814610",
+    "standard_id": 11833,
+    "raw_name": "Nước màu",
+    "standard_name": "nước màu",
+    "confidence": 0.7
+  },
+  {
+    "raw_id": 62553,
+    "recipe_id": "15814610",
+    "standard_id": 1020,
+    "raw_name": "Cá điêu hồng con g kg",
+    "standard_name": "cá diêu hồng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62554,
+    "recipe_id": "15814610",
+    "standard_id": 6101,
+    "raw_name": "Nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62555,
+    "recipe_id": "15814610",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62556,
+    "recipe_id": "15814610",
+    "standard_id": 2387,
+    "raw_name": "ường",
+    "standard_name": "đường",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 62558,
+    "recipe_id": "15814610",
+    "standard_id": 5850,
+    "raw_name": "knorr",
+    "standard_name": "hạt niêm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62560,
+    "recipe_id": "15814610",
+    "standard_id": 6801,
+    "raw_name": "Tương ớt",
+    "standard_name": "tương ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62588,
+    "recipe_id": "15813124",
+    "standard_id": 731,
+    "raw_name": "hộp cá ngừ gr",
+    "standard_name": "hộp cá ngừ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62589,
+    "recipe_id": "15813124",
+    "standard_id": 312,
+    "raw_name": "kim chi cải thảo",
+    "standard_name": "kim chi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62590,
+    "recipe_id": "15813124",
+    "standard_id": 9733,
+    "raw_name": "boa rô nhỏ",
+    "standard_name": "boa rô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62591,
+    "recipe_id": "15813124",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62592,
+    "recipe_id": "15813124",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62593,
+    "recipe_id": "15813124",
+    "standard_id": 16,
+    "raw_name": "Hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62594,
+    "recipe_id": "15813124",
+    "standard_id": 24,
+    "raw_name": "t bột hoặc ớt tươi",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 62610,
+    "recipe_id": "15095063",
+    "standard_id": 1410,
+    "raw_name": "thịt ba rọi",
+    "standard_name": "thịt ba rọi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62611,
+    "recipe_id": "15095063",
+    "standard_id": 1589,
+    "raw_name": "Gia vị dùng bằng bột để ướp thịt",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62612,
+    "recipe_id": "15095063",
+    "standard_id": 120,
+    "raw_name": "bột garlic salt",
+    "standard_name": "bột tỏi",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 62615,
+    "recipe_id": "15095063",
+    "standard_id": 1207,
+    "raw_name": "bột bắp",
+    "standard_name": "bột ngô",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62619,
+    "recipe_id": "15095063",
+    "standard_id": 29,
+    "raw_name": "tỏi bằm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62620,
+    "recipe_id": "15095063",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62622,
+    "recipe_id": "15095063",
+    "standard_id": 2363,
+    "raw_name": "Hành tỏi ớt",
+    "standard_name": "hành tỏi ớt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62631,
+    "recipe_id": "15792441",
+    "standard_id": 5585,
+    "raw_name": "cháo ăn liền",
+    "standard_name": "cháo",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 62632,
+    "recipe_id": "15792441",
+    "standard_id": 146,
+    "raw_name": "trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62633,
+    "recipe_id": "15792441",
+    "standard_id": 6101,
+    "raw_name": "nước sôi",
+    "standard_name": "nước",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 62634,
+    "recipe_id": "15792441",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.7
+  }
+]

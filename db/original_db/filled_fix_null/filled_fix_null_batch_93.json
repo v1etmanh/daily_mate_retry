@@ -1,0 +1,243 @@
+
+[
+  {
+    "id": 46931,
+    "dish_title": "Cà tím cuộn thịt heo xay và giò sống chiên xù",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46929,
+    "dish_title": "Cà tím cuộn thịt heo xay và giò sống chiên xù",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46928,
+    "dish_title": "Cà tím cuộn thịt heo xay và giò sống chiên xù",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 46934,
+    "dish_title": "Cà tím cuộn thịt heo xay và giò sống chiên xù",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50887,
+    "dish_title": "Cá chỉ vàng và cá ngân chiên giòn",
+    "ingredient_name": "cá ngân",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50888,
+    "dish_title": "Cá chỉ vàng và cá ngân chiên giòn",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50889,
+    "dish_title": "Cá chỉ vàng và cá ngân chiên giòn",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50890,
+    "dish_title": "Cá chỉ vàng và cá ngân chiên giòn",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51365,
+    "dish_title": "Cá cơm chiên giòn xóc mắm tỏi",
+    "ingredient_name": "bột",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51369,
+    "dish_title": "Cá cơm chiên giòn xóc mắm tỏi",
+    "ingredient_name": "bột ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51370,
+    "dish_title": "Cá cơm chiên giòn xóc mắm tỏi",
+    "ingredient_name": "muỗng cf mè trắng rang",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 51366,
+    "dish_title": "Cá cơm chiên giòn xóc mắm tỏi",
+    "ingredient_name": "nước",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51367,
+    "dish_title": "Cá cơm chiên giòn xóc mắm tỏi",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51368,
+    "dish_title": "Cá cơm chiên giòn xóc mắm tỏi",
+    "ingredient_name": "đường",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47786,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47808,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47809,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47810,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "hành tím",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47789,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "hạt niêm",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47807,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 47787,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47788,
+    "dish_title": "Cá kình kho lạt(kho mẵn)",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50568,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 400,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50570,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50573,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "gừng",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50569,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "nước mắm",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50572,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50574,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "tỏi",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50571,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "đường",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50575,
+    "dish_title": "Cá trê chiên giòn",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  }
+]

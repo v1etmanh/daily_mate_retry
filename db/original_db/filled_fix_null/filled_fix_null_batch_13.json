@@ -1,0 +1,242 @@
+[
+  {
+    "id": 51034,
+    "dish_title": "Bánh Canh Giò Heo",
+    "ingredient_name": "nước",
+    "quantity_g": 1800,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51031,
+    "dish_title": "Bánh Canh Giò Heo",
+    "ingredient_name": "trứng cút",
+    "quantity_g": 120,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52791,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "bột bánh",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52800,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "chả lụa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52794,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52797,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 35,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52792,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "khoai tây",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52795,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "nhân bánh",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52793,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "nước",
+    "quantity_g": 700,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52799,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "quế",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52796,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52798,
+    "dish_title": "Bánh Cuốn Tráng Chảo Nhân Thịt Băm Nấm Mèo",
+    "ingredient_name": "đồ cuốn ăn kèm",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52808,
+    "dish_title": "Bánh Cá Linh chiên dòn",
+    "ingredient_name": "cải đỏ",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52810,
+    "dish_title": "Bánh Cá Linh chiên dòn",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52811,
+    "dish_title": "Bánh Cá Linh chiên dòn",
+    "ingredient_name": "rau sống",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52809,
+    "dish_title": "Bánh Cá Linh chiên dòn",
+    "ingredient_name": "sữa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52995,
+    "dish_title": "Bánh Da Lợn",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52994,
+    "dish_title": "Bánh Da Lợn",
+    "ingredient_name": "lá dứa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52993,
+    "dish_title": "Bánh Da Lợn",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": 400,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53026,
+    "dish_title": "Bánh Da Lợn Khoai Lang Tím",
+    "ingredient_name": "gia vị",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53027,
+    "dish_title": "Bánh Da Lợn Khoai Lang Tím",
+    "ingredient_name": "nước",
+    "quantity_g": 300,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47741,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47738,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52017,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47737,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "heo quay",
+    "quantity_g": 600,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47742,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52022,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "hành tỏi ớt",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47739,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "mắm",
+    "quantity_g": 60,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47740,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52021,
+    "dish_title": "Bánh Hỏi Heo Quay",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

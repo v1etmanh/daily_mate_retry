@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48620,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "gia vị",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48617,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "nhân mandu",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48623,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "nước tương",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48619,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 300,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48616,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "vỏ bánh mandu",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48618,
+    "dish_title": "Bánh Xếp Mandu Nhân Thịt & Kim Chi Cay Chiên Nước",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52982,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "bột làm bánh mì",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52983,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "bột mì",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52988,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "cải thảo",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52985,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52991,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "mè",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52986,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "nhân gyoza",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52984,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "nước",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52990,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "nước tương",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52989,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "sốt",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52987,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": 350,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52992,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "tương ớt",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52981,
+    "dish_title": "Bánh Xếp Nhật Gyoza Nhân Thịt Chiên Áp Chảo",
+    "ingredient_name": "vỏ bánh gyoza",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53040,
+    "dish_title": "Bánh bao gà nấm nguyên cám 🐥🍄",
+    "ingredient_name": "bột canh",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53038,
+    "dish_title": "Bánh bao gà nấm nguyên cám 🐥🍄",
+    "ingredient_name": "bột mì",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 53039,
+    "dish_title": "Bánh bao gà nấm nguyên cám 🐥🍄",
+    "ingredient_name": "nước",
+    "quantity_g": 220,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53041,
+    "dish_title": "Bánh bao gà nấm nguyên cám 🐥🍄",
+    "ingredient_name": "rau sống",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52889,
+    "dish_title": "Bánh bao gạo lứt gà nấm 🐤🥕🍄",
+    "ingredient_name": "cà rốt",
+    "quantity_g": 80,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52887,
+    "dish_title": "Bánh bao gạo lứt gà nấm 🐤🥕🍄",
+    "ingredient_name": "dừa",
+    "quantity_g": 50,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52888,
+    "dish_title": "Bánh bao gạo lứt gà nấm 🐤🥕🍄",
+    "ingredient_name": "gạo lứt",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52886,
+    "dish_title": "Bánh bao gạo lứt gà nấm 🐤🥕🍄",
+    "ingredient_name": "mật",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52885,
+    "dish_title": "Bánh bao gạo lứt gà nấm 🐤🥕🍄",
+    "ingredient_name": "sữa",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52490,
+    "dish_title": "Bánh bao kẹp thịt",
+    "ingredient_name": "bột mì",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52494,
+    "dish_title": "Bánh bao kẹp thịt",
+    "ingredient_name": "cải bắp",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52492,
+    "dish_title": "Bánh bao kẹp thịt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

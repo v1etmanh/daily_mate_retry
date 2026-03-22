@@ -1,0 +1,242 @@
+[
+  {
+    "raw_id": 68564,
+    "recipe_id": "15551432",
+    "standard_id": 1148,
+    "raw_name": "Sốt Teriyaki",
+    "standard_name": "sốt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 68565,
+    "recipe_id": "15551432",
+    "standard_id": 11828,
+    "raw_name": "Nước tương",
+    "standard_name": "nước tương",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68566,
+    "recipe_id": "15551432",
+    "standard_id": 8055,
+    "raw_name": "t bột Hàn Quốc",
+    "standard_name": "bột ớt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 68567,
+    "recipe_id": "15551432",
+    "standard_id": 11827,
+    "raw_name": "Dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 68573,
+    "recipe_id": "15554515",
+    "standard_id": 2381,
+    "raw_name": "Thịt cua",
+    "standard_name": "thịt cua",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68574,
+    "recipe_id": "15554515",
+    "standard_id": 146,
+    "raw_name": "Trứng",
+    "standard_name": "trứng",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68575,
+    "recipe_id": "15554515",
+    "standard_id": 81,
+    "raw_name": "Cà rốt",
+    "standard_name": "cà rốt",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68576,
+    "recipe_id": "15554515",
+    "standard_id": 52,
+    "raw_name": "ậu cove",
+    "standard_name": "đậu que",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68577,
+    "recipe_id": "15554515",
+    "standard_id": 78,
+    "raw_name": "Ngô",
+    "standard_name": "bắp ngọt",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68580,
+    "recipe_id": "15554515",
+    "standard_id": 917,
+    "raw_name": "Rau mùi",
+    "standard_name": "rau mùi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68581,
+    "recipe_id": "15554515",
+    "standard_id": 1330,
+    "raw_name": "Nấm hương",
+    "standard_name": "nấm hương",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68604,
+    "recipe_id": "15553029",
+    "standard_id": 1105,
+    "raw_name": "Cá nhỏ",
+    "standard_name": "cá",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68605,
+    "recipe_id": "15553029",
+    "standard_id": 7595,
+    "raw_name": "Hành tỏi băm",
+    "standard_name": "hành tỏi",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68606,
+    "recipe_id": "15553029",
+    "standard_id": 24,
+    "raw_name": "t trái khô",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68609,
+    "recipe_id": "15553029",
+    "standard_id": 8055,
+    "raw_name": "t bột cay",
+    "standard_name": "bột ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68610,
+    "recipe_id": "15553029",
+    "standard_id": 429,
+    "raw_name": "Dầu màu điều",
+    "standard_name": "dầu màu điều",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68611,
+    "recipe_id": "15553029",
+    "standard_id": 8161,
+    "raw_name": "Dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68612,
+    "recipe_id": "15553029",
+    "standard_id": 2387,
+    "raw_name": "ường thắng caramel",
+    "standard_name": "đường",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 68652,
+    "recipe_id": "15549410",
+    "standard_id": 10244,
+    "raw_name": "mì Rigatoni",
+    "standard_name": "pasta",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 68653,
+    "recipe_id": "15549410",
+    "standard_id": 142,
+    "raw_name": "thịt bò",
+    "standard_name": "bò",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68654,
+    "recipe_id": "15549410",
+    "standard_id": 166,
+    "raw_name": "hành tây",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68655,
+    "recipe_id": "15549410",
+    "standard_id": 262,
+    "raw_name": "nấm đùi gà baby",
+    "standard_name": "nấm đùi gà",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68656,
+    "recipe_id": "15549410",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68657,
+    "recipe_id": "15549410",
+    "standard_id": 395,
+    "raw_name": "Dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68658,
+    "recipe_id": "15549410",
+    "standard_id": 2246,
+    "raw_name": "Sữa tươi full cream",
+    "standard_name": "sữa",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68659,
+    "recipe_id": "15549410",
+    "standard_id": 766,
+    "raw_name": "bơ lạt",
+    "standard_name": "bơ",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68660,
+    "recipe_id": "15549410",
+    "standard_id": 1535,
+    "raw_name": "sữa chua Hy lạp",
+    "standard_name": "sữa chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68661,
+    "recipe_id": "15549410",
+    "standard_id": 1129,
+    "raw_name": "Phô mai Parmesan",
+    "standard_name": "phô mai",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 68680,
+    "recipe_id": "15548736",
+    "standard_id": 3228,
+    "raw_name": "thịt bò nạm",
+    "standard_name": "bò nạm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 68681,
+    "recipe_id": "15548736",
+    "standard_id": 8876,
+    "raw_name": "Sả gừng hành tây",
+    "standard_name": "sả ớt tỏi hành tím",
+    "confidence": 0.8
+  }
+]

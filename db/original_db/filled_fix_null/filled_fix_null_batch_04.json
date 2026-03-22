@@ -1,0 +1,242 @@
+[
+  {
+    "id": 50541,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "chanh",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50540,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50538,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "lá chuối",
+    "quantity_g": 200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50537,
+    "dish_title": "Bánh bột lọc chay nhân tàu hủ ky,nấm mèo và cà rốt",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": 150,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52663,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52667,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "cá cờ",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52665,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52666,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52669,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52664,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "nước",
+    "quantity_g": 1500,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 52668,
+    "dish_title": "Bánh canh cá cờ, đậu hủ từ cơm nguội, bột gạo, bột năng",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50530,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50532,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50529,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "nấm ngư",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50531,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "tàu hũ ky",
+    "quantity_g": 100,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 50528,
+    "dish_title": "Bánh canh chay sườn chay gà,đậu hủ và nấm bào ngư",
+    "ingredient_name": "đậu hũ",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51740,
+    "dish_title": "Bánh canh giò heo và giò sống",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 51742,
+    "dish_title": "Bánh canh giò heo và giò sống",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 51741,
+    "dish_title": "Bánh canh giò heo và giò sống",
+    "ingredient_name": "hành lá",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47910,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47909,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47907,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "hành lá",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47908,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "hành tím",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 47906,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "mì",
+    "quantity_g": 400,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 47905,
+    "dish_title": "Bánh canh gà và nấm",
+    "ingredient_name": "nấm đùi gà",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44619,
+    "dish_title": "Bánh canh sườn heo cà rốt và nấm đùi gà",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 44620,
+    "dish_title": "Bánh canh sườn heo cà rốt và nấm đùi gà",
+    "ingredient_name": "gia vị",
+    "quantity_g": 35,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 44621,
+    "dish_title": "Bánh canh sườn heo cà rốt và nấm đùi gà",
+    "ingredient_name": "satế",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 52046,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "bột bánh canh",
+    "quantity_g": 250,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 52045,
+    "dish_title": "Bánh da lợn khoai lang tím 💜",
+    "ingredient_name": "nước",
+    "quantity_g": 600,
+    "is_main": 0,
+    "is_optional": 0
+  }
+]

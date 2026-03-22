@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 184/365
+[
+  {
+    "id": 42892,
+    "dish_title": "Lòng bò xào cà ri",
+    "ingredient_name": "sữa dừa",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45858,
+    "dish_title": "Lòng cá basa nướng sate bằng nckd",
+    "ingredient_name": "bột ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45859,
+    "dish_title": "Lòng cá basa nướng sate bằng nckd",
+    "ingredient_name": "dầu điều",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45857,
+    "dish_title": "Lòng cá basa nướng sate bằng nckd",
+    "ingredient_name": "satế",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51050,
+    "dish_title": "Lươn kho bầu nấm",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51051,
+    "dish_title": "Lươn kho bầu nấm",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51052,
+    "dish_title": "Lươn kho bầu nấm",
+    "ingredient_name": "nước tương",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46796,
+    "dish_title": "Lườn Cá Cờ Kho Tiêu",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46795,
+    "dish_title": "Lườn Cá Cờ Kho Tiêu",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 46794,
+    "dish_title": "Lườn Cá Cờ Kho Tiêu",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49352,
+    "dish_title": "Lườn Cá Hồi Kho Tiêu Ăn Cơm Nóng Mùa Mưa Hết Sảy",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49351,
+    "dish_title": "Lườn Cá Hồi Kho Tiêu Ăn Cơm Nóng Mùa Mưa Hết Sảy",
+    "ingredient_name": "ớt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44168,
+    "dish_title": "Lườn cá hồi kho tiêu",
+    "ingredient_name": "nước màu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44169,
+    "dish_title": "Lườn cá hồi kho tiêu",
+    "ingredient_name": "nước mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44170,
+    "dish_title": "Lườn cá hồi kho tiêu",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 44167,
+    "dish_title": "Lườn cá hồi kho tiêu",
+    "ingredient_name": "ớt hiểm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47182,
+    "dish_title": "Lạ miệng với món lợn sốt vang",
+    "ingredient_name": "heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47186,
+    "dish_title": "Lạ miệng với món lợn sốt vang",
+    "ingredient_name": "mùi tàu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47187,
+    "dish_title": "Lạ miệng với món lợn sốt vang",
+    "ingredient_name": "mỳ chính",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47183,
+    "dish_title": "Lạ miệng với món lợn sốt vang",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47185,
+    "dish_title": "Lạ miệng với món lợn sốt vang",
+    "ingredient_name": "rau mùi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47184,
+    "dish_title": "Lạ miệng với món lợn sốt vang",
+    "ingredient_name": "rượu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50137,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "chanh vắt nước cốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50136,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50135,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "lá chanh",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50139,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "nếp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50133,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "rau thơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50134,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "riềng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50138,
+    "dish_title": "Lạp Bò Lào - Gỏi Bò Lào 🇱🇦",
+    "ingredient_name": "xôi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47897,
+    "dish_title": "Lẩu Bò",
+    "ingredient_name": "chao",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

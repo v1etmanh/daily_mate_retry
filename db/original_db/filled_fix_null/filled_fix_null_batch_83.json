@@ -1,0 +1,242 @@
+[
+  {
+    "id": 48080,
+    "dish_title": "Canh chua cá hú nấu lá bụp giấm(lá rau chua,lá giấm...)",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48085,
+    "dish_title": "Canh chua cá hú nấu lá bụp giấm(lá rau chua,lá giấm...)",
+    "ingredient_name": "ớt",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 50251,
+    "dish_title": "Canh chua cá lóc",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50250,
+    "dish_title": "Canh chua cá lóc",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50248,
+    "dish_title": "Canh chua cá lóc",
+    "ingredient_name": "rau ngổ",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50249,
+    "dish_title": "Canh chua cá lóc",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49857,
+    "dish_title": "Canh chua cá mú ăn kèm giá chần",
+    "ingredient_name": "cà chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49856,
+    "dish_title": "Canh chua cá mú ăn kèm giá chần",
+    "ingredient_name": "cá mú",
+    "quantity_g": 500,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 49859,
+    "dish_title": "Canh chua cá mú ăn kèm giá chần",
+    "ingredient_name": "gia vị",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 49858,
+    "dish_title": "Canh chua cá mú ăn kèm giá chần",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45008,
+    "dish_title": "Canh chua cá sơn thóc",
+    "ingredient_name": "cà chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45009,
+    "dish_title": "Canh chua cá sơn thóc",
+    "ingredient_name": "dứa",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45006,
+    "dish_title": "Canh chua cá sơn thóc",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45010,
+    "dish_title": "Canh chua cá sơn thóc",
+    "ingredient_name": "me",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 45007,
+    "dish_title": "Canh chua cá sơn thóc",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53073,
+    "dish_title": "Canh chua lườn cá hồi",
+    "ingredient_name": "me",
+    "quantity_g": 40,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53072,
+    "dish_title": "Canh chua lườn cá hồi",
+    "ingredient_name": "nước",
+    "quantity_g": 1000,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 53074,
+    "dish_title": "Canh chua lườn cá hồi",
+    "ingredient_name": "đậu bắp",
+    "quantity_g": 100,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50215,
+    "dish_title": "Canh chua măng cá",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50213,
+    "dish_title": "Canh chua măng cá",
+    "ingredient_name": "hành tím",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 50214,
+    "dish_title": "Canh chua măng cá",
+    "ingredient_name": "nước",
+    "quantity_g": 1200,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46281,
+    "dish_title": "Canh chua nấm linh chi nâu",
+    "ingredient_name": "gia vị",
+    "quantity_g": 30,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46277,
+    "dish_title": "Canh chua nấm linh chi nâu",
+    "ingredient_name": "rau hay cà chua tùy ý",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46279,
+    "dish_title": "Canh chua nấm linh chi nâu",
+    "ingredient_name": "rau thơm",
+    "quantity_g": 15,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46278,
+    "dish_title": "Canh chua nấm linh chi nâu",
+    "ingredient_name": "tỏi",
+    "quantity_g": 10,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 46280,
+    "dish_title": "Canh chua nấm linh chi nâu",
+    "ingredient_name": "ớt",
+    "quantity_g": 5,
+    "is_main": 0,
+    "is_optional": 1
+  },
+  {
+    "id": 48430,
+    "dish_title": "Canh chua nấu nấm",
+    "ingredient_name": "cà chua",
+    "quantity_g": 150,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48431,
+    "dish_title": "Canh chua nấu nấm",
+    "ingredient_name": "hành hành lá rau mùi ngò thơm",
+    "quantity_g": 20,
+    "is_main": 0,
+    "is_optional": 0
+  },
+  {
+    "id": 48429,
+    "dish_title": "Canh chua nấu nấm",
+    "ingredient_name": "măng chua",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  },
+  {
+    "id": 48428,
+    "dish_title": "Canh chua nấu nấm",
+    "ingredient_name": "đậu khuôn",
+    "quantity_g": 200,
+    "is_main": 1,
+    "is_optional": 0
+  }
+]

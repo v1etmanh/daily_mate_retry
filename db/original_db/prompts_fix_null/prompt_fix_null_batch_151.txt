@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 151/365
+[
+  {
+    "id": 45190,
+    "dish_title": "Cơm nắm cá ngừ",
+    "ingredient_name": "gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45191,
+    "dish_title": "Cơm nắm cá ngừ",
+    "ingredient_name": "mayonnaise",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45192,
+    "dish_title": "Cơm nắm cá ngừ",
+    "ingredient_name": "rong biển",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48823,
+    "dish_title": "Cơm nắm cá ngừ Onigiri Nhật Bản",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48825,
+    "dish_title": "Cơm nắm cá ngừ Onigiri Nhật Bản",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48824,
+    "dish_title": "Cơm nắm cá ngừ Onigiri Nhật Bản",
+    "ingredient_name": "lá nori",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42848,
+    "dish_title": "Cơm nắm cá ngừ rong biển",
+    "ingredient_name": "dầu vừng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 42849,
+    "dish_title": "Cơm nắm cá ngừ rong biển",
+    "ingredient_name": "lá kim",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43746,
+    "dish_title": "Cơm rang dưa bò: cơm trưa VP",
+    "ingredient_name": "dưa cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43749,
+    "dish_title": "Cơm rang dưa bò: cơm trưa VP",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43751,
+    "dish_title": "Cơm rang dưa bò: cơm trưa VP",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43748,
+    "dish_title": "Cơm rang dưa bò: cơm trưa VP",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43750,
+    "dish_title": "Cơm rang dưa bò: cơm trưa VP",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 43747,
+    "dish_title": "Cơm rang dưa bò: cơm trưa VP",
+    "ingredient_name": "thịt nguội",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45125,
+    "dish_title": "Cơm rang hải sản kimchi",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45126,
+    "dish_title": "Cơm rang hải sản kimchi",
+    "ingredient_name": "lạp xưởng",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45123,
+    "dish_title": "Cơm rang hải sản kimchi",
+    "ingredient_name": "nõn tôm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45124,
+    "dish_title": "Cơm rang hải sản kimchi",
+    "ingredient_name": "rau tạp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50854,
+    "dish_title": "Cơm rang kim chi xào rau củ và ức gà",
+    "ingredient_name": "bông cải",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50852,
+    "dish_title": "Cơm rang kim chi xào rau củ và ức gà",
+    "ingredient_name": "cà rốt",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50851,
+    "dish_title": "Cơm rang kim chi xào rau củ và ức gà",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50856,
+    "dish_title": "Cơm rang kim chi xào rau củ và ức gà",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50853,
+    "dish_title": "Cơm rang kim chi xào rau củ và ức gà",
+    "ingredient_name": "nấm đùi gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50855,
+    "dish_title": "Cơm rang kim chi xào rau củ và ức gà",
+    "ingredient_name": "đậu hà lan",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48051,
+    "dish_title": "Cơm rang trứng Dương Châu | nhiều rau củ, tốt cho sức khỏe",
+    "ingredient_name": "cơm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48052,
+    "dish_title": "Cơm rang trứng Dương Châu | nhiều rau củ, tốt cho sức khỏe",
+    "ingredient_name": "nước",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48054,
+    "dish_title": "Cơm rang trứng Dương Châu | nhiều rau củ, tốt cho sức khỏe",
+    "ingredient_name": "rau xà lách",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 48053,
+    "dish_title": "Cơm rang trứng Dương Châu | nhiều rau củ, tốt cho sức khỏe",
+    "ingredient_name": "đậu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50560,
+    "dish_title": "Cơm sốt thịt bằm cà chua",
+    "ingredient_name": "hành tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 50561,
+    "dish_title": "Cơm sốt thịt bằm cà chua",
+    "ingredient_name": "rau và cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

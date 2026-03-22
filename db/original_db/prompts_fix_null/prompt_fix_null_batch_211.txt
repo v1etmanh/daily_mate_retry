@@ -1,0 +1,284 @@
+# ROLE
+Bạn là chuyên gia ẩm thực Việt Nam với kinh nghiệm định lượng nguyên liệu chính xác.
+
+# BỐI CẢNH
+Các nguyên liệu dưới đây đang thiếu thông tin: quantity_g, is_main, is_optional.
+Hãy điền các giá trị phù hợp cho **1 công thức nấu ăn gia đình (2–4 người ăn)**.
+
+# QUY TẮC ĐỊNH LƯỢNG (quantity_g - đơn vị GRAM)
+- Nguyên liệu chính (Thịt, Cá, Hải sản, Rau chính): 200g – 800g.
+- Rau ăn kèm, củ quả phụ: 50g – 200g.
+- Gia vị củ/quả (Hành, tỏi, ớt, gừng): 5g – 40g.
+- Gia vị lá (Ngò, lá lốt, thì là): 5g – 20g.
+- Nước dùng / Nước lọc: 500g – 2000g.
+- Trả về số nguyên (int), KHÔNG > 2000 trừ nước dùng.
+
+# QUY TẮC is_main (0 hoặc 1)
+- 1: Nguyên liệu chính tạo nên món ăn (thịt, cá, rau chủ đạo, tinh bột chính).
+- 0: Gia vị, nguyên liệu phụ, nước chấm, trang trí.
+
+# QUY TẮC is_optional (0 hoặc 1)
+- 1: Có thể bỏ qua mà món vẫn hoàn chỉnh (trang trí, gia vị tùy khẩu vị).
+- 0: Bắt buộc phải có để món đúng công thức.
+
+# LƯU Ý
+- Nguyên liệu is_main=1 thường is_optional=0.
+- Gia vị cơ bản (muối, đường, nước mắm) thường is_main=0, is_optional=0.
+- Giữ tính logic giữa các nguyên liệu trong cùng một món.
+
+# OUTPUT FORMAT
+Chỉ trả về JSON array, KHÔNG kèm văn bản thừa:
+[
+  {
+    "id": <int>,
+    "dish_title": "<string>",
+    "ingredient_name": "<string>",
+    "quantity_g": <int>,
+    "is_main": <0 hoặc 1>,
+    "is_optional": <0 hoặc 1>
+  }
+]
+
+## BATCH 211/365
+[
+  {
+    "id": 45327,
+    "dish_title": "Mõm heo khìa nước dừa",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45324,
+    "dish_title": "Mõm heo khìa nước dừa",
+    "ingredient_name": "heo",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45325,
+    "dish_title": "Mõm heo khìa nước dừa",
+    "ingredient_name": "hành tỏi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45329,
+    "dish_title": "Mõm heo khìa nước dừa",
+    "ingredient_name": "rong biển",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45326,
+    "dish_title": "Mõm heo khìa nước dừa",
+    "ingredient_name": "đường",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47473,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "dầu ô liu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47478,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "hành tây",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47472,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47475,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "thịt bằm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47474,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "thịt viên",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47476,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "vụn bánh mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47477,
+    "dish_title": "Mý Ý Thịt Viên Sốt Cà Chuẩn Từ Đầu Bếp Trưởng Vùng Sicily Ý",
+    "ingredient_name": "xốt cà chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47092,
+    "dish_title": "Măng Rừng Xào Thịt Bò",
+    "ingredient_name": "dầu ăn",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47091,
+    "dish_title": "Măng Rừng Xào Thịt Bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 47090,
+    "dish_title": "Măng Rừng Xào Thịt Bò",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45438,
+    "dish_title": "Măng Tây nướng cùng Chả cá Tuna",
+    "ingredient_name": "bột mì",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45439,
+    "dish_title": "Măng Tây nướng cùng Chả cá Tuna",
+    "ingredient_name": "bột ngô",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45437,
+    "dish_title": "Măng Tây nướng cùng Chả cá Tuna",
+    "ingredient_name": "cải bó xôi",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45436,
+    "dish_title": "Măng Tây nướng cùng Chả cá Tuna",
+    "ingredient_name": "hộp cá ngừ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49526,
+    "dish_title": "Măng Xào Chả Cá",
+    "ingredient_name": "cải chua",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49529,
+    "dish_title": "Măng Xào Chả Cá",
+    "ingredient_name": "hành lá",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49528,
+    "dish_title": "Măng Xào Chả Cá",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 49527,
+    "dish_title": "Măng Xào Chả Cá",
+    "ingredient_name": "mỡ gà",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45162,
+    "dish_title": "Măng Xào Thịt Bò",
+    "ingredient_name": "gia vị",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45160,
+    "dish_title": "Măng Xào Thịt Bò",
+    "ingredient_name": "hành tím",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45158,
+    "dish_title": "Măng Xào Thịt Bò",
+    "ingredient_name": "lá mướp",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45159,
+    "dish_title": "Măng Xào Thịt Bò",
+    "ingredient_name": "mùi tàu",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 45161,
+    "dish_title": "Măng Xào Thịt Bò",
+    "ingredient_name": "mỡ",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51778,
+    "dish_title": "Măng Xào Thịt Heo",
+    "ingredient_name": "dầu hào",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  },
+  {
+    "id": 51780,
+    "dish_title": "Măng Xào Thịt Heo",
+    "ingredient_name": "mắm",
+    "quantity_g": null,
+    "is_main": null,
+    "is_optional": null
+  }
+]

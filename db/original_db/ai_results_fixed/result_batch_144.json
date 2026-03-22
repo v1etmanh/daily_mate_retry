@@ -1,0 +1,218 @@
+[
+  {
+    "raw_id": 18669,
+    "recipe_id": "23924557",
+    "standard_id": 1589,
+    "raw_name": "Gia vị",
+    "standard_name": "gia vị",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18670,
+    "recipe_id": "23990178",
+    "standard_id": 1642,
+    "raw_name": "cải thảo",
+    "standard_name": "cải thảo",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18671,
+    "recipe_id": "23990178",
+    "standard_id": 4729,
+    "raw_name": "thịt heo băm nhuyễn mỡ",
+    "standard_name": "thịt bằm",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 18672,
+    "recipe_id": "23990178",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18673,
+    "recipe_id": "23990178",
+    "standard_id": 11827,
+    "raw_name": "dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.6
+  },
+  {
+    "raw_id": 18679,
+    "recipe_id": "23990178",
+    "standard_id": 1303,
+    "raw_name": "dầu mè",
+    "standard_name": "dầu vừng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 18688,
+    "recipe_id": "23899816",
+    "standard_id": 3635,
+    "raw_name": "bí ngòi lớn",
+    "standard_name": "bí ngòi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18689,
+    "recipe_id": "23899816",
+    "standard_id": 7671,
+    "raw_name": "Nhân thịt băm thì là",
+    "standard_name": "nhân thịt",
+    "confidence": 0.85
+  },
+  {
+    "raw_id": 18690,
+    "recipe_id": "23899816",
+    "standard_id": 2856,
+    "raw_name": "thịt thăn lưng có ít mỡ",
+    "standard_name": "thịt thăn",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 18691,
+    "recipe_id": "23899816",
+    "standard_id": 166,
+    "raw_name": "hành Tây nhỏ",
+    "standard_name": "hành tây",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18692,
+    "recipe_id": "23899816",
+    "standard_id": 16,
+    "raw_name": "hành lá",
+    "standard_name": "hành lá",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18693,
+    "recipe_id": "23899816",
+    "standard_id": 350,
+    "raw_name": "thì là tươi",
+    "standard_name": "thì là",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18694,
+    "recipe_id": "23899816",
+    "standard_id": 29,
+    "raw_name": "tỏi",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18696,
+    "recipe_id": "23899816",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18698,
+    "recipe_id": "23899816",
+    "standard_id": 587,
+    "raw_name": "bột nghệ",
+    "standard_name": "bột nghệ",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18699,
+    "recipe_id": "23899816",
+    "standard_id": 1148,
+    "raw_name": "Sốt kem thì là",
+    "standard_name": "sốt",
+    "confidence": 0.8
+  },
+  {
+    "raw_id": 18702,
+    "recipe_id": "23899816",
+    "standard_id": 11550,
+    "raw_name": "kem tươi lên men chua nhẹ crème frache",
+    "standard_name": "kem chua",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 18703,
+    "recipe_id": "23899816",
+    "standard_id": 395,
+    "raw_name": "dầu olive",
+    "standard_name": "dầu ô liu",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18704,
+    "recipe_id": "23899816",
+    "standard_id": 120,
+    "raw_name": "bột tỏi mịn",
+    "standard_name": "bột tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18798,
+    "recipe_id": "23986104",
+    "standard_id": 4729,
+    "raw_name": "thịt heo băm nhuyễn",
+    "standard_name": "thịt bằm",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18799,
+    "recipe_id": "23986104",
+    "standard_id": 146,
+    "raw_name": "trứng gà",
+    "standard_name": "trứng",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 18800,
+    "recipe_id": "23986104",
+    "standard_id": 11829,
+    "raw_name": "rau Húng Quế",
+    "standard_name": "quế",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 18801,
+    "recipe_id": "23986104",
+    "standard_id": 29,
+    "raw_name": "tỏi băm",
+    "standard_name": "tỏi",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18802,
+    "recipe_id": "23986104",
+    "standard_id": 24,
+    "raw_name": "ớt băm các bạn có thể tuỳ chỉnh theo độ cay mình thích",
+    "standard_name": "ớt",
+    "confidence": 0.9
+  },
+  {
+    "raw_id": 18805,
+    "recipe_id": "23986104",
+    "standard_id": 8161,
+    "raw_name": "dầu hào",
+    "standard_name": "dầu hào",
+    "confidence": 1.0
+  },
+  {
+    "raw_id": 18808,
+    "recipe_id": "23986104",
+    "standard_id": 6101,
+    "raw_name": "nước lọc",
+    "standard_name": "nước",
+    "confidence": 0.95
+  },
+  {
+    "raw_id": 18809,
+    "recipe_id": "23986104",
+    "standard_id": 11827,
+    "raw_name": "mỡ nước hoặc dầu ăn",
+    "standard_name": "dầu ăn",
+    "confidence": 0.8
+  }
+]
